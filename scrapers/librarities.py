@@ -39,17 +39,27 @@ class MagicLibraritiesSpider(CrawlSpider):
     def parse_set(response):
         """Parse a set page into individual cards."""
         set_name = response.xpath('//span[@class="t12g"]/text()').get()
-        rows = response.xpath('//tr[@class="tabeg"]/../tr')
-        header, *rows = rows
-        column_names = [
-            c.xpath("text()").get(default=f"UNK{i:03d}")
-            for i, c in enumerate(header.xpath("td"))
-        ]
-        for row in rows:
-            cells = [c.xpath("string()").get() for c in row.xpath("td")]
-            card = dict(zip(column_names, cells))
-            if card.get("CARDNAME", "") in {"", "CARDNAME"}:
-                continue
-            card["set_name"] = set_name
-            card["release_date"] = parse_card_date(card.get("DATE", ""))
-            yield card
+        set_tables = response.xpath('//tr[@class="tabeg"]/..')
+        for table in set_tables:
+            set_category = table.xpath("preceding-sibling::a//text()").get()
+            rows = table.xpath(".//tr")
+            header, *rows = rows
+            column_names = [
+                c.xpath("string()").get(default=f"UNK{i:03d}")
+                for i, c in enumerate(header.xpath("td"))
+            ]
+            for row in rows:
+                cells = [get_cell_text(c) for c in row.xpath("td")]
+                card = dict(zip(column_names, cells))
+                if not card.get("CARDNAME"):
+                    continue
+                card["set_name"] = set_name
+                card["set_category"] = set_category
+                card["release_date"] = parse_card_date(card.get("DATE", ""))
+                yield card
+
+
+def get_cell_text(cell):
+    """Extract text elements from a cell, strip whitespace, and join by linebreak."""
+    vals = [val for text in cell.xpath('.//text()') if (val := text.get().strip())]
+    return '\n'.join(vals)
