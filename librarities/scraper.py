@@ -1,4 +1,4 @@
-"""Scraper for magic librariteis english card information."""
+"""Scraper for magic librarities english card information."""
 
 import datetime as dt
 from scrapy.spiders import CrawlSpider, Rule
