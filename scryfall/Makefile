@@ -11,6 +11,7 @@ scryfall_jsonl_dir = $(scryfall_build_dir)/jsonl
 # Named targets
 all: sets cards
 .PHONY: all
+.DEFAULT_GOAL = all
 
 clean:
 	-rm -r $(scryfall_build_dir)

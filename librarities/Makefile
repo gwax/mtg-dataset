@@ -12,6 +12,7 @@ librarities_jsonl_dir = $(librarities_build_dir)/jsonl
 # Named targets
 all: cards
 .PHONY: all
+.DEFAULT_GOAL = all
 
 clean:
 	-rm -r $(librarities_build_dir)

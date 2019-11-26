@@ -4,12 +4,13 @@ endif
 
 subtargets = scryfall librarities
 
-.PHONY: all
 all: scryfall librarities
+.PHONY: all
+.DEFAULT_GOAL = all
 
-.PHONY: clean
 clean:
 	-rm -r $(build_dir)
+.PHONY: clean
 
 # Sub-make targets
 $(subtargets):
