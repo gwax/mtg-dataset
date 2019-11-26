@@ -61,5 +61,6 @@ class MagicLibraritiesSpider(CrawlSpider):
 
 def get_cell_text(cell):
     """Extract text elements from a cell, strip whitespace, and join by linebreak."""
-    vals = [val for text in cell.xpath('.//text()') if (val := text.get().strip())]
+    vals = (text.get().strip() for text in cell.xpath('.//text()'))
+    vals = (v for v in vals if v)
     return '\n'.join(vals)
