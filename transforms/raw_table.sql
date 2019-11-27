@@ -13,7 +13,11 @@ OPTIONS (
 );
 
 CREATE TABLE ${dbname}.${tablename}
-USING parquet
+USING delta
+TBLPROPERTIES (
+    delta.autoOptimize.optimizeWrite = true,
+    delta.autoOptimize.autoCompact = true
+)
 AS SELECT * FROM input_data;
 
 SELECT * FROM ${dbname}.${tablename} LIMIT 10;

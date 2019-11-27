@@ -11,6 +11,7 @@ warehouse_dir = $(build_dir)/warehouse
 
 # Spark configuration
 spark_conf = \
+	--packages io.delta:delta-core_2.11:0.4.0 \
 	--conf "spark.sql.warehouse.dir=$(warehouse_dir)" \
 	--conf "spark.driver.extraJavaOptions=-Dderby.system.home=$(warehouse_dir)"
 
