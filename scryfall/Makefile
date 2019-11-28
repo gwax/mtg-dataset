@@ -1,7 +1,7 @@
-# Inherit parent output, if called recursively
 ifeq (0, $(MAKELEVEL))
-export build_dir := $(CURDIR)/../build
+export root_dir := $(CURDIR)/..
 endif
+include $(root_dir)/paths.mk
 
 # Output paths
 sf_build_dir = $(build_dir)/scryfall
