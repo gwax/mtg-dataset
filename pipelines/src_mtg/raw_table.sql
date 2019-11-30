@@ -3,7 +3,7 @@
  *
  * Variables:
  *  `dbname`: database to create the table under
- *  `name`: the name of the table to create
+ *  `tablename`: the name of the table to create
  *  `input_file`: the path to the jsonlines file to ingest
  */
 CREATE TEMPORARY VIEW input_data

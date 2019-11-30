@@ -1,13 +1,11 @@
-include config.mk
+include ../config.mk
 
 # Sub-make projects
 subtargets = \
-    scryfall \
-    librarities \
-    pipelines
+	src_mtg
 
 # Dependencies
-pipelines: scryfall librarities
+# ...
 
 # Targets
 $(subtargets):
@@ -16,7 +14,8 @@ $(subtargets):
 
 # Readable named targets
 clean:
-	-rm -r $(build_dir)
+	-rm -r $(warehouse_dir)
+	-rmdir $(build_dir
 .PHONY: clean
 
 all: $(subtargets)

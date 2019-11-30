@@ -1,8 +1,4 @@
-# Inherit parent output, if called recursively
-ifeq (0, $(MAKELEVEL))
-export root_dir := $(CURDIR)/..
-endif
-include $(root_dir)/paths.mk
+include ../config.mk
 
 # Options
 .DELETE_ON_ERROR:

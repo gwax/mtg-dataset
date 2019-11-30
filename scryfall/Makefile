@@ -1,7 +1,4 @@
-ifeq (0, $(MAKELEVEL))
-export root_dir := $(CURDIR)/..
-endif
-include $(root_dir)/paths.mk
+include ../config.mk
 
 # Output paths
 sf_build_dir = $(build_dir)/scryfall
