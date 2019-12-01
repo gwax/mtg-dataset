@@ -3,15 +3,26 @@
 # Paths
 common_dir := $(abspath $(dir $(lastword $(MAKEFILE_LIST))))
 
-# Create database
+# Database table management
 create_db_sql = $(common_dir)/create_db.sql
-$(warehouse_dir)/%/.db_sentinel: $(create_db_sql)
-	$(spark_sql) \
-		--define dbname="$(notdir $(abspath $(dir $@)))" \
-		--define location="$(abspath $(dir $@))" \
-		-f $<
-	touch $@
+drop_db_sql = $(common_dir)/drop_db.sql
+# Database location
+dbpath = $(warehouse_dir)/$(1)
+# Template for create and drop functions
+define MANAGEDB_template
+dbpath_$(1) = $$(call dbpath,$(1))
+$$(dbpath_$(1)): $$(create_db_sql)
+	$$(spark_sql) \
+		--define dbname="$$(basename $$(notdir $$@))" \
+		--define location="$$@" \
+		-f $$<
 
-# Utility functions
-f_dbpath = $(warehouse_dir)/$1
-f_dbtarget = $(warehouse_dir)/$1/.db_sentinel
+create_$(1): $$(dbpath_$(1))
+.PHONY: create_$(1)
+
+drop_$(1): $$(drop_db_sql)
+	$$(spark_sql) \
+		--define dbname="$(1)" \
+		-f $$<
+.PHONY: drop_$(1)
+endef
