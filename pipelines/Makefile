@@ -2,10 +2,11 @@ include ../config.mk
 
 # Sub-make projects
 subtargets = \
-	src_mtg
+	src_mtg \
+	stg_mtg
 
 # Dependencies
-# ...
+stg_mtg: src_mtg
 
 # Targets
 $(subtargets):
