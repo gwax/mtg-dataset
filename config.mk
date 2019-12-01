@@ -16,4 +16,14 @@ spark_params = \
 	--conf "spark.driver.extraJavaOptions=-Dderby.system.home=$(warehouse_dir)"
 
 spark_sql = $(spark_env) spark-sql $(spark_params)
+pyspark = $(spark_env) pyspark $(spark_params)
 spark_submit = $(spark_env) spark-submit $(spark_params)
+
+# CLI targets
+spark_sql_cli:
+	$(spark_sql)
+.PHONY: spark_sql_cli
+
+pyspark_cli:
+	$(pyspark)
+.PHONY: pyspark_cli
