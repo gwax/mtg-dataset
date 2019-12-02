@@ -7,11 +7,13 @@ warehouse_dir = $(build_dir)/warehouse
 spark_conf_dir = $(root_dir)/spark_conf
 
 # Spark configuration
+spark_app_name = mtg-dataset
 packages = io.delta:delta-core_2.11:0.4.0
 
 spark_env = SPARK_CONF_DIR=$(spark_conf_dir)
 spark_params = \
-    --packages $(packages) \
+	--name $(spark_app_name) \
+	--packages $(packages) \
 	--conf "spark.sql.warehouse.dir=$(warehouse_dir)" \
 	--conf "spark.driver.extraJavaOptions=-Dderby.system.home=$(warehouse_dir)"
 

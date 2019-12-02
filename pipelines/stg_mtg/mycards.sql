@@ -13,9 +13,11 @@ TBLPROPERTIES (
 )
 AS
 SELECT
-    CAST(NULL AS string) AS my_id,
-    src_mtg.raw_scryfall_cards.id AS scryfall_id,
-    src_mtg.raw_scryfall_cards.name AS name
+    uuid() AS my_id,
+    src_mtg.raw_scryfall_cards.set AS set_code,
+    src_mtg.raw_scryfall_cards.collector_number AS collector_number,
+    src_mtg.raw_scryfall_cards.name AS name,
+    src_mtg.raw_scryfall_cards.id AS scryfall_id
 FROM
     src_mtg.raw_scryfall_cards;
 

@@ -2,12 +2,14 @@ include config.mk
 
 # Sub-make projects
 subtargets = \
-    scryfall \
-    librarities \
-    pipelines
+	scryfall \
+	librarities \
+	pipelines \
+	sinks
 
 # Dependencies
 pipelines: scryfall librarities
+sinks: pipelines
 
 # Targets
 $(subtargets):
