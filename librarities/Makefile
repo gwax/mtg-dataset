@@ -14,7 +14,7 @@ $(jsonl_dir):
 cards_scraper = scraper.py
 cards_jsonl = $(jsonl_dir)/cards.jsonlines
 $(cards_jsonl): $(cards_scraper) | $(jsonl_dir)
-	scrapy runspider -o $@ $<
+	scrapy runspider -L INFO -o $@ $<
 
 # Readable named targets
 cards: $(cards_jsonl)

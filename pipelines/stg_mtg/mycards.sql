@@ -6,11 +6,7 @@
  *  `tablename`: the name of the table to create
  */
 CREATE TABLE ${dbname}.${tablename}
-USING delta
-TBLPROPERTIES (
-    delta.autoOptimize.optimizeWrite = true,
-    delta.autoOptimize.autoCompact = true
-)
+USING parquet
 AS
 SELECT
     uuid() AS my_id,

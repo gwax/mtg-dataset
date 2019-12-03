@@ -19,6 +19,7 @@ $(subtargets):
 # Readable named targets
 clean:
 	-rm -r $(build_dir)
+	-rm -r $(dataset_dir)
 .PHONY: clean
 
 all: $(subtargets)

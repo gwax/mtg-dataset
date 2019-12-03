@@ -16,7 +16,7 @@ $(subtargets):
 # Readable named targets
 clean:
 	-rm -r $(warehouse_dir)
-	-rmdir $(build_dir
+	-rmdir $(build_dir)
 .PHONY: clean
 
 all: $(subtargets)

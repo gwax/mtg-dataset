@@ -3,17 +3,17 @@
 # Common paths
 root_dir := $(abspath $(dir $(lastword $(MAKEFILE_LIST))))
 build_dir = $(root_dir)/build
+dataset_dir = $(root_dir)/dataset
 warehouse_dir = $(build_dir)/warehouse
 spark_conf_dir = $(root_dir)/spark_conf
 
 # Spark configuration
 spark_app_name = mtg-dataset
-packages = io.delta:delta-core_2.11:0.4.0
 
 spark_env = SPARK_CONF_DIR=$(spark_conf_dir)
 spark_params = \
 	--name $(spark_app_name) \
-	--packages $(packages) \
+	--driver-memory 4G \
 	--conf "spark.sql.warehouse.dir=$(warehouse_dir)" \
 	--conf "spark.driver.extraJavaOptions=-Dderby.system.home=$(warehouse_dir)"
 
