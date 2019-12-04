@@ -1,5 +1,5 @@
 /**
- * Create the mycards table.
+ * Create the cards table.
  *
  * Variables:
  *  `dbname`: database to create the table under
@@ -9,7 +9,7 @@ CREATE TABLE ${dbname}.${tablename}
 USING parquet
 AS
 SELECT
-    uuid() AS my_id,
+    uuid() AS id,
     src_mtg.raw_scryfall_cards.set AS set_code,
     src_mtg.raw_scryfall_cards.collector_number AS collector_number,
     src_mtg.raw_scryfall_cards.name AS name,

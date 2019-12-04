@@ -4,19 +4,20 @@ include ../config.mk
 $(dataset_dir):
 	mkdir -p $@
 
-$(dataset_dir)/json: jsonfiles.py | $(dataset_dir)
+canonical_json_dir = $(dataset_dir)/canonical_json
+$(canonical_json_dir): json_split.py | $(dataset_dir)
 	-rm -r $@
 	$(spark_submit) $< $@
-.PHONY: $(dataset_dir)/json
+.PHONY: $(canonical_json_dir)
 
 # Readable named targets
-jsonfiles: $(dataset_dir)/json
-.PHONY: jsonfiles
+canonical_json: $(canonical_json_dir)
+.PHONY: canonical_json
 
 clean:
 	-rm -r $(dataset_dir)
 .PHONY: clean
 
-all: jsonfiles
+all: canonical_json
 .PHONY: all
 .DEFAULT_GOAL = all
