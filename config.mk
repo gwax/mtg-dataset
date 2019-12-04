@@ -3,7 +3,6 @@
 # Common paths
 root_dir := $(abspath $(dir $(lastword $(MAKEFILE_LIST))))
 build_dir = $(root_dir)/build
-dataset_dir = $(root_dir)/dataset
 warehouse_dir = $(build_dir)/warehouse
 spark_conf_dir = $(root_dir)/spark_conf
 

@@ -9,11 +9,13 @@ CREATE TABLE ${dbname}.${tablename}
 USING parquet
 AS
 SELECT
-    uuid() as id,
-    src_mtg.raw_scryfall_sets.code,
-    src_mtg.raw_scryfall_sets.name,
-    src_mtg.raw_scryfall_sets.id AS scryfall_id
+    COALESCE(rc.id, uuid()) AS id,
+    sf.code AS code,
+    sf.name AS name,
+    sf.id AS scryfall_id
 FROM
-    src_mtg.raw_scryfall_sets;
+    src_mtg.raw_recycle_sets AS rc
+    FULL OUTER JOIN src_mtg.raw_scryfall_sets AS sf
+        ON rc.scryfall_id = sf.id;
 
 SELECT * FROM ${dbname}.${tablename} LIMIT 10;

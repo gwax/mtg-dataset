@@ -3,9 +3,29 @@
 import argparse
 import json
 import pathlib
+import string
 
 from pyspark.sql import SparkSession
 from slugify import slugify
+
+
+def pad_collector_number(collector_number):
+    """Pad a collector number with zeros and move non-digits to the end."""
+    prefix = ""
+    core = ""
+    suffix = ""
+    in_prefix = True
+    for i, character in enumerate(collector_number):
+        if character in string.digits:
+            in_prefix = False
+            core += character
+        elif in_prefix:
+            prefix += character
+        else:
+            suffix = collector_number[i:]
+            break
+    padded = f"{prefix}{core:0>5}{suffix}"
+    return padded.replace("*", "★")
 
 
 def get_args():
@@ -30,6 +50,8 @@ def sink_sets(spark: SparkSession, sets_dir: pathlib.Path):
         row_dict = row.asDict()
 
         filepath = sets_dir / filename
+        if filepath.exists():
+            raise Exception(f"Cannot write duplicate {filepath}")
         with filepath.open("wt") as row_file:
             json.dump(row_dict, row_file, indent=4, sort_keys=True)
 
@@ -38,9 +60,7 @@ def sink_cards(spark: SparkSession, cards_dir: pathlib.Path):
     """Sink card data to individual json files."""
     query = r"""
         SELECT
-            LPAD(REGEXP_EXTRACT(collector_number, '(\\d+)(.*)', 1), 4, '0')
-                || REGEXP_EXTRACT(collector_number, '(\\d+)(.*)', 2)
-                AS padded_collector_number,
+            pad_collector_number(collector_number) AS padded_collector_number,
             *
         FROM
             stg_mtg.cards
@@ -55,6 +75,8 @@ def sink_cards(spark: SparkSession, cards_dir: pathlib.Path):
         card_set_dir.mkdir(parents=True, exist_ok=True)
 
         filepath = card_set_dir / filename
+        if filepath.exists():
+            raise Exception(f"Cannot write duplicate {filepath}")
         with filepath.open("wt") as row_file:
             json.dump(row_dict, row_file, indent=4, sort_keys=True)
 
@@ -68,6 +90,7 @@ def main():
     cards_dir = outdir / "cards"
 
     spark = SparkSession.builder.enableHiveSupport().getOrCreate()
+    spark.udf.register("pad_collector_number", pad_collector_number, "string")
 
     sink_sets(spark, sets_dir)
     sink_cards(spark, cards_dir)

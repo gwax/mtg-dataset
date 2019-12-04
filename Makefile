@@ -2,13 +2,14 @@ include config.mk
 
 # Sub-make projects
 subtargets = \
+	recycle \
 	scryfall \
 	librarities \
 	pipelines \
 	sinks
 
 # Dependencies
-pipelines: scryfall librarities
+pipelines: recycle scryfall librarities
 sinks: pipelines
 
 # Targets

@@ -14,6 +14,8 @@ db = $(call dbpath,$(dbname))
 # Create raw source tables
 raw_table_sql = $(CURDIR)/raw_table.sql
 # Raw table source data
+raw_recycle_sets_JSONL = $(build_dir)/recycle/jsonl/sets.jsonlines
+raw_recycle_cards_JSONL = $(build_dir)/recycle/jsonl/cards.jsonlines
 raw_scryfall_sets_JSONL = $(build_dir)/scryfall/jsonl/sets.jsonlines
 raw_scryfall_cards_JSONL = $(build_dir)/scryfall/jsonl/cards.jsonlines
 raw_librarities_cards_JSONL = $(build_dir)/librarities/jsonl/cards.jsonlines
@@ -27,6 +29,8 @@ $(db)/raw_%: $(raw_table_sql) $$($$(notdir $$@)_JSONL) | $(db)
 
 # Readable named targets
 raw_tables = \
+	raw_recycle_sets \
+	raw_recycle_cards \
 	raw_scryfall_sets \
 	raw_scryfall_cards \
 	raw_librarities_cards
