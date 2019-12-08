@@ -1,38 +1,42 @@
 include ../config.mk
 
+# Options
+.SECONDEXPANSION:
+
 # Input paths
 canonical_json = $(root_dir)/canonical_json
-sets_json = $(canonical_json)/sets
-cards_json = $(canonical_json)/cards
 
 # Output paths
 re_build_dir = $(build_dir)/recycle
 jsonl_dir = $(re_build_dir)/jsonl
 
-$(jsonl_dir):
+$(re_build_dir) $(jsonl_dir):
 	mkdir -p $@
 
-# Recycle json to jsonlines
-sets_jsonl = $(jsonl_dir)/sets.jsonlines
-$(sets_jsonl): $(sets_json) | $(jsonl_dir)
-	find $< -name '*.json' -type f -print0 | \
+# Hash input data every time and only run downstream if changed to avoid downstream cycles
+FORCE:
+$(re_build_dir)/%.md5: $(canonical_json)/% FORCE | $(re_build_dir)
+	find $< -type f -print0 | \
 		sort -z | \
-		xargs -0 jq '.' -c \
-		> $@
+		xargs -0 md5sum | \
+		md5sum \
+		> $@.new
+	if [ "$$(cat $@ 2>/dev/null)" != "$$(cat $@.new)" ]; then \
+		cp $@.new $@; \
+	fi
+	rm $@.new
 
-cards_jsonl = $(jsonl_dir)/cards.jsonlines
-$(cards_jsonl): $(cards_json) | $(jsonl_dir)
-	find $< -name '*.json' -type f -print0 | \
+# Recycle json to jsonlines
+$(jsonl_dir)/%.jsonlines: $(re_build_dir)/%.md5 | $(jsonl_dir)
+	find $(patsubst $(jsonl_dir)/%.jsonlines,$(canonical_json)/%,$@) \
+		-name '*.json' -type f -print0 | \
 		sort -z | \
 		xargs -0 jq '.' -c \
 		> $@
 
 # Readable named targets
-sets: $(sets_jsonl)
-.PHONY: sets
-
-cards: $(cards_jsonl)
-.PHONY: cards
+sets cards: $(re_build_dir)/$$@.md5 $(jsonl_dir)/$$@.jsonlines
+.PHONY: sets cards
 
 clean:
 	-rm -r $(re_build_dir)
