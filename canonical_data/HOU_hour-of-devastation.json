@@ -1,0 +1,1471 @@
+{
+  "id": "f07f255a-2cf9-4626-b581-88a1217ee73c",
+  "code": "HOU",
+  "name": "Hour of Devastation",
+  "scryfall_id": "65ff168b-bb94-47a5-a8f9-4ec6c213e768",
+  "cards": [
+    {
+      "id": "7b6d8f0b-fa9d-401e-8abc-5a68fe2bc2df",
+      "set_code": "HOU",
+      "collector_number": "1",
+      "name": "Act of Heroism",
+      "scryfall_id": "bebc06f6-305d-4a5a-9be7-fbc6d8cd9c72"
+    },
+    {
+      "id": "9daec41c-87df-4ba0-8d0e-ce15ed77b754",
+      "set_code": "HOU",
+      "collector_number": "2",
+      "name": "Adorned Pouncer",
+      "scryfall_id": "865e267d-450c-4eeb-b61d-bd0ec5d8534a"
+    },
+    {
+      "id": "11b158af-aa6f-4d59-acdf-a2970b858fc8",
+      "set_code": "HOU",
+      "collector_number": "3",
+      "name": "Angel of Condemnation",
+      "scryfall_id": "90dad070-e41d-419b-ae27-ace82b9ab2c5"
+    },
+    {
+      "id": "e2d40917-5ba6-4e33-a821-ce4cf714b6a0",
+      "set_code": "HOU",
+      "collector_number": "4",
+      "name": "Angel of the God-Pharaoh",
+      "scryfall_id": "ad202785-a91f-4dc8-bcc0-eb1bd49f162e"
+    },
+    {
+      "id": "eddb3828-8562-425c-9b8f-6f48c0bf99bf",
+      "set_code": "HOU",
+      "collector_number": "5",
+      "name": "Aven of Enduring Hope",
+      "scryfall_id": "02c1310c-1b54-42dd-bf24-889770fa2ded"
+    },
+    {
+      "id": "d7b97144-83c2-4112-a9ae-f61773a7d151",
+      "set_code": "HOU",
+      "collector_number": "6",
+      "name": "Crested Sunmare",
+      "scryfall_id": "732fa4c9-11da-4bdb-96af-aa37c74be25f"
+    },
+    {
+      "id": "59d9cf73-b1ce-44ec-9649-494cc39bc301",
+      "set_code": "HOU",
+      "collector_number": "7",
+      "name": "Dauntless Aven",
+      "scryfall_id": "01e6320c-6f8b-4582-ad11-9b868bff08a1"
+    },
+    {
+      "id": "6c3be0ad-3591-4a81-beb0-be4d49514d74",
+      "set_code": "HOU",
+      "collector_number": "8",
+      "name": "Desert's Hold",
+      "scryfall_id": "8082298e-05c4-48b3-9367-713f59aafdc6"
+    },
+    {
+      "id": "c3e65364-d6cc-4b4c-81d6-210c4068ef7e",
+      "set_code": "HOU",
+      "collector_number": "9",
+      "name": "Disposal Mummy",
+      "scryfall_id": "ad806d67-4c98-438b-859f-b1358281e09d"
+    },
+    {
+      "id": "c84d6cfc-f21a-4c4b-8fb0-a7575eaea4ab",
+      "set_code": "HOU",
+      "collector_number": "10",
+      "name": "Djeru, With Eyes Open",
+      "scryfall_id": "2234df89-0835-4a17-b5d8-2334ee8f692d"
+    },
+    {
+      "id": "3d0d6d3f-2678-4a9f-8dfa-db6b6b3241f5",
+      "set_code": "HOU",
+      "collector_number": "11",
+      "name": "Djeru's Renunciation",
+      "scryfall_id": "03f005de-7971-4f22-ad1f-5d0667f68113"
+    },
+    {
+      "id": "6c11686e-c086-4b4e-963c-ea58142cd2a1",
+      "set_code": "HOU",
+      "collector_number": "12",
+      "name": "Dutiful Servants",
+      "scryfall_id": "7684db4c-6eff-4da1-a410-48d707fb5bf1"
+    },
+    {
+      "id": "d29de8be-8172-4bdd-969c-7277e7a20768",
+      "set_code": "HOU",
+      "collector_number": "13",
+      "name": "Gideon's Defeat",
+      "scryfall_id": "4722eb81-1aa1-4863-8dfb-d9d6035bd6c6"
+    },
+    {
+      "id": "4a841489-266b-42a7-b399-06cb0e25418f",
+      "set_code": "HOU",
+      "collector_number": "14",
+      "name": "God-Pharaoh's Faithful",
+      "scryfall_id": "9cb8a25b-2ad0-4ffe-b41a-6b3f8b48c1e9"
+    },
+    {
+      "id": "e4448f3d-76b6-470b-b464-ba7364079f07",
+      "set_code": "HOU",
+      "collector_number": "15",
+      "name": "Hour of Revelation",
+      "scryfall_id": "89a89652-95ef-45b4-80c3-02241483f3c0"
+    },
+    {
+      "id": "4fc1aea1-db02-43e4-b11d-4b7135db83f7",
+      "set_code": "HOU",
+      "collector_number": "16",
+      "name": "Mummy Paramount",
+      "scryfall_id": "e8b1a3e5-cf77-439d-8e0d-cf6571f6891c"
+    },
+    {
+      "id": "d67e483e-3426-4aa6-8bc8-619fb72c6449",
+      "set_code": "HOU",
+      "collector_number": "17",
+      "name": "Oketra's Avenger",
+      "scryfall_id": "06a644b4-a2f7-4219-935b-237936b07948"
+    },
+    {
+      "id": "18417f01-e73e-42f5-923d-09ade7d79b88",
+      "set_code": "HOU",
+      "collector_number": "18",
+      "name": "Oketra's Last Mercy",
+      "scryfall_id": "c4d3bf26-6003-4699-a26e-b3b5bcd3e8dc"
+    },
+    {
+      "id": "734414fe-55cc-4d5e-a618-5f67145026c0",
+      "set_code": "HOU",
+      "collector_number": "19",
+      "name": "Overwhelming Splendor",
+      "scryfall_id": "867b32d2-e396-411d-ac02-1af4106dd3d2"
+    },
+    {
+      "id": "0da11afa-c950-4360-b3b8-5127db5d1df3",
+      "set_code": "HOU",
+      "collector_number": "20",
+      "name": "Sandblast",
+      "scryfall_id": "0f3c501c-4e23-4e56-ad99-1803c8a877ca"
+    },
+    {
+      "id": "271ce2da-5401-4e2e-9d59-d06ffef5c698",
+      "set_code": "HOU",
+      "collector_number": "21",
+      "name": "Saving Grace",
+      "scryfall_id": "9ac7b2d8-7702-4b8c-84ed-1d785dea5cc5"
+    },
+    {
+      "id": "462637bb-9c7a-4254-9349-e77a7aa5bb42",
+      "set_code": "HOU",
+      "collector_number": "22",
+      "name": "Solemnity",
+      "scryfall_id": "0a71fb62-acbd-49f5-842f-0fc9fa48afea"
+    },
+    {
+      "id": "a477c9ab-70af-4439-bd34-126f9eac84b9",
+      "set_code": "HOU",
+      "collector_number": "23",
+      "name": "Solitary Camel",
+      "scryfall_id": "8adb8dbf-c83c-4169-b822-8e32aa36cffa"
+    },
+    {
+      "id": "17d78d27-746e-459a-b31b-d7230f7a39ec",
+      "set_code": "HOU",
+      "collector_number": "24",
+      "name": "Steadfast Sentinel",
+      "scryfall_id": "707a30d2-0fca-4b39-91fb-9b03152705ba"
+    },
+    {
+      "id": "a076e6a9-6777-43f2-ba6f-4bbb12985a74",
+      "set_code": "HOU",
+      "collector_number": "25",
+      "name": "Steward of Solidarity",
+      "scryfall_id": "eda3cd3b-d4c5-4537-8c81-5ccf269f810e"
+    },
+    {
+      "id": "85b347af-2e34-4662-9bbb-ae59e7d03c0b",
+      "set_code": "HOU",
+      "collector_number": "26",
+      "name": "Sunscourge Champion",
+      "scryfall_id": "f0bb41cc-6edb-4a31-92cb-b17850b49432"
+    },
+    {
+      "id": "e5981b7d-890f-4424-b486-886d40b1df53",
+      "set_code": "HOU",
+      "collector_number": "27",
+      "name": "Unconventional Tactics",
+      "scryfall_id": "52db5673-ecd3-4e58-8dc9-b42c76f80186"
+    },
+    {
+      "id": "30b0f6ac-ed0c-4d7a-ae66-7e4f340a1f35",
+      "set_code": "HOU",
+      "collector_number": "28",
+      "name": "Vizier of the True",
+      "scryfall_id": "c1800882-e886-48d5-ac85-0a8e5841dc9a"
+    },
+    {
+      "id": "f448817b-71a8-4ce1-b521-acc7aca40871",
+      "set_code": "HOU",
+      "collector_number": "29",
+      "name": "Aerial Guide",
+      "scryfall_id": "b744c138-9b9e-47f6-9d56-feb6a78ce377"
+    },
+    {
+      "id": "abbd5879-f236-4e15-979b-9ce0d72f6b75",
+      "set_code": "HOU",
+      "collector_number": "30",
+      "name": "Aven Reedstalker",
+      "scryfall_id": "f0c2d70a-d646-44eb-9f65-ddf6e329ab43"
+    },
+    {
+      "id": "173bcb8b-5048-42ca-a883-23d49dd0d1a1",
+      "set_code": "HOU",
+      "collector_number": "31",
+      "name": "Champion of Wits",
+      "scryfall_id": "d765221d-9718-47eb-aa49-9c0719337139"
+    },
+    {
+      "id": "38572fda-27f0-47c4-9cda-0c6e4a03ce06",
+      "set_code": "HOU",
+      "collector_number": "32",
+      "name": "Countervailing Winds",
+      "scryfall_id": "de1c0ef3-b32c-403a-93cb-29cf05795711"
+    },
+    {
+      "id": "146645a9-d697-4ecb-8ad0-cf7e2243e533",
+      "set_code": "HOU",
+      "collector_number": "33",
+      "name": "Cunning Survivor",
+      "scryfall_id": "2f9093e7-c129-4efa-9f25-a2366f92e15a"
+    },
+    {
+      "id": "6da44953-a075-4f4d-af43-6fd79a0d4337",
+      "set_code": "HOU",
+      "collector_number": "34",
+      "name": "Eternal of Harsh Truths",
+      "scryfall_id": "0389daf7-0818-488f-8e6a-94818a6c94a6"
+    },
+    {
+      "id": "6dfc6d79-ff22-499d-bddc-f5be840bf167",
+      "set_code": "HOU",
+      "collector_number": "35",
+      "name": "Fraying Sanity",
+      "scryfall_id": "79e5c1ab-eebd-41ca-a1ca-29b00370f6e8"
+    },
+    {
+      "id": "1aef1134-5e90-4b57-965f-62fe28048f65",
+      "set_code": "HOU",
+      "collector_number": "36",
+      "name": "Hour of Eternity",
+      "scryfall_id": "01040ed3-4f64-4e47-8f80-3d3a339004f7"
+    },
+    {
+      "id": "d2d554e4-d21a-404d-8ee9-2a12b7693383",
+      "set_code": "HOU",
+      "collector_number": "37",
+      "name": "Imaginary Threats",
+      "scryfall_id": "50c3a6a5-9a50-4a38-9f5f-b8caa320909d"
+    },
+    {
+      "id": "e6c95270-2657-437e-b1b4-22da255c4785",
+      "set_code": "HOU",
+      "collector_number": "38",
+      "name": "Jace's Defeat",
+      "scryfall_id": "c6b103c1-9b25-4bfe-9081-570977e9fdad"
+    },
+    {
+      "id": "731a3fdc-f0e6-4a7c-8790-55eb24983b81",
+      "set_code": "HOU",
+      "collector_number": "39",
+      "name": "Kefnet's Last Word",
+      "scryfall_id": "4d7e5103-ee7d-40d7-bcd4-c5d1a48e9821"
+    },
+    {
+      "id": "71a64d83-76b9-49a4-a712-a95f2f11fbb1",
+      "set_code": "HOU",
+      "collector_number": "40",
+      "name": "Nimble Obstructionist",
+      "scryfall_id": "26012b65-7e0a-427e-945e-de24738517fb"
+    },
+    {
+      "id": "caec46e0-0e3b-407f-8a24-5201c6a8134b",
+      "set_code": "HOU",
+      "collector_number": "41",
+      "name": "Ominous Sphinx",
+      "scryfall_id": "2361bd3b-9ae0-4198-9296-6d278feff042"
+    },
+    {
+      "id": "b04c5b37-7803-45c1-a637-4928b9a9b639",
+      "set_code": "HOU",
+      "collector_number": "42",
+      "name": "Proven Combatant",
+      "scryfall_id": "d83fd08a-c87b-4e29-bd1d-31dea3732156"
+    },
+    {
+      "id": "833ee87e-ad76-45f3-97ca-c72decce7766",
+      "set_code": "HOU",
+      "collector_number": "43",
+      "name": "Riddleform",
+      "scryfall_id": "8e54dc4a-3fd6-4895-8497-3a19e4e9a3d8"
+    },
+    {
+      "id": "078184bc-109f-47f9-80d3-01d17bee8617",
+      "set_code": "HOU",
+      "collector_number": "44",
+      "name": "Seer of the Last Tomorrow",
+      "scryfall_id": "7e897f14-8775-4bc3-a3b2-b149f79ec702"
+    },
+    {
+      "id": "16559438-7e66-4540-bb34-8087ced024c8",
+      "set_code": "HOU",
+      "collector_number": "45",
+      "name": "Sinuous Striker",
+      "scryfall_id": "ed2b97d1-3e69-4305-b1df-947ff64c5043"
+    },
+    {
+      "id": "d6d1b12a-c1f8-48db-a7f5-0afd4fadd22b",
+      "set_code": "HOU",
+      "collector_number": "46",
+      "name": "Spellweaver Eternal",
+      "scryfall_id": "a6bb7d1a-d606-46a8-a592-648c5d2e7382"
+    },
+    {
+      "id": "7de88bfa-6333-4c84-af56-3c59d69c4c38",
+      "set_code": "HOU",
+      "collector_number": "47",
+      "name": "Strategic Planning",
+      "scryfall_id": "95756b98-59c2-494d-9894-7406185ad144"
+    },
+    {
+      "id": "23281165-2340-45d1-bf92-1debb1c4a285",
+      "set_code": "HOU",
+      "collector_number": "48",
+      "name": "Striped Riverwinder",
+      "scryfall_id": "bbeef9ef-487c-400b-bcee-1c0e8ec94b6a"
+    },
+    {
+      "id": "34071851-c180-4583-8986-6b34909ec17d",
+      "set_code": "HOU",
+      "collector_number": "49",
+      "name": "Supreme Will",
+      "scryfall_id": "b677e7cb-7b5d-4993-8f13-881493c498ce"
+    },
+    {
+      "id": "a50c0d88-6c37-41e7-ad39-33e6a433c70d",
+      "set_code": "HOU",
+      "collector_number": "50",
+      "name": "Swarm Intelligence",
+      "scryfall_id": "c2bec26d-20ba-4f31-a153-2c93a4f474e5"
+    },
+    {
+      "id": "3c5f6fa6-c24a-43b6-b3a7-6f41040a6960",
+      "set_code": "HOU",
+      "collector_number": "51",
+      "name": "Tragic Lesson",
+      "scryfall_id": "a0f0353c-f1e0-49db-9edc-eea9090de872"
+    },
+    {
+      "id": "5cfe3b36-2239-4263-96d4-682789e8618c",
+      "set_code": "HOU",
+      "collector_number": "52",
+      "name": "Unesh, Criosphinx Sovereign",
+      "scryfall_id": "fdd1a8b2-f4ba-45af-9586-98a98834b8bc"
+    },
+    {
+      "id": "bb131d5e-073d-4810-9121-c019f6cff552",
+      "set_code": "HOU",
+      "collector_number": "53",
+      "name": "Unquenchable Thirst",
+      "scryfall_id": "a418b2aa-dbc2-409b-9f19-e16a0ad8cbac"
+    },
+    {
+      "id": "338fc557-68d3-4191-8cb9-0579b6a4e963",
+      "set_code": "HOU",
+      "collector_number": "54",
+      "name": "Unsummon",
+      "scryfall_id": "5a4a5bd6-d7e0-4e35-bb7d-b9a41fcf67bc"
+    },
+    {
+      "id": "f68562ca-03db-440b-92ad-b1795b6e01d3",
+      "set_code": "HOU",
+      "collector_number": "55",
+      "name": "Vizier of the Anointed",
+      "scryfall_id": "68ef426c-b396-4767-b360-435f67207022"
+    },
+    {
+      "id": "74ec717a-ec71-4dcb-8494-b24f37ad005c",
+      "set_code": "HOU",
+      "collector_number": "56",
+      "name": "Accursed Horde",
+      "scryfall_id": "691b79ef-87da-4b52-8311-2f6f46c6368d"
+    },
+    {
+      "id": "37f7dc6b-a237-4a09-bc07-9898a906c52d",
+      "set_code": "HOU",
+      "collector_number": "57",
+      "name": "Ammit Eternal",
+      "scryfall_id": "1b04934f-87d1-4768-b7b5-5f7249a09771"
+    },
+    {
+      "id": "2c421a13-55f1-430b-a474-cf60441d3bb9",
+      "set_code": "HOU",
+      "collector_number": "58",
+      "name": "Apocalypse Demon",
+      "scryfall_id": "39dfbf99-55e8-468b-bcd9-9179cad7cab6"
+    },
+    {
+      "id": "3e11af75-72d6-4aec-8b14-07393edfbd83",
+      "set_code": "HOU",
+      "collector_number": "59",
+      "name": "Banewhip Punisher",
+      "scryfall_id": "005a19e2-c334-4b87-bc8b-55f62fc9abd9"
+    },
+    {
+      "id": "1713a864-58bf-4ef1-9b60-bafc4b7c4543",
+      "set_code": "HOU",
+      "collector_number": "60",
+      "name": "Bontu's Last Reckoning",
+      "scryfall_id": "1b4d0102-c0d6-4d50-941a-dd1c3575a3a8"
+    },
+    {
+      "id": "bfd62739-986a-4e74-88d9-ce2e3b5fb607",
+      "set_code": "HOU",
+      "collector_number": "61",
+      "name": "Carrion Screecher",
+      "scryfall_id": "57b9e3a3-8d01-4273-9658-9ffcbc2d2297"
+    },
+    {
+      "id": "95a1fdca-3f40-4b80-8b24-efa1a5f4e33c",
+      "set_code": "HOU",
+      "collector_number": "62",
+      "name": "Doomfall",
+      "scryfall_id": "17db6ef5-1aa9-4b8c-b0b7-d6668a2347a1"
+    },
+    {
+      "id": "50b2ecac-e588-4331-a0e6-7d29d181e217",
+      "set_code": "HOU",
+      "collector_number": "63",
+      "name": "Dreamstealer",
+      "scryfall_id": "5c4fcde3-03c9-43e6-a34b-29f6ce44e7c4"
+    },
+    {
+      "id": "328eb7a8-c04e-4809-b22e-ef37e340b976",
+      "set_code": "HOU",
+      "collector_number": "64",
+      "name": "Grisly Survivor",
+      "scryfall_id": "035ee44d-63ef-45b7-b36b-38ac341a2ca7"
+    },
+    {
+      "id": "1876e9f6-bceb-4d92-b0c6-e0cf5f5e4bb5",
+      "set_code": "HOU",
+      "collector_number": "65",
+      "name": "Hour of Glory",
+      "scryfall_id": "f35e66cb-af50-411a-b6f2-16fb7072eff5"
+    },
+    {
+      "id": "201c096b-2251-44a4-9d58-7f794a20bfd6",
+      "set_code": "HOU",
+      "collector_number": "66",
+      "name": "Khenra Eternal",
+      "scryfall_id": "abbdc277-4a76-44a9-aeda-edabab1f579e"
+    },
+    {
+      "id": "7eaf1949-4535-4eef-a7fb-34de0862b841",
+      "set_code": "HOU",
+      "collector_number": "67",
+      "name": "Lethal Sting",
+      "scryfall_id": "eaded6bf-2db7-4b1d-93cc-4b7b571cd2de"
+    },
+    {
+      "id": "6be17251-350a-4fa7-bb7e-b9ee7dbda93c",
+      "set_code": "HOU",
+      "collector_number": "68",
+      "name": "Liliana's Defeat",
+      "scryfall_id": "0f72b028-b9df-40c7-822f-4acc6bdcc719"
+    },
+    {
+      "id": "e3221fd3-976d-4052-955a-402047c6c18e",
+      "set_code": "HOU",
+      "collector_number": "69",
+      "name": "Lurching Rotbeast",
+      "scryfall_id": "9f06be97-71c8-46c8-a1c2-5da3af25e6de"
+    },
+    {
+      "id": "b77032f4-6a07-4693-8781-7313724acde4",
+      "set_code": "HOU",
+      "collector_number": "70",
+      "name": "Marauding Boneslasher",
+      "scryfall_id": "ddfb7f50-14b1-4c7d-b4c8-f50bc14f4fb7"
+    },
+    {
+      "id": "58639ed5-c963-4415-8a45-3ee3ad3241d6",
+      "set_code": "HOU",
+      "collector_number": "71",
+      "name": "Merciless Eternal",
+      "scryfall_id": "11a6becd-15be-4f2d-8fda-35b1b289b28f"
+    },
+    {
+      "id": "a0a05b44-ef12-4d9f-9c45-ba208ef68f2a",
+      "set_code": "HOU",
+      "collector_number": "72",
+      "name": "Moaning Wall",
+      "scryfall_id": "ef494f81-638a-4e5d-b987-0dde7f2a135c"
+    },
+    {
+      "id": "493574ae-b01d-4e4b-baab-83a70c576eaa",
+      "set_code": "HOU",
+      "collector_number": "73",
+      "name": "Razaketh, the Foulblooded",
+      "scryfall_id": "e14adff9-33cc-467e-b782-068854c5e7b7"
+    },
+    {
+      "id": "c097c969-d747-43e6-bd3c-d5e4e965e763",
+      "set_code": "HOU",
+      "collector_number": "74",
+      "name": "Razaketh's Rite",
+      "scryfall_id": "dd36987a-48c3-477b-b859-0268e84b7e7b"
+    },
+    {
+      "id": "dd564015-5d7f-431e-9210-81520601db59",
+      "set_code": "HOU",
+      "collector_number": "75",
+      "name": "Ruin Rat",
+      "scryfall_id": "91652fe0-2064-4996-b484-a1f88e0023f7"
+    },
+    {
+      "id": "75e54dc5-85c9-4f2c-b715-7ae7d97a9834",
+      "set_code": "HOU",
+      "collector_number": "76",
+      "name": "Scrounger of Souls",
+      "scryfall_id": "3d66f3c4-5a11-4e28-a4ae-673b3b36d3ec"
+    },
+    {
+      "id": "183a483d-d870-4893-ba05-5a6917ebb4cb",
+      "set_code": "HOU",
+      "collector_number": "77",
+      "name": "Torment of Hailfire",
+      "scryfall_id": "f69d77d1-5980-436c-bf48-790939b069aa"
+    },
+    {
+      "id": "d42e5932-f890-4c11-a61b-08fe17869104",
+      "set_code": "HOU",
+      "collector_number": "78",
+      "name": "Torment of Scarabs",
+      "scryfall_id": "01651f67-cc25-4240-9698-58b7d906a160"
+    },
+    {
+      "id": "9bafc56c-1b36-4bc6-9f2f-ab39a16bcc0e",
+      "set_code": "HOU",
+      "collector_number": "79",
+      "name": "Torment of Venom",
+      "scryfall_id": "2f66410b-67a3-4f6a-b3ae-dcad9858a5da"
+    },
+    {
+      "id": "cce4e862-2f17-4812-9472-42ed31779dc3",
+      "set_code": "HOU",
+      "collector_number": "80",
+      "name": "Vile Manifestation",
+      "scryfall_id": "7160bc31-bdfa-4654-9d69-95ee2a5fe870"
+    },
+    {
+      "id": "e01b760b-57c4-49b2-a112-83989e0a9fe9",
+      "set_code": "HOU",
+      "collector_number": "81",
+      "name": "Without Weakness",
+      "scryfall_id": "d6695fa8-881c-407c-91d9-3ac770372d35"
+    },
+    {
+      "id": "c2c10ed3-7632-47c8-ae1b-50cf51ef2f6a",
+      "set_code": "HOU",
+      "collector_number": "82",
+      "name": "Wretched Camel",
+      "scryfall_id": "cdd729df-8a02-4d5e-8432-bc0d006b0d3d"
+    },
+    {
+      "id": "8a51ccf0-f36d-49d9-bc5e-c913edb8d407",
+      "set_code": "HOU",
+      "collector_number": "83",
+      "name": "Abrade",
+      "scryfall_id": "84319dfb-eaf7-4b98-8c4f-30f5e779591b"
+    },
+    {
+      "id": "c1fd45cd-6059-4ab1-ab00-3ec4bd1af298",
+      "set_code": "HOU",
+      "collector_number": "84",
+      "name": "Blur of Blades",
+      "scryfall_id": "b53f5b9b-d24b-4e9a-bc90-7ed198cd1132"
+    },
+    {
+      "id": "05ad955a-c82b-4050-a765-21fe370a0284",
+      "set_code": "HOU",
+      "collector_number": "85",
+      "name": "Burning-Fist Minotaur",
+      "scryfall_id": "52f191fb-eaf6-432f-a668-37ad48ffabaf"
+    },
+    {
+      "id": "2ee5435f-5ef5-4fe8-a905-9171ef480e4a",
+      "set_code": "HOU",
+      "collector_number": "86",
+      "name": "Chandra's Defeat",
+      "scryfall_id": "f38c6613-b1f7-4b38-b956-7860d041e593"
+    },
+    {
+      "id": "ff01ad5b-de2a-4951-8196-bb4bb65a9a43",
+      "set_code": "HOU",
+      "collector_number": "87",
+      "name": "Chaos Maw",
+      "scryfall_id": "8094908b-1d3a-42df-bc27-8456fbb98e65"
+    },
+    {
+      "id": "44b60423-8f14-469a-ad7f-eb59825dde18",
+      "set_code": "HOU",
+      "collector_number": "88",
+      "name": "Crash Through",
+      "scryfall_id": "4bdaba76-b98d-4699-9a5f-e59285b09552"
+    },
+    {
+      "id": "305864f1-351f-442f-ac94-62599a42c11d",
+      "set_code": "HOU",
+      "collector_number": "89",
+      "name": "Defiant Khenra",
+      "scryfall_id": "67e3983d-b1ed-46a9-9ab0-96c4d0d77050"
+    },
+    {
+      "id": "5f263a3a-e021-424f-8c40-7faf79ed7e43",
+      "set_code": "HOU",
+      "collector_number": "90",
+      "name": "Earthshaker Khenra",
+      "scryfall_id": "0d60eabe-b281-4eba-9c26-287364ed2067"
+    },
+    {
+      "id": "2136fe39-a15a-4b97-b245-57b20e2a18ef",
+      "set_code": "HOU",
+      "collector_number": "91",
+      "name": "Fervent Paincaster",
+      "scryfall_id": "e3c78708-254c-446f-b6eb-8839faf08790"
+    },
+    {
+      "id": "8286b601-b094-407c-87bc-4d62edf94d3a",
+      "set_code": "HOU",
+      "collector_number": "92",
+      "name": "Firebrand Archer",
+      "scryfall_id": "6ddc6b73-298b-4afa-990a-63706e77dd9f"
+    },
+    {
+      "id": "5eb75c8d-6f64-4230-b9aa-103e86c62190",
+      "set_code": "HOU",
+      "collector_number": "93",
+      "name": "Frontline Devastator",
+      "scryfall_id": "8c869cc4-eed9-4b24-b60f-2d7f85b885dc"
+    },
+    {
+      "id": "8b614b1b-3c76-41f5-88c6-462e0f8e03c3",
+      "set_code": "HOU",
+      "collector_number": "94",
+      "name": "Gilded Cerodon",
+      "scryfall_id": "f68c8fbd-9223-447d-a85c-fa6222c75277"
+    },
+    {
+      "id": "ecb0640d-1586-4f5d-8754-02a0b8b88da6",
+      "set_code": "HOU",
+      "collector_number": "95",
+      "name": "Granitic Titan",
+      "scryfall_id": "607bdb54-a956-4a9c-89cf-af6f1163b856"
+    },
+    {
+      "id": "704d3d00-6173-42ad-a4c6-0073f7d5ed84",
+      "set_code": "HOU",
+      "collector_number": "96",
+      "name": "Hazoret's Undying Fury",
+      "scryfall_id": "7f578576-19ca-4e67-94da-2c0767d9a2bb"
+    },
+    {
+      "id": "94326ae8-67f9-40a6-8d4c-24e2197970dd",
+      "set_code": "HOU",
+      "collector_number": "97",
+      "name": "Hour of Devastation",
+      "scryfall_id": "d420cc12-cfd7-4007-a0c2-b16c8f63a754"
+    },
+    {
+      "id": "6d9513fa-89a0-45e4-a1c4-f6ba6ccecaf3",
+      "set_code": "HOU",
+      "collector_number": "98",
+      "name": "Imminent Doom",
+      "scryfall_id": "a51f8207-485e-4a4e-aa62-8e0e69645a0e"
+    },
+    {
+      "id": "4f0a4939-b208-47af-9bac-eaf6f49689d8",
+      "set_code": "HOU",
+      "collector_number": "99",
+      "name": "Inferno Jet",
+      "scryfall_id": "0c6a43fe-369d-4943-a825-570eb3cceba4"
+    },
+    {
+      "id": "f57bc981-34dd-4113-8d87-85fe2b81936c",
+      "set_code": "HOU",
+      "collector_number": "100",
+      "name": "Khenra Scrapper",
+      "scryfall_id": "e5d4caac-95e8-47bb-90c4-3bf877afdc57"
+    },
+    {
+      "id": "86167c97-0ccf-498d-bf41-e947b016d88d",
+      "set_code": "HOU",
+      "collector_number": "101",
+      "name": "Kindled Fury",
+      "scryfall_id": "cffb2c38-76b0-4d5f-a4d1-e2494f4be192"
+    },
+    {
+      "id": "3d24e425-831a-457c-a7a6-8c2b265d97e0",
+      "set_code": "HOU",
+      "collector_number": "102",
+      "name": "Magmaroth",
+      "scryfall_id": "76f87128-2d12-467b-895d-943f318b7c38"
+    },
+    {
+      "id": "7694bc71-045d-41d4-a164-4c77f4aaf53c",
+      "set_code": "HOU",
+      "collector_number": "103",
+      "name": "Manticore Eternal",
+      "scryfall_id": "b03a9686-d30b-4048-8b0a-23fd2f0aed4b"
+    },
+    {
+      "id": "93e0d5b5-eff5-4547-930c-042a135f20af",
+      "set_code": "HOU",
+      "collector_number": "104",
+      "name": "Neheb, the Eternal",
+      "scryfall_id": "54231832-d492-4812-b658-4ab9a30fefe2"
+    },
+    {
+      "id": "579fcaa3-6937-4160-9eb7-241c52bb45cd",
+      "set_code": "HOU",
+      "collector_number": "105",
+      "name": "Open Fire",
+      "scryfall_id": "448f9fb5-ffb5-4325-9f81-ce8782e5f9e9"
+    },
+    {
+      "id": "f10545cd-3236-4997-a291-b23ad8793a06",
+      "set_code": "HOU",
+      "collector_number": "106",
+      "name": "Puncturing Blow",
+      "scryfall_id": "d7d88da5-d9a3-49b3-a091-458b058c9114"
+    },
+    {
+      "id": "1a13ebf8-67d3-4814-9325-409bdab0eaf4",
+      "set_code": "HOU",
+      "collector_number": "107",
+      "name": "Sand Strangler",
+      "scryfall_id": "dd7153be-ad6c-47ff-8f45-bc8df17973cb"
+    },
+    {
+      "id": "32ebcab4-ab98-4903-80a5-d387ad067a44",
+      "set_code": "HOU",
+      "collector_number": "108",
+      "name": "Thorned Moloch",
+      "scryfall_id": "01ab2615-5a02-4b59-b8bd-577b91a1a0e3"
+    },
+    {
+      "id": "92339a13-04c7-4761-b09f-960dd1a5e811",
+      "set_code": "HOU",
+      "collector_number": "109",
+      "name": "Wildfire Eternal",
+      "scryfall_id": "fd845479-619a-4262-b445-d93975c183b4"
+    },
+    {
+      "id": "3ebf8cb4-01f7-4b56-b205-c1b18c60b679",
+      "set_code": "HOU",
+      "collector_number": "110",
+      "name": "Ambuscade",
+      "scryfall_id": "cfc06303-cb35-4feb-b23d-7ac0a2fa7ce3"
+    },
+    {
+      "id": "d549afb6-e439-4f1b-91dd-cf0971623d5a",
+      "set_code": "HOU",
+      "collector_number": "111",
+      "name": "Beneath the Sands",
+      "scryfall_id": "e92c0cf0-df4a-4e50-8396-53713f925b53"
+    },
+    {
+      "id": "eb9f5267-8473-4b51-9202-4dcb042b7b4c",
+      "set_code": "HOU",
+      "collector_number": "112",
+      "name": "Bitterbow Sharpshooters",
+      "scryfall_id": "8ecfcf99-be2b-4e5f-adef-1977ee5c6a0f"
+    },
+    {
+      "id": "299ca25c-d7a3-49eb-b0db-dacdc9fa6418",
+      "set_code": "HOU",
+      "collector_number": "113",
+      "name": "Devotee of Strength",
+      "scryfall_id": "977698ab-3b64-41f2-a214-ac95e04c9956"
+    },
+    {
+      "id": "04d7db9d-dfb4-4a7a-bca8-0c1ab77c46e0",
+      "set_code": "HOU",
+      "collector_number": "114",
+      "name": "Dune Diviner",
+      "scryfall_id": "01818188-e18e-4dc0-b7ef-34cedef64f7e"
+    },
+    {
+      "id": "5c9dd10a-750c-4491-b6d8-e07e97092838",
+      "set_code": "HOU",
+      "collector_number": "115",
+      "name": "Feral Prowler",
+      "scryfall_id": "ba0431ad-185a-4917-b994-e58dd9850f5e"
+    },
+    {
+      "id": "4db89687-dd7c-493d-8c71-7c3398fe33f9",
+      "set_code": "HOU",
+      "collector_number": "116",
+      "name": "Frilled Sandwalla",
+      "scryfall_id": "07b1be52-5e54-4840-bb53-0b2512785e0b"
+    },
+    {
+      "id": "f2b21f02-7877-477f-ad63-ab5170784d9f",
+      "set_code": "HOU",
+      "collector_number": "117",
+      "name": "Gift of Strength",
+      "scryfall_id": "3b779620-6bac-445e-a6fe-6d770c0a9c70"
+    },
+    {
+      "id": "b996f899-8139-4796-8f28-979a7008f083",
+      "set_code": "HOU",
+      "collector_number": "118",
+      "name": "Harrier Naga",
+      "scryfall_id": "bcdc68c9-f5f3-4c5b-80df-85508cf15f84"
+    },
+    {
+      "id": "0779f51e-90f1-493c-bcf2-18f31e2a487b",
+      "set_code": "HOU",
+      "collector_number": "119",
+      "name": "Hope Tender",
+      "scryfall_id": "9ffb676d-54b7-4d30-9c84-ff9b48030705"
+    },
+    {
+      "id": "a2ed9e24-9949-4feb-9a6b-f2bf6e9d46c2",
+      "set_code": "HOU",
+      "collector_number": "120",
+      "name": "Hour of Promise",
+      "scryfall_id": "c5ee374f-31dc-4b2c-beba-431d5b1126d0"
+    },
+    {
+      "id": "59fc35a6-e4f0-4ac3-a984-d5251f4e7134",
+      "set_code": "HOU",
+      "collector_number": "121",
+      "name": "Life Goes On",
+      "scryfall_id": "5f39c264-a9a5-46f3-bd67-01d93d69e457"
+    },
+    {
+      "id": "7c29582a-c757-41c3-9aa6-ef4be46f418e",
+      "set_code": "HOU",
+      "collector_number": "122",
+      "name": "Majestic Myriarch",
+      "scryfall_id": "78d47cc7-2849-432e-9bcd-6b97023f1969"
+    },
+    {
+      "id": "b8df416a-4c04-4bdf-86a8-9eebde8c4332",
+      "set_code": "HOU",
+      "collector_number": "123",
+      "name": "Nissa's Defeat",
+      "scryfall_id": "86326456-d188-4083-9141-a639b821b291"
+    },
+    {
+      "id": "0f5dad25-1dda-4130-b1c0-9064bcbf04df",
+      "set_code": "HOU",
+      "collector_number": "124",
+      "name": "Oasis Ritualist",
+      "scryfall_id": "a30bb49b-956e-44bc-8a32-46d4c9c13245"
+    },
+    {
+      "id": "bc253416-8c20-403b-9de7-933464065c20",
+      "set_code": "HOU",
+      "collector_number": "125",
+      "name": "Overcome",
+      "scryfall_id": "d1dc2427-685a-4739-8b92-e60f134d4adb"
+    },
+    {
+      "id": "a2881331-8596-4a97-aa54-685ac9e58c5b",
+      "set_code": "HOU",
+      "collector_number": "126",
+      "name": "Pride Sovereign",
+      "scryfall_id": "dd3d32b7-672f-4ceb-a1c9-17daefd2cb0c"
+    },
+    {
+      "id": "eef1b438-c6fd-4d37-9435-ebf3bec3e294",
+      "set_code": "HOU",
+      "collector_number": "127",
+      "name": "Quarry Beetle",
+      "scryfall_id": "69e11478-bfc7-4bcc-b65c-dc2d4449e99f"
+    },
+    {
+      "id": "93e885d5-594e-4528-8d0b-ea49be63ce13",
+      "set_code": "HOU",
+      "collector_number": "128",
+      "name": "Rampaging Hippo",
+      "scryfall_id": "4c97229f-2fc8-439a-a18b-efa09b366b70"
+    },
+    {
+      "id": "b057123c-0deb-4daf-80aa-eebcf7dd82ba",
+      "set_code": "HOU",
+      "collector_number": "129",
+      "name": "Ramunap Excavator",
+      "scryfall_id": "90a54d18-8403-441d-a115-ee462fabdabb"
+    },
+    {
+      "id": "6d8794c7-e75e-4d7b-9093-4e4c9a1f1c4f",
+      "set_code": "HOU",
+      "collector_number": "130",
+      "name": "Ramunap Hydra",
+      "scryfall_id": "953f3722-2126-4eb3-a3d8-cff4b0703a9c"
+    },
+    {
+      "id": "f7bc27b8-81dd-4673-9f6f-ab01285aec13",
+      "set_code": "HOU",
+      "collector_number": "131",
+      "name": "Resilient Khenra",
+      "scryfall_id": "033a69fb-2af9-426c-b1d6-3e5b18c78c9a"
+    },
+    {
+      "id": "206f91e0-aeed-42e5-b185-81c7b38db155",
+      "set_code": "HOU",
+      "collector_number": "132",
+      "name": "Rhonas's Last Stand",
+      "scryfall_id": "e991d1eb-70ab-4e2c-862d-fb8bfcefc542"
+    },
+    {
+      "id": "e61ebabf-2a94-41ad-a693-0414b88c7e92",
+      "set_code": "HOU",
+      "collector_number": "133",
+      "name": "Rhonas's Stalwart",
+      "scryfall_id": "99d4f791-9084-4644-a1f5-85adbf6dc790"
+    },
+    {
+      "id": "cebcd14d-3c6b-40a5-872f-9dbe976e9558",
+      "set_code": "HOU",
+      "collector_number": "134",
+      "name": "Sidewinder Naga",
+      "scryfall_id": "c3786d75-1a8a-4917-aa98-6836df1b9145"
+    },
+    {
+      "id": "866db7c1-a053-46f6-90cf-6b6baed59580",
+      "set_code": "HOU",
+      "collector_number": "135",
+      "name": "Sifter Wurm",
+      "scryfall_id": "5dbaf7e3-e2fc-4399-aa83-c13df43008a0"
+    },
+    {
+      "id": "4779602b-8e13-4405-b2fb-91e49b657f43",
+      "set_code": "HOU",
+      "collector_number": "136",
+      "name": "Tenacious Hunter",
+      "scryfall_id": "3eec0010-52ab-4bf2-b589-e7fd97c290fe"
+    },
+    {
+      "id": "7eb874e4-7af2-4044-b91e-c6abf67324ae",
+      "set_code": "HOU",
+      "collector_number": "137",
+      "name": "Uncage the Menagerie",
+      "scryfall_id": "bc4aa918-53b9-4177-a859-f5a8eff09fe5"
+    },
+    {
+      "id": "44df22e6-2bd3-47cd-bdb9-2d9bf4746788",
+      "set_code": "HOU",
+      "collector_number": "138",
+      "name": "Bloodwater Entity",
+      "scryfall_id": "474d0a04-b640-4d1d-b538-2d946c1ff913"
+    },
+    {
+      "id": "135ab20d-9a93-4914-982a-1a09a886d007",
+      "set_code": "HOU",
+      "collector_number": "139",
+      "name": "The Locust God",
+      "scryfall_id": "4e0c1d0a-2651-4961-8b70-ff78093732ce"
+    },
+    {
+      "id": "04ae74b5-91c4-4ff1-aa2f-5aa056427409",
+      "set_code": "HOU",
+      "collector_number": "140",
+      "name": "Nicol Bolas, God-Pharaoh",
+      "scryfall_id": "985e92f4-3904-41df-91f7-42eedbe3ccd2"
+    },
+    {
+      "id": "6f525284-6cb9-46f8-8001-74117ca3f653",
+      "set_code": "HOU",
+      "collector_number": "141",
+      "name": "Obelisk Spider",
+      "scryfall_id": "ae054604-0d77-45d0-b17b-55a83fb18e39"
+    },
+    {
+      "id": "372c084e-323a-47a4-ba91-b2eb9adbc3ec",
+      "set_code": "HOU",
+      "collector_number": "142",
+      "name": "Resolute Survivors",
+      "scryfall_id": "713f469e-58c3-4db4-aa7a-77126bda13f2"
+    },
+    {
+      "id": "1358677a-3db3-433b-a0c1-c2eb2ac14361",
+      "set_code": "HOU",
+      "collector_number": "143",
+      "name": "River Hoopoe",
+      "scryfall_id": "585ec4c2-aae2-403e-af32-3324122c472a"
+    },
+    {
+      "id": "0c535996-d1c8-44b7-a672-9feaa1d5cd62",
+      "set_code": "HOU",
+      "collector_number": "144",
+      "name": "Samut, the Tested",
+      "scryfall_id": "09f06f55-7918-46c4-80ff-0bf39e091a4a"
+    },
+    {
+      "id": "bf0e1446-4d14-4193-a2e5-33473b65bcb9",
+      "set_code": "HOU",
+      "collector_number": "145",
+      "name": "The Scarab God",
+      "scryfall_id": "621cfd79-be4e-41e3-95ce-62b0eeff5baf"
+    },
+    {
+      "id": "4fd3b0c5-417f-4748-a9e0-f81465c481f0",
+      "set_code": "HOU",
+      "collector_number": "146",
+      "name": "The Scorpion God",
+      "scryfall_id": "def0d0ac-6422-486e-b42b-e1813dd0a23e"
+    },
+    {
+      "id": "5276d921-946b-4482-8ae3-b07fec5a12e7",
+      "set_code": "HOU",
+      "collector_number": "147",
+      "name": "Unraveling Mummy",
+      "scryfall_id": "fe3802f3-feb3-4dcd-a5ba-f493baf3d447"
+    },
+    {
+      "id": "3c0a6e34-90ae-4d01-af95-ea39b05924ac",
+      "set_code": "HOU",
+      "collector_number": "148",
+      "name": "Farm // Market",
+      "scryfall_id": "d998db65-8785-4ee9-940e-fa9ab62e180f"
+    },
+    {
+      "id": "96fe8211-b29c-4dde-8f49-99036fad826c",
+      "set_code": "HOU",
+      "collector_number": "149",
+      "name": "Consign // Oblivion",
+      "scryfall_id": "1c1ead90-10d8-4217-80e4-6f40320c5569"
+    },
+    {
+      "id": "bf8f5048-0839-49f4-9810-b01a7e4e29d6",
+      "set_code": "HOU",
+      "collector_number": "150",
+      "name": "Claim // Fame",
+      "scryfall_id": "15b0f214-8668-4921-88ba-7ccf38c9f770"
+    },
+    {
+      "id": "4caae8d9-3722-4194-a135-35cf0ebb5e22",
+      "set_code": "HOU",
+      "collector_number": "151",
+      "name": "Struggle // Survive",
+      "scryfall_id": "76f21f0b-aaa5-4677-8398-cef98c6fac2a"
+    },
+    {
+      "id": "a29a9527-b55d-451d-b37c-cc6906348aaf",
+      "set_code": "HOU",
+      "collector_number": "152",
+      "name": "Appeal // Authority",
+      "scryfall_id": "2c25b8ef-6331-49df-9457-b8b4e44da2c9"
+    },
+    {
+      "id": "efaed03f-38c8-47ac-a7ef-2f3ec1d1195f",
+      "set_code": "HOU",
+      "collector_number": "153",
+      "name": "Leave // Chance",
+      "scryfall_id": "f928e8e8-aa20-402c-85bd-59106e9b9cc7"
+    },
+    {
+      "id": "82288eb7-5ba3-4aae-a0cf-3e557487822c",
+      "set_code": "HOU",
+      "collector_number": "154",
+      "name": "Reason // Believe",
+      "scryfall_id": "1ca644e3-4fb3-4d38-b714-e3d7459bd8b9"
+    },
+    {
+      "id": "8c6cbc06-3532-412a-a6f8-5c56309c8da6",
+      "set_code": "HOU",
+      "collector_number": "155",
+      "name": "Grind // Dust",
+      "scryfall_id": "0383401f-d453-4e8f-82d2-5c016acc2591"
+    },
+    {
+      "id": "121e1e80-ecb1-4fec-a0da-bcdfebfe1ba5",
+      "set_code": "HOU",
+      "collector_number": "156",
+      "name": "Refuse // Cooperate",
+      "scryfall_id": "054b07d8-99ae-430b-8e54-f9601fa572e7"
+    },
+    {
+      "id": "b8867da7-7aee-42f5-b874-2c07ce390d6f",
+      "set_code": "HOU",
+      "collector_number": "157",
+      "name": "Driven // Despair",
+      "scryfall_id": "7713ba59-dd4c-4b49-93a7-292728df86b8"
+    },
+    {
+      "id": "01e7e05b-c72d-4205-a58a-1e27c133ef9b",
+      "set_code": "HOU",
+      "collector_number": "158",
+      "name": "Abandoned Sarcophagus",
+      "scryfall_id": "c191fb87-f111-4ac2-a52a-3af103a9314e"
+    },
+    {
+      "id": "4f1d7cdf-cc23-4121-826d-b5d6520f90fb",
+      "set_code": "HOU",
+      "collector_number": "159",
+      "name": "Crook of Condemnation",
+      "scryfall_id": "78f6d7c2-ee4f-4cd0-a9a2-d8469ff89291"
+    },
+    {
+      "id": "57186c6d-a500-4259-b8b8-75aad6f81c96",
+      "set_code": "HOU",
+      "collector_number": "160",
+      "name": "Dagger of the Worthy",
+      "scryfall_id": "abe9d9d7-bc4e-4367-b27c-e8d6e430467e"
+    },
+    {
+      "id": "db0606f5-1f9a-4068-a652-fede2e9986f3",
+      "set_code": "HOU",
+      "collector_number": "161",
+      "name": "God-Pharaoh's Gift",
+      "scryfall_id": "b2e85a9e-4c37-4721-b7ea-de3413ec39df"
+    },
+    {
+      "id": "4a778440-69da-4e84-832e-9bae92f0fb2b",
+      "set_code": "HOU",
+      "collector_number": "162",
+      "name": "Graven Abomination",
+      "scryfall_id": "89880f30-aa38-4231-8d16-25c644bde6bf"
+    },
+    {
+      "id": "9bb226a9-4d57-4978-8233-654bf5fc9c1d",
+      "set_code": "HOU",
+      "collector_number": "163",
+      "name": "Hollow One",
+      "scryfall_id": "43fe9c6d-4fa2-4f9a-9025-1bf12fe7ed9f"
+    },
+    {
+      "id": "a5e203e7-e6c9-4336-9841-db26f87bc699",
+      "set_code": "HOU",
+      "collector_number": "164",
+      "name": "Manalith",
+      "scryfall_id": "d4b420ed-75b8-4779-aaa2-e245e84202d1"
+    },
+    {
+      "id": "c7be5e24-4aa7-44f3-89bb-4c5c54dccdeb",
+      "set_code": "HOU",
+      "collector_number": "165",
+      "name": "Mirage Mirror",
+      "scryfall_id": "29148d7e-b398-4e19-a29e-d9a660ad5016"
+    },
+    {
+      "id": "33e0eccf-728b-44aa-becc-de7ae08287e4",
+      "set_code": "HOU",
+      "collector_number": "166",
+      "name": "Sunset Pyramid",
+      "scryfall_id": "377a4e80-0f28-42a2-9972-47ab66baee63"
+    },
+    {
+      "id": "adcab567-87c3-4943-a6cf-b2c0e22f8514",
+      "set_code": "HOU",
+      "collector_number": "167",
+      "name": "Traveler's Amulet",
+      "scryfall_id": "195464f1-f01c-4211-950d-963c5bad786f"
+    },
+    {
+      "id": "14de2d80-4988-4f36-99b6-304ccf3ba78d",
+      "set_code": "HOU",
+      "collector_number": "168",
+      "name": "Wall of Forgotten Pharaohs",
+      "scryfall_id": "d3f8f211-79f9-4d34-8e23-c0835703cd91"
+    },
+    {
+      "id": "48b082f1-82eb-4bac-a942-a9a734fb8272",
+      "set_code": "HOU",
+      "collector_number": "169",
+      "name": "Crypt of the Eternals",
+      "scryfall_id": "cab5b199-e79d-4ca9-970c-cfd9df8fd1e4"
+    },
+    {
+      "id": "f3f509f9-e0d9-4a6e-9740-e35d2733f8b1",
+      "set_code": "HOU",
+      "collector_number": "170",
+      "name": "Desert of the Fervent",
+      "scryfall_id": "f547d664-25ce-4a24-b3ae-7bf3cbdf4703"
+    },
+    {
+      "id": "bdf8deb7-59d9-460a-a7e7-8645fb3f73a7",
+      "set_code": "HOU",
+      "collector_number": "171",
+      "name": "Desert of the Glorified",
+      "scryfall_id": "04a19aea-209d-4354-8c59-d08244185eb8"
+    },
+    {
+      "id": "9331f81d-8500-467a-bc68-755b46df0e37",
+      "set_code": "HOU",
+      "collector_number": "172",
+      "name": "Desert of the Indomitable",
+      "scryfall_id": "7d42aa0c-0408-4b0d-bec5-9861dbcf9ee1"
+    },
+    {
+      "id": "1a1001e6-fc21-4aa5-a4c7-d02a97bd8ac0",
+      "set_code": "HOU",
+      "collector_number": "173",
+      "name": "Desert of the Mindful",
+      "scryfall_id": "91b92d87-776c-490f-9ff1-234e47145df8"
+    },
+    {
+      "id": "4648283b-b819-44a6-80d2-767e97549230",
+      "set_code": "HOU",
+      "collector_number": "174",
+      "name": "Desert of the True",
+      "scryfall_id": "e2d9308c-8af4-4587-b740-aea874d5ccae"
+    },
+    {
+      "id": "895c4d67-ba29-407b-819f-566acbdcab73",
+      "set_code": "HOU",
+      "collector_number": "175",
+      "name": "Dunes of the Dead",
+      "scryfall_id": "326c7483-2c45-4804-85c4-d40ecdba4fc7"
+    },
+    {
+      "id": "f34e236d-c28d-440b-89c3-91493d582db5",
+      "set_code": "HOU",
+      "collector_number": "176",
+      "name": "Endless Sands",
+      "scryfall_id": "9ebd3e0a-30cc-4bc1-b9fa-6d65db9a6f5b"
+    },
+    {
+      "id": "31f22ecb-3755-4704-93f1-d1c2ca256ea3",
+      "set_code": "HOU",
+      "collector_number": "177",
+      "name": "Hashep Oasis",
+      "scryfall_id": "3bba75d2-3f1b-4828-be11-2da695f7bde7"
+    },
+    {
+      "id": "2386984a-eefd-444c-9fe6-1c081c4cd0eb",
+      "set_code": "HOU",
+      "collector_number": "178",
+      "name": "Hostile Desert",
+      "scryfall_id": "250c35cb-77e7-4600-a915-ccf327fe3385"
+    },
+    {
+      "id": "c3267889-d4f6-416d-b93c-42086f38f924",
+      "set_code": "HOU",
+      "collector_number": "179",
+      "name": "Ifnir Deadlands",
+      "scryfall_id": "0b88728b-9b18-40c6-b634-f87f8da83665"
+    },
+    {
+      "id": "d5884f5d-8be3-4a5b-9c35-c836806c0d86",
+      "set_code": "HOU",
+      "collector_number": "180",
+      "name": "Ipnu Rivulet",
+      "scryfall_id": "203011ef-3737-4fd1-bd23-0e531b5a7c32"
+    },
+    {
+      "id": "1d4ee86b-4a2b-48f8-8f6d-008581734eac",
+      "set_code": "HOU",
+      "collector_number": "181",
+      "name": "Ramunap Ruins",
+      "scryfall_id": "af11d41a-0d29-45e9-9d27-a41282b9e292"
+    },
+    {
+      "id": "76d9a712-fb4c-4851-b98d-d12706eb3715",
+      "set_code": "HOU",
+      "collector_number": "182",
+      "name": "Scavenger Grounds",
+      "scryfall_id": "6cd91eeb-7abf-4538-91dc-47c736dfc237"
+    },
+    {
+      "id": "ce4afd19-d0cf-4dca-b2dc-6b71f0ad1c1c",
+      "set_code": "HOU",
+      "collector_number": "183",
+      "name": "Shefet Dunes",
+      "scryfall_id": "6077f4e9-5717-4048-b798-4f8d535a4170"
+    },
+    {
+      "id": "a3fbafad-b58f-45c4-801f-05a9fab87b0f",
+      "set_code": "HOU",
+      "collector_number": "184",
+      "name": "Survivors' Encampment",
+      "scryfall_id": "c7b0404e-0f42-456b-91ce-f960195c4951"
+    },
+    {
+      "id": "c1dc44c7-d8a5-45c3-8343-af345e75cc32",
+      "set_code": "HOU",
+      "collector_number": "185",
+      "name": "Plains",
+      "scryfall_id": "c20ec10e-78fc-49dc-a112-7863a34056b1"
+    },
+    {
+      "id": "efd8b9eb-0ac7-43aa-8ab4-6053f5a3305c",
+      "set_code": "HOU",
+      "collector_number": "186",
+      "name": "Island",
+      "scryfall_id": "a735e9b5-1231-4aa9-9eb3-c83037b849f2"
+    },
+    {
+      "id": "f6d045b7-9a51-4aa0-9cd2-939ba0c01ed5",
+      "set_code": "HOU",
+      "collector_number": "187",
+      "name": "Swamp",
+      "scryfall_id": "ef5cb444-7b48-40c8-a4d9-3fee37429513"
+    },
+    {
+      "id": "879408ff-2d32-4902-a23b-a5940902a9f9",
+      "set_code": "HOU",
+      "collector_number": "188",
+      "name": "Mountain",
+      "scryfall_id": "6ad4e9cd-76e2-4ee0-8185-8b3aec3578ce"
+    },
+    {
+      "id": "cc730300-f2ea-49c6-9a0b-9820148aaf54",
+      "set_code": "HOU",
+      "collector_number": "189",
+      "name": "Forest",
+      "scryfall_id": "c318bae5-5d3f-4e91-adfe-13c182511ef7"
+    },
+    {
+      "id": "afcef650-b622-45ff-8997-3983cc13ec52",
+      "set_code": "HOU",
+      "collector_number": "190",
+      "name": "Plains",
+      "scryfall_id": "ce617aad-2c72-4b47-a9ae-51792459cffd"
+    },
+    {
+      "id": "0554e65c-f51f-42f9-ab01-27f1a3a37873",
+      "set_code": "HOU",
+      "collector_number": "191",
+      "name": "Plains",
+      "scryfall_id": "07fd89a6-56ef-4488-842b-27bf31d8c04f"
+    },
+    {
+      "id": "27c33911-d587-48be-97a6-93a78aedc7b9",
+      "set_code": "HOU",
+      "collector_number": "192",
+      "name": "Island",
+      "scryfall_id": "0a4717cd-f9a7-4386-9091-d25218e23d79"
+    },
+    {
+      "id": "3b69b26a-42af-4458-9bf9-475649d289e5",
+      "set_code": "HOU",
+      "collector_number": "193",
+      "name": "Island",
+      "scryfall_id": "0830bbcf-ee78-4f8a-bc6c-547be3a9fc4c"
+    },
+    {
+      "id": "57764cd1-a017-426b-b4cf-279dfb24fc25",
+      "set_code": "HOU",
+      "collector_number": "194",
+      "name": "Swamp",
+      "scryfall_id": "447f8dbc-2f09-4995-81e2-2dc1654031fd"
+    },
+    {
+      "id": "29fbca33-1a8b-4d67-87d7-2cfb7ee10d44",
+      "set_code": "HOU",
+      "collector_number": "195",
+      "name": "Swamp",
+      "scryfall_id": "0e864369-2837-4487-8eee-0d643889d642"
+    },
+    {
+      "id": "c1d06bff-66ad-4acf-8354-cc22d7bfe1df",
+      "set_code": "HOU",
+      "collector_number": "196",
+      "name": "Mountain",
+      "scryfall_id": "b2e439e2-2c7c-42fd-a47b-f615641f7392"
+    },
+    {
+      "id": "5635fc94-a3ed-4f46-9585-7594d53e3ccc",
+      "set_code": "HOU",
+      "collector_number": "197",
+      "name": "Mountain",
+      "scryfall_id": "b26e7306-df23-4339-b3af-faf9effe0140"
+    },
+    {
+      "id": "b082abfd-ec30-4a1e-a246-df293c7bbfae",
+      "set_code": "HOU",
+      "collector_number": "198",
+      "name": "Forest",
+      "scryfall_id": "c5cbd941-53ab-4b02-b96c-a9af7767e606"
+    },
+    {
+      "id": "7dcc7494-7cc4-4408-b433-0cef0cf30589",
+      "set_code": "HOU",
+      "collector_number": "199",
+      "name": "Forest",
+      "scryfall_id": "e99aacd5-c692-4de8-b565-d5092598295d"
+    },
+    {
+      "id": "9a25bb46-e71c-4710-a3d3-28752cc44bf8",
+      "set_code": "HOU",
+      "collector_number": "200",
+      "name": "Nissa, Genesis Mage",
+      "scryfall_id": "2923c85a-4022-4cda-bcbb-bb000137f64f"
+    },
+    {
+      "id": "a8d9b47d-fcfe-4783-9e2a-72bcd16ecda0",
+      "set_code": "HOU",
+      "collector_number": "201",
+      "name": "Avid Reclaimer",
+      "scryfall_id": "0468e488-94ce-4ae3-abe4-7782673a7e62"
+    },
+    {
+      "id": "372815ce-e3c1-49cb-9205-458486ada506",
+      "set_code": "HOU",
+      "collector_number": "202",
+      "name": "Brambleweft Behemoth",
+      "scryfall_id": "1c759e94-e437-4dda-af0f-6578c0a50619"
+    },
+    {
+      "id": "7617b8e4-b6e3-40df-8fda-db35b9f5ba07",
+      "set_code": "HOU",
+      "collector_number": "203",
+      "name": "Nissa's Encouragement",
+      "scryfall_id": "a489d5c7-ef57-4973-86ac-06234c308c3c"
+    },
+    {
+      "id": "3acb031c-68bb-4e39-b0da-6156f11ed21e",
+      "set_code": "HOU",
+      "collector_number": "204",
+      "name": "Woodland Stream",
+      "scryfall_id": "0d757641-a6e8-4584-b35e-be043c228134"
+    },
+    {
+      "id": "1eb52136-1e9b-4e21-9b6d-623254e15530",
+      "set_code": "HOU",
+      "collector_number": "205",
+      "name": "Nicol Bolas, the Deceiver",
+      "scryfall_id": "74239d78-1608-4b27-b2fd-8c7453f6b86b"
+    },
+    {
+      "id": "b6393db2-e1a3-4a2d-92ba-22cdb4905756",
+      "set_code": "HOU",
+      "collector_number": "206",
+      "name": "Wasp of the Bitter End",
+      "scryfall_id": "46d348eb-7db0-4209-8960-c6adc473417d"
+    },
+    {
+      "id": "bd5fdc26-8adf-441f-8947-3a5626fe45e5",
+      "set_code": "HOU",
+      "collector_number": "207",
+      "name": "Zealot of the God-Pharaoh",
+      "scryfall_id": "180d1cd4-7d0d-4279-bc2a-59bb21b06904"
+    },
+    {
+      "id": "56d28348-659e-4454-8268-a107eebdd2fa",
+      "set_code": "HOU",
+      "collector_number": "208",
+      "name": "Visage of Bolas",
+      "scryfall_id": "f29bbfe2-d59f-4361-8ea4-6a8d1b909769"
+    },
+    {
+      "id": "9bb2f84e-57af-461b-bb7d-ff129925f7bb",
+      "set_code": "HOU",
+      "collector_number": "209",
+      "name": "Cinder Barrens",
+      "scryfall_id": "caedf353-35f8-4b58-8ed9-183d29302be9"
+    }
+  ]
+}

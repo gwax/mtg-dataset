@@ -1,0 +1,449 @@
+{
+  "id": "c2aabfd7-bbe5-46e0-887a-899b85e9cd2f",
+  "code": "DDT",
+  "name": "Duel Decks: Merfolk vs. Goblins",
+  "scryfall_id": "c77df674-0ef5-47d9-ab22-56a6e1dc901c",
+  "cards": [
+    {
+      "id": "0a1a501c-501b-4eed-a9f6-7a2ef695443f",
+      "set_code": "DDT",
+      "collector_number": "1",
+      "name": "Master of Waves",
+      "scryfall_id": "14cd5387-c6aa-4430-8edb-05da6b4e2ff5"
+    },
+    {
+      "id": "e8242520-905b-43b6-a245-ac870250e91a",
+      "set_code": "DDT",
+      "collector_number": "2",
+      "name": "Aquitect's Will",
+      "scryfall_id": "3c4273f6-bcce-4761-80ef-14cd4fc4bb19"
+    },
+    {
+      "id": "03787eea-a530-4076-9915-82a61b9270f4",
+      "set_code": "DDT",
+      "collector_number": "3",
+      "name": "Claustrophobia",
+      "scryfall_id": "b790af5f-b1bf-4985-8f85-e94d6ab86092"
+    },
+    {
+      "id": "885996aa-d064-489f-b80e-7e8e7f484dc4",
+      "set_code": "DDT",
+      "collector_number": "4",
+      "name": "Concentrate",
+      "scryfall_id": "5aca3338-30a6-4ce4-b74c-a18144b6efc9"
+    },
+    {
+      "id": "69ad5b95-015b-4b27-bdc5-6c8cde321a0f",
+      "set_code": "DDT",
+      "collector_number": "5",
+      "name": "Engulf the Shore",
+      "scryfall_id": "57dfeab4-d468-45f2-8993-5c3a8f8ab1fe"
+    },
+    {
+      "id": "f3d76a37-ed19-4cf9-b12b-4363e06e6b44",
+      "set_code": "DDT",
+      "collector_number": "6",
+      "name": "Essence Scatter",
+      "scryfall_id": "02ac1e19-3535-49ef-b93d-c52c9e56d046"
+    },
+    {
+      "id": "31be6858-6d25-4e0f-9a59-d1c3808a86c2",
+      "set_code": "DDT",
+      "collector_number": "7",
+      "name": "Harbinger of the Tides",
+      "scryfall_id": "90f648d2-27be-4414-9e0a-5a3e4d5067ce"
+    },
+    {
+      "id": "019aef3e-d370-48af-b8f3-fd7ebf054b00",
+      "set_code": "DDT",
+      "collector_number": "8",
+      "name": "Inkfathom Divers",
+      "scryfall_id": "758a8ca6-1fc1-454a-a2be-9745ac964eb7"
+    },
+    {
+      "id": "95f1d4d1-05f9-439e-a16a-cbd6462c5727",
+      "set_code": "DDT",
+      "collector_number": "9",
+      "name": "Master of the Pearl Trident",
+      "scryfall_id": "b7f3069f-7754-4c4d-9b62-40e3d49eba05"
+    },
+    {
+      "id": "16e2d2d5-9cb4-45f6-bb9e-d3ed95f653ba",
+      "set_code": "DDT",
+      "collector_number": "10",
+      "name": "Merfolk Looter",
+      "scryfall_id": "4768f8d4-b7b5-4372-8b8b-b68073871e33"
+    },
+    {
+      "id": "a1854440-0f94-4b03-9f9b-f54a1c0900e8",
+      "set_code": "DDT",
+      "collector_number": "11",
+      "name": "Merfolk Sovereign",
+      "scryfall_id": "d7810c40-7bb4-499f-8ad0-1d3118b451e7"
+    },
+    {
+      "id": "d792d836-54d2-42e6-8029-033ea85a77ee",
+      "set_code": "DDT",
+      "collector_number": "12",
+      "name": "Merfolk Wayfinder",
+      "scryfall_id": "acfd5dc9-affe-473c-92f6-7d0764332e7a"
+    },
+    {
+      "id": "1104f0d3-b183-412d-a99c-8aed61e0e7c7",
+      "set_code": "DDT",
+      "collector_number": "13",
+      "name": "Merrow Reejerey",
+      "scryfall_id": "fc3ad105-40eb-440b-b4ef-57f8de707f7b"
+    },
+    {
+      "id": "8c80c005-f449-40cf-bba6-ad6bcae21f59",
+      "set_code": "DDT",
+      "collector_number": "14",
+      "name": "Mind Spring",
+      "scryfall_id": "3efa29a6-64bc-4d0d-8522-b548bd18bc76"
+    },
+    {
+      "id": "c4dee405-d357-4527-9a78-2a816d870cbf",
+      "set_code": "DDT",
+      "collector_number": "15",
+      "name": "Misdirection",
+      "scryfall_id": "c96763d6-0cea-40ed-afb2-886bfebe50a0"
+    },
+    {
+      "id": "0783acd0-af1f-4eaa-a617-111783708051",
+      "set_code": "DDT",
+      "collector_number": "16",
+      "name": "Rootwater Hunter",
+      "scryfall_id": "e5858c71-0877-480c-9c46-a3fe006bf9db"
+    },
+    {
+      "id": "e4a0ff56-5161-4be4-b22f-bafe1f370a7d",
+      "set_code": "DDT",
+      "collector_number": "17",
+      "name": "Scroll Thief",
+      "scryfall_id": "a7caae7e-9b88-4428-b9e3-86cb8c84bd65"
+    },
+    {
+      "id": "0add9c11-2137-4951-83fb-624356475d90",
+      "set_code": "DDT",
+      "collector_number": "18",
+      "name": "Streambed Aquitects",
+      "scryfall_id": "fdb6b1ae-db92-447f-943a-8d33de940d44"
+    },
+    {
+      "id": "d91afaa3-424c-4809-bb3d-db9ffc383d7f",
+      "set_code": "DDT",
+      "collector_number": "19",
+      "name": "Tidal Courier",
+      "scryfall_id": "39692846-0819-42a3-af25-d9e3a4233b52"
+    },
+    {
+      "id": "aa07be6d-880d-4875-8cd2-d850854645cc",
+      "set_code": "DDT",
+      "collector_number": "20",
+      "name": "Tidal Warrior",
+      "scryfall_id": "24a16bf4-de91-49b0-bc6e-ab1d38a484e9"
+    },
+    {
+      "id": "746717ef-1a12-4ea8-b81f-6b95eea6b7f9",
+      "set_code": "DDT",
+      "collector_number": "21",
+      "name": "Tidal Wave",
+      "scryfall_id": "9898c19f-7341-4be9-b592-bac884e55c84"
+    },
+    {
+      "id": "e5acfe75-d897-45e8-ab08-9ef90440f30a",
+      "set_code": "DDT",
+      "collector_number": "22",
+      "name": "Tidebinder Mage",
+      "scryfall_id": "f6ed9fb1-de68-46ae-88d0-b3b4cd0e381e"
+    },
+    {
+      "id": "2cf00f08-6806-4575-8ca5-285f80b3123b",
+      "set_code": "DDT",
+      "collector_number": "23",
+      "name": "Triton Tactics",
+      "scryfall_id": "da8134a6-7fd7-4f41-8127-dc32400fb04b"
+    },
+    {
+      "id": "6eb50e22-ee9a-4e19-bec8-6e67a2e4c882",
+      "set_code": "DDT",
+      "collector_number": "24",
+      "name": "Wake Thrasher",
+      "scryfall_id": "7340b21f-726d-47e8-a2bf-1cde21be70f4"
+    },
+    {
+      "id": "6d6d1cb8-9ae6-449d-ab02-373dd5eef921",
+      "set_code": "DDT",
+      "collector_number": "25",
+      "name": "Cold-Eyed Selkie",
+      "scryfall_id": "0c70d33b-b898-4f0e-a133-5f003ecca6d6"
+    },
+    {
+      "id": "37a08cc9-0a02-4333-a61d-c9cb0c49ed0c",
+      "set_code": "DDT",
+      "collector_number": "26",
+      "name": "Blighted Cataract",
+      "scryfall_id": "433cfdee-7e3c-4349-aa89-7e57723d2bf8"
+    },
+    {
+      "id": "9c3e1077-65b9-4d56-acda-3326835aa9fe",
+      "set_code": "DDT",
+      "collector_number": "27",
+      "name": "Lonely Sandbar",
+      "scryfall_id": "b1c65080-fda9-4ccf-b11e-8936ea31e412"
+    },
+    {
+      "id": "47160f37-3aa9-4fe2-bda9-f762968cbb2d",
+      "set_code": "DDT",
+      "collector_number": "28",
+      "name": "Island",
+      "scryfall_id": "638b123a-b3d6-40da-ba0f-e1558e0345bf"
+    },
+    {
+      "id": "e0bf12e1-f667-48b2-843b-503f1853afc7",
+      "set_code": "DDT",
+      "collector_number": "29",
+      "name": "Island",
+      "scryfall_id": "24f308d7-afc6-43a0-8433-d9d5404eab49"
+    },
+    {
+      "id": "7e165d3d-39f4-4ce9-9a1c-e2cf292bcc7d",
+      "set_code": "DDT",
+      "collector_number": "30",
+      "name": "Island",
+      "scryfall_id": "920abf92-da69-4ff0-9b4a-571e1567f254"
+    },
+    {
+      "id": "a1bb1dd9-de8f-4558-a413-a6af3b023047",
+      "set_code": "DDT",
+      "collector_number": "31",
+      "name": "Island",
+      "scryfall_id": "2bd41018-2eb1-4aac-a5dc-1f95ae6a46de"
+    },
+    {
+      "id": "48792703-f8d2-446e-93b6-526e4135bf22",
+      "set_code": "DDT",
+      "collector_number": "32",
+      "name": "Warren Instigator",
+      "scryfall_id": "a47fe35f-859c-4663-a4dd-f7ca38e1099a"
+    },
+    {
+      "id": "267e0756-2eea-4ce8-9f03-299d34c87df5",
+      "set_code": "DDT",
+      "collector_number": "33",
+      "name": "Battle Squadron",
+      "scryfall_id": "01c3c73d-03e8-4afc-bbfd-08fc87808012"
+    },
+    {
+      "id": "e24d6468-7af1-4971-a9d5-58b9ea67198a",
+      "set_code": "DDT",
+      "collector_number": "34",
+      "name": "Boggart Brute",
+      "scryfall_id": "cdead626-a901-40c8-b887-8597d10ba221"
+    },
+    {
+      "id": "dfaa0d72-5cb8-4376-bdfb-fc28063216fb",
+      "set_code": "DDT",
+      "collector_number": "35",
+      "name": "Brute Strength",
+      "scryfall_id": "7776b3cb-0410-4d9c-958f-3ea042f9eaea"
+    },
+    {
+      "id": "6512a488-4d7a-40c8-9ab2-ef9882020cad",
+      "set_code": "DDT",
+      "collector_number": "36",
+      "name": "Cleaver Riot",
+      "scryfall_id": "93930452-af89-42b3-b668-5d4f0a607d4f"
+    },
+    {
+      "id": "0078091e-2647-4308-ab20-665d2733ab3b",
+      "set_code": "DDT",
+      "collector_number": "37",
+      "name": "Ember Hauler",
+      "scryfall_id": "babc879f-65f4-4de9-a3fc-57debcdb8298"
+    },
+    {
+      "id": "af5ea60e-50a3-4c4a-947f-0be112017e2a",
+      "set_code": "DDT",
+      "collector_number": "38",
+      "name": "Foundry Street Denizen",
+      "scryfall_id": "a328c8d8-a404-43b5-8c79-2e79d639fb40"
+    },
+    {
+      "id": "dc4b527d-acd5-44bc-bf01-7f4098354e79",
+      "set_code": "DDT",
+      "collector_number": "39",
+      "name": "Gempalm Incinerator",
+      "scryfall_id": "909ac95c-ee41-482c-8b4d-196fe0d5b3c1"
+    },
+    {
+      "id": "43bd22a3-e85d-403e-bb76-3f227a298870",
+      "set_code": "DDT",
+      "collector_number": "40",
+      "name": "Ghostfire",
+      "scryfall_id": "29739dd4-5775-4491-8245-ca2dc38a686e"
+    },
+    {
+      "id": "d5540089-bb45-49a6-be77-d4abd08dcfba",
+      "set_code": "DDT",
+      "collector_number": "41",
+      "name": "Goblin Chieftain",
+      "scryfall_id": "2947ed5b-a57d-452e-a711-a4a9d1f89af7"
+    },
+    {
+      "id": "02e4aaa3-5360-4483-a4b2-4dae8071bd66",
+      "set_code": "DDT",
+      "collector_number": "42",
+      "name": "Goblin Diplomats",
+      "scryfall_id": "4ad346cb-c3e5-4aea-8de6-bb62827e25a9"
+    },
+    {
+      "id": "3bc96bc9-99be-4cea-9409-77d8fb6c91d9",
+      "set_code": "DDT",
+      "collector_number": "43",
+      "name": "Goblin Glory Chaser",
+      "scryfall_id": "07679f88-4bbe-46e1-9b24-3b9f5670860f"
+    },
+    {
+      "id": "5bfdb0aa-e6f6-4387-b155-bbdde1c97979",
+      "set_code": "DDT",
+      "collector_number": "44",
+      "name": "Goblin Goon",
+      "scryfall_id": "a0d4d9f3-e082-4e17-9056-346aa0d12b05"
+    },
+    {
+      "id": "51783427-370d-44eb-9b5f-61895b6f5b2c",
+      "set_code": "DDT",
+      "collector_number": "45",
+      "name": "Goblin Grenade",
+      "scryfall_id": "b0e0ef27-3db2-4976-b9db-13e3d7cd795d"
+    },
+    {
+      "id": "54dddc23-24b1-4c77-ada2-60faa008c906",
+      "set_code": "DDT",
+      "collector_number": "46",
+      "name": "Goblin Rabblemaster",
+      "scryfall_id": "bce84a87-093a-42de-9696-8c3250e0f33b"
+    },
+    {
+      "id": "ed6dba88-3c39-4e6e-8f74-9d9cbb9c734d",
+      "set_code": "DDT",
+      "collector_number": "47",
+      "name": "Goblin Razerunners",
+      "scryfall_id": "8e1e4b26-0a2b-4078-adb3-1f66315afcf5"
+    },
+    {
+      "id": "726a2343-669a-4995-ae0e-7f5796ecc51a",
+      "set_code": "DDT",
+      "collector_number": "48",
+      "name": "Goblin Ringleader",
+      "scryfall_id": "3c90e9d7-6549-4291-a17a-4266c6d2e240"
+    },
+    {
+      "id": "80edf02b-3953-4ed4-83de-a85f3786c83a",
+      "set_code": "DDT",
+      "collector_number": "49",
+      "name": "Goblin Tunneler",
+      "scryfall_id": "7d1ebba6-25ed-448f-b230-7c4a0ca675fa"
+    },
+    {
+      "id": "71caf040-6f18-4027-b430-6d6b1d15a26f",
+      "set_code": "DDT",
+      "collector_number": "50",
+      "name": "Goblin Wardriver",
+      "scryfall_id": "6fb10750-4037-4630-82d3-bb068c335e48"
+    },
+    {
+      "id": "435cbde5-f3f7-4f81-9140-74525873e204",
+      "set_code": "DDT",
+      "collector_number": "51",
+      "name": "Hordeling Outburst",
+      "scryfall_id": "1cc85221-b849-414c-99e3-9b7666cc2f56"
+    },
+    {
+      "id": "a9ebc19f-289b-48c7-b788-830c94fb416e",
+      "set_code": "DDT",
+      "collector_number": "52",
+      "name": "Krenko, Mob Boss",
+      "scryfall_id": "9af7e5e7-de08-419d-8f8b-c904b397acbf"
+    },
+    {
+      "id": "4a836523-6e51-44f4-b0fc-e7673a97a67b",
+      "set_code": "DDT",
+      "collector_number": "53",
+      "name": "Krenko's Command",
+      "scryfall_id": "a1a6efce-e970-4ec3-80b4-c639d0e98186"
+    },
+    {
+      "id": "7ae72c61-76eb-4f2d-8e9d-860ada8defb7",
+      "set_code": "DDT",
+      "collector_number": "54",
+      "name": "Relentless Assault",
+      "scryfall_id": "cd7abb39-899b-43c1-907d-08b1bf2cf181"
+    },
+    {
+      "id": "138342f4-19b0-43a6-b2d8-8565c2eac6f2",
+      "set_code": "DDT",
+      "collector_number": "55",
+      "name": "Tarfire",
+      "scryfall_id": "5841e5dd-2a4a-42b9-a04f-d7c5c4840d74"
+    },
+    {
+      "id": "725b61e8-dcd7-4da5-9267-359b507ddf56",
+      "set_code": "DDT",
+      "collector_number": "56",
+      "name": "Brittle Effigy",
+      "scryfall_id": "d492418e-fce9-4333-85e7-004a06546b3c"
+    },
+    {
+      "id": "7323aede-9f3c-4e10-bd1d-baed73d7976a",
+      "set_code": "DDT",
+      "collector_number": "57",
+      "name": "Goblin Charbelcher",
+      "scryfall_id": "240344ff-404d-4894-a6e9-4401cd68cf50"
+    },
+    {
+      "id": "15fe57e6-60c5-48b0-8ffc-8c7d92c432c1",
+      "set_code": "DDT",
+      "collector_number": "58",
+      "name": "Blighted Gorge",
+      "scryfall_id": "f133ba0a-e141-4f57-9819-bc17bbacd7b3"
+    },
+    {
+      "id": "eeb2d1dc-45a4-4a88-8706-fc2e00dac512",
+      "set_code": "DDT",
+      "collector_number": "59",
+      "name": "Forgotten Cave",
+      "scryfall_id": "5da0fa81-50a8-4a98-bae4-1ffa4da2f710"
+    },
+    {
+      "id": "48dc9403-9cb6-4add-9da6-cd8feae8331c",
+      "set_code": "DDT",
+      "collector_number": "60",
+      "name": "Mountain",
+      "scryfall_id": "58b54fa5-99c0-4a2d-b36a-1c7963eeb210"
+    },
+    {
+      "id": "37274650-4924-44d8-b6c1-9ff13d4b36c2",
+      "set_code": "DDT",
+      "collector_number": "61",
+      "name": "Mountain",
+      "scryfall_id": "43fe9a90-11a0-4cc9-b337-a4da45b28ded"
+    },
+    {
+      "id": "f5975e59-2fa3-4c81-9384-986c72f7c1a8",
+      "set_code": "DDT",
+      "collector_number": "62",
+      "name": "Mountain",
+      "scryfall_id": "517ffb8e-4194-4958-85ec-b853b917764b"
+    },
+    {
+      "id": "f995ad05-c876-44f3-8435-98d0d4b708ca",
+      "set_code": "DDT",
+      "collector_number": "63",
+      "name": "Mountain",
+      "scryfall_id": "adde69b5-947f-4fe1-84fe-89cf44a35e8c"
+    }
+  ]
+}

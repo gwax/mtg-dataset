@@ -1,0 +1,442 @@
+{
+  "id": "84e05be0-e4af-4659-878b-980ead58bd31",
+  "code": "DDC",
+  "name": "Duel Decks: Divine vs. Demonic",
+  "scryfall_id": "4a1b5533-e4a3-456e-9fb1-53e754402c23",
+  "cards": [
+    {
+      "id": "2920370b-779f-40c1-8f9c-9ccb80b19731",
+      "set_code": "DDC",
+      "collector_number": "1",
+      "name": "Akroma, Angel of Wrath",
+      "scryfall_id": "6c8cc721-7a7e-4cda-817e-30e5e6cb4929"
+    },
+    {
+      "id": "4b122d8b-451e-4e51-8eb2-fc90a579fd33",
+      "set_code": "DDC",
+      "collector_number": "2",
+      "name": "Icatian Priest",
+      "scryfall_id": "afaffa1d-bdc5-49ae-bcb9-2745a512a0d3"
+    },
+    {
+      "id": "9a9290e5-c29f-493a-9535-e3479aefe6af",
+      "set_code": "DDC",
+      "collector_number": "3",
+      "name": "Angelic Page",
+      "scryfall_id": "98d96a8e-afce-47c5-890c-29a08f875300"
+    },
+    {
+      "id": "8fb02cf5-b97f-4e60-9778-9c45e28e827c",
+      "set_code": "DDC",
+      "collector_number": "4",
+      "name": "Charging Paladin",
+      "scryfall_id": "2c37f466-b78b-49a8-8e91-539a1bba63b2"
+    },
+    {
+      "id": "ef14ede8-7a86-431a-a178-2c75a0cf6b15",
+      "set_code": "DDC",
+      "collector_number": "5",
+      "name": "Venerable Monk",
+      "scryfall_id": "3bd7e791-61c7-4914-8085-d94f2b8bc3c9"
+    },
+    {
+      "id": "a25f1d7f-bd63-4d82-9788-653554dedd6c",
+      "set_code": "DDC",
+      "collector_number": "6",
+      "name": "Angelic Protector",
+      "scryfall_id": "9820b4e0-300f-4dce-9f25-e8f59cdd10e0"
+    },
+    {
+      "id": "7ef3fa4a-510e-4301-b3a2-620fdc79c890",
+      "set_code": "DDC",
+      "collector_number": "7",
+      "name": "Serra Advocate",
+      "scryfall_id": "c9af4bd6-33fb-4153-b1a5-7496dcf3c806"
+    },
+    {
+      "id": "f0745003-8457-4c95-96dd-cf6df9e20279",
+      "set_code": "DDC",
+      "collector_number": "8",
+      "name": "Sustainer of the Realm",
+      "scryfall_id": "ff4226fb-2152-48a4-aa58-896138b68b4c"
+    },
+    {
+      "id": "fc31771d-d6de-4c20-8457-667500fe019c",
+      "set_code": "DDC",
+      "collector_number": "9",
+      "name": "Angel of Mercy",
+      "scryfall_id": "73d95453-8e10-4a62-9fa8-1e079b63c4cb"
+    },
+    {
+      "id": "6578b8be-9da6-47a1-b408-431780fab8c7",
+      "set_code": "DDC",
+      "collector_number": "10",
+      "name": "Serra Angel",
+      "scryfall_id": "27c4f032-0a26-4d21-906f-dd80310a14b8"
+    },
+    {
+      "id": "3d1fb51c-0002-4e5f-97c4-d3d35334266e",
+      "set_code": "DDC",
+      "collector_number": "11",
+      "name": "Twilight Shepherd",
+      "scryfall_id": "fc07a05c-7dad-4d51-be5f-6ba61b384333"
+    },
+    {
+      "id": "11a4be6b-3be3-4c5c-850b-7f01dfd4dcfd",
+      "set_code": "DDC",
+      "collector_number": "12",
+      "name": "Luminous Angel",
+      "scryfall_id": "61834f64-3114-44ee-9947-ae35504ae220"
+    },
+    {
+      "id": "60104564-8c39-456b-b8a4-d2c4e86369a8",
+      "set_code": "DDC",
+      "collector_number": "13",
+      "name": "Reya Dawnbringer",
+      "scryfall_id": "7ee7d4a5-25ee-4efe-bfd3-75873a1e83f3"
+    },
+    {
+      "id": "bbd21beb-79bf-4382-adf0-1d962e6400ec",
+      "set_code": "DDC",
+      "collector_number": "14",
+      "name": "Healing Salve",
+      "scryfall_id": "ae782efc-5e33-4eb2-972a-d6d03b9845fa"
+    },
+    {
+      "id": "45b1a111-d1ed-4de4-b688-f656267ae1bf",
+      "set_code": "DDC",
+      "collector_number": "15",
+      "name": "Angelsong",
+      "scryfall_id": "8668c8c0-5cd8-4000-900a-d36ad2f1db99"
+    },
+    {
+      "id": "c8fc6c96-67e8-42f8-b3b0-d4f99ec4b801",
+      "set_code": "DDC",
+      "collector_number": "16",
+      "name": "Otherworldly Journey",
+      "scryfall_id": "5c6b56f5-18f2-4efc-9963-2d1b44827aac"
+    },
+    {
+      "id": "76998965-c777-4971-8bb4-5f2766c1aa02",
+      "set_code": "DDC",
+      "collector_number": "17",
+      "name": "Pacifism",
+      "scryfall_id": "296359f9-e236-410c-9efe-40089f1607c5"
+    },
+    {
+      "id": "0b7ad33c-a452-423f-adfc-9a85505fc35c",
+      "set_code": "DDC",
+      "collector_number": "18",
+      "name": "Serra's Boon",
+      "scryfall_id": "881aae7e-1458-4b0c-b991-82ed93f7932a"
+    },
+    {
+      "id": "b5e8d977-654c-4bb0-bf92-59899754b71c",
+      "set_code": "DDC",
+      "collector_number": "19",
+      "name": "Angelic Benediction",
+      "scryfall_id": "5452d4a3-0f0e-4c97-b272-786f0f9c5adc"
+    },
+    {
+      "id": "2883d01a-a1aa-476e-9364-a766c8dc0303",
+      "set_code": "DDC",
+      "collector_number": "20",
+      "name": "Faith's Fetters",
+      "scryfall_id": "c183a894-c06b-4941-97a2-f4f80da491a0"
+    },
+    {
+      "id": "11427ab5-19ff-4bca-b11d-5ea5fe749873",
+      "set_code": "DDC",
+      "collector_number": "21",
+      "name": "Serra's Embrace",
+      "scryfall_id": "0c4ba0a5-2d4f-478d-897d-7206b9449911"
+    },
+    {
+      "id": "919d55ad-8636-4053-9f76-4ffec9089f53",
+      "set_code": "DDC",
+      "collector_number": "22",
+      "name": "Righteous Cause",
+      "scryfall_id": "ff5150b6-fd97-445f-a726-6338e43cdeb5"
+    },
+    {
+      "id": "4b05e753-574c-4188-80ff-ab1c7fe15b1f",
+      "set_code": "DDC",
+      "collector_number": "23",
+      "name": "Angel's Feather",
+      "scryfall_id": "abbb7db8-2290-41bc-be5a-507604ad08e8"
+    },
+    {
+      "id": "a9bd53be-07e4-4dd6-82c1-b08dc2c8934c",
+      "set_code": "DDC",
+      "collector_number": "24",
+      "name": "Marble Diamond",
+      "scryfall_id": "bce81713-109e-460e-a63a-b19a4b85d39f"
+    },
+    {
+      "id": "5fbf2ac1-b696-4a8d-8cba-f897a8a3729a",
+      "set_code": "DDC",
+      "collector_number": "25",
+      "name": "Secluded Steppe",
+      "scryfall_id": "6cb64234-41a3-4b73-b147-e1bf3d61de8e"
+    },
+    {
+      "id": "4b4ed3d7-64ba-46ad-b37a-0f5ca892453d",
+      "set_code": "DDC",
+      "collector_number": "26",
+      "name": "Plains",
+      "scryfall_id": "dc34d24d-9c1e-45a5-8d0e-ccef1211906f"
+    },
+    {
+      "id": "b13ef665-e5c8-4391-9ae3-016236549db9",
+      "set_code": "DDC",
+      "collector_number": "27",
+      "name": "Plains",
+      "scryfall_id": "6e4454b1-ec19-4917-915b-0c913964e9e9"
+    },
+    {
+      "id": "acf7f8b8-ced9-421f-b664-2203b7704e6c",
+      "set_code": "DDC",
+      "collector_number": "28",
+      "name": "Plains",
+      "scryfall_id": "58ba055f-18fd-4981-b181-85729e19112d"
+    },
+    {
+      "id": "35ab197e-7901-430a-9f2a-185fbeba74e8",
+      "set_code": "DDC",
+      "collector_number": "29",
+      "name": "Plains",
+      "scryfall_id": "4f10be33-bbf8-4b38-bb27-024c2d8dac7a"
+    },
+    {
+      "id": "b10a10b7-29de-44e0-a040-53749742a1f8",
+      "set_code": "DDC",
+      "collector_number": "30",
+      "name": "Lord of the Pit",
+      "scryfall_id": "b53cde03-6f3b-443c-9f55-1f8de24c1722"
+    },
+    {
+      "id": "5d602b2b-1c40-41b3-93be-a86ecdfaab4a",
+      "set_code": "DDC",
+      "collector_number": "31",
+      "name": "Abyssal Gatekeeper",
+      "scryfall_id": "506ae06e-cf80-4efa-8c54-022b65b2495f"
+    },
+    {
+      "id": "89764b7b-78d9-4f6e-8c4a-03720037a20b",
+      "set_code": "DDC",
+      "collector_number": "32",
+      "name": "Foul Imp",
+      "scryfall_id": "ece67927-02db-44da-b074-243f2e053bb7"
+    },
+    {
+      "id": "dd7ba040-1d30-4e52-b4ea-b66a0f21d16a",
+      "set_code": "DDC",
+      "collector_number": "33",
+      "name": "Daggerclaw Imp",
+      "scryfall_id": "b3212559-0af0-4d07-9be1-badabfc5231f"
+    },
+    {
+      "id": "c4cfbdd8-95e6-4690-9132-5eec2c3baf87",
+      "set_code": "DDC",
+      "collector_number": "34",
+      "name": "Dusk Imp",
+      "scryfall_id": "337fb10f-ecea-4c4e-a0bc-55b821cae4b3"
+    },
+    {
+      "id": "21e0c218-5474-4b18-a146-5677b703bdd7",
+      "set_code": "DDC",
+      "collector_number": "35",
+      "name": "Overeager Apprentice",
+      "scryfall_id": "e6b8ec5d-cc73-41be-bdea-51474c3a9fa6"
+    },
+    {
+      "id": "95cfb7f9-71b5-49a6-a69b-411914671bf8",
+      "set_code": "DDC",
+      "collector_number": "36",
+      "name": "Stinkweed Imp",
+      "scryfall_id": "79c0efd5-4140-4710-9e02-87d5394aa902"
+    },
+    {
+      "id": "436bb44d-48eb-41d3-9a96-37a132e51205",
+      "set_code": "DDC",
+      "collector_number": "37",
+      "name": "Soot Imp",
+      "scryfall_id": "a06f73a0-e08f-48e6-9234-28d89bd53273"
+    },
+    {
+      "id": "8cd9af74-d08d-4a9d-9b94-1f1e44a2aab8",
+      "set_code": "DDC",
+      "collector_number": "38",
+      "name": "Demon's Jester",
+      "scryfall_id": "e18c76f6-5fca-4910-a9db-8a0ba72cf28b"
+    },
+    {
+      "id": "1f3f1f3c-a6a5-46eb-921d-8b23b68d77f6",
+      "set_code": "DDC",
+      "collector_number": "39",
+      "name": "Souldrinker",
+      "scryfall_id": "dd2c9b9c-552b-41a9-85a4-83c0a48f3bfa"
+    },
+    {
+      "id": "18df3bed-4838-42d4-bde8-ea4b715e99dd",
+      "set_code": "DDC",
+      "collector_number": "40",
+      "name": "Abyssal Specter",
+      "scryfall_id": "478240fd-864f-451d-9583-1f46f98f7f2e"
+    },
+    {
+      "id": "fb08a2f5-3b8e-4df3-9fde-d343225942ac",
+      "set_code": "DDC",
+      "collector_number": "41",
+      "name": "Cackling Imp",
+      "scryfall_id": "ecae92e2-e2d0-4f32-b90b-3762e7c0e11d"
+    },
+    {
+      "id": "e782fd2f-8de2-46a0-9bed-92f620f54292",
+      "set_code": "DDC",
+      "collector_number": "42",
+      "name": "Fallen Angel",
+      "scryfall_id": "a0987469-20dd-4c42-9047-4ff0a7e1761f"
+    },
+    {
+      "id": "2eccff04-e266-4fcb-a339-debbf145ec6a",
+      "set_code": "DDC",
+      "collector_number": "43",
+      "name": "Reiver Demon",
+      "scryfall_id": "c8a2f9f9-52d5-4cd4-894f-bcb86c5c085b"
+    },
+    {
+      "id": "68ec550e-675f-4198-8355-6a347af2e7a9",
+      "set_code": "DDC",
+      "collector_number": "44",
+      "name": "Kuro, Pitlord",
+      "scryfall_id": "69436458-c449-43ab-9ff7-5109b5695a6d"
+    },
+    {
+      "id": "19be0a69-e045-4465-bc71-3b9ddced3d3d",
+      "set_code": "DDC",
+      "collector_number": "45",
+      "name": "Dark Ritual",
+      "scryfall_id": "c825f254-6f22-4610-85be-4d04275e6601"
+    },
+    {
+      "id": "b19836a1-ff31-4193-917d-32ac78ad2b8b",
+      "set_code": "DDC",
+      "collector_number": "46",
+      "name": "Duress",
+      "scryfall_id": "c9f72fea-b4f9-4963-997e-e9ef2aca498a"
+    },
+    {
+      "id": "2e6f32bc-f613-48fa-857e-a52ef399f752",
+      "set_code": "DDC",
+      "collector_number": "47",
+      "name": "Unholy Strength",
+      "scryfall_id": "47c22b98-70f9-43e6-a26b-53fb81b1c548"
+    },
+    {
+      "id": "e376309f-419b-40fe-bdbf-cc248680bb30",
+      "set_code": "DDC",
+      "collector_number": "48",
+      "name": "Cruel Edict",
+      "scryfall_id": "19ac44d0-f648-4a84-ac70-f840fe3cf82c"
+    },
+    {
+      "id": "e1cc290b-f3e7-4f54-8445-5fa1d92ecb01",
+      "set_code": "DDC",
+      "collector_number": "49",
+      "name": "Demonic Tutor",
+      "scryfall_id": "c1e5fbc6-d129-4843-96a5-ee4406b2700f"
+    },
+    {
+      "id": "87cb4649-6530-423f-b012-845f96cb14be",
+      "set_code": "DDC",
+      "collector_number": "50",
+      "name": "Dark Banishing",
+      "scryfall_id": "7c1d966b-7527-4620-9ce4-7e6a0864f93a"
+    },
+    {
+      "id": "5dab9b37-13f5-46b8-b355-0dba4f28b793",
+      "set_code": "DDC",
+      "collector_number": "51",
+      "name": "Oni Possession",
+      "scryfall_id": "1e91bd19-e9b0-45df-98da-a2e93239222f"
+    },
+    {
+      "id": "91744cb1-9d2f-48b8-9428-afefd8ac21bb",
+      "set_code": "DDC",
+      "collector_number": "52",
+      "name": "Barter in Blood",
+      "scryfall_id": "5195dfe0-9821-4df9-accb-d2858927a646"
+    },
+    {
+      "id": "fd4f6d59-2875-4a8b-b1fb-b5dff71b8cd3",
+      "set_code": "DDC",
+      "collector_number": "53",
+      "name": "Breeding Pit",
+      "scryfall_id": "61f3353c-8894-4410-8ccb-76b3061fc91d"
+    },
+    {
+      "id": "b787a6fe-438d-43f9-bd0c-a42be6b42755",
+      "set_code": "DDC",
+      "collector_number": "54",
+      "name": "Promise of Power",
+      "scryfall_id": "8be2edf8-4461-404e-902a-d5d398670221"
+    },
+    {
+      "id": "50f6ddc7-3b24-4d46-aed7-4c59f9c5ed51",
+      "set_code": "DDC",
+      "collector_number": "55",
+      "name": "Corrupt",
+      "scryfall_id": "5a8f58d6-aebb-4472-a854-134710c9fadb"
+    },
+    {
+      "id": "7b8f6812-7bce-4e0e-854e-efaafaa5c05d",
+      "set_code": "DDC",
+      "collector_number": "56",
+      "name": "Consume Spirit",
+      "scryfall_id": "253c1d49-9ebf-4970-a1b5-0c960d9bf71c"
+    },
+    {
+      "id": "b2dd675c-1475-474a-8f55-1805c59d3fc6",
+      "set_code": "DDC",
+      "collector_number": "57",
+      "name": "Demon's Horn",
+      "scryfall_id": "19725dbe-1d23-439a-aa94-a8ec5c593a28"
+    },
+    {
+      "id": "0e5d7059-9bbb-4851-94a3-4d40c7b88efd",
+      "set_code": "DDC",
+      "collector_number": "58",
+      "name": "Barren Moor",
+      "scryfall_id": "0afb57ba-9698-4978-992b-0afa12982af4"
+    },
+    {
+      "id": "7a992d20-6589-4d66-90d9-7d24c92fe293",
+      "set_code": "DDC",
+      "collector_number": "59",
+      "name": "Swamp",
+      "scryfall_id": "f097d952-b3c5-4cce-8ca3-36c1ab0cf538"
+    },
+    {
+      "id": "82c7a95b-b0a4-4660-a82f-ede7348ff5b2",
+      "set_code": "DDC",
+      "collector_number": "60",
+      "name": "Swamp",
+      "scryfall_id": "9a50165d-2ee4-4d7b-be20-d326b8bc0728"
+    },
+    {
+      "id": "180fb710-eef3-41b6-85d4-5391211cdc5a",
+      "set_code": "DDC",
+      "collector_number": "61",
+      "name": "Swamp",
+      "scryfall_id": "b5f7cc91-e555-4f40-82db-12ffc74dfc6d"
+    },
+    {
+      "id": "051ea9f3-2ea1-4609-9ff8-b928acfea086",
+      "set_code": "DDC",
+      "collector_number": "62",
+      "name": "Swamp",
+      "scryfall_id": "833f9340-4600-4e11-876b-93b80387c895"
+    }
+  ]
+}

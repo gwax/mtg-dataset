@@ -1,0 +1,2178 @@
+{
+  "id": "b9be8944-cf7c-40fb-9ce2-a14059c9da2a",
+  "code": "LEG",
+  "name": "Legends",
+  "scryfall_id": "78c50b4b-b220-455b-a2d5-cee458fa56f3",
+  "cards": [
+    {
+      "id": "79048fa1-c958-40bc-a61c-a444ad9325af",
+      "set_code": "LEG",
+      "collector_number": "1",
+      "name": "Akron Legionnaire",
+      "scryfall_id": "5d074af2-8dbd-42d3-87eb-30f6e7d171ff"
+    },
+    {
+      "id": "d7dd2d6c-76f2-4bd8-9a32-81ed346b9ec6",
+      "set_code": "LEG",
+      "collector_number": "2",
+      "name": "Alabaster Potion",
+      "scryfall_id": "2806c7f6-8fdd-4e65-9c71-f2e8b0cdede2"
+    },
+    {
+      "id": "552fcc20-ff23-4c1e-a750-186b3c258d63",
+      "set_code": "LEG",
+      "collector_number": "3",
+      "name": "Amrou Kithkin",
+      "scryfall_id": "cbce1c55-123c-4a05-bde4-18a1601fcc5a"
+    },
+    {
+      "id": "d8ffa0b1-b8b9-4649-8ad5-08172315334d",
+      "set_code": "LEG",
+      "collector_number": "4",
+      "name": "Angelic Voices",
+      "scryfall_id": "8068c263-e5fa-4449-8887-418e9d0a4da4"
+    },
+    {
+      "id": "003ec3c1-b19e-46e8-ba94-8976f2a55db3",
+      "set_code": "LEG",
+      "collector_number": "5",
+      "name": "Cleanse",
+      "scryfall_id": "2fbd611b-ac97-4516-bad7-cc9ee4ef74f7"
+    },
+    {
+      "id": "fb5b3460-2aa9-4b09-92cf-da6922b2d82e",
+      "set_code": "LEG",
+      "collector_number": "6",
+      "name": "Clergy of the Holy Nimbus",
+      "scryfall_id": "db1f578f-fa3b-4447-953b-1490852b6c80"
+    },
+    {
+      "id": "22908ef7-f3fb-472d-bbce-78398c741e26",
+      "set_code": "LEG",
+      "collector_number": "7",
+      "name": "D'Avenant Archer",
+      "scryfall_id": "b09aee5c-8b9e-46c2-b4d4-508062f8af05"
+    },
+    {
+      "id": "a938ffb4-3a47-4035-a328-64c414d5b182",
+      "set_code": "LEG",
+      "collector_number": "8",
+      "name": "Divine Intervention",
+      "scryfall_id": "9eae0ba1-1383-4505-b4e7-4f17dd8f20c5"
+    },
+    {
+      "id": "f0788bdf-6be3-408c-996e-4572e8b95910",
+      "set_code": "LEG",
+      "collector_number": "9",
+      "name": "Divine Offering",
+      "scryfall_id": "9c78c2f3-2f40-48ad-9dc4-55d1fa399a56"
+    },
+    {
+      "id": "c42b1cbf-b932-4ff0-826a-634f4f32fcbf",
+      "set_code": "LEG",
+      "collector_number": "10",
+      "name": "Divine Transformation",
+      "scryfall_id": "a89ad9fd-33a6-4d31-9f4c-8bf192882f21"
+    },
+    {
+      "id": "50a7ce87-6fce-4c16-bb1f-7c082dce20b6",
+      "set_code": "LEG",
+      "collector_number": "11",
+      "name": "Elder Land Wurm",
+      "scryfall_id": "ef3651d4-969c-464d-a444-40a640d0c6ba"
+    },
+    {
+      "id": "1be33a28-6208-4dbf-b3a6-3420edc2179d",
+      "set_code": "LEG",
+      "collector_number": "12",
+      "name": "Enchanted Being",
+      "scryfall_id": "94c2880d-b37a-43ea-9fee-cd5a8ed75a7e"
+    },
+    {
+      "id": "3348f8c6-5311-44ce-95b5-c265143e82d5",
+      "set_code": "LEG",
+      "collector_number": "13",
+      "name": "Equinox",
+      "scryfall_id": "840c6586-a7a9-4ae8-96be-a995a0693eb6"
+    },
+    {
+      "id": "b1bfec3a-f842-4723-8b51-829a85ef689e",
+      "set_code": "LEG",
+      "collector_number": "14",
+      "name": "Fortified Area",
+      "scryfall_id": "dc64f19c-5b2b-4697-b4dc-2be9c3790794"
+    },
+    {
+      "id": "06a1b153-3fbd-461f-a4ec-fc871f0619ac",
+      "set_code": "LEG",
+      "collector_number": "15",
+      "name": "Glyph of Life",
+      "scryfall_id": "ba1384e5-d140-4074-9548-250af09cb413"
+    },
+    {
+      "id": "f0f49109-71e6-4271-bee9-926cfaebb877",
+      "set_code": "LEG",
+      "collector_number": "16",
+      "name": "Great Defender",
+      "scryfall_id": "879a8653-1538-4f78-a3d3-a900a4d9499b"
+    },
+    {
+      "id": "9fcc4ff2-eeb3-45cb-9aab-58de1c2a9540",
+      "set_code": "LEG",
+      "collector_number": "17",
+      "name": "Great Wall",
+      "scryfall_id": "cd860a1d-aa17-4579-b9b1-d101d2416387"
+    },
+    {
+      "id": "c8c53adf-7991-4e59-8cfa-ec3145819bcf",
+      "set_code": "LEG",
+      "collector_number": "18",
+      "name": "Greater Realm of Preservation",
+      "scryfall_id": "5e236816-0c49-4b48-b18b-03add5a80d72"
+    },
+    {
+      "id": "59aa6c05-4d3e-4578-94ea-fdecdc774c6c",
+      "set_code": "LEG",
+      "collector_number": "19",
+      "name": "Heaven's Gate",
+      "scryfall_id": "461d7c11-3a7d-42c2-bb6b-0a43779e6842"
+    },
+    {
+      "id": "4e2da2ae-2efc-4426-bc34-f3ca9b6a033a",
+      "set_code": "LEG",
+      "collector_number": "20",
+      "name": "Holy Day",
+      "scryfall_id": "f6c95a2b-bf44-4ff2-9c6a-916773346edd"
+    },
+    {
+      "id": "7ce4be67-5081-4080-bf31-32bbe6b56b9f",
+      "set_code": "LEG",
+      "collector_number": "21",
+      "name": "Indestructible Aura",
+      "scryfall_id": "ed2a7333-c9ce-4011-b00e-1304e1eec25e"
+    },
+    {
+      "id": "895432b5-d2b9-462a-9918-bafa9bce7ad4",
+      "set_code": "LEG",
+      "collector_number": "22",
+      "name": "Infinite Authority",
+      "scryfall_id": "dc60077f-d577-4a6c-a78f-697317024c40"
+    },
+    {
+      "id": "ef4d0ce7-c644-4b4d-97cf-6810afa1995c",
+      "set_code": "LEG",
+      "collector_number": "23",
+      "name": "Ivory Guardians",
+      "scryfall_id": "9bf9cccd-fe97-4632-a90a-9eeb0d41135e"
+    },
+    {
+      "id": "7ce2f127-b229-4871-8438-9726bc19c849",
+      "set_code": "LEG",
+      "collector_number": "24",
+      "name": "Keepers of the Faith",
+      "scryfall_id": "b63a69ae-99ce-4d26-88b7-784793c43cd4"
+    },
+    {
+      "id": "0ffd2acd-a384-44a3-bec4-e8997d9b14d5",
+      "set_code": "LEG",
+      "collector_number": "25",
+      "name": "Kismet",
+      "scryfall_id": "7e0651ad-6901-4f9b-8807-d66e53a4ada8"
+    },
+    {
+      "id": "aeba7c33-afb7-49ad-b139-9cfb7d1da2db",
+      "set_code": "LEG",
+      "collector_number": "26",
+      "name": "Land Tax",
+      "scryfall_id": "d53b20b0-67bc-4587-817b-efbf21cb2512"
+    },
+    {
+      "id": "68210d6a-fcf0-442d-9eb7-92754071564e",
+      "set_code": "LEG",
+      "collector_number": "27",
+      "name": "Lifeblood",
+      "scryfall_id": "4ecb1362-9a67-4d4c-8d69-9ac2ebf4d0b0"
+    },
+    {
+      "id": "2ceae557-68a1-4f43-8e7e-06086902a212",
+      "set_code": "LEG",
+      "collector_number": "28",
+      "name": "Moat",
+      "scryfall_id": "952ba126-0915-47f0-9b6a-a0a6dcd22c6f"
+    },
+    {
+      "id": "9ba94b29-49f9-4bfc-942e-eafe82480540",
+      "set_code": "LEG",
+      "collector_number": "29",
+      "name": "Osai Vultures",
+      "scryfall_id": "f85614b3-62a3-4da9-a74a-7ea40fad1b52"
+    },
+    {
+      "id": "947c5f5f-dcd6-4402-a84c-dc4f22a4e0ce",
+      "set_code": "LEG",
+      "collector_number": "30",
+      "name": "Petra Sphinx",
+      "scryfall_id": "5ef99f07-c987-451a-b18a-2719eea654cd"
+    },
+    {
+      "id": "cab30e76-23ab-4c89-8218-677a516abc28",
+      "set_code": "LEG",
+      "collector_number": "31",
+      "name": "Presence of the Master",
+      "scryfall_id": "1cb86b2f-116d-4952-b35a-1398341baaf5"
+    },
+    {
+      "id": "4683af68-99e7-42cc-873d-d23241e15dbf",
+      "set_code": "LEG",
+      "collector_number": "32",
+      "name": "Rapid Fire",
+      "scryfall_id": "e26e7c9c-e6de-47f4-8394-7e853408f84c"
+    },
+    {
+      "id": "4505cc3c-935b-4afc-bdce-d73b18e094f6",
+      "set_code": "LEG",
+      "collector_number": "33",
+      "name": "Remove Enchantments",
+      "scryfall_id": "bf2e3a8a-b386-474d-b8e9-4c2d56a2b742"
+    },
+    {
+      "id": "b6a483b7-a98b-47e1-b40a-1d4b8684e367",
+      "set_code": "LEG",
+      "collector_number": "34",
+      "name": "Righteous Avengers",
+      "scryfall_id": "d96b463e-9579-4e7b-87c2-342527b91e7c"
+    },
+    {
+      "id": "48ab1e17-17f9-4adb-a7cf-76c46c08b5bc",
+      "set_code": "LEG",
+      "collector_number": "35",
+      "name": "Seeker",
+      "scryfall_id": "df608b59-cc07-4e1d-b6d6-f15e69b15b92"
+    },
+    {
+      "id": "8775c0e6-9cd0-4e12-bf5e-bfee5dc651bd",
+      "set_code": "LEG",
+      "collector_number": "36",
+      "name": "Shield Wall",
+      "scryfall_id": "a5032bf0-f9c0-4ef0-8ec2-fe7ccea9bdf3"
+    },
+    {
+      "id": "f5e7b2d4-0ce7-43bc-b19b-0795640b43ff",
+      "set_code": "LEG",
+      "collector_number": "37",
+      "name": "Spirit Link",
+      "scryfall_id": "5e2d35f8-3cf6-4843-9030-0e9a885d836c"
+    },
+    {
+      "id": "fcc40abb-23a9-4201-860a-211e75a9953c",
+      "set_code": "LEG",
+      "collector_number": "38",
+      "name": "Spiritual Sanctuary",
+      "scryfall_id": "654dd1e0-a91d-44ee-af20-c025bf360c3f"
+    },
+    {
+      "id": "cd1bce2e-9b1f-4b5a-9bf5-b6ef0b4d5c63",
+      "set_code": "LEG",
+      "collector_number": "39",
+      "name": "Thunder Spirit",
+      "scryfall_id": "61a59775-b1cd-4ed0-8abf-c2b37f7be0d5"
+    },
+    {
+      "id": "f860e998-0df5-4843-8f0d-876d177523e4",
+      "set_code": "LEG",
+      "collector_number": "40",
+      "name": "Tundra Wolves",
+      "scryfall_id": "8f649cb5-e19c-453f-b062-4fd452d92257"
+    },
+    {
+      "id": "e7fae168-dbb0-4194-b7df-de1bc73356cd",
+      "set_code": "LEG",
+      "collector_number": "41",
+      "name": "Visions",
+      "scryfall_id": "21d00299-e183-4b3d-b015-18808e7135b9"
+    },
+    {
+      "id": "9f5289a4-beb0-4219-8787-9ea7db84807c",
+      "set_code": "LEG",
+      "collector_number": "42",
+      "name": "Wall of Caltrops",
+      "scryfall_id": "664ad588-3002-4f63-93bd-38663171018f"
+    },
+    {
+      "id": "e7d47918-4ae9-42cf-9461-a95e065dd1e1",
+      "set_code": "LEG",
+      "collector_number": "43",
+      "name": "Wall of Light",
+      "scryfall_id": "f5758e82-f901-42b7-b705-0e68ca7ba59e"
+    },
+    {
+      "id": "accf8d04-fae7-48c0-a32d-e11016bfb7ff",
+      "set_code": "LEG",
+      "collector_number": "44",
+      "name": "Acid Rain",
+      "scryfall_id": "ba93c50a-2440-4e92-9cba-d97e20b1d29c"
+    },
+    {
+      "id": "e487b089-c347-4772-ade5-a022c200fdc5",
+      "set_code": "LEG",
+      "collector_number": "45",
+      "name": "Anti-Magic Aura",
+      "scryfall_id": "ff78eef1-efaa-4a12-bf5d-fec83c14aff8"
+    },
+    {
+      "id": "a0458319-db23-4591-9b8a-ddf055042251",
+      "set_code": "LEG",
+      "collector_number": "46",
+      "name": "Azure Drake",
+      "scryfall_id": "fb5f13a2-0896-4230-8957-6ad1cb2b895b"
+    },
+    {
+      "id": "50f61285-ee9a-41ff-99d0-21a944b94302",
+      "set_code": "LEG",
+      "collector_number": "47",
+      "name": "Backfire",
+      "scryfall_id": "04bc57aa-d4d9-4bd9-ba09-984370c7e23b"
+    },
+    {
+      "id": "5cfddb83-1d1a-4f07-ba74-b755efa5b767",
+      "set_code": "LEG",
+      "collector_number": "48",
+      "name": "Boomerang",
+      "scryfall_id": "b8286edd-644b-4135-8dca-af97f3920de3"
+    },
+    {
+      "id": "dd26e818-13bc-46c4-b885-18ca129c5786",
+      "set_code": "LEG",
+      "collector_number": "49",
+      "name": "Brine Hag",
+      "scryfall_id": "2a1e7796-fbfb-4976-879f-bb748429d5c7"
+    },
+    {
+      "id": "bbaa1f4f-de32-48b0-8876-f02424d708fa",
+      "set_code": "LEG",
+      "collector_number": "50",
+      "name": "Devouring Deep",
+      "scryfall_id": "0855a5a8-8c40-4396-9ad1-8fa0fc6a0c59"
+    },
+    {
+      "id": "4c833fc9-65cf-40c5-b0b3-0ff2e3ee2c80",
+      "set_code": "LEG",
+      "collector_number": "51",
+      "name": "Dream Coat",
+      "scryfall_id": "07edbbf4-c3d6-4ec1-ae9b-4ae202fb6998"
+    },
+    {
+      "id": "3ae501d5-d78a-4b0c-9837-a787caf1340c",
+      "set_code": "LEG",
+      "collector_number": "52",
+      "name": "Elder Spawn",
+      "scryfall_id": "99cc045e-01a8-4f14-a86d-0a67ec35d6b7"
+    },
+    {
+      "id": "109a44b0-4546-4bdb-ba09-33666e249033",
+      "set_code": "LEG",
+      "collector_number": "53",
+      "name": "Enchantment Alteration",
+      "scryfall_id": "bf52f8a0-d027-47f1-bb91-508ef1a74409"
+    },
+    {
+      "id": "67fd2c71-0c29-439c-936b-5835bd6b791b",
+      "set_code": "LEG",
+      "collector_number": "54",
+      "name": "Energy Tap",
+      "scryfall_id": "37e69940-bdc8-48ff-a296-540343910adf"
+    },
+    {
+      "id": "6c7164fc-cd2b-4c74-8a67-9842f76c670f",
+      "set_code": "LEG",
+      "collector_number": "55",
+      "name": "Field of Dreams",
+      "scryfall_id": "6a63e119-3b1b-4964-a4b9-b10170ff542b"
+    },
+    {
+      "id": "51e67095-0bed-4b74-8c51-7f874e2ba1eb",
+      "set_code": "LEG",
+      "collector_number": "56",
+      "name": "Flash Counter",
+      "scryfall_id": "3c3cd450-f1cd-416b-9271-37d95815c089"
+    },
+    {
+      "id": "56274a16-6f59-4a3c-a389-959169433f64",
+      "set_code": "LEG",
+      "collector_number": "57",
+      "name": "Flash Flood",
+      "scryfall_id": "5ae88c06-f28c-4fbc-a28c-5eb203a04722"
+    },
+    {
+      "id": "af176ed8-d04a-44e8-aceb-e7afa179a117",
+      "set_code": "LEG",
+      "collector_number": "58",
+      "name": "Force Spike",
+      "scryfall_id": "70e64028-ae96-4950-aa6c-9d347409fad3"
+    },
+    {
+      "id": "8df983f7-7efe-411d-92a0-0e0728b9ce9d",
+      "set_code": "LEG",
+      "collector_number": "59",
+      "name": "Gaseous Form",
+      "scryfall_id": "d0266dd4-31da-480b-9a44-4e217f748f06"
+    },
+    {
+      "id": "05a650a3-429e-4346-908e-f562a020791a",
+      "set_code": "LEG",
+      "collector_number": "60",
+      "name": "Glyph of Delusion",
+      "scryfall_id": "ee39da13-4b8a-4796-a7c2-aaa11992d573"
+    },
+    {
+      "id": "81b06baa-d5f6-46a6-a240-a92a002f1aa2",
+      "set_code": "LEG",
+      "collector_number": "61",
+      "name": "In the Eye of Chaos",
+      "scryfall_id": "733933dd-c871-4f75-8b08-d7c010dddbe6"
+    },
+    {
+      "id": "67d76ede-0ac1-4cea-8c29-776ee46b3a1a",
+      "set_code": "LEG",
+      "collector_number": "62",
+      "name": "Invoke Prejudice",
+      "scryfall_id": "903d9fde-d7da-4a0e-a337-b63023c6d74b"
+    },
+    {
+      "id": "5caf9ace-78d2-40bd-9d36-720f65eec02d",
+      "set_code": "LEG",
+      "collector_number": "63",
+      "name": "Juxtapose",
+      "scryfall_id": "c48d78db-d982-4c28-9308-2d57dc2b947e"
+    },
+    {
+      "id": "98323107-5ba6-409a-9f40-67680bc9d161",
+      "set_code": "LEG",
+      "collector_number": "64",
+      "name": "Land Equilibrium",
+      "scryfall_id": "9c406b25-03f8-4aaa-9ea7-48bf754166b7"
+    },
+    {
+      "id": "9781bc0e-5918-4f42-a08c-a548073df9aa",
+      "set_code": "LEG",
+      "collector_number": "65",
+      "name": "Mana Drain",
+      "scryfall_id": "e691adef-3027-4e6a-889f-9f4e2df36a7c"
+    },
+    {
+      "id": "e29d16c5-b41b-48fc-922f-24884b664759",
+      "set_code": "LEG",
+      "collector_number": "66",
+      "name": "Part Water",
+      "scryfall_id": "4b659475-c8b7-493d-af63-04f34d8cc3b1"
+    },
+    {
+      "id": "d1bbc162-8d5f-4ea7-bef8-cb06fac582c3",
+      "set_code": "LEG",
+      "collector_number": "67",
+      "name": "Psionic Entity",
+      "scryfall_id": "ec082062-5394-4340-bc29-0efd2af4b822"
+    },
+    {
+      "id": "5bd18070-83a2-436a-b97d-aa197cfc3412",
+      "set_code": "LEG",
+      "collector_number": "68",
+      "name": "Psychic Purge",
+      "scryfall_id": "b1103d4d-b50a-4e2c-b18a-a181bc819881"
+    },
+    {
+      "id": "f21b3a07-d3dd-447c-aa7a-0566021113fb",
+      "set_code": "LEG",
+      "collector_number": "69",
+      "name": "Puppet Master",
+      "scryfall_id": "b5d26ddc-ad1e-4a97-85fb-34da685c3142"
+    },
+    {
+      "id": "4675410b-f855-4cfc-ae72-d8994a85799a",
+      "set_code": "LEG",
+      "collector_number": "70",
+      "name": "Recall",
+      "scryfall_id": "33296718-0625-4422-a65c-b21cf99c52ec"
+    },
+    {
+      "id": "e5ea5286-50af-4cdb-bcf9-945ca9e2b062",
+      "set_code": "LEG",
+      "collector_number": "71",
+      "name": "Relic Bind",
+      "scryfall_id": "a9b07dc4-21ad-410b-8f8a-2b034253bfee"
+    },
+    {
+      "id": "5850db17-9b1f-4db7-9a61-a652ea168bee",
+      "set_code": "LEG",
+      "collector_number": "72",
+      "name": "Remove Soul",
+      "scryfall_id": "63de147c-2e62-41b9-8ada-93406387f08b"
+    },
+    {
+      "id": "f1232e3e-df43-4c46-8d10-eaa5a6e487b8",
+      "set_code": "LEG",
+      "collector_number": "73",
+      "name": "Reset",
+      "scryfall_id": "1c829d83-d5b8-4be7-80f7-55b42f52b309"
+    },
+    {
+      "id": "7c7f31e8-cfde-4d1b-9ab0-79f2d8608e1e",
+      "set_code": "LEG",
+      "collector_number": "74",
+      "name": "Reverberation",
+      "scryfall_id": "a3d1f470-058d-41b7-acaf-4f68431de9ed"
+    },
+    {
+      "id": "7ae61314-1c8c-494b-a88d-710f730eba5a",
+      "set_code": "LEG",
+      "collector_number": "75",
+      "name": "Sea Kings' Blessing",
+      "scryfall_id": "11d1f02d-533e-4b77-a72a-ff5f91ae0626"
+    },
+    {
+      "id": "5737c3d0-c5a5-4eca-b094-e43eb4c31a94",
+      "set_code": "LEG",
+      "collector_number": "76",
+      "name": "Segovian Leviathan",
+      "scryfall_id": "e5a814f1-7f8d-4c2c-b706-ee0ed5892f7b"
+    },
+    {
+      "id": "538ccce3-47c1-45b9-acf6-0e0d95246c61",
+      "set_code": "LEG",
+      "collector_number": "77",
+      "name": "Silhouette",
+      "scryfall_id": "e6d6fac6-9a23-465f-a813-92e1ed1cd742"
+    },
+    {
+      "id": "ad4a56c5-dacb-4615-855d-f0e4200fdebf",
+      "set_code": "LEG",
+      "collector_number": "78",
+      "name": "Spectral Cloak",
+      "scryfall_id": "7524fd0d-a675-41d6-bc99-bd3ba336893b"
+    },
+    {
+      "id": "1a757224-2849-48c9-933d-7d9a19cbb42f",
+      "set_code": "LEG",
+      "collector_number": "79",
+      "name": "Telekinesis",
+      "scryfall_id": "d5aa920e-b93f-41c2-b505-a9350353be8b"
+    },
+    {
+      "id": "80b5bbb5-5cbb-4275-bcee-52cefaf12fc6",
+      "set_code": "LEG",
+      "collector_number": "80",
+      "name": "Teleport",
+      "scryfall_id": "18f86e13-f942-423e-b175-930d768cb811"
+    },
+    {
+      "id": "aacf28d6-6c44-4deb-9068-161dc3b5b718",
+      "set_code": "LEG",
+      "collector_number": "81",
+      "name": "Time Elemental",
+      "scryfall_id": "61510e88-97d0-410a-9431-ebf12990e33d"
+    },
+    {
+      "id": "de638d78-5607-4d12-acfc-dcf9a99f1587",
+      "set_code": "LEG",
+      "collector_number": "82",
+      "name": "Undertow",
+      "scryfall_id": "cf05e5c9-b7e4-4bd8-ab73-b54565710527"
+    },
+    {
+      "id": "96f02da6-f6cc-410b-a89e-26182b15a8a2",
+      "set_code": "LEG",
+      "collector_number": "83",
+      "name": "Venarian Gold",
+      "scryfall_id": "11fb92c0-bb1e-463a-a6b6-887a5d0cb873"
+    },
+    {
+      "id": "7198297e-d4af-4916-bff8-1af42fb21e69",
+      "set_code": "LEG",
+      "collector_number": "84",
+      "name": "Wall of Vapor",
+      "scryfall_id": "6a6c0a27-d410-4ded-a842-70e1656ea21e"
+    },
+    {
+      "id": "8c25f818-b999-4343-ada7-8f36ce878988",
+      "set_code": "LEG",
+      "collector_number": "85",
+      "name": "Wall of Wonder",
+      "scryfall_id": "bcd9af40-b46c-44b4-878e-8eb026c96b51"
+    },
+    {
+      "id": "8c2e3d35-1456-4d75-a3d6-6da9cf4fd2c5",
+      "set_code": "LEG",
+      "collector_number": "86",
+      "name": "Zephyr Falcon",
+      "scryfall_id": "25a173fd-e10c-45f8-a6e5-ad7a747a8050"
+    },
+    {
+      "id": "cb48e8ea-9f54-49ae-83ec-f128f3e312c7",
+      "set_code": "LEG",
+      "collector_number": "87",
+      "name": "Abomination",
+      "scryfall_id": "a69e2cf8-5ecb-485a-92a2-b4e0a7959f1f"
+    },
+    {
+      "id": "916123ab-586f-4d2a-a712-e4590ff3b707",
+      "set_code": "LEG",
+      "collector_number": "88",
+      "name": "All Hallow's Eve",
+      "scryfall_id": "18787a2d-6688-47e9-94bc-ccf229df823f"
+    },
+    {
+      "id": "07caaefd-5840-4d5f-bcd3-0ff8fb5199b6",
+      "set_code": "LEG",
+      "collector_number": "89",
+      "name": "Blight",
+      "scryfall_id": "9ca19b39-4201-463c-bd40-fbffa31c9eda"
+    },
+    {
+      "id": "9e7ac848-633a-44ea-b958-acdcb69c8a98",
+      "set_code": "LEG",
+      "collector_number": "90",
+      "name": "Carrion Ants",
+      "scryfall_id": "cbc0b009-3951-4aa3-985a-97139882da7e"
+    },
+    {
+      "id": "e1b8a332-ff51-4685-b5c3-562b8d8db659",
+      "set_code": "LEG",
+      "collector_number": "91",
+      "name": "Chains of Mephistopheles",
+      "scryfall_id": "2bb0e884-5bb4-41f3-b04b-6f638357c166"
+    },
+    {
+      "id": "4eb9029a-36e2-43f5-8f65-e41ce336aac9",
+      "set_code": "LEG",
+      "collector_number": "92",
+      "name": "Cosmic Horror",
+      "scryfall_id": "18bc6ac2-19e0-4765-852b-e303a5bb4040"
+    },
+    {
+      "id": "bacbbde0-6155-43f0-bbb5-3671a07295fc",
+      "set_code": "LEG",
+      "collector_number": "93",
+      "name": "Cyclopean Mummy",
+      "scryfall_id": "479ccc50-2d72-4adc-901e-fbd4eef2cf92"
+    },
+    {
+      "id": "1c803238-253d-463f-8851-5822f053a745",
+      "set_code": "LEG",
+      "collector_number": "94",
+      "name": "Darkness",
+      "scryfall_id": "53b04dab-45b7-418b-a0f0-bcf35145fc53"
+    },
+    {
+      "id": "d67c2d99-9489-4a04-9718-1775e53e276b",
+      "set_code": "LEG",
+      "collector_number": "95",
+      "name": "Demonic Torment",
+      "scryfall_id": "d3ec14bc-95e9-47ce-b51e-d5eac9b345fe"
+    },
+    {
+      "id": "fa64366f-6737-44be-a50d-110c0046e29d",
+      "set_code": "LEG",
+      "collector_number": "96",
+      "name": "Evil Eye of Orms-by-Gore",
+      "scryfall_id": "b060f747-f65c-4ee0-923a-76298cb51a03"
+    },
+    {
+      "id": "84f9099c-fb18-4e12-9d4e-8b13b85d7891",
+      "set_code": "LEG",
+      "collector_number": "97",
+      "name": "Fallen Angel",
+      "scryfall_id": "0f4174e4-0be8-49b5-8c52-22001790f6eb"
+    },
+    {
+      "id": "e32d9391-8842-4c9e-8e4a-10e9a6827305",
+      "set_code": "LEG",
+      "collector_number": "98",
+      "name": "Ghosts of the Damned",
+      "scryfall_id": "20275678-3488-43d8-a93b-993e2267ab07"
+    },
+    {
+      "id": "dd7ce96b-6298-48e2-a499-cd08c43b1ece",
+      "set_code": "LEG",
+      "collector_number": "99",
+      "name": "Giant Slug",
+      "scryfall_id": "43a612e5-a680-4c5b-8ce7-432a86240a6c"
+    },
+    {
+      "id": "236d53db-0506-458a-b9b9-9eedf585f13b",
+      "set_code": "LEG",
+      "collector_number": "100",
+      "name": "Glyph of Doom",
+      "scryfall_id": "332bfce9-052d-42e9-a407-4a1dd59e0f2a"
+    },
+    {
+      "id": "1d8b728b-1f3a-4c6f-bbc4-792a7cdba715",
+      "set_code": "LEG",
+      "collector_number": "101",
+      "name": "Greed",
+      "scryfall_id": "111a16a2-e875-4756-80db-290f9e8606db"
+    },
+    {
+      "id": "05ddc8db-dc34-4ba5-bd70-83fd2d863938",
+      "set_code": "LEG",
+      "collector_number": "102",
+      "name": "Headless Horseman",
+      "scryfall_id": "d1aa37c8-98fa-4984-b09b-cf65ad84e97b"
+    },
+    {
+      "id": "21f3a9ef-490f-4517-891a-5698b0456faf",
+      "set_code": "LEG",
+      "collector_number": "103",
+      "name": "Hell Swarm",
+      "scryfall_id": "64164d1b-75f4-456e-a717-90ce554dc16c"
+    },
+    {
+      "id": "1c775cc7-8e35-4c98-95a0-8af06218fc9a",
+      "set_code": "LEG",
+      "collector_number": "104",
+      "name": "Hell's Caretaker",
+      "scryfall_id": "336b3b8f-d104-4f06-ad4f-c92b8a9038ca"
+    },
+    {
+      "id": "5698a530-c9f8-4966-89ba-793907fa8924",
+      "set_code": "LEG",
+      "collector_number": "105",
+      "name": "Hellfire",
+      "scryfall_id": "362f1fe9-20af-434c-9957-7a1a564d89e6"
+    },
+    {
+      "id": "896d1581-a989-4640-9942-7da3ef4894dd",
+      "set_code": "LEG",
+      "collector_number": "106",
+      "name": "Horror of Horrors",
+      "scryfall_id": "b9f68dc2-c048-41ec-b237-c36fdd99c27d"
+    },
+    {
+      "id": "864c1f9d-6f35-4116-873e-11c21277d3ca",
+      "set_code": "LEG",
+      "collector_number": "107",
+      "name": "Imprison",
+      "scryfall_id": "12671381-beb7-41b8-9484-97f8aca5c981"
+    },
+    {
+      "id": "8fe97733-0acf-4daf-9bc8-03de9e5002dd",
+      "set_code": "LEG",
+      "collector_number": "108",
+      "name": "Infernal Medusa",
+      "scryfall_id": "26a5333f-2761-42b8-ae8b-1d360b109daf"
+    },
+    {
+      "id": "585bf626-4745-4187-b21c-2303f587def1",
+      "set_code": "LEG",
+      "collector_number": "109",
+      "name": "Jovial Evil",
+      "scryfall_id": "c993c74c-a574-423b-81c8-96b0a7a6e529"
+    },
+    {
+      "id": "60d4f51b-6313-4f11-8725-d2728da7d580",
+      "set_code": "LEG",
+      "collector_number": "110",
+      "name": "Lesser Werewolf",
+      "scryfall_id": "baae02e4-7db9-4a7b-a4ee-ecb22fcb77bd"
+    },
+    {
+      "id": "b31c3f16-6f1e-4adf-ae70-31c707a161fe",
+      "set_code": "LEG",
+      "collector_number": "111",
+      "name": "Lost Soul",
+      "scryfall_id": "601eed5c-436d-425b-a45f-07881ad893c8"
+    },
+    {
+      "id": "c1fec759-cbaf-40ac-9177-3f98b0a358a7",
+      "set_code": "LEG",
+      "collector_number": "112",
+      "name": "Mold Demon",
+      "scryfall_id": "649a33aa-7eac-4161-ae1a-fcbc758abccf"
+    },
+    {
+      "id": "97bd880a-5268-4761-b06c-7ebdc285bf18",
+      "set_code": "LEG",
+      "collector_number": "113",
+      "name": "Nether Void",
+      "scryfall_id": "2e72f8cb-5bc3-4711-9b7c-a6eea9a0beaf"
+    },
+    {
+      "id": "e258050c-d141-4203-94b0-b13ca81b8b27",
+      "set_code": "LEG",
+      "collector_number": "114",
+      "name": "Pit Scorpion",
+      "scryfall_id": "cc564f84-0d6e-4e09-a58d-a694d918cf12"
+    },
+    {
+      "id": "ece26232-27fd-4b48-835a-16586dfa6a7f",
+      "set_code": "LEG",
+      "collector_number": "115",
+      "name": "Quagmire",
+      "scryfall_id": "94e2aa9e-af6a-41c6-99a8-ca9335730ddb"
+    },
+    {
+      "id": "4eb4ff2e-92ff-4a86-a08b-9f50cf54c812",
+      "set_code": "LEG",
+      "collector_number": "116",
+      "name": "Shimian Night Stalker",
+      "scryfall_id": "4e04a1b9-c561-4e34-86d9-129ea0346631"
+    },
+    {
+      "id": "b7b363ec-709c-4974-94a3-9898853e9e66",
+      "set_code": "LEG",
+      "collector_number": "117",
+      "name": "Spirit Shackle",
+      "scryfall_id": "a30bb266-5bd1-4998-ae94-56f0f3354167"
+    },
+    {
+      "id": "ddcd24ce-a505-4847-b99b-a8ab25ba13a5",
+      "set_code": "LEG",
+      "collector_number": "118",
+      "name": "Syphon Soul",
+      "scryfall_id": "f3020304-7a39-411e-b055-3ade72b4bff8"
+    },
+    {
+      "id": "9e3d6831-4846-4901-8d93-17f6e004e548",
+      "set_code": "LEG",
+      "collector_number": "119",
+      "name": "Takklemaggot",
+      "scryfall_id": "d8f49b3d-7fcb-4169-9298-cdf7a1dbe3f5"
+    },
+    {
+      "id": "25c866a8-ab46-4c12-b100-c67d606f2383",
+      "set_code": "LEG",
+      "collector_number": "120",
+      "name": "The Abyss",
+      "scryfall_id": "86a27d68-3e58-4ade-976d-36381beed451"
+    },
+    {
+      "id": "56b306c6-e1e8-4ffa-b9a3-25804d08ce13",
+      "set_code": "LEG",
+      "collector_number": "121",
+      "name": "The Wretched",
+      "scryfall_id": "14c45416-a826-42e9-9967-8838158cf16d"
+    },
+    {
+      "id": "6b3aad15-f3d0-4e20-b05a-2f532f4d5ee2",
+      "set_code": "LEG",
+      "collector_number": "122",
+      "name": "Touch of Darkness",
+      "scryfall_id": "eda7177f-1354-4008-aaaa-2c8b823ed5e9"
+    },
+    {
+      "id": "0543f9b3-54aa-43ae-b212-5c0092c76efe",
+      "set_code": "LEG",
+      "collector_number": "123",
+      "name": "Transmutation",
+      "scryfall_id": "329f7eb2-eadf-46ec-aed4-63152051f3c1"
+    },
+    {
+      "id": "ccbce11b-41b4-46b9-9215-6c6fa6996f5e",
+      "set_code": "LEG",
+      "collector_number": "124",
+      "name": "Underworld Dreams",
+      "scryfall_id": "a0e8f8d8-eac0-451c-a167-be84667a8e3d"
+    },
+    {
+      "id": "d04cff43-de7d-4068-b8db-43353880d669",
+      "set_code": "LEG",
+      "collector_number": "125",
+      "name": "Vampire Bats",
+      "scryfall_id": "6a6a6f50-7b86-461e-80a7-e35d0e7cf52f"
+    },
+    {
+      "id": "969d61eb-325b-49d3-bd93-20e5301fc207",
+      "set_code": "LEG",
+      "collector_number": "126",
+      "name": "Walking Dead",
+      "scryfall_id": "d7533a72-77d1-40cd-b3a1-7597d566c428"
+    },
+    {
+      "id": "cee55723-d39a-4075-b072-1eb0cec7feac",
+      "set_code": "LEG",
+      "collector_number": "127",
+      "name": "Wall of Putrid Flesh",
+      "scryfall_id": "07a17b74-a9c9-419a-8369-9ab4fec213f2"
+    },
+    {
+      "id": "01d32131-b6da-4c95-a9bf-fcbd28e5a247",
+      "set_code": "LEG",
+      "collector_number": "128",
+      "name": "Wall of Shadows",
+      "scryfall_id": "eb351900-cffd-4d23-b82f-5fb12a4874d9"
+    },
+    {
+      "id": "b83ffd6b-08f6-4140-a2cb-b10f17f65a8f",
+      "set_code": "LEG",
+      "collector_number": "129",
+      "name": "Wall of Tombstones",
+      "scryfall_id": "55da1e86-fe18-486a-b510-f941e6f6e378"
+    },
+    {
+      "id": "bf8f9cd4-2f72-4b64-87e5-457941287780",
+      "set_code": "LEG",
+      "collector_number": "130",
+      "name": "Active Volcano",
+      "scryfall_id": "ad402e65-6fac-4005-a2d4-592983df0c30"
+    },
+    {
+      "id": "5307075a-71b9-4e0a-adab-f0f2fd27dced",
+      "set_code": "LEG",
+      "collector_number": "131",
+      "name": "Aerathi Berserker",
+      "scryfall_id": "06673800-22a7-4ee3-92fa-7c7cd4865d30"
+    },
+    {
+      "id": "645ba7a1-8ddb-4d1a-bd39-bf40517a645a",
+      "set_code": "LEG",
+      "collector_number": "132",
+      "name": "Backdraft",
+      "scryfall_id": "58d5b9fe-b66a-48c9-94c4-db783e605f37"
+    },
+    {
+      "id": "d4c0b3af-64a2-420f-b85c-cfd088cb9280",
+      "set_code": "LEG",
+      "collector_number": "133",
+      "name": "Beasts of Bogardan",
+      "scryfall_id": "f885d776-2953-4ed4-b63f-91dc2b42783b"
+    },
+    {
+      "id": "109e90ab-84fd-43fe-8c73-38966688c8de",
+      "set_code": "LEG",
+      "collector_number": "134",
+      "name": "Blazing Effigy",
+      "scryfall_id": "921011ff-1696-4575-9198-abe993a0ee7a"
+    },
+    {
+      "id": "c40a4c87-e679-449a-a7ef-20f780e5a948",
+      "set_code": "LEG",
+      "collector_number": "135",
+      "name": "Blood Lust",
+      "scryfall_id": "fbbf1a9c-8b94-4ee7-92db-65b531149990"
+    },
+    {
+      "id": "a02be2bd-8b46-4140-b4c5-e3918d2bd995",
+      "set_code": "LEG",
+      "collector_number": "136",
+      "name": "Caverns of Despair",
+      "scryfall_id": "209f7479-b3a0-4c27-9602-78babb8d2e99"
+    },
+    {
+      "id": "ed754aa4-8a6e-451f-bf04-d70dfa66f7cf",
+      "set_code": "LEG",
+      "collector_number": "137",
+      "name": "Chain Lightning",
+      "scryfall_id": "b5883762-ca0a-4932-8d2a-41a45796a5f8"
+    },
+    {
+      "id": "b045b165-a6f2-414b-a9bc-5b2a5c52e549",
+      "set_code": "LEG",
+      "collector_number": "138",
+      "name": "Crevasse",
+      "scryfall_id": "a432d6ae-a17f-484b-ad55-4b4b6674ba8d"
+    },
+    {
+      "id": "e616b889-83a1-43e1-ac18-3ffbfe720715",
+      "set_code": "LEG",
+      "collector_number": "139",
+      "name": "Crimson Kobolds",
+      "scryfall_id": "13696657-aeef-4add-9a3b-8137fce01fe3"
+    },
+    {
+      "id": "b39d9ceb-78cc-4af9-b7ed-cfe11ae048a6",
+      "set_code": "LEG",
+      "collector_number": "140",
+      "name": "Crimson Manticore",
+      "scryfall_id": "96f73f9c-1c4e-4343-bfa0-cc5c4a7a562e"
+    },
+    {
+      "id": "0a18eed9-9c82-4f1e-ad95-7bc0991d94f4",
+      "set_code": "LEG",
+      "collector_number": "141",
+      "name": "Crookshank Kobolds",
+      "scryfall_id": "7af6b119-7db4-49dd-aaa4-044b8c133f13"
+    },
+    {
+      "id": "1e9db5e9-3080-4cb2-b8f0-576eccf15b2a",
+      "set_code": "LEG",
+      "collector_number": "142",
+      "name": "Disharmony",
+      "scryfall_id": "e09a6b9b-eb0e-475d-8558-08e347412790"
+    },
+    {
+      "id": "c7ade995-2c99-49ba-b4ee-a227b7d697b4",
+      "set_code": "LEG",
+      "collector_number": "143",
+      "name": "Dwarven Song",
+      "scryfall_id": "29a50f72-9524-4440-9380-9d3e0b693351"
+    },
+    {
+      "id": "e916d33a-53c6-41a8-b211-27d582dc0836",
+      "set_code": "LEG",
+      "collector_number": "144",
+      "name": "Eternal Warrior",
+      "scryfall_id": "97cdc38e-1d96-4de2-98e2-713f5d4d2180"
+    },
+    {
+      "id": "a05c3470-444c-4a49-b799-0fda275aa9a4",
+      "set_code": "LEG",
+      "collector_number": "145",
+      "name": "Falling Star",
+      "scryfall_id": "f2b9983e-20d4-4d12-9e2c-ec6d9a345787"
+    },
+    {
+      "id": "68b91ecf-6904-4a63-a345-ea12935a8cad",
+      "set_code": "LEG",
+      "collector_number": "146",
+      "name": "Feint",
+      "scryfall_id": "95b265bc-a94d-403b-8232-8fdfa0f8d9d5"
+    },
+    {
+      "id": "2ad158b3-3b6a-44c1-957d-81cba6f9e02a",
+      "set_code": "LEG",
+      "collector_number": "147",
+      "name": "Firestorm Phoenix",
+      "scryfall_id": "3247a7dd-f48c-4cb4-8475-4864acccef7a"
+    },
+    {
+      "id": "075e3b75-c0cd-46b9-b031-acd90e016dd8",
+      "set_code": "LEG",
+      "collector_number": "148",
+      "name": "Frost Giant",
+      "scryfall_id": "6955d54f-7b37-4e43-8183-51677fb1ee11"
+    },
+    {
+      "id": "edf9e261-54e2-4fe5-ada7-3275d9a4dd9a",
+      "set_code": "LEG",
+      "collector_number": "149",
+      "name": "Giant Strength",
+      "scryfall_id": "a86190bb-1f41-4128-b9fb-dfb1d178359d"
+    },
+    {
+      "id": "deb4064c-c6d3-4040-a2b3-a8591a89e9f6",
+      "set_code": "LEG",
+      "collector_number": "150",
+      "name": "Glyph of Destruction",
+      "scryfall_id": "8e9c153c-9224-491b-bc84-8a9f0a83ee5a"
+    },
+    {
+      "id": "e3c6bc35-8904-48a5-97b4-fb46c5212bca",
+      "set_code": "LEG",
+      "collector_number": "151",
+      "name": "Gravity Sphere",
+      "scryfall_id": "a2749332-e99a-4a0c-b3a3-5578b552fa11"
+    },
+    {
+      "id": "62286006-5965-407a-a3f6-95a8ec904692",
+      "set_code": "LEG",
+      "collector_number": "152",
+      "name": "Hyperion Blacksmith",
+      "scryfall_id": "44d499a9-fe7c-4a1a-9eb3-a7fd9f85ae08"
+    },
+    {
+      "id": "f5f6ec6e-274e-49fc-a34e-19230436dc82",
+      "set_code": "LEG",
+      "collector_number": "153",
+      "name": "Immolation",
+      "scryfall_id": "9b3d34fa-398c-4ea0-a392-6690bd3a615c"
+    },
+    {
+      "id": "4e491b9a-5fef-4311-9d9b-e24020cd47c5",
+      "set_code": "LEG",
+      "collector_number": "154",
+      "name": "Kobold Drill Sergeant",
+      "scryfall_id": "741b14f8-625d-41be-a734-0efe042a6ee8"
+    },
+    {
+      "id": "50395075-3210-4540-91cd-3202119d9ebc",
+      "set_code": "LEG",
+      "collector_number": "155",
+      "name": "Kobold Overlord",
+      "scryfall_id": "490eeedb-9c03-4dc7-81fd-ae54a7932e4d"
+    },
+    {
+      "id": "cbdfa34c-8446-4b8d-b23e-47819e801343",
+      "set_code": "LEG",
+      "collector_number": "156",
+      "name": "Kobold Taskmaster",
+      "scryfall_id": "1b9c63eb-8d4e-4d8b-8637-308459ef036b"
+    },
+    {
+      "id": "008a8f32-4755-4af2-87fc-4680c290b3b0",
+      "set_code": "LEG",
+      "collector_number": "157",
+      "name": "Kobolds of Kher Keep",
+      "scryfall_id": "df0320d9-7c2a-456a-9159-1b4fae67bfb5"
+    },
+    {
+      "id": "e4ed7cee-b328-4a2a-8de9-42ffa7643c7d",
+      "set_code": "LEG",
+      "collector_number": "158",
+      "name": "Land's Edge",
+      "scryfall_id": "fb3d9b29-948c-4768-b5ea-db2512817c30"
+    },
+    {
+      "id": "41f3e5eb-51cb-4875-a32f-6d77345cc5cc",
+      "set_code": "LEG",
+      "collector_number": "159",
+      "name": "Mountain Yeti",
+      "scryfall_id": "09242f08-3bfc-4082-b32f-703c7fed62a0"
+    },
+    {
+      "id": "8d06aef9-c320-4871-aa2e-60314cdddbb3",
+      "set_code": "LEG",
+      "collector_number": "160",
+      "name": "Primordial Ooze",
+      "scryfall_id": "a46e47e1-8639-48f7-94c4-5f9e9666839a"
+    },
+    {
+      "id": "858424a1-d64d-4d29-a9e4-6c2e319e35d2",
+      "set_code": "LEG",
+      "collector_number": "161",
+      "name": "Pyrotechnics",
+      "scryfall_id": "2646284b-a94d-4c99-98d4-7becbb473e2b"
+    },
+    {
+      "id": "d1998fda-5589-461c-aa0d-b1520f8da7e8",
+      "set_code": "LEG",
+      "collector_number": "162",
+      "name": "Quarum Trench Gnomes",
+      "scryfall_id": "1c3b33bf-3074-406e-86f3-2a9843cf4862"
+    },
+    {
+      "id": "fe44a37b-f43c-4d4f-9d0e-1986b560bd78",
+      "set_code": "LEG",
+      "collector_number": "163",
+      "name": "Raging Bull",
+      "scryfall_id": "ec10a51c-d2c3-4d14-9a71-9e59155bf980"
+    },
+    {
+      "id": "824105b1-bf6b-4c26-9d29-8bd4965685d1",
+      "set_code": "LEG",
+      "collector_number": "164",
+      "name": "Spinal Villain",
+      "scryfall_id": "d6d5e36f-0049-4be8-bf85-8dc0186339a4"
+    },
+    {
+      "id": "349f1e84-48cf-4e56-8adc-c6cb04a86578",
+      "set_code": "LEG",
+      "collector_number": "165",
+      "name": "Storm World",
+      "scryfall_id": "cdf0afa6-7003-454d-9b8a-e3328aaf29ed"
+    },
+    {
+      "id": "cbd4a574-4c48-4298-87c1-0b79fb7ee103",
+      "set_code": "LEG",
+      "collector_number": "166",
+      "name": "Tempest Efreet",
+      "scryfall_id": "eb562143-fdf0-4eed-83ac-551627c576d2"
+    },
+    {
+      "id": "939bb934-ad67-4101-8fb5-272adb63048e",
+      "set_code": "LEG",
+      "collector_number": "167",
+      "name": "The Brute",
+      "scryfall_id": "f9ffb265-872f-47b3-974c-92bcbebd557e"
+    },
+    {
+      "id": "a895f312-ebc6-49c6-86d2-16aca32c8da7",
+      "set_code": "LEG",
+      "collector_number": "168",
+      "name": "Wall of Dust",
+      "scryfall_id": "aaf53dfe-5d48-4811-b2f5-5a5c1cb462ca"
+    },
+    {
+      "id": "5241b6e4-3375-4bb5-b258-a109f3f7971a",
+      "set_code": "LEG",
+      "collector_number": "169",
+      "name": "Wall of Earth",
+      "scryfall_id": "c12e97c1-ca28-432a-8140-3f08bb4485a3"
+    },
+    {
+      "id": "cbcbab42-7e16-4c5d-82f6-659e70463838",
+      "set_code": "LEG",
+      "collector_number": "170",
+      "name": "Wall of Heat",
+      "scryfall_id": "a38059a8-be69-4cc1-969b-951c610f2f11"
+    },
+    {
+      "id": "8b8f1c6c-18f2-4a2a-82c6-f8c5a685b09d",
+      "set_code": "LEG",
+      "collector_number": "171",
+      "name": "Wall of Opposition",
+      "scryfall_id": "2b3d1430-9978-4983-a4fd-d1fa8dea2169"
+    },
+    {
+      "id": "595f2eae-8969-4d9f-8754-1786047f16a2",
+      "set_code": "LEG",
+      "collector_number": "172",
+      "name": "Winds of Change",
+      "scryfall_id": "186fd917-8d65-4de5-8546-a32a5f6d3bab"
+    },
+    {
+      "id": "ddd52744-825b-475f-9bdb-bd8437a1930c",
+      "set_code": "LEG",
+      "collector_number": "173",
+      "name": "Aisling Leprechaun",
+      "scryfall_id": "640a161d-ad7b-4e5b-8f2d-d3753cb9daa3"
+    },
+    {
+      "id": "965a102e-ead5-4538-b80f-7a323e3d2d31",
+      "set_code": "LEG",
+      "collector_number": "174",
+      "name": "Arboria",
+      "scryfall_id": "095078b0-0f26-442f-9d3b-45e30cdb33c4"
+    },
+    {
+      "id": "2717973f-ed66-48c1-af3c-6f165c359b68",
+      "set_code": "LEG",
+      "collector_number": "175",
+      "name": "Avoid Fate",
+      "scryfall_id": "92f1509e-6ed5-4009-a031-ea84b43cbd1b"
+    },
+    {
+      "id": "4621376d-15e1-47a0-bae9-7269db6c7516",
+      "set_code": "LEG",
+      "collector_number": "176",
+      "name": "Barbary Apes",
+      "scryfall_id": "df25ffdd-995d-46ae-856b-f6368f9438ed"
+    },
+    {
+      "id": "a928d9ab-7904-47a0-8e6e-8abd2f24d4cd",
+      "set_code": "LEG",
+      "collector_number": "177",
+      "name": "Cat Warriors",
+      "scryfall_id": "d2187a64-2823-4f58-ad35-70f8913db2dc"
+    },
+    {
+      "id": "25310c56-0ec4-4cc7-a15f-cd6786121dc7",
+      "set_code": "LEG",
+      "collector_number": "178",
+      "name": "Cocoon",
+      "scryfall_id": "a82c87b1-de37-4423-a1a4-533a1d8108b2"
+    },
+    {
+      "id": "6819d33a-2885-46ec-9fbd-e0bdc0a4901b",
+      "set_code": "LEG",
+      "collector_number": "179",
+      "name": "Concordant Crossroads",
+      "scryfall_id": "3bdcfae4-86c9-4d8a-bcfe-f0a928ec29db"
+    },
+    {
+      "id": "674dbbed-b1cc-4c38-9d4c-51b892017da8",
+      "set_code": "LEG",
+      "collector_number": "180",
+      "name": "Craw Giant",
+      "scryfall_id": "707dadf0-735f-445d-9240-e49660913314"
+    },
+    {
+      "id": "4053057e-0925-408a-9a37-221741ab497b",
+      "set_code": "LEG",
+      "collector_number": "181",
+      "name": "Deadfall",
+      "scryfall_id": "0d78f0fc-3ab2-46ee-b5a9-55ae97d08c1a"
+    },
+    {
+      "id": "2aedbdb9-529a-407e-a0c9-ffccfbddca40",
+      "set_code": "LEG",
+      "collector_number": "182",
+      "name": "Durkwood Boars",
+      "scryfall_id": "8d41f08b-68fb-45f2-bdc9-488baedc7d6f"
+    },
+    {
+      "id": "14d836b1-3092-419a-bbab-59dc15a7bcd3",
+      "set_code": "LEG",
+      "collector_number": "183",
+      "name": "Elven Riders",
+      "scryfall_id": "ad1d349b-b5ab-4b2b-9b39-f8d8f6374aa5"
+    },
+    {
+      "id": "843d9f08-9b3d-4b4c-acaa-dad0c51ef728",
+      "set_code": "LEG",
+      "collector_number": "184",
+      "name": "Emerald Dragonfly",
+      "scryfall_id": "a3e81250-52c3-49f6-be43-17c34339e177"
+    },
+    {
+      "id": "854a77f3-0978-4a99-8ee2-239618835bf5",
+      "set_code": "LEG",
+      "collector_number": "185",
+      "name": "Eureka",
+      "scryfall_id": "520db5fb-d961-45a3-af74-6f054b8be3ab"
+    },
+    {
+      "id": "259dc461-f53c-4dab-a644-9c59677a298a",
+      "set_code": "LEG",
+      "collector_number": "186",
+      "name": "Fire Sprites",
+      "scryfall_id": "d26fa79a-ede8-4c80-98d5-f49696f8104d"
+    },
+    {
+      "id": "85a7e693-3073-484b-973d-5c33c3355542",
+      "set_code": "LEG",
+      "collector_number": "187",
+      "name": "Floral Spuzzem",
+      "scryfall_id": "d141b9e3-7129-41e5-8b44-d3867e1c7e1d"
+    },
+    {
+      "id": "88a018aa-97f7-4ee0-96e0-54cb75b5ec40",
+      "set_code": "LEG",
+      "collector_number": "188",
+      "name": "Giant Turtle",
+      "scryfall_id": "87e5fc19-3b10-476f-9a73-e8bf4b5fbec0"
+    },
+    {
+      "id": "b16f0568-a3b2-43df-81c4-9a2259b55811",
+      "set_code": "LEG",
+      "collector_number": "189",
+      "name": "Glyph of Reincarnation",
+      "scryfall_id": "a67e8214-a192-4143-9d5e-d0e254e1bf6e"
+    },
+    {
+      "id": "4a069bc4-c551-44ca-9a6e-2038ad89f284",
+      "set_code": "LEG",
+      "collector_number": "190",
+      "name": "Hornet Cobra",
+      "scryfall_id": "27180bad-9bbc-462b-8832-626dc403a3fd"
+    },
+    {
+      "id": "71e64b08-f5e2-4998-b149-0d9277d27781",
+      "set_code": "LEG",
+      "collector_number": "191",
+      "name": "Ichneumon Druid",
+      "scryfall_id": "cf2313bb-6f9b-49d6-b069-9f3b77b6e107"
+    },
+    {
+      "id": "9a5f9ec9-81c8-4c5d-8052-3a73b6d06f87",
+      "set_code": "LEG",
+      "collector_number": "192",
+      "name": "Killer Bees",
+      "scryfall_id": "2e30b5ff-1239-4c4d-ac7c-554ecf8e1e27"
+    },
+    {
+      "id": "eede68b9-3b8e-454a-b839-8b7bc004b0d7",
+      "set_code": "LEG",
+      "collector_number": "193",
+      "name": "Living Plane",
+      "scryfall_id": "0341da27-3d77-4959-b7fa-5929b2cc7141"
+    },
+    {
+      "id": "5ac34acf-2941-449a-bea9-f488163080fc",
+      "set_code": "LEG",
+      "collector_number": "194",
+      "name": "Master of the Hunt",
+      "scryfall_id": "4e6bf56e-2d74-4e4d-a667-885853979377"
+    },
+    {
+      "id": "de6f4216-b361-44fd-b585-97d67f4840ee",
+      "set_code": "LEG",
+      "collector_number": "195",
+      "name": "Moss Monster",
+      "scryfall_id": "9903c043-9a7a-4994-b532-136d4c46edfd"
+    },
+    {
+      "id": "2af5d5e8-0602-4c3b-9bda-b119cc5afc55",
+      "set_code": "LEG",
+      "collector_number": "196",
+      "name": "Pixie Queen",
+      "scryfall_id": "b9527c2a-23bb-4d33-9e72-6e0ab3de0e6b"
+    },
+    {
+      "id": "ef94436b-4728-45fa-a043-5316db178d57",
+      "set_code": "LEG",
+      "collector_number": "197",
+      "name": "Pradesh Gypsies",
+      "scryfall_id": "0370330d-83d9-44d2-a1ed-c4827edc60fd"
+    },
+    {
+      "id": "b2047205-5547-4aab-aa4a-01b7e2bc98b0",
+      "set_code": "LEG",
+      "collector_number": "198",
+      "name": "Rabid Wombat",
+      "scryfall_id": "9d9b9eb8-6367-4ab5-8e00-a9c9e1d69032"
+    },
+    {
+      "id": "45c59350-ee45-42ce-85c3-921dff53a47e",
+      "set_code": "LEG",
+      "collector_number": "199",
+      "name": "Radjan Spirit",
+      "scryfall_id": "adf3ab1a-5714-4b69-bc51-3752312b2d1f"
+    },
+    {
+      "id": "e0cc8278-95ec-4c57-a293-9af3f9a04598",
+      "set_code": "LEG",
+      "collector_number": "200",
+      "name": "Rebirth",
+      "scryfall_id": "a0d3ce01-e344-4608-b709-320be3600019"
+    },
+    {
+      "id": "d42c1360-6252-4294-862c-250e94123692",
+      "set_code": "LEG",
+      "collector_number": "201",
+      "name": "Reincarnation",
+      "scryfall_id": "969c104e-daf4-480d-99a2-dd93c498b48e"
+    },
+    {
+      "id": "db6beaa4-eecc-4b0b-9442-6a0d16e3fce0",
+      "set_code": "LEG",
+      "collector_number": "202",
+      "name": "Revelation",
+      "scryfall_id": "07892b6c-08d2-47b5-8d64-0e4d1bdc3080"
+    },
+    {
+      "id": "750680fa-a84b-40c9-94b1-df2ff751fbd7",
+      "set_code": "LEG",
+      "collector_number": "203",
+      "name": "Rust",
+      "scryfall_id": "ad4974c8-34c5-4290-b325-7586a67f6d56"
+    },
+    {
+      "id": "8fabd705-ffc8-43a9-a222-5c25442e612f",
+      "set_code": "LEG",
+      "collector_number": "204",
+      "name": "Shelkin Brownie",
+      "scryfall_id": "fddcc557-871d-425b-b4ee-bc0c9bc717aa"
+    },
+    {
+      "id": "297794e5-1d4a-4126-9527-dd6bdcfba477",
+      "set_code": "LEG",
+      "collector_number": "205",
+      "name": "Storm Seeker",
+      "scryfall_id": "3b66d0cc-84d7-41ad-b0e7-74ebf604543f"
+    },
+    {
+      "id": "8fe48613-1ba6-4906-885a-3ee6ae782b42",
+      "set_code": "LEG",
+      "collector_number": "206",
+      "name": "Subdue",
+      "scryfall_id": "123d6097-8021-46cd-a8c3-01013245e347"
+    },
+    {
+      "id": "f2bc61dc-2248-4e78-b625-ce3ccfc72ecc",
+      "set_code": "LEG",
+      "collector_number": "207",
+      "name": "Sylvan Library",
+      "scryfall_id": "f486df00-7c4a-4ff0-bb0b-c8b5432ac742"
+    },
+    {
+      "id": "ac77151a-c60a-4577-be84-34e7c0d9ed90",
+      "set_code": "LEG",
+      "collector_number": "208",
+      "name": "Sylvan Paradise",
+      "scryfall_id": "f323c3bb-cece-4035-b1a7-c4817cf7a08c"
+    },
+    {
+      "id": "638185bf-a513-4750-89b0-d21d0d767f54",
+      "set_code": "LEG",
+      "collector_number": "209",
+      "name": "Typhoon",
+      "scryfall_id": "254e0403-67d8-4e73-8d89-c901ebeba49f"
+    },
+    {
+      "id": "6c876bb9-6367-40e6-8b2f-ce518f5c4325",
+      "set_code": "LEG",
+      "collector_number": "210",
+      "name": "Untamed Wilds",
+      "scryfall_id": "887f22af-8b92-422a-9cd5-f3977674bcdc"
+    },
+    {
+      "id": "792c5744-f64a-455d-9543-b727ff8df34b",
+      "set_code": "LEG",
+      "collector_number": "211",
+      "name": "Whirling Dervish",
+      "scryfall_id": "eba294e7-7097-4bc3-b396-72e85dd4f441"
+    },
+    {
+      "id": "ff6d7ff8-4adb-4f19-9078-d85f88c7ee65",
+      "set_code": "LEG",
+      "collector_number": "212",
+      "name": "Willow Satyr",
+      "scryfall_id": "0c8b1f49-550e-405f-b17c-1d94589494ad"
+    },
+    {
+      "id": "beb5150b-4690-4a3c-aff8-ba0a1aa56f9f",
+      "set_code": "LEG",
+      "collector_number": "213",
+      "name": "Winter Blast",
+      "scryfall_id": "fb846366-2105-4999-8af1-a11687f42e17"
+    },
+    {
+      "id": "9d884603-f839-48c8-be82-905befc0d3cb",
+      "set_code": "LEG",
+      "collector_number": "214",
+      "name": "Wolverine Pack",
+      "scryfall_id": "ba5aee52-095e-4c69-93eb-5adac11ed1fc"
+    },
+    {
+      "id": "6f6a126a-66ef-4749-b74d-3de1af85a1b0",
+      "set_code": "LEG",
+      "collector_number": "215",
+      "name": "Wood Elemental",
+      "scryfall_id": "edc71122-2951-43eb-8ca8-1cda6d231013"
+    },
+    {
+      "id": "53a0943b-589c-4615-a739-f7fe1dcfb0b0",
+      "set_code": "LEG",
+      "collector_number": "216",
+      "name": "Adun Oakenshield",
+      "scryfall_id": "60252226-a102-4d88-9b80-42d021b5184d"
+    },
+    {
+      "id": "cd674830-205b-4d17-945a-2e29f965f9bb",
+      "set_code": "LEG",
+      "collector_number": "217",
+      "name": "Angus Mackenzie",
+      "scryfall_id": "57264bd9-94f6-4d4d-baff-2b2900585635"
+    },
+    {
+      "id": "2648afd0-0b99-4111-a21e-26851bc7bd2a",
+      "set_code": "LEG",
+      "collector_number": "218",
+      "name": "Arcades Sabboth",
+      "scryfall_id": "2c1dbc62-ceb5-4540-ae38-901e5deafc75"
+    },
+    {
+      "id": "2b5cd8d7-eb06-4d1f-8bc0-cb98945f01b0",
+      "set_code": "LEG",
+      "collector_number": "219",
+      "name": "Axelrod Gunnarson",
+      "scryfall_id": "acce83cf-965b-4e45-8efb-63f814df7a35"
+    },
+    {
+      "id": "4ae34f27-404a-4a85-9606-96250afe137e",
+      "set_code": "LEG",
+      "collector_number": "220",
+      "name": "Ayesha Tanaka",
+      "scryfall_id": "03bd3d4b-d01a-475d-bf3b-cf96f43bc9ef"
+    },
+    {
+      "id": "87a05dcc-ecec-474f-aee3-3d2933ad865f",
+      "set_code": "LEG",
+      "collector_number": "221",
+      "name": "Barktooth Warbeard",
+      "scryfall_id": "0ea52228-f8ad-4623-9e05-f162473bfc03"
+    },
+    {
+      "id": "536fefea-2c5c-48db-b4fe-3ed09d1bf84c",
+      "set_code": "LEG",
+      "collector_number": "222",
+      "name": "Bartel Runeaxe",
+      "scryfall_id": "f1a42691-98bb-4234-9b56-085e6677f3e4"
+    },
+    {
+      "id": "16ca0d12-7733-42fd-858e-91d6a3742fcf",
+      "set_code": "LEG",
+      "collector_number": "223",
+      "name": "Boris Devilboon",
+      "scryfall_id": "82ae30e8-2dcd-46b8-925b-cc24e11fb95d"
+    },
+    {
+      "id": "f4d245f8-decb-46d5-a1c1-c7e061300bd3",
+      "set_code": "LEG",
+      "collector_number": "224",
+      "name": "Chromium",
+      "scryfall_id": "8cd7d7e1-f928-4429-9a59-ba0590a78e98"
+    },
+    {
+      "id": "dd31f9b1-c857-468e-9d11-a0c2e330002f",
+      "set_code": "LEG",
+      "collector_number": "225",
+      "name": "Dakkon Blackblade",
+      "scryfall_id": "fbfd1278-1486-4516-8846-007ce1985ee9"
+    },
+    {
+      "id": "bd7b52df-44cd-4bab-bddf-defd581272b5",
+      "set_code": "LEG",
+      "collector_number": "226",
+      "name": "Gabriel Angelfire",
+      "scryfall_id": "3b4ce350-b6ed-4e0e-8c70-efc6e5f18a5d"
+    },
+    {
+      "id": "c9d538a8-9b19-4bea-95d0-e8238e447d28",
+      "set_code": "LEG",
+      "collector_number": "227",
+      "name": "Gosta Dirk",
+      "scryfall_id": "92ef316b-dd22-40d1-82e8-8890976684c0"
+    },
+    {
+      "id": "e2a540f1-92d0-41da-9d34-5b56428074c3",
+      "set_code": "LEG",
+      "collector_number": "228",
+      "name": "Gwendlyn Di Corci",
+      "scryfall_id": "473d70b6-a88c-49f4-9415-19919c4468ae"
+    },
+    {
+      "id": "0c1ea465-569d-4a3b-aafd-e501571cc182",
+      "set_code": "LEG",
+      "collector_number": "229",
+      "name": "Halfdane",
+      "scryfall_id": "2e939761-3542-4044-9038-d1d30c6a38fc"
+    },
+    {
+      "id": "f2c23726-086a-483c-8918-2bbd37e2ed9e",
+      "set_code": "LEG",
+      "collector_number": "230",
+      "name": "Hazezon Tamar",
+      "scryfall_id": "17fc3a85-c6b9-4fd2-a6a2-d3210708e5ea"
+    },
+    {
+      "id": "ce14d131-4bfa-447c-890c-8c0e626525da",
+      "set_code": "LEG",
+      "collector_number": "231",
+      "name": "Hunding Gjornersen",
+      "scryfall_id": "07d8e501-6857-4a52-a3b9-2bf0bee5b08c"
+    },
+    {
+      "id": "02e8cf46-7f20-4fbc-9e00-88dad1c5ef30",
+      "set_code": "LEG",
+      "collector_number": "232",
+      "name": "Jacques le Vert",
+      "scryfall_id": "ee5a45b1-169b-468e-9251-424c09cd7f0f"
+    },
+    {
+      "id": "4022a4e9-1362-405a-8a25-fd9da0e5c8a1",
+      "set_code": "LEG",
+      "collector_number": "233",
+      "name": "Jasmine Boreal",
+      "scryfall_id": "db6ef678-4ce9-48d6-aa4f-2afd9a1ad724"
+    },
+    {
+      "id": "d6cb7202-1632-4438-9161-4f1d54d50523",
+      "set_code": "LEG",
+      "collector_number": "234",
+      "name": "Jedit Ojanen",
+      "scryfall_id": "97b80124-2b59-425c-93cc-9b032e631c6e"
+    },
+    {
+      "id": "a38eb56a-3bb8-4b2c-88c3-51c6c1c4fe76",
+      "set_code": "LEG",
+      "collector_number": "235",
+      "name": "Jerrard of the Closed Fist",
+      "scryfall_id": "7f841918-813b-4784-ab57-907185b0a355"
+    },
+    {
+      "id": "cfb9d777-3228-4fa1-bd4e-546e3cf745fa",
+      "set_code": "LEG",
+      "collector_number": "236",
+      "name": "Johan",
+      "scryfall_id": "b851d5b4-7991-49d4-8a52-bf233f960cbf"
+    },
+    {
+      "id": "7385c948-e818-4d22-9aac-1147232bf2ff",
+      "set_code": "LEG",
+      "collector_number": "237",
+      "name": "Kasimir the Lone Wolf",
+      "scryfall_id": "45b1e60d-54dd-41cd-b9a2-00890725a3df"
+    },
+    {
+      "id": "f20ff246-8d28-4998-a455-0bc9de702111",
+      "set_code": "LEG",
+      "collector_number": "238",
+      "name": "Kei Takahashi",
+      "scryfall_id": "6a4a524a-fdc7-432d-994b-953808528349"
+    },
+    {
+      "id": "bd100ec4-96ba-4f9c-94c3-0967008b46f2",
+      "set_code": "LEG",
+      "collector_number": "239",
+      "name": "Lady Caleria",
+      "scryfall_id": "d6914ed2-9207-4689-9166-11d2f8949fdd"
+    },
+    {
+      "id": "179fb818-f773-4590-b6ab-2f0860132ef7",
+      "set_code": "LEG",
+      "collector_number": "240",
+      "name": "Lady Evangela",
+      "scryfall_id": "f3e122e9-ffa3-48dd-94d6-8f2886668e59"
+    },
+    {
+      "id": "31a8f2da-f33f-4bda-b005-c76e9ae27439",
+      "set_code": "LEG",
+      "collector_number": "241",
+      "name": "Lady Orca",
+      "scryfall_id": "b2779553-74eb-42ba-97d0-96269f48c269"
+    },
+    {
+      "id": "3e292289-19fe-4e28-9b79-40a77c2e5b22",
+      "set_code": "LEG",
+      "collector_number": "242",
+      "name": "Livonya Silone",
+      "scryfall_id": "b9211949-66a5-4039-ac6d-3e42b008b58e"
+    },
+    {
+      "id": "34695501-f91e-4217-8436-724a15e4c6ce",
+      "set_code": "LEG",
+      "collector_number": "243",
+      "name": "Lord Magnus",
+      "scryfall_id": "2a02aabb-c464-4672-b37b-d5d713ef8939"
+    },
+    {
+      "id": "65abeee1-3104-4f81-bf61-34c285edb237",
+      "set_code": "LEG",
+      "collector_number": "244",
+      "name": "Marhault Elsdragon",
+      "scryfall_id": "67330004-6720-46d9-9de0-c79230110583"
+    },
+    {
+      "id": "fa35a3b0-af93-4fad-97e1-ddf379b17c02",
+      "set_code": "LEG",
+      "collector_number": "245",
+      "name": "Nebuchadnezzar",
+      "scryfall_id": "e3f17ce3-711b-4bd9-addf-dd440fa7d2b7"
+    },
+    {
+      "id": "08313576-425f-419f-8519-033583dbaf58",
+      "set_code": "LEG",
+      "collector_number": "246",
+      "name": "Nicol Bolas",
+      "scryfall_id": "729feb73-4581-4f9d-ba47-bece72481b86"
+    },
+    {
+      "id": "afa3d8a4-320b-46bc-8081-83281ef5eda8",
+      "set_code": "LEG",
+      "collector_number": "247",
+      "name": "Palladia-Mors",
+      "scryfall_id": "ad64874d-ce33-4e0a-bcca-723f129ef415"
+    },
+    {
+      "id": "bbfc9c80-19bd-4bae-a9b9-a6df217341a2",
+      "set_code": "LEG",
+      "collector_number": "248",
+      "name": "Pavel Maliki",
+      "scryfall_id": "304f9d39-3ea2-4274-b23e-e4eaabbc1c4b"
+    },
+    {
+      "id": "b418ab75-0323-4705-b74a-68e096614289",
+      "set_code": "LEG",
+      "collector_number": "249",
+      "name": "Princess Lucrezia",
+      "scryfall_id": "a1dcf48c-2700-4024-807e-9244e4c649ac"
+    },
+    {
+      "id": "fb568806-7160-4ba0-9d8d-4f54c89063cd",
+      "set_code": "LEG",
+      "collector_number": "250",
+      "name": "Ragnar",
+      "scryfall_id": "2cf6a3a3-4a06-4eb7-981a-b70cf05b2473"
+    },
+    {
+      "id": "7e9d2b26-f350-428d-984d-317489f45df6",
+      "set_code": "LEG",
+      "collector_number": "251",
+      "name": "Ramirez DePietro",
+      "scryfall_id": "e5c66c61-aadf-433b-9958-fc9b44b327b9"
+    },
+    {
+      "id": "b0745124-2e1f-40a7-96f2-3ca9290301c0",
+      "set_code": "LEG",
+      "collector_number": "252",
+      "name": "Ramses Overdark",
+      "scryfall_id": "f079c74e-a39a-40f9-9c7e-9319c0c189c6"
+    },
+    {
+      "id": "eaedd5f2-96e3-46ba-b586-d7969b2553a5",
+      "set_code": "LEG",
+      "collector_number": "253",
+      "name": "Rasputin Dreamweaver",
+      "scryfall_id": "503256f8-3aab-49d0-b78b-6502aa29ce52"
+    },
+    {
+      "id": "a55da632-eef3-4793-9b81-6c9f649fcae6",
+      "set_code": "LEG",
+      "collector_number": "254",
+      "name": "Riven Turnbull",
+      "scryfall_id": "d11f90e7-ced1-4d80-8083-99acbf459ad7"
+    },
+    {
+      "id": "e89783f4-682c-4b5b-a894-f523f7bff575",
+      "set_code": "LEG",
+      "collector_number": "255",
+      "name": "Rohgahh of Kher Keep",
+      "scryfall_id": "ea0891f0-83ce-4eb7-b0a9-cbc8168bafff"
+    },
+    {
+      "id": "a854f773-2114-4899-8d84-648856276235",
+      "set_code": "LEG",
+      "collector_number": "256",
+      "name": "Rubinia Soulsinger",
+      "scryfall_id": "f13e8dc9-8d0f-4a2c-8c0e-be70a3a7dc8e"
+    },
+    {
+      "id": "cbbe5576-3eea-4029-aa00-7ddb7a8e615d",
+      "set_code": "LEG",
+      "collector_number": "257",
+      "name": "Sir Shandlar of Eberyn",
+      "scryfall_id": "31570ded-f5e3-44c4-b95f-294ac10b2cd2"
+    },
+    {
+      "id": "1585c033-3d00-4c05-b317-fe6c25e5b89e",
+      "set_code": "LEG",
+      "collector_number": "258",
+      "name": "Sivitri Scarzam",
+      "scryfall_id": "9c12ee9e-db13-4b4d-a061-b6566f538f09"
+    },
+    {
+      "id": "3e0c7ccb-f16f-479d-92ee-36f509f500c9",
+      "set_code": "LEG",
+      "collector_number": "259",
+      "name": "Sol'kanar the Swamp King",
+      "scryfall_id": "7a20dcb0-5350-40e0-82d3-c8d0186fc9d2"
+    },
+    {
+      "id": "27a7095c-ace2-4e6a-83f1-c0f91cb58277",
+      "set_code": "LEG",
+      "collector_number": "260",
+      "name": "Stangg",
+      "scryfall_id": "a277775a-6b48-4238-a618-3ae94c4cc85c"
+    },
+    {
+      "id": "e7c34004-6da8-47a9-9217-9c96b577cbe5",
+      "set_code": "LEG",
+      "collector_number": "261",
+      "name": "Sunastian Falconer",
+      "scryfall_id": "587075f3-a568-4089-83ca-fe1e473c025d"
+    },
+    {
+      "id": "575dd83f-880e-44a5-bf4b-5a0fd540d2e5",
+      "set_code": "LEG",
+      "collector_number": "262",
+      "name": "Tetsuo Umezawa",
+      "scryfall_id": "8384f87b-26c2-45b7-98ef-352c384f205e"
+    },
+    {
+      "id": "1b990da4-229e-42d1-82bc-6da4722db598",
+      "set_code": "LEG",
+      "collector_number": "263",
+      "name": "The Lady of the Mountain",
+      "scryfall_id": "83717eb2-220e-4086-be09-dee9174798b8"
+    },
+    {
+      "id": "73834f86-ee50-42cc-8777-d79cadbeb312",
+      "set_code": "LEG",
+      "collector_number": "264",
+      "name": "Tobias Andrion",
+      "scryfall_id": "cac56eda-5ed3-4abd-beec-f5063fbf930a"
+    },
+    {
+      "id": "878a8bb3-6a68-436f-ba96-609a1a0efda1",
+      "set_code": "LEG",
+      "collector_number": "265",
+      "name": "Tor Wauki",
+      "scryfall_id": "241a4854-e62c-4be4-a9cc-1e14db4eede9"
+    },
+    {
+      "id": "56b64d36-8320-4c24-be1e-0b22b401c7da",
+      "set_code": "LEG",
+      "collector_number": "266",
+      "name": "Torsten Von Ursus",
+      "scryfall_id": "5fd99522-4a91-4ccd-91bf-5f32a6ac3510"
+    },
+    {
+      "id": "50a2944b-40d6-4378-8ffc-dfff53e89a87",
+      "set_code": "LEG",
+      "collector_number": "267",
+      "name": "Tuknir Deathlock",
+      "scryfall_id": "9dfbcb4d-a9ae-4d76-8dde-7312fbad56b0"
+    },
+    {
+      "id": "ab703846-ed28-4157-b0f7-4b0ce4335b48",
+      "set_code": "LEG",
+      "collector_number": "268",
+      "name": "Ur-Drago",
+      "scryfall_id": "81a40f34-fc26-4d05-9c52-6ffbf1766a3b"
+    },
+    {
+      "id": "f1a73f58-2e9e-4e5c-b5f2-4bdf9329e1c7",
+      "set_code": "LEG",
+      "collector_number": "269",
+      "name": "Vaevictis Asmadi",
+      "scryfall_id": "22ea73ec-1325-4437-a23f-dcda1767c713"
+    },
+    {
+      "id": "2ea01e35-1fcf-4f79-9ff9-4831e5b528a7",
+      "set_code": "LEG",
+      "collector_number": "270",
+      "name": "Xira Arien",
+      "scryfall_id": "cc6c7d89-32e7-4c3f-ac90-7db3a46eed4b"
+    },
+    {
+      "id": "86eefed4-596a-4356-aa16-c3cce01faa72",
+      "set_code": "LEG",
+      "collector_number": "271",
+      "name": "Al-abara's Carpet",
+      "scryfall_id": "5d5aae6e-fe20-4363-9589-5a54bcbbb77e"
+    },
+    {
+      "id": "340828a0-9bb1-4af9-bd55-7d51e1b1da53",
+      "set_code": "LEG",
+      "collector_number": "272",
+      "name": "Alchor's Tomb",
+      "scryfall_id": "f4395b19-2118-4a09-8932-f9ce9bc54d6d"
+    },
+    {
+      "id": "2891c450-3ce7-46b1-b9e3-ed2ed4372111",
+      "set_code": "LEG",
+      "collector_number": "273",
+      "name": "Arena of the Ancients",
+      "scryfall_id": "9337996e-a119-4529-b422-f6d286c78e3f"
+    },
+    {
+      "id": "2613de70-1a01-44d9-86d9-91082bc79433",
+      "set_code": "LEG",
+      "collector_number": "274",
+      "name": "Black Mana Battery",
+      "scryfall_id": "d0c66e64-e357-457d-8302-b3a1fc0c56ce"
+    },
+    {
+      "id": "1c44c46a-3628-4655-b389-506463d32ed8",
+      "set_code": "LEG",
+      "collector_number": "275",
+      "name": "Blue Mana Battery",
+      "scryfall_id": "35393661-2c53-46f0-bb33-2390d552b060"
+    },
+    {
+      "id": "a474c4fc-46b5-4549-bcb5-01e74a17a2e4",
+      "set_code": "LEG",
+      "collector_number": "276",
+      "name": "Bronze Horse",
+      "scryfall_id": "936a03a5-73ba-436c-9d49-70e176d118e6"
+    },
+    {
+      "id": "6176130b-1330-47e7-ac98-4dd4dfb81339",
+      "set_code": "LEG",
+      "collector_number": "277",
+      "name": "Forethought Amulet",
+      "scryfall_id": "700f53d3-0a84-4c55-8495-786f0f0783db"
+    },
+    {
+      "id": "30d89a42-9daa-40d4-a45b-a388946ff0f5",
+      "set_code": "LEG",
+      "collector_number": "278",
+      "name": "Gauntlets of Chaos",
+      "scryfall_id": "6f8f11b5-3ba8-4913-b76a-fb469a74864d"
+    },
+    {
+      "id": "46287994-20d4-4276-a622-1256bd7ab406",
+      "set_code": "LEG",
+      "collector_number": "279",
+      "name": "Green Mana Battery",
+      "scryfall_id": "4671fa01-4a9e-4cd9-8154-b0d45e11b702"
+    },
+    {
+      "id": "b771141b-11f1-4613-a59f-6469ba151560",
+      "set_code": "LEG",
+      "collector_number": "280",
+      "name": "Horn of Deafening",
+      "scryfall_id": "17eff8d9-86de-4f19-bf00-5f20dc1373d4"
+    },
+    {
+      "id": "0031931b-fd02-4bc2-9b62-8c58f4baddd4",
+      "set_code": "LEG",
+      "collector_number": "281",
+      "name": "Knowledge Vault",
+      "scryfall_id": "65947312-75c2-4baa-805c-238a154156ef"
+    },
+    {
+      "id": "461576b1-0cfa-4148-b0c5-a8c40f04f7a4",
+      "set_code": "LEG",
+      "collector_number": "282",
+      "name": "Kry Shield",
+      "scryfall_id": "a558f23c-c2ce-40d0-b894-f8ccbff8f622"
+    },
+    {
+      "id": "0968d729-e5fb-415f-bed9-ac64df0fddc4",
+      "set_code": "LEG",
+      "collector_number": "283",
+      "name": "Life Chisel",
+      "scryfall_id": "50052f9a-d667-4a96-a9b1-b4169ee495e6"
+    },
+    {
+      "id": "2e5d28a3-ff25-4ecd-806b-a89229ab9f64",
+      "set_code": "LEG",
+      "collector_number": "284",
+      "name": "Life Matrix",
+      "scryfall_id": "c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b"
+    },
+    {
+      "id": "80b0de26-7907-49c0-af76-84258ebf597d",
+      "set_code": "LEG",
+      "collector_number": "285",
+      "name": "Mana Matrix",
+      "scryfall_id": "a3eedc11-0b47-430c-8391-577a2d05c2ae"
+    },
+    {
+      "id": "78cd6f9c-812b-4d18-8348-c1c8e8c9d03f",
+      "set_code": "LEG",
+      "collector_number": "286",
+      "name": "Marble Priest",
+      "scryfall_id": "459b71d7-34c1-43b9-93ff-364f95aa4789"
+    },
+    {
+      "id": "7411691b-d683-462d-ac20-bea72a1b6dff",
+      "set_code": "LEG",
+      "collector_number": "287",
+      "name": "Mirror Universe",
+      "scryfall_id": "a8f05d5e-bb7d-4554-b880-f0c6b4688357"
+    },
+    {
+      "id": "c92e63db-ccf6-4835-ae22-0be56a98d751",
+      "set_code": "LEG",
+      "collector_number": "288",
+      "name": "North Star",
+      "scryfall_id": "daac2a6b-27c8-4567-9e0c-7b262628d331"
+    },
+    {
+      "id": "096768b9-6025-4c99-8d4a-1bc8d88dc4f3",
+      "set_code": "LEG",
+      "collector_number": "289",
+      "name": "Nova Pentacle",
+      "scryfall_id": "bc60e209-aa29-48aa-9128-9bb175403c0c"
+    },
+    {
+      "id": "5fe4c8ea-6632-4247-9f99-c0e4d72baea6",
+      "set_code": "LEG",
+      "collector_number": "290",
+      "name": "Planar Gate",
+      "scryfall_id": "dd27f0fe-c032-4f61-9f3d-98a6d2e2c426"
+    },
+    {
+      "id": "a238ac8c-50da-4de3-8c26-0ddc58577878",
+      "set_code": "LEG",
+      "collector_number": "291",
+      "name": "Red Mana Battery",
+      "scryfall_id": "363cc5d6-70f8-4a3c-92bd-8f49774bdce2"
+    },
+    {
+      "id": "b78a2241-2954-42e8-812d-4e90cfa49d05",
+      "set_code": "LEG",
+      "collector_number": "292",
+      "name": "Relic Barrier",
+      "scryfall_id": "c062cbae-ce5e-43be-9932-c81a0a3622e8"
+    },
+    {
+      "id": "a9555490-e9ee-471d-9b4e-3e0d92a72443",
+      "set_code": "LEG",
+      "collector_number": "293",
+      "name": "Ring of Immortals",
+      "scryfall_id": "61706102-67fd-4167-bd7d-ec6da41db362"
+    },
+    {
+      "id": "6b6e80d3-601a-40b7-a9ff-6e7ed7c79310",
+      "set_code": "LEG",
+      "collector_number": "294",
+      "name": "Sentinel",
+      "scryfall_id": "5c970830-95cf-4471-af28-43da635073d0"
+    },
+    {
+      "id": "b612a701-fbcf-441c-8880-39ec8f7c6d31",
+      "set_code": "LEG",
+      "collector_number": "295",
+      "name": "Serpent Generator",
+      "scryfall_id": "7c350c38-6cbb-4b8b-823f-45d6a16568cc"
+    },
+    {
+      "id": "206846f2-cc85-40cb-b077-0b85255f5154",
+      "set_code": "LEG",
+      "collector_number": "296",
+      "name": "Sword of the Ages",
+      "scryfall_id": "b37fd4cc-ab5c-4c65-80ff-8f905b31e801"
+    },
+    {
+      "id": "89ccddd6-39a8-4bb2-9c7f-5aa86cea635d",
+      "set_code": "LEG",
+      "collector_number": "297",
+      "name": "Triassic Egg",
+      "scryfall_id": "ce3756f7-0d99-4562-b32d-66de18a58fdf"
+    },
+    {
+      "id": "79f16daf-1510-4266-aa28-26f55ebc294c",
+      "set_code": "LEG",
+      "collector_number": "298",
+      "name": "Voodoo Doll",
+      "scryfall_id": "0418672d-056e-416d-91b4-8ee6e47201dc"
+    },
+    {
+      "id": "1f888b65-1e56-44a3-bd1d-c6c266c55869",
+      "set_code": "LEG",
+      "collector_number": "299",
+      "name": "White Mana Battery",
+      "scryfall_id": "35fbbe41-d21b-4028-905f-054c44d30eb2"
+    },
+    {
+      "id": "20359d3f-5107-49bf-892f-8a6158f424b3",
+      "set_code": "LEG",
+      "collector_number": "300",
+      "name": "Adventurers' Guildhouse",
+      "scryfall_id": "32865e68-5842-4f17-b2ea-4ffa743b511f"
+    },
+    {
+      "id": "c3d659ff-207d-4933-b70c-75dff45288cf",
+      "set_code": "LEG",
+      "collector_number": "301",
+      "name": "Cathedral of Serra",
+      "scryfall_id": "e65356e6-0ead-49fd-b069-be1ea9b1c105"
+    },
+    {
+      "id": "d98356ac-3c09-4ae4-a01d-fe565ebbdd3d",
+      "set_code": "LEG",
+      "collector_number": "302",
+      "name": "Hammerheim",
+      "scryfall_id": "2816d30e-1e52-4323-b30e-1688fba23368"
+    },
+    {
+      "id": "bc304af0-97ec-42d1-8740-1d2e69f3239d",
+      "set_code": "LEG",
+      "collector_number": "303",
+      "name": "Karakas",
+      "scryfall_id": "31d2422a-bb7d-4cdd-9aac-e5a936a4be3b"
+    },
+    {
+      "id": "b1fb6efb-d599-4d58-af0b-2d002b7fd6f4",
+      "set_code": "LEG",
+      "collector_number": "304",
+      "name": "Mountain Stronghold",
+      "scryfall_id": "314fd1d7-4bd8-4d95-b7c2-1aa6660ab88a"
+    },
+    {
+      "id": "42635cf7-1b8a-4b02-8bb8-3735fcde8c36",
+      "set_code": "LEG",
+      "collector_number": "305",
+      "name": "Pendelhaven",
+      "scryfall_id": "79427109-c1f3-476d-a029-0049217237b5"
+    },
+    {
+      "id": "600985f3-1422-409f-a5ca-2f6212d19724",
+      "set_code": "LEG",
+      "collector_number": "306",
+      "name": "Seafarer's Quay",
+      "scryfall_id": "66641d88-b3f0-4bcd-8d2d-29aa2de69e30"
+    },
+    {
+      "id": "04a9d45b-2dbe-499f-8622-60ccf94691ca",
+      "set_code": "LEG",
+      "collector_number": "307",
+      "name": "The Tabernacle at Pendrell Vale",
+      "scryfall_id": "64bc9b1d-5818-4d9e-b771-e49af4ff9a5c"
+    },
+    {
+      "id": "8ad91084-d789-43c1-b5ac-f3cf570dcf7b",
+      "set_code": "LEG",
+      "collector_number": "308",
+      "name": "Tolaria",
+      "scryfall_id": "d43c01b7-443d-4061-a934-6863d230c9b8"
+    },
+    {
+      "id": "8749561d-28d8-43fc-9f67-7fb35b06d644",
+      "set_code": "LEG",
+      "collector_number": "309",
+      "name": "Unholy Citadel",
+      "scryfall_id": "9de534ff-fb48-4692-bd0f-dd237ca28502"
+    },
+    {
+      "id": "00c4140b-60d4-4a3a-a3b1-dcd68ff599f2",
+      "set_code": "LEG",
+      "collector_number": "310",
+      "name": "Urborg",
+      "scryfall_id": "d0a261d0-7678-46f7-9285-d541486567d8"
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "id": "f74099ff-27d7-4e5b-b391-74b77b34b2ad",
+  "code": "ATQ",
+  "name": "Antiquities",
+  "scryfall_id": "819f9678-87dd-4aba-a47b-2d553bfea21f",
+  "cards": [
+    {
+      "id": "d2ee7b50-dde8-40a2-af35-09c4390e6f44",
+      "set_code": "ATQ",
+      "collector_number": "1",
+      "name": "Argivian Archaeologist",
+      "scryfall_id": "ce83a3cb-467d-44f6-a051-4855c8cf52a6"
+    },
+    {
+      "id": "853317a6-6940-419a-b242-0e824f1e9a68",
+      "set_code": "ATQ",
+      "collector_number": "2",
+      "name": "Argivian Blacksmith",
+      "scryfall_id": "5f604338-5ee4-4c47-ad5a-5c805c96c8de"
+    },
+    {
+      "id": "ef0abc8f-a466-4710-9f71-639f3d4b8029",
+      "set_code": "ATQ",
+      "collector_number": "3",
+      "name": "Artifact Ward",
+      "scryfall_id": "b3a5101a-ec66-4658-950c-9ad49c29b836"
+    },
+    {
+      "id": "876f2af5-2986-4d12-a6dc-5f22b0667222",
+      "set_code": "ATQ",
+      "collector_number": "4",
+      "name": "Circle of Protection: Artifacts",
+      "scryfall_id": "22ebd5a3-fef8-4097-b038-89a6cb38227d"
+    },
+    {
+      "id": "35f92822-d8ef-4a22-b2f7-8f48570e2041",
+      "set_code": "ATQ",
+      "collector_number": "5",
+      "name": "Damping Field",
+      "scryfall_id": "12ab9836-bc90-4d92-a86d-b8e1b7671aa7"
+    },
+    {
+      "id": "591d683f-e04c-41a8-983e-ab72f5fffc60",
+      "set_code": "ATQ",
+      "collector_number": "6",
+      "name": "Martyrs of Korlis",
+      "scryfall_id": "bde037b9-4947-4ff7-8ea4-e9f1a7e4ab88"
+    },
+    {
+      "id": "c7e2038e-6b88-45c9-a110-bed37d26c470",
+      "set_code": "ATQ",
+      "collector_number": "7",
+      "name": "Reverse Polarity",
+      "scryfall_id": "da7ed8ba-3886-4779-a9b3-6892a7ed3527"
+    },
+    {
+      "id": "919d38e1-0660-4cb9-ba33-ff60b7760b9d",
+      "set_code": "ATQ",
+      "collector_number": "8",
+      "name": "Drafna's Restoration",
+      "scryfall_id": "4be2aa3b-207b-4d21-abfb-6788520c7676"
+    },
+    {
+      "id": "fa6eaed0-11c6-416e-92bc-5624bcad04f4",
+      "set_code": "ATQ",
+      "collector_number": "9",
+      "name": "Energy Flux",
+      "scryfall_id": "bd1f624b-e8f2-462f-838a-7cb9e8fda988"
+    },
+    {
+      "id": "44e4fcc1-1a68-4328-84c1-1a9a1edf8170",
+      "set_code": "ATQ",
+      "collector_number": "10",
+      "name": "Hurkyl's Recall",
+      "scryfall_id": "f32373dd-06d8-45d1-8777-3b1411bcb30a"
+    },
+    {
+      "id": "afadb114-9084-479b-a38a-4d4d708ef676",
+      "set_code": "ATQ",
+      "collector_number": "11",
+      "name": "Power Artifact",
+      "scryfall_id": "e48bc89e-6da5-43da-b4e0-60d5f850199c"
+    },
+    {
+      "id": "bfb0d0cf-0968-489d-8d03-3286c283c067",
+      "set_code": "ATQ",
+      "collector_number": "12",
+      "name": "Reconstruction",
+      "scryfall_id": "1aa2d27b-cc25-4baa-86f4-4db45b30e2a4"
+    },
+    {
+      "id": "1507827c-c0db-4435-a633-b15d58359b13",
+      "set_code": "ATQ",
+      "collector_number": "13",
+      "name": "Sage of Lat-Nam",
+      "scryfall_id": "b4ff60ce-073c-46b8-807c-8b40467b960c"
+    },
+    {
+      "id": "46fbd9ee-e3d9-47a5-91b7-20719ffaf82b",
+      "set_code": "ATQ",
+      "collector_number": "14",
+      "name": "Transmute Artifact",
+      "scryfall_id": "6eab6765-eba3-4844-81ca-ae37a6e903df"
+    },
+    {
+      "id": "59f2807e-ab15-433e-9213-2782ffb8f950",
+      "set_code": "ATQ",
+      "collector_number": "15",
+      "name": "Artifact Possession",
+      "scryfall_id": "587d6ac8-fad8-49e0-862e-636e06628ff9"
+    },
+    {
+      "id": "69a7069d-5d6b-453d-88ab-edc2e668970b",
+      "set_code": "ATQ",
+      "collector_number": "16",
+      "name": "Gate to Phyrexia",
+      "scryfall_id": "1f372950-6693-4838-80ef-8fd9aa3e0349"
+    },
+    {
+      "id": "fb4f6d23-c1da-4a35-8612-dfcfc2c2367c",
+      "set_code": "ATQ",
+      "collector_number": "17",
+      "name": "Haunting Wind",
+      "scryfall_id": "a2f6ef2f-a3a2-4e1f-b7eb-59abc8414114"
+    },
+    {
+      "id": "942acda0-e1eb-4628-bdd7-872e5c21b175",
+      "set_code": "ATQ",
+      "collector_number": "18",
+      "name": "Phyrexian Gremlins",
+      "scryfall_id": "21a985a9-5612-4844-982e-fd1aa6249770"
+    },
+    {
+      "id": "ad60bb2f-2b11-4cc3-8780-32fa9d4f6da9",
+      "set_code": "ATQ",
+      "collector_number": "19",
+      "name": "Priest of Yawgmoth",
+      "scryfall_id": "c9fd4054-42fc-4f95-a6f7-369a5da43dd5"
+    },
+    {
+      "id": "0c28c807-3794-4d79-9980-3209e26511c5",
+      "set_code": "ATQ",
+      "collector_number": "20",
+      "name": "Xenic Poltergeist",
+      "scryfall_id": "5149ffff-d38f-458e-bcfa-a4b6b332a0b4"
+    },
+    {
+      "id": "79e3ab81-6274-48fd-a815-59c626ef51c9",
+      "set_code": "ATQ",
+      "collector_number": "21",
+      "name": "Yawgmoth Demon",
+      "scryfall_id": "04bbd231-0d5f-4cbf-92a7-10d2c5c4b82c"
+    },
+    {
+      "id": "ab42cb29-b10a-40f5-aacf-b66a8e7cf997",
+      "set_code": "ATQ",
+      "collector_number": "22",
+      "name": "Artifact Blast",
+      "scryfall_id": "1506d99d-7b2e-4101-84a5-c950dadb263a"
+    },
+    {
+      "id": "b34fdab6-9952-4a30-bfd6-ff50bf8a8b5e",
+      "set_code": "ATQ",
+      "collector_number": "23",
+      "name": "Atog",
+      "scryfall_id": "2249fc40-4412-48fd-800a-7ea3678aee3f"
+    },
+    {
+      "id": "00edcd7d-4249-4392-af2f-6c27a26e4db1",
+      "set_code": "ATQ",
+      "collector_number": "24",
+      "name": "Detonate",
+      "scryfall_id": "ffd7eb90-ae95-49df-898a-9510187bce1c"
+    },
+    {
+      "id": "6d950554-7430-4a13-854b-6da61b587de5",
+      "set_code": "ATQ",
+      "collector_number": "25",
+      "name": "Dwarven Weaponsmith",
+      "scryfall_id": "0848d94a-2704-460f-986b-b192dd6d26b7"
+    },
+    {
+      "id": "b073fa81-fcaa-4cf0-a9d4-1992c4de1ca6",
+      "set_code": "ATQ",
+      "collector_number": "26",
+      "name": "Goblin Artisans",
+      "scryfall_id": "6669d96e-9a7b-4427-a477-f4e76831f593"
+    },
+    {
+      "id": "5525ff77-bd12-4f06-8b03-fd6f93a7aa81",
+      "set_code": "ATQ",
+      "collector_number": "27",
+      "name": "Orcish Mechanics",
+      "scryfall_id": "5e34fc6b-5f00-4a22-9ee2-afc1caf99961"
+    },
+    {
+      "id": "529da51c-4de8-4037-98ce-b45ff4b6df44",
+      "set_code": "ATQ",
+      "collector_number": "28",
+      "name": "Shatterstorm",
+      "scryfall_id": "0987461a-45c0-4956-8627-cd27a7e038d0"
+    },
+    {
+      "id": "45e53f53-9686-48e9-89f2-0bf4ea15787f",
+      "set_code": "ATQ",
+      "collector_number": "29",
+      "name": "Argothian Pixies",
+      "scryfall_id": "5712e87a-2381-4f5b-a853-6973841f9bf1"
+    },
+    {
+      "id": "fa9a03e1-073c-49a0-9684-728a8bf8b965",
+      "set_code": "ATQ",
+      "collector_number": "30",
+      "name": "Argothian Treefolk",
+      "scryfall_id": "8db8882e-4db6-4e3c-9e9e-8c71d557a071"
+    },
+    {
+      "id": "b5bf4f5e-a7be-4d46-b990-bcb501b66479",
+      "set_code": "ATQ",
+      "collector_number": "31",
+      "name": "Citanul Druid",
+      "scryfall_id": "f8a130dc-3b1f-4fae-8459-b26bb5647fec"
+    },
+    {
+      "id": "257d90f7-b617-4e40-8b09-ed0ee9d3092f",
+      "set_code": "ATQ",
+      "collector_number": "32",
+      "name": "Crumble",
+      "scryfall_id": "d2101f86-8d3c-4ba8-ac42-bd3df0644280"
+    },
+    {
+      "id": "c8dcbd67-ab6f-4a8b-8535-f4975627e4dd",
+      "set_code": "ATQ",
+      "collector_number": "33",
+      "name": "Gaea's Avenger",
+      "scryfall_id": "39d763bd-b0a9-46ba-bcd2-9304063446f2"
+    },
+    {
+      "id": "ac96a27e-077e-42df-98d4-ff8abf773d25",
+      "set_code": "ATQ",
+      "collector_number": "34",
+      "name": "Powerleech",
+      "scryfall_id": "ae1d7b09-3a1f-410f-b330-04ae768b0455"
+    },
+    {
+      "id": "eb33bab9-1908-43f5-8f93-13cf91414338",
+      "set_code": "ATQ",
+      "collector_number": "35",
+      "name": "Titania's Song",
+      "scryfall_id": "583a53af-2e2a-4f3f-8eab-bd874c6ed80a"
+    },
+    {
+      "id": "c923c0a3-5c5d-4097-8d64-36029c4994db",
+      "set_code": "ATQ",
+      "collector_number": "36",
+      "name": "Amulet of Kroog",
+      "scryfall_id": "b094f8dd-0184-41a2-9767-e848a6e4eac1"
+    },
+    {
+      "id": "0d76e138-f4e6-4951-b882-4524d2513f99",
+      "set_code": "ATQ",
+      "collector_number": "37",
+      "name": "Armageddon Clock",
+      "scryfall_id": "44a31889-6a8d-450c-a73d-381a7ff28bf9"
+    },
+    {
+      "id": "0c038362-32c1-482b-8446-83d67fa575b2",
+      "set_code": "ATQ",
+      "collector_number": "38",
+      "name": "Ashnod's Altar",
+      "scryfall_id": "cdcccb0f-ce96-453b-9e82-41d87f52e58b"
+    },
+    {
+      "id": "43488b41-b4a2-4fd1-83b1-64b77daa301a",
+      "set_code": "ATQ",
+      "collector_number": "39",
+      "name": "Ashnod's Battle Gear",
+      "scryfall_id": "aeeec853-dd3f-4ac3-8b20-c07fada8888f"
+    },
+    {
+      "id": "5c248b79-165f-4a30-8f5b-0f863f1b253c",
+      "set_code": "ATQ",
+      "collector_number": "40",
+      "name": "Ashnod's Transmogrant",
+      "scryfall_id": "2aa5b289-36ba-49b1-a5ac-f23bf71f8241"
+    },
+    {
+      "id": "001b81df-3a6f-49e9-a871-fd9af26d1856",
+      "set_code": "ATQ",
+      "collector_number": "41",
+      "name": "Battering Ram",
+      "scryfall_id": "f7a69e35-d209-41c0-aa3c-c78414617075"
+    },
+    {
+      "id": "54dbd9c3-9a4c-4206-ad02-fe88c11b9713",
+      "set_code": "ATQ",
+      "collector_number": "42",
+      "name": "Bronze Tablet",
+      "scryfall_id": "6fb10552-dd47-4f8a-ac7c-8c2b61e56736"
+    },
+    {
+      "id": "9e22afdc-bc85-4aff-972b-ce6b537c9e35",
+      "set_code": "ATQ",
+      "collector_number": "43",
+      "name": "Candelabra of Tawnos",
+      "scryfall_id": "35a335bf-7358-460f-b7c9-1e8bc4300f64"
+    },
+    {
+      "id": "c40ecee6-bf0c-4368-8221-6f51e111a0eb",
+      "set_code": "ATQ",
+      "collector_number": "44",
+      "name": "Clay Statue",
+      "scryfall_id": "64975352-8d35-4d02-94ac-fa0c6ee12409"
+    },
+    {
+      "id": "711071e7-ddb8-4b4d-903c-d4539ed0b8a5",
+      "set_code": "ATQ",
+      "collector_number": "45",
+      "name": "Clockwork Avian",
+      "scryfall_id": "1dea8c2f-4aea-478d-aee7-cba1f74edd6c"
+    },
+    {
+      "id": "0c3c2995-3812-44b7-aa82-fe14ac30b5e4",
+      "set_code": "ATQ",
+      "collector_number": "46",
+      "name": "Colossus of Sardia",
+      "scryfall_id": "067c44e9-1b23-42fd-9acb-daafb62c32a2"
+    },
+    {
+      "id": "8bc97287-613d-4fdb-8cce-54c8c6037802",
+      "set_code": "ATQ",
+      "collector_number": "47",
+      "name": "Coral Helm",
+      "scryfall_id": "6c6df9db-0a46-40a5-ae9d-59f47dae9056"
+    },
+    {
+      "id": "98c8e716-2780-43c5-9421-35479608a50d",
+      "set_code": "ATQ",
+      "collector_number": "48",
+      "name": "Cursed Rack",
+      "scryfall_id": "720d871d-1e7b-482e-bd1e-8ec79519fb86"
+    },
+    {
+      "id": "5f3f366e-3688-48fe-a4f3-c1eda91a8b33",
+      "set_code": "ATQ",
+      "collector_number": "49",
+      "name": "Dragon Engine",
+      "scryfall_id": "07793a71-1106-4303-b620-e403bd378020"
+    },
+    {
+      "id": "8c6d2755-c40e-47b9-8f8a-4d6f5bb01535",
+      "set_code": "ATQ",
+      "collector_number": "50",
+      "name": "Feldon's Cane",
+      "scryfall_id": "bb6af436-bcfd-4d47-a1aa-e84b587a725a"
+    },
+    {
+      "id": "5df4eb55-a978-4807-a501-65c065cecb8d",
+      "set_code": "ATQ",
+      "collector_number": "51",
+      "name": "Golgothian Sylex",
+      "scryfall_id": "856be1dd-a20b-49c2-be9d-7db76c7efd8b"
+    },
+    {
+      "id": "c3fe8cd2-93b0-4f04-977b-0ec7c924fe8f",
+      "set_code": "ATQ",
+      "collector_number": "52",
+      "name": "Grapeshot Catapult",
+      "scryfall_id": "4c7a7348-c82e-453c-975c-e5365e152a3a"
+    },
+    {
+      "id": "cb7a8524-9e28-409e-abfe-9bfbbe3a2d4e",
+      "set_code": "ATQ",
+      "collector_number": "53",
+      "name": "Ivory Tower",
+      "scryfall_id": "a5f23039-45ca-4c15-af50-bfd40ea26453"
+    },
+    {
+      "id": "31a95e92-f80d-429b-bb81-7da35cfa1acd",
+      "set_code": "ATQ",
+      "collector_number": "54",
+      "name": "Jalum Tome",
+      "scryfall_id": "5a5b7c5a-ee63-4a1b-9a0f-fb0a309168df"
+    },
+    {
+      "id": "a6c741c8-4f38-417a-b016-a1d6e43029c0",
+      "set_code": "ATQ",
+      "collector_number": "55",
+      "name": "Mightstone",
+      "scryfall_id": "b28ba599-5299-4831-a118-1712ada10ef6"
+    },
+    {
+      "id": "bf9832a7-a2b6-4690-87f4-84dade0b13da",
+      "set_code": "ATQ",
+      "collector_number": "56",
+      "name": "Millstone",
+      "scryfall_id": "107646bc-2181-49f4-8821-1eaa46291855"
+    },
+    {
+      "id": "be07ba7a-f8e2-41c7-be7c-9f6cdb935520",
+      "set_code": "ATQ",
+      "collector_number": "57",
+      "name": "Mishra's War Machine",
+      "scryfall_id": "8f6b4652-a1d4-418f-a89b-6a977a920a9e"
+    },
+    {
+      "id": "1b5238f6-07d9-45e9-a6e9-3db7e46d1171",
+      "set_code": "ATQ",
+      "collector_number": "58",
+      "name": "Obelisk of Undoing",
+      "scryfall_id": "1ba61ccd-4429-4f7c-b9f3-30867878d88e"
+    },
+    {
+      "id": "a9898a6b-bdaf-41a8-8b8f-1ea4cb0603df",
+      "set_code": "ATQ",
+      "collector_number": "59",
+      "name": "Onulet",
+      "scryfall_id": "d77fe8e2-8438-473e-ace5-01baddd2c4ed"
+    },
+    {
+      "id": "db6b8ade-5f50-43cb-86fc-96c6899f0493",
+      "set_code": "ATQ",
+      "collector_number": "60",
+      "name": "Ornithopter",
+      "scryfall_id": "59cc9bdb-7cf2-4795-bac7-ffff605c9eb0"
+    },
+    {
+      "id": "cc2acb5a-8fc7-4417-94c3-b5f1e2810ea9",
+      "set_code": "ATQ",
+      "collector_number": "61",
+      "name": "Primal Clay",
+      "scryfall_id": "ab9d0e3f-cf7c-41f8-bcd7-bb08ea8cc2f8"
+    },
+    {
+      "id": "4f0c0e73-5c66-4e37-b032-ed6c65617bb3",
+      "set_code": "ATQ",
+      "collector_number": "62",
+      "name": "Rakalite",
+      "scryfall_id": "0fd7c711-3ff4-4691-914f-242e6737066c"
+    },
+    {
+      "id": "322d6fec-f946-4670-af66-e28c1d18b14b",
+      "set_code": "ATQ",
+      "collector_number": "63",
+      "name": "Rocket Launcher",
+      "scryfall_id": "d5bb2093-78a8-4a6c-abe7-9a5afc181ec5"
+    },
+    {
+      "id": "14c671b5-1374-4e84-a011-26206a024f39",
+      "set_code": "ATQ",
+      "collector_number": "64",
+      "name": "Shapeshifter",
+      "scryfall_id": "cc278af4-b60d-41b7-b9d7-36c8aefca1a7"
+    },
+    {
+      "id": "dc9490d3-f405-4285-ae36-67bb5ab46ec6",
+      "set_code": "ATQ",
+      "collector_number": "65",
+      "name": "Staff of Zegon",
+      "scryfall_id": "a6bf858d-bba9-4a16-9045-55384b1de633"
+    },
+    {
+      "id": "c419bb4b-dd80-4b51-9dfb-25c2cc0f1e3b",
+      "set_code": "ATQ",
+      "collector_number": "66",
+      "name": "Su-Chi",
+      "scryfall_id": "a64d4f93-0c04-4078-aec0-7e9de92f260f"
+    },
+    {
+      "id": "9056867f-c42d-4ecf-a140-4efeb2185e0f",
+      "set_code": "ATQ",
+      "collector_number": "67",
+      "name": "Tablet of Epityr",
+      "scryfall_id": "6d7a2718-301f-4191-b348-0c44c7c07d43"
+    },
+    {
+      "id": "aaa99ac6-c078-41ae-8d42-696415233723",
+      "set_code": "ATQ",
+      "collector_number": "68",
+      "name": "Tawnos's Coffin",
+      "scryfall_id": "c27bc1de-8246-4dc8-af51-ec21def9e226"
+    },
+    {
+      "id": "3f6c83d6-c327-4c6c-b32d-b345539423af",
+      "set_code": "ATQ",
+      "collector_number": "69",
+      "name": "Tawnos's Wand",
+      "scryfall_id": "978f09dd-121a-4da5-ba16-5c03fbdce084"
+    },
+    {
+      "id": "947ee48a-9369-44af-b20c-53b70025fa30",
+      "set_code": "ATQ",
+      "collector_number": "70",
+      "name": "Tawnos's Weaponry",
+      "scryfall_id": "3035cead-a501-4204-9154-5fd648577d32"
+    },
+    {
+      "id": "5ab7b08b-b649-428f-b9fb-0bca28a62bbb",
+      "set_code": "ATQ",
+      "collector_number": "70\u2020",
+      "name": "Tawnos's Weaponry",
+      "scryfall_id": "cca371f0-e7c9-4154-8e1d-47576c0202bc"
+    },
+    {
+      "id": "b025e0e1-842a-4068-a26e-f7c86efcb2a0",
+      "set_code": "ATQ",
+      "collector_number": "71",
+      "name": "Tetravus",
+      "scryfall_id": "23eb19f9-2e8f-4bf0-9bf8-868e6da70e2d"
+    },
+    {
+      "id": "424d2e12-3ef2-4744-a391-4d6f2246f0df",
+      "set_code": "ATQ",
+      "collector_number": "72",
+      "name": "The Rack",
+      "scryfall_id": "ec0686ba-1277-4412-a397-7a6227808311"
+    },
+    {
+      "id": "2c54d499-5f13-4fcd-9d6d-4a496734b498",
+      "set_code": "ATQ",
+      "collector_number": "73",
+      "name": "Triskelion",
+      "scryfall_id": "a79c99e1-722a-44b6-8fa3-2be3f0c193d8"
+    },
+    {
+      "id": "9947c031-17eb-44b9-9def-da883f33432b",
+      "set_code": "ATQ",
+      "collector_number": "74",
+      "name": "Urza's Avenger",
+      "scryfall_id": "448e1811-fb16-4390-ac22-b7066a4a019c"
+    },
+    {
+      "id": "1c285f8f-bdcc-4d42-a656-4b3636924f28",
+      "set_code": "ATQ",
+      "collector_number": "75",
+      "name": "Urza's Chalice",
+      "scryfall_id": "f3728537-86d3-42be-9046-90bba1bfafc1"
+    },
+    {
+      "id": "7012959a-f375-408e-a7aa-e6347dbf77d2",
+      "set_code": "ATQ",
+      "collector_number": "76",
+      "name": "Urza's Miter",
+      "scryfall_id": "438f0c61-a61d-4a9e-b21f-4e86420c7913"
+    },
+    {
+      "id": "836f7de8-8ae0-4397-8e8f-4f8800c77cdd",
+      "set_code": "ATQ",
+      "collector_number": "77",
+      "name": "Wall of Spears",
+      "scryfall_id": "b1dda179-c49a-4995-ba5a-db93ac43dbe7"
+    },
+    {
+      "id": "aa6a8437-bd8f-4709-abf9-63b1efba4188",
+      "set_code": "ATQ",
+      "collector_number": "78",
+      "name": "Weakstone",
+      "scryfall_id": "46adf48f-99d2-440e-9129-794584c1ea21"
+    },
+    {
+      "id": "52efdca4-02d7-4e2a-b6e1-c5378e60ca2e",
+      "set_code": "ATQ",
+      "collector_number": "79",
+      "name": "Yotian Soldier",
+      "scryfall_id": "27cf53e3-76f6-4831-800e-1259394d779d"
+    },
+    {
+      "id": "c732d4d6-f6e2-43d4-a0c8-56dbad981622",
+      "set_code": "ATQ",
+      "collector_number": "80a",
+      "name": "Mishra's Factory",
+      "scryfall_id": "a696c5b6-f216-454d-8029-74e84bbd1428"
+    },
+    {
+      "id": "7447c201-0b11-4dc0-bd0b-cc96396c57cb",
+      "set_code": "ATQ",
+      "collector_number": "80b",
+      "name": "Mishra's Factory",
+      "scryfall_id": "4047df9c-335c-4c1a-968d-00f40e2e7386"
+    },
+    {
+      "id": "06f1875f-5f28-4e2e-a9c4-b3b7470de6de",
+      "set_code": "ATQ",
+      "collector_number": "80c",
+      "name": "Mishra's Factory",
+      "scryfall_id": "c44669b2-bf9a-41c3-91c7-d845b0061fbf"
+    },
+    {
+      "id": "4176013d-88f4-426c-a058-665552c356e1",
+      "set_code": "ATQ",
+      "collector_number": "80d",
+      "name": "Mishra's Factory",
+      "scryfall_id": "ac09a506-427f-4636-bcfd-b40f8d511905"
+    },
+    {
+      "id": "fd89fd7b-9491-4b01-87d0-7fb4916e9c2e",
+      "set_code": "ATQ",
+      "collector_number": "81",
+      "name": "Mishra's Workshop",
+      "scryfall_id": "135de5c7-6ac9-4b68-8f1a-97f120a4b125"
+    },
+    {
+      "id": "98f0d4cd-b6f6-40fd-b0bd-ce58fdbf5e4b",
+      "set_code": "ATQ",
+      "collector_number": "82a",
+      "name": "Strip Mine",
+      "scryfall_id": "e7880157-7f27-4f1b-9cdc-ab36a6252376"
+    },
+    {
+      "id": "8a85f142-8416-403e-9a3a-b321b5c0d942",
+      "set_code": "ATQ",
+      "collector_number": "82b",
+      "name": "Strip Mine",
+      "scryfall_id": "a48bd745-5e9f-4807-97b0-29222a5b838d"
+    },
+    {
+      "id": "b7493e34-dd73-4289-95a3-e7772b9b9e4e",
+      "set_code": "ATQ",
+      "collector_number": "82c",
+      "name": "Strip Mine",
+      "scryfall_id": "917e98db-a0c4-4836-9e4b-3fda142eedf6"
+    },
+    {
+      "id": "107277d8-80e3-4f06-87b9-bcc84ee95056",
+      "set_code": "ATQ",
+      "collector_number": "82d",
+      "name": "Strip Mine",
+      "scryfall_id": "e0f6a92f-edd8-4cb6-be91-f3ec229b20a6"
+    },
+    {
+      "id": "76be1c61-58d7-4b61-8e7c-9c49b395a3c3",
+      "set_code": "ATQ",
+      "collector_number": "83a",
+      "name": "Urza's Mine",
+      "scryfall_id": "ddf85792-470b-4b42-99ac-9cb43a575523"
+    },
+    {
+      "id": "bf053398-9ce0-4595-886b-bc7d73028aa4",
+      "set_code": "ATQ",
+      "collector_number": "83b",
+      "name": "Urza's Mine",
+      "scryfall_id": "27886da1-9161-4bed-81b5-06da21a25f91"
+    },
+    {
+      "id": "bc45392e-06a7-45ca-8e52-72b6a236cdb7",
+      "set_code": "ATQ",
+      "collector_number": "83c",
+      "name": "Urza's Mine",
+      "scryfall_id": "da68a5c0-84fe-4a8f-93b2-790eca3cc95c"
+    },
+    {
+      "id": "9b96a7c3-4267-4f48-bd7e-928ef7639609",
+      "set_code": "ATQ",
+      "collector_number": "83d",
+      "name": "Urza's Mine",
+      "scryfall_id": "cd8617d2-a0e9-4fb4-85da-2c7e385be3f6"
+    },
+    {
+      "id": "84c3d3ca-dd33-47fe-9e98-a960a99d75a8",
+      "set_code": "ATQ",
+      "collector_number": "84a",
+      "name": "Urza's Power Plant",
+      "scryfall_id": "94896e0b-859c-47e4-bf27-35ed37b841e0"
+    },
+    {
+      "id": "c36b5bd8-96ac-49ab-917c-1aa627a9f2cd",
+      "set_code": "ATQ",
+      "collector_number": "84b",
+      "name": "Urza's Power Plant",
+      "scryfall_id": "e237d921-6d84-402e-b5e3-6bbdb3028f57"
+    },
+    {
+      "id": "8aa49ef1-9731-4eb0-9218-ab03a4c63d80",
+      "set_code": "ATQ",
+      "collector_number": "84c",
+      "name": "Urza's Power Plant",
+      "scryfall_id": "5cc02459-83ae-4b6c-85a1-26eeaf7a2ee7"
+    },
+    {
+      "id": "68be9632-204e-40d9-bbed-34569c84017a",
+      "set_code": "ATQ",
+      "collector_number": "84d",
+      "name": "Urza's Power Plant",
+      "scryfall_id": "b0bbe643-3e07-4541-a2e6-45c63a5133cf"
+    },
+    {
+      "id": "4d9db046-347f-4f2d-a4bb-b03bbe00b5de",
+      "set_code": "ATQ",
+      "collector_number": "85a",
+      "name": "Urza's Tower",
+      "scryfall_id": "8ed85655-fc59-4a57-bcf9-75e1899dff78"
+    },
+    {
+      "id": "0aa05649-ff01-4e85-b967-d7991f787c9a",
+      "set_code": "ATQ",
+      "collector_number": "85b",
+      "name": "Urza's Tower",
+      "scryfall_id": "6aba1f0f-73b0-4898-8d07-43322e43d74e"
+    },
+    {
+      "id": "244ad893-aca0-4c65-a396-b51255f9ab87",
+      "set_code": "ATQ",
+      "collector_number": "85c",
+      "name": "Urza's Tower",
+      "scryfall_id": "4a03554a-0ee7-4106-b3e4-4bc51f48032d"
+    },
+    {
+      "id": "ca373ed9-ab88-4141-996a-37594f5ebc4f",
+      "set_code": "ATQ",
+      "collector_number": "85d",
+      "name": "Urza's Tower",
+      "scryfall_id": "cc78f2e5-c02b-4f58-8510-660ca27d9a71"
+    }
+  ]
+}

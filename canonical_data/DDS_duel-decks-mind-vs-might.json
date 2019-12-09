@@ -1,0 +1,463 @@
+{
+  "id": "5d311f54-420a-4817-a8b3-8ccd35a605a3",
+  "code": "DDS",
+  "name": "Duel Decks: Mind vs. Might",
+  "scryfall_id": "758fe4d1-ce2b-4106-8cec-820841d730af",
+  "cards": [
+    {
+      "id": "8fba1f11-1a52-400f-bf65-6469189f5919",
+      "set_code": "DDS",
+      "collector_number": "1",
+      "name": "Jhoira of the Ghitu",
+      "scryfall_id": "23612d91-c394-4eee-987b-b124b615de86"
+    },
+    {
+      "id": "24a0d6de-a7f3-47fb-88da-30929512778d",
+      "set_code": "DDS",
+      "collector_number": "2",
+      "name": "Beacon of Tomorrows",
+      "scryfall_id": "1bf05e3d-601a-481b-8880-24058a3442e9"
+    },
+    {
+      "id": "80e7d66a-feff-48b3-967d-4d798e73158e",
+      "set_code": "DDS",
+      "collector_number": "3",
+      "name": "Deep-Sea Kraken",
+      "scryfall_id": "df5a543e-8416-4f01-91f5-e1ed87f1a510"
+    },
+    {
+      "id": "b3c7c45d-3ef3-48c8-b044-77c400869ccc",
+      "set_code": "DDS",
+      "collector_number": "4",
+      "name": "Mind's Desire",
+      "scryfall_id": "1290e00b-c41b-4e30-8b65-a7fd4356d462"
+    },
+    {
+      "id": "c1060534-4775-4a49-8bab-cd0e06bc22af",
+      "set_code": "DDS",
+      "collector_number": "5",
+      "name": "Peer Through Depths",
+      "scryfall_id": "df0994df-730c-4947-8248-0aaf97998fa1"
+    },
+    {
+      "id": "dcbc9697-a488-4dec-af51-55f6a1862d7b",
+      "set_code": "DDS",
+      "collector_number": "6",
+      "name": "Quicken",
+      "scryfall_id": "e6209bbf-5861-4755-abb6-0f04def9527e"
+    },
+    {
+      "id": "bfe015c0-4670-43e1-ac47-2b8b148b6dba",
+      "set_code": "DDS",
+      "collector_number": "7",
+      "name": "Reach Through Mists",
+      "scryfall_id": "0b6d5d29-4f38-4229-ac50-c4fa97fcc536"
+    },
+    {
+      "id": "d710de94-26e5-4965-a27f-7022fcde602c",
+      "set_code": "DDS",
+      "collector_number": "8",
+      "name": "Sage-Eye Avengers",
+      "scryfall_id": "026e33ed-2f2d-4345-8a89-58c9f2f6c727"
+    },
+    {
+      "id": "d90e52e0-7fab-4cd7-b4a4-592e241f9a84",
+      "set_code": "DDS",
+      "collector_number": "9",
+      "name": "Sift Through Sands",
+      "scryfall_id": "c1fd8a97-1c97-45fe-8c06-013a1f528919"
+    },
+    {
+      "id": "e8b98751-c8de-476c-b832-33580395c01b",
+      "set_code": "DDS",
+      "collector_number": "10",
+      "name": "Snap",
+      "scryfall_id": "1959f078-4b7b-4df2-a256-d43b2d97e853"
+    },
+    {
+      "id": "dbd8e6b0-6f17-45cf-985c-aa235817eb63",
+      "set_code": "DDS",
+      "collector_number": "11",
+      "name": "Talrand, Sky Summoner",
+      "scryfall_id": "fea27d0c-92b1-4530-8035-519463722f17"
+    },
+    {
+      "id": "2d8e6ec0-cc87-483a-acd0-08292e4c5a1a",
+      "set_code": "DDS",
+      "collector_number": "12",
+      "name": "Temporal Fissure",
+      "scryfall_id": "c9f9ece7-ee6e-4379-9d53-209f8805a72d"
+    },
+    {
+      "id": "8dc0be99-0440-4b7d-97ff-a7371b465dbf",
+      "set_code": "DDS",
+      "collector_number": "13",
+      "name": "The Unspeakable",
+      "scryfall_id": "e956c695-bf0a-430c-a14e-196ae6ab7c9f"
+    },
+    {
+      "id": "7528194e-8691-4438-b856-f0873fe15d1d",
+      "set_code": "DDS",
+      "collector_number": "14",
+      "name": "Desperate Ritual",
+      "scryfall_id": "1f86cd5e-1b6f-4528-9d5b-f406261c8d41"
+    },
+    {
+      "id": "7110875e-cf61-4967-a634-0659b7e54af7",
+      "set_code": "DDS",
+      "collector_number": "15",
+      "name": "Empty the Warrens",
+      "scryfall_id": "42418f91-c7a9-461a-b00c-bba184e2a917"
+    },
+    {
+      "id": "a33a34e2-c530-46cf-bad5-a1dc7576a99b",
+      "set_code": "DDS",
+      "collector_number": "16",
+      "name": "Grapeshot",
+      "scryfall_id": "8dfe022f-cbdf-4710-af7b-9f0e213fc89c"
+    },
+    {
+      "id": "684c4276-30a2-4ac3-b317-6c9ff7de5fe7",
+      "set_code": "DDS",
+      "collector_number": "17",
+      "name": "Rift Bolt",
+      "scryfall_id": "fefbed51-ae2a-4668-a725-71904f18acc6"
+    },
+    {
+      "id": "bcb1f4c7-57c6-4b25-b898-20971532554d",
+      "set_code": "DDS",
+      "collector_number": "18",
+      "name": "Shivan Meteor",
+      "scryfall_id": "7f2d2a20-3196-4bb2-9574-0c643e0b6f3d"
+    },
+    {
+      "id": "3cd2846a-d8e2-4c7b-a051-82ea46eae6fc",
+      "set_code": "DDS",
+      "collector_number": "19",
+      "name": "Volcanic Vision",
+      "scryfall_id": "37aacf2b-b08f-4804-88ff-7b61620801e9"
+    },
+    {
+      "id": "4b39eb6b-d29a-4443-9a5e-35891a00bade",
+      "set_code": "DDS",
+      "collector_number": "20",
+      "name": "Young Pyromancer",
+      "scryfall_id": "74e1698b-cd80-4cf2-92d6-62c0197eca0b"
+    },
+    {
+      "id": "fa8033d3-280b-4ce8-896c-4cf3cfa02f75",
+      "set_code": "DDS",
+      "collector_number": "21",
+      "name": "Firemind's Foresight",
+      "scryfall_id": "555778df-8ed9-4eb3-859b-4246d9e05ee5"
+    },
+    {
+      "id": "80ffff15-bff0-46d2-8a76-f3fb81534178",
+      "set_code": "DDS",
+      "collector_number": "22",
+      "name": "Goblin Electromancer",
+      "scryfall_id": "b3d8dd05-5d0b-406f-a59a-9066079fed26"
+    },
+    {
+      "id": "82b1c768-5858-4802-81f0-21ac0fb775a8",
+      "set_code": "DDS",
+      "collector_number": "23",
+      "name": "Jori En, Ruin Diver",
+      "scryfall_id": "40c020f2-5809-4aa6-a6f5-6030568058aa"
+    },
+    {
+      "id": "1aac30d4-16a0-4c54-89a7-d8b8af8f36fe",
+      "set_code": "DDS",
+      "collector_number": "24",
+      "name": "Nivix Cyclops",
+      "scryfall_id": "f6abe6ca-9345-41bc-9acd-b17ac887cb9d"
+    },
+    {
+      "id": "6441f648-e4ba-40cc-bdb1-5b26bdc58222",
+      "set_code": "DDS",
+      "collector_number": "25",
+      "name": "Spellheart Chimera",
+      "scryfall_id": "8782a7b7-79ca-4e5c-845b-d662222574c0"
+    },
+    {
+      "id": "b1c2bdc2-9122-4e85-8b3a-f2753cc2b069",
+      "set_code": "DDS",
+      "collector_number": "26",
+      "name": "Nucklavee",
+      "scryfall_id": "fd706176-477a-49a9-bf47-0d10c0501227"
+    },
+    {
+      "id": "53cc68fc-0bb4-49f1-8e19-8cf5b3a7fbbc",
+      "set_code": "DDS",
+      "collector_number": "27",
+      "name": "Swiftwater Cliffs",
+      "scryfall_id": "ebbca459-195a-4cfc-838f-e71ac2b9c35f"
+    },
+    {
+      "id": "49e471c7-2be3-46e4-af06-a156b2910f1f",
+      "set_code": "DDS",
+      "collector_number": "28",
+      "name": "Island",
+      "scryfall_id": "27e01339-0c2e-4e2f-b1c5-e46030016d5b"
+    },
+    {
+      "id": "e5bc0afe-18fd-4701-be2e-4f1fbdb24a87",
+      "set_code": "DDS",
+      "collector_number": "29",
+      "name": "Island",
+      "scryfall_id": "547890ff-69b6-48e0-98f6-1fbca5d353e8"
+    },
+    {
+      "id": "53cbe5a8-581a-4f64-a9da-005912bd50d6",
+      "set_code": "DDS",
+      "collector_number": "30",
+      "name": "Island",
+      "scryfall_id": "e1e33a2f-0018-4278-83c4-50ed83f009c3"
+    },
+    {
+      "id": "f5746b43-fe96-4bcc-ad43-b196d2ba21d8",
+      "set_code": "DDS",
+      "collector_number": "31",
+      "name": "Mountain",
+      "scryfall_id": "d66b6951-50a0-4b30-aa73-d4ce1380ff49"
+    },
+    {
+      "id": "58907793-339d-47ba-9a71-f83b0dd98754",
+      "set_code": "DDS",
+      "collector_number": "32",
+      "name": "Mountain",
+      "scryfall_id": "545b397b-ff3a-49f6-bb10-e403b8fee85f"
+    },
+    {
+      "id": "d05a91f2-ab29-4eef-85c3-df029e9d3282",
+      "set_code": "DDS",
+      "collector_number": "33",
+      "name": "Mountain",
+      "scryfall_id": "cc9c1b6a-8fc9-4292-81a0-5cf423638c71"
+    },
+    {
+      "id": "f00693da-05f7-4d00-9299-72834deb7898",
+      "set_code": "DDS",
+      "collector_number": "34",
+      "name": "Lovisa Coldeyes",
+      "scryfall_id": "ad4d4662-2c9b-42fc-9c08-162c822f436c"
+    },
+    {
+      "id": "223f52a2-0942-4375-ab0c-16c4a73dfb32",
+      "set_code": "DDS",
+      "collector_number": "35",
+      "name": "Beacon of Destruction",
+      "scryfall_id": "1ece7e7d-615b-42da-8bab-80f24ad7c4d8"
+    },
+    {
+      "id": "d1684a46-9d2d-47e2-a7df-8d4b631602ce",
+      "set_code": "DDS",
+      "collector_number": "36",
+      "name": "Boldwyr Intimidator",
+      "scryfall_id": "058faf52-1d6c-47c8-8911-365353d1ea3f"
+    },
+    {
+      "id": "59fc3a9d-05c9-459c-890e-d7129d72b355",
+      "set_code": "DDS",
+      "collector_number": "37",
+      "name": "Firebolt",
+      "scryfall_id": "5da1493c-78b4-4c4d-ab70-199fe506b61a"
+    },
+    {
+      "id": "c8fffde1-d893-4ef2-9567-393eddc170ca",
+      "set_code": "DDS",
+      "collector_number": "38",
+      "name": "Gorehorn Minotaurs",
+      "scryfall_id": "63fd5801-5073-4e8e-8435-c7ebe9d999b3"
+    },
+    {
+      "id": "b397953d-1211-411c-823a-a7a21216c063",
+      "set_code": "DDS",
+      "collector_number": "39",
+      "name": "Kamahl, Pit Fighter",
+      "scryfall_id": "7a65dd4d-f838-4964-bd5a-a517960cc644"
+    },
+    {
+      "id": "854fa5ad-09ee-4e9d-8dba-5dfd77b5f5d2",
+      "set_code": "DDS",
+      "collector_number": "40",
+      "name": "Kruin Striker",
+      "scryfall_id": "fc2bf4cf-8918-40a4-afe5-79860390f04c"
+    },
+    {
+      "id": "116fcaf0-eb7a-4425-81c3-8dcbe8eed47d",
+      "set_code": "DDS",
+      "collector_number": "41",
+      "name": "Zo-Zu the Punisher",
+      "scryfall_id": "e7c927d6-911d-4a37-89a2-6c500edf4dd7"
+    },
+    {
+      "id": "9b0a4b69-bd4f-4e37-8097-53be031f9d6c",
+      "set_code": "DDS",
+      "collector_number": "42",
+      "name": "Ambassador Oak",
+      "scryfall_id": "a064f5e2-20b2-47a1-b3f3-78f077d71ec7"
+    },
+    {
+      "id": "0ae15423-6167-412f-8c09-d62162272035",
+      "set_code": "DDS",
+      "collector_number": "43",
+      "name": "Beast Attack",
+      "scryfall_id": "011f805f-3ebb-4748-a5de-8a10b5f47dcd"
+    },
+    {
+      "id": "b6e37ec3-ebdc-4c68-856e-0320af64b55a",
+      "set_code": "DDS",
+      "collector_number": "44",
+      "name": "Call of the Herd",
+      "scryfall_id": "7ff0c182-f9ec-41d1-beb6-97d0eb1be592"
+    },
+    {
+      "id": "15977738-18dd-4b55-bb62-887c3cea0fb5",
+      "set_code": "DDS",
+      "collector_number": "45",
+      "name": "Cloudcrown Oak",
+      "scryfall_id": "833211c0-3bec-4548-97a0-c9381660cd88"
+    },
+    {
+      "id": "d48bc748-2e98-43aa-8a33-570a76bcc3aa",
+      "set_code": "DDS",
+      "collector_number": "46",
+      "name": "Harmonize",
+      "scryfall_id": "c655b8cb-a237-404e-b1ac-e101c1fda533"
+    },
+    {
+      "id": "3d251117-5871-4d28-9848-286503874b3b",
+      "set_code": "DDS",
+      "collector_number": "47",
+      "name": "Increasing Savagery",
+      "scryfall_id": "c59b2ab3-c5e3-4599-9af0-3fa7a9544b97"
+    },
+    {
+      "id": "6cd8a84f-5907-45f1-9ecd-0f3c50f6d05f",
+      "set_code": "DDS",
+      "collector_number": "48",
+      "name": "Rampant Growth",
+      "scryfall_id": "1c0a6253-aa08-4393-b370-bb3e2496d88c"
+    },
+    {
+      "id": "d0c37e3e-4c8c-4dbb-aab7-3f109130fa49",
+      "set_code": "DDS",
+      "collector_number": "49",
+      "name": "Roar of the Wurm",
+      "scryfall_id": "51a0c80e-4ace-4a2a-8b96-4472d1be6872"
+    },
+    {
+      "id": "922f9361-4be6-4a60-b7e7-877643ca1247",
+      "set_code": "DDS",
+      "collector_number": "50",
+      "name": "Skarrgan Pit-Skulk",
+      "scryfall_id": "30991c55-f39d-41f3-b584-f535f5f70f5a"
+    },
+    {
+      "id": "6d501c05-75f8-4090-bfe9-808c433ff703",
+      "set_code": "DDS",
+      "collector_number": "51",
+      "name": "Sylvan Might",
+      "scryfall_id": "b421e954-0fb4-4e64-b83c-0e81d7397fb4"
+    },
+    {
+      "id": "e701d39c-98b2-4616-84c4-45c7588974e0",
+      "set_code": "DDS",
+      "collector_number": "52",
+      "name": "Talara's Battalion",
+      "scryfall_id": "85df22de-cb56-4cef-9a55-40b6b61186d7"
+    },
+    {
+      "id": "508ba409-44d0-49c1-b44b-f7ba7ac682fc",
+      "set_code": "DDS",
+      "collector_number": "53",
+      "name": "Radha, Heir to Keld",
+      "scryfall_id": "5e1f14a7-ef44-4489-a111-30e199e5f08d"
+    },
+    {
+      "id": "b29b9acd-5e42-46bf-94b0-5ac06c9cbdbe",
+      "set_code": "DDS",
+      "collector_number": "54",
+      "name": "Relentless Hunter",
+      "scryfall_id": "018a545c-c8fc-4030-be53-a9cee186423a"
+    },
+    {
+      "id": "112ff1df-3bb9-47a4-85a4-7f666c48737b",
+      "set_code": "DDS",
+      "collector_number": "55",
+      "name": "Burning-Tree Emissary",
+      "scryfall_id": "22e3e874-a0ec-4459-b78d-abef6b9232b9"
+    },
+    {
+      "id": "e58ba8c2-7b0e-4dfa-a2ee-b4d6807787d9",
+      "set_code": "DDS",
+      "collector_number": "56",
+      "name": "Guttural Response",
+      "scryfall_id": "9121e55e-5070-48cc-b706-92c67ad89254"
+    },
+    {
+      "id": "ea7db7f5-a25b-4a08-a9cc-861e78bfb9ac",
+      "set_code": "DDS",
+      "collector_number": "57",
+      "name": "Rubblebelt Raiders",
+      "scryfall_id": "f5f0d394-f929-40e7-adb5-ca813b312dde"
+    },
+    {
+      "id": "68d1321a-98e1-4f74-bd47-6b7c8f3de482",
+      "set_code": "DDS",
+      "collector_number": "58",
+      "name": "Coat of Arms",
+      "scryfall_id": "513d4c36-6ad4-4ee9-b161-3136eb59504f"
+    },
+    {
+      "id": "451eb9af-04d9-4d9f-bfa3-0197d43d03e8",
+      "set_code": "DDS",
+      "collector_number": "59",
+      "name": "Rugged Highlands",
+      "scryfall_id": "8040efe1-8ece-45bd-8426-443090baa55b"
+    },
+    {
+      "id": "db71e27e-7181-410c-acf9-8ac3658da534",
+      "set_code": "DDS",
+      "collector_number": "60",
+      "name": "Mountain",
+      "scryfall_id": "76dc6f1a-9eca-45bd-8788-cc34b9e1a980"
+    },
+    {
+      "id": "818729f4-2c83-42d7-9e8d-6a57e13fd846",
+      "set_code": "DDS",
+      "collector_number": "61",
+      "name": "Mountain",
+      "scryfall_id": "26b1ce7e-26d5-44b3-b0f3-c6ec5839c6d8"
+    },
+    {
+      "id": "c929a9d9-357a-4202-b608-4cc0a4ae98d6",
+      "set_code": "DDS",
+      "collector_number": "62",
+      "name": "Mountain",
+      "scryfall_id": "865ace8b-9e12-4f20-ac3c-d07a323b40dd"
+    },
+    {
+      "id": "430968d7-a905-4abd-9ece-87fa2563256b",
+      "set_code": "DDS",
+      "collector_number": "63",
+      "name": "Forest",
+      "scryfall_id": "4ae04d52-92c0-493a-b677-2aa9e79bd30a"
+    },
+    {
+      "id": "a2081ffd-711b-4efc-a19d-e5cbed93ec5a",
+      "set_code": "DDS",
+      "collector_number": "64",
+      "name": "Forest",
+      "scryfall_id": "04c4a529-2345-412d-a2c6-7cd9499f031c"
+    },
+    {
+      "id": "9ad503c3-c5d7-4068-bce6-b15cc07a708a",
+      "set_code": "DDS",
+      "collector_number": "65",
+      "name": "Forest",
+      "scryfall_id": "03be40e3-b7d7-43ee-a526-5d56fa429ffa"
+    }
+  ]
+}

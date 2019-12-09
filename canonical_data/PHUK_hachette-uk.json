@@ -1,0 +1,428 @@
+{
+  "id": "aabd444c-947c-4b25-90e8-6d0913515598",
+  "code": "PHUK",
+  "name": "Hachette UK",
+  "scryfall_id": "ff711291-dc0f-4b9a-bd3d-663428550d55",
+  "cards": [
+    {
+      "id": "b9ce5b7b-8827-49a5-bc7c-146b8834b906",
+      "set_code": "PHUK",
+      "collector_number": "1",
+      "name": "Marrow-Gnawer",
+      "scryfall_id": "974a571e-aea1-4e80-8e83-e6d9c6ef201b"
+    },
+    {
+      "id": "83af0445-ef18-41a6-b1c0-96dc28bb7f57",
+      "set_code": "PHUK",
+      "collector_number": "2",
+      "name": "Swarm of Rats",
+      "scryfall_id": "06a11bfc-9acb-4ed8-9a3c-923307eee0c5"
+    },
+    {
+      "id": "94436a6d-8844-4427-90cf-4d1c42e3cd90",
+      "set_code": "PHUK",
+      "collector_number": "3",
+      "name": "Nocturnal Raid",
+      "scryfall_id": "3ce3de8a-de37-4ae4-89a0-8cad68885609"
+    },
+    {
+      "id": "1d159824-9ac8-41e8-9ce1-b617aaed0347",
+      "set_code": "PHUK",
+      "collector_number": "4",
+      "name": "Skullsnatcher",
+      "scryfall_id": "8de16ba1-c1c5-4388-ad3b-a8dbb39af300"
+    },
+    {
+      "id": "68666250-cb62-4875-80cc-4b01c4926408",
+      "set_code": "PHUK",
+      "collector_number": "5",
+      "name": "Chittering Rats",
+      "scryfall_id": "b3c1898d-76b6-438e-a7c3-3bb89ade1d30"
+    },
+    {
+      "id": "f92bb3da-9070-4af5-80c0-f274a302069e",
+      "set_code": "PHUK",
+      "collector_number": "6",
+      "name": "Crippling Fatigue",
+      "scryfall_id": "6ec1bbdb-66a6-40f0-b70e-279d763e8746"
+    },
+    {
+      "id": "15459a11-4798-422b-becf-9cce7dd9d899",
+      "set_code": "PHUK",
+      "collector_number": "7",
+      "name": "Dirty Wererat",
+      "scryfall_id": "d5b7723a-8230-4052-9ae1-4bfa46a1bd61"
+    },
+    {
+      "id": "30089d7a-3fa2-4f77-8e6a-b55c81efc333",
+      "set_code": "PHUK",
+      "collector_number": "8",
+      "name": "Swamp",
+      "scryfall_id": "f5de8d80-8695-4393-ae59-9b7a3ad738f3"
+    },
+    {
+      "id": "73dc783e-b65a-4f63-a850-5dee955cdfd5",
+      "set_code": "PHUK",
+      "collector_number": "9",
+      "name": "Swamp",
+      "scryfall_id": "555d2f6a-1360-4462-8554-0b1055c2cf89"
+    },
+    {
+      "id": "3b1ea76a-a3c4-4c5d-866c-8b11d303087d",
+      "set_code": "PHUK",
+      "collector_number": "10",
+      "name": "Swamp",
+      "scryfall_id": "ca9e8297-e9c4-4210-a34e-ec90dcab20dc"
+    },
+    {
+      "id": "38ce9bce-9617-4b3f-ae79-366392bb5f4a",
+      "set_code": "PHUK",
+      "collector_number": "11",
+      "name": "Swamp",
+      "scryfall_id": "ca921179-f6ca-43f2-bd15-2250adc0c622"
+    },
+    {
+      "id": "29bca5bc-e254-41aa-bc80-bf6d639f5aa2",
+      "set_code": "PHUK",
+      "collector_number": "12",
+      "name": "Swamp",
+      "scryfall_id": "83c8d00d-6745-47a4-8447-330c81c3c8c1"
+    },
+    {
+      "id": "18985bf1-c729-4ff6-a60a-dcec78c62fd1",
+      "set_code": "PHUK",
+      "collector_number": "13",
+      "name": "Infernal Contract",
+      "scryfall_id": "e716076d-22b3-4614-b8f0-80ba0501913d"
+    },
+    {
+      "id": "bb8da056-90d1-46bb-884f-e0ddc5dfdf3b",
+      "set_code": "PHUK",
+      "collector_number": "14",
+      "name": "Swarm of Rats",
+      "scryfall_id": "67d6d416-9526-41ee-9406-98d9452ea96d"
+    },
+    {
+      "id": "cae28179-f746-4f42-8f39-da77b432ef88",
+      "set_code": "PHUK",
+      "collector_number": "15",
+      "name": "Sever Soul",
+      "scryfall_id": "ea18b372-2324-4d9c-a38e-fb35c599dd42"
+    },
+    {
+      "id": "92514ad3-7065-4f6a-95a5-5d17b42ae915",
+      "set_code": "PHUK",
+      "collector_number": "16",
+      "name": "Sever Soul",
+      "scryfall_id": "b5b2605d-66e8-4e68-beee-d2eddae62175"
+    },
+    {
+      "id": "71b96e91-202c-4f15-b3de-fe4f5947d5f6",
+      "set_code": "PHUK",
+      "collector_number": "17",
+      "name": "Nezumi Cutthroat",
+      "scryfall_id": "5cfd3cca-ae40-44be-b641-9b65363abfb7"
+    },
+    {
+      "id": "87854489-46fc-46f7-b9f3-45294ba2856e",
+      "set_code": "PHUK",
+      "collector_number": "18",
+      "name": "Dirge of Dread",
+      "scryfall_id": "208cebc5-692c-41b8-ae6d-c245c6981023"
+    },
+    {
+      "id": "b6bffe0f-d41d-4b40-b950-887d2f544bd7",
+      "set_code": "PHUK",
+      "collector_number": "19",
+      "name": "Chittering Rats",
+      "scryfall_id": "c42bbe41-bb0d-4c47-b33f-f10c6db39a5a"
+    },
+    {
+      "id": "85d1ec0e-a30e-4772-8621-6fa7838d3677",
+      "set_code": "PHUK",
+      "collector_number": "20",
+      "name": "Swamp",
+      "scryfall_id": "5af5abdb-32b6-4952-a4f4-0b2f12ea909a"
+    },
+    {
+      "id": "ccb4956a-3080-42ce-abae-7d5ad5f489df",
+      "set_code": "PHUK",
+      "collector_number": "21",
+      "name": "Swamp",
+      "scryfall_id": "b8f73f42-e3bb-4f4c-8000-f9c5e3751575"
+    },
+    {
+      "id": "60c3cb51-eea7-4439-ae7d-9da7751f5037",
+      "set_code": "PHUK",
+      "collector_number": "22",
+      "name": "Swamp",
+      "scryfall_id": "8ae8b805-3e41-4592-9c24-0530e28d8d96"
+    },
+    {
+      "id": "f8cc0d47-7192-4b19-996c-db80db090709",
+      "set_code": "PHUK",
+      "collector_number": "23",
+      "name": "Swamp",
+      "scryfall_id": "91bc47eb-2807-4b5c-acde-a73115f49001"
+    },
+    {
+      "id": "ededc31a-4522-46a5-a5b3-a28a551b9f17",
+      "set_code": "PHUK",
+      "collector_number": "24",
+      "name": "Swamp",
+      "scryfall_id": "7cb6c2ca-879b-4b9b-8dd8-b29613143d7d"
+    },
+    {
+      "id": "59b40e63-a497-44da-aa29-4531cdb9e637",
+      "set_code": "PHUK",
+      "collector_number": "25",
+      "name": "Patron of the Nezumi",
+      "scryfall_id": "80df21ef-20e3-48ab-8324-6a9068533781"
+    },
+    {
+      "id": "4198ec43-2eea-4c99-82d0-c71c8599291f",
+      "set_code": "PHUK",
+      "collector_number": "26",
+      "name": "Suppress",
+      "scryfall_id": "97d048c2-7456-4d68-b2f9-19d91d5e68d7"
+    },
+    {
+      "id": "0dd4517b-cc38-491a-b29d-17abeea4f601",
+      "set_code": "PHUK",
+      "collector_number": "27",
+      "name": "Swarm of Rats",
+      "scryfall_id": "b26d02a0-f2fa-4ef8-8d1d-be5aca7a8db8"
+    },
+    {
+      "id": "a4c299bd-099c-4180-bb2e-8777a4888c0c",
+      "set_code": "PHUK",
+      "collector_number": "28",
+      "name": "Crypt Rats",
+      "scryfall_id": "6c925e34-4a60-4081-9517-b5ea262fe8ae"
+    },
+    {
+      "id": "ef0e8d46-8eb5-480a-8cdd-7852fc8a0d46",
+      "set_code": "PHUK",
+      "collector_number": "29",
+      "name": "Nezumi Cutthroat",
+      "scryfall_id": "0095c374-5edf-41c2-b597-f6e18b348170"
+    },
+    {
+      "id": "220cc6fa-690e-4735-a41f-c3c8e8cb50fc",
+      "set_code": "PHUK",
+      "collector_number": "30",
+      "name": "Crippling Fatigue",
+      "scryfall_id": "cb4dfa82-9f4e-4aec-8232-2ca19d7ae5f8"
+    },
+    {
+      "id": "3d7234aa-8e16-46d0-affc-074d5c285505",
+      "set_code": "PHUK",
+      "collector_number": "31",
+      "name": "Dirty Wererat",
+      "scryfall_id": "3507696a-cce3-44c2-9d66-84d525228938"
+    },
+    {
+      "id": "63d722fe-3fff-466b-81ae-d634b3e2efe7",
+      "set_code": "PHUK",
+      "collector_number": "32",
+      "name": "Swamp",
+      "scryfall_id": "ccac7da6-f5a4-4aa7-8395-b5de626181b6"
+    },
+    {
+      "id": "35ba6f51-ba64-40b7-9567-cfbf66d8e03d",
+      "set_code": "PHUK",
+      "collector_number": "33",
+      "name": "Swamp",
+      "scryfall_id": "d4e6a5af-62b3-491c-8816-20ed34465275"
+    },
+    {
+      "id": "f1e20a8c-e949-4a0a-9820-7f89fc9199db",
+      "set_code": "PHUK",
+      "collector_number": "34",
+      "name": "Swamp",
+      "scryfall_id": "a8942578-ce12-4446-94bc-ab1a14c94675"
+    },
+    {
+      "id": "c341ebee-c456-4f84-9ad7-5bd5cd32b5a6",
+      "set_code": "PHUK",
+      "collector_number": "35",
+      "name": "Swamp",
+      "scryfall_id": "812ea477-952a-4ccd-a577-6ee4e46ae9bc"
+    },
+    {
+      "id": "ce820be6-e9e8-446a-840d-4d652652c154",
+      "set_code": "PHUK",
+      "collector_number": "36",
+      "name": "Swamp",
+      "scryfall_id": "2b9a9fe0-b8b9-4eb1-bc45-2802ca949747"
+    },
+    {
+      "id": "d0fa57b4-be58-4fa0-95e7-18ba75aa7877",
+      "set_code": "PHUK",
+      "collector_number": "37",
+      "name": "Gravestorm",
+      "scryfall_id": "56a6a409-b898-4951-8930-ce4506a86741"
+    },
+    {
+      "id": "6c24fec8-7606-4cd1-9d68-6a01719d8634",
+      "set_code": "PHUK",
+      "collector_number": "38",
+      "name": "Nezumi Graverobber // Nighteyes the Desecrator",
+      "scryfall_id": "2a253b6f-d5b8-4667-855d-c7213c595d5f"
+    },
+    {
+      "id": "50eede08-413d-45cb-ac9d-c30d6e5da194",
+      "set_code": "PHUK",
+      "collector_number": "39",
+      "name": "Nezumi Graverobber // Nighteyes the Desecrator",
+      "scryfall_id": "8b2e46cf-c8d7-416e-a0a5-31cf7d72659c"
+    },
+    {
+      "id": "ba52d9a7-c981-4c68-9356-e86480259423",
+      "set_code": "PHUK",
+      "collector_number": "40",
+      "name": "Carrion Rats",
+      "scryfall_id": "c54f6ac3-5822-4920-9cc3-38fe8c8a1f78"
+    },
+    {
+      "id": "a81fef2e-22ee-4243-a2b4-cf9d6507b2ef",
+      "set_code": "PHUK",
+      "collector_number": "41",
+      "name": "Carrion Rats",
+      "scryfall_id": "bc42576e-7501-40d7-9e21-78078850d952"
+    },
+    {
+      "id": "f11a9095-11d5-48bf-86bf-702033715728",
+      "set_code": "PHUK",
+      "collector_number": "42",
+      "name": "Skullsnatcher",
+      "scryfall_id": "4b8c62da-b6cf-453f-ac74-232caae3f8eb"
+    },
+    {
+      "id": "70d2176d-ca39-4c08-8c9a-39d0187241ec",
+      "set_code": "PHUK",
+      "collector_number": "43",
+      "name": "Skullsnatcher",
+      "scryfall_id": "68d2ae6a-359c-4a47-905a-84a377d486dd"
+    },
+    {
+      "id": "7c4cfbd4-7cfa-4587-967b-0164fdced4f4",
+      "set_code": "PHUK",
+      "collector_number": "44",
+      "name": "Rats' Feast",
+      "scryfall_id": "3cbfdc8f-397f-4fba-9333-a6999c5eb687"
+    },
+    {
+      "id": "5cfb6640-d23a-4eb3-8043-ca14157493bc",
+      "set_code": "PHUK",
+      "collector_number": "45",
+      "name": "Swamp",
+      "scryfall_id": "3c081de6-16b3-4a03-ac0c-b1d967c3d516"
+    },
+    {
+      "id": "62249d65-486f-4aa9-81a9-6661c9366596",
+      "set_code": "PHUK",
+      "collector_number": "46",
+      "name": "Swamp",
+      "scryfall_id": "e9693c4c-897d-46b0-9730-b2e656498751"
+    },
+    {
+      "id": "249d3bd9-5804-4ed1-a5ed-e3079b419201",
+      "set_code": "PHUK",
+      "collector_number": "47",
+      "name": "Swamp",
+      "scryfall_id": "16ebe270-422b-4f9d-8c46-bef94e1e5b4f"
+    },
+    {
+      "id": "40b11b5c-9238-4041-9330-822c37513c24",
+      "set_code": "PHUK",
+      "collector_number": "48",
+      "name": "Swamp",
+      "scryfall_id": "36ec637b-00b6-478d-b1b1-782ee47c6809"
+    },
+    {
+      "id": "5ad5fc42-e71a-4bff-a982-610e9dc2dda5",
+      "set_code": "PHUK",
+      "collector_number": "49",
+      "name": "Larceny",
+      "scryfall_id": "33d618cf-37f1-463a-840a-4f9e07ebd3d7"
+    },
+    {
+      "id": "1c23312c-a3b5-48ae-8584-c677df0d871e",
+      "set_code": "PHUK",
+      "collector_number": "50",
+      "name": "Nezumi Bone-Reader",
+      "scryfall_id": "77dc102f-1d0c-4144-b741-eb0df3d7c11e"
+    },
+    {
+      "id": "0f20a72f-2685-421f-8c30-67804e6854e5",
+      "set_code": "PHUK",
+      "collector_number": "51",
+      "name": "Diabolic Tutor",
+      "scryfall_id": "476177f6-bd50-406f-a04f-644b46c215a3"
+    },
+    {
+      "id": "1af22b7a-01db-4d48-95c2-c353ba1938a1",
+      "set_code": "PHUK",
+      "collector_number": "52",
+      "name": "Betrayal of Flesh",
+      "scryfall_id": "cd063fe1-1160-436d-b883-5f2ddefd8dc3"
+    },
+    {
+      "id": "a64fcaf8-fd96-497a-8248-2b7d99092925",
+      "set_code": "PHUK",
+      "collector_number": "53",
+      "name": "Carrion Rats",
+      "scryfall_id": "ed8aaa9c-a156-423f-9f7f-ac3c2017326b"
+    },
+    {
+      "id": "d4b2844d-6a83-4b78-8df0-a189ae58c035",
+      "set_code": "PHUK",
+      "collector_number": "54",
+      "name": "Chittering Rats",
+      "scryfall_id": "5162306a-47f9-4725-bc6f-4610d2416a56"
+    },
+    {
+      "id": "ab3b9e92-773b-413f-89a6-3e6572bc0902",
+      "set_code": "PHUK",
+      "collector_number": "55",
+      "name": "Rats' Feast",
+      "scryfall_id": "9fc02a94-bc32-4e55-82c9-f9bbf6368790"
+    },
+    {
+      "id": "49e0ecae-4985-4315-9c63-bb51ecda6d6b",
+      "set_code": "PHUK",
+      "collector_number": "56",
+      "name": "Swamp",
+      "scryfall_id": "a6c0270a-3b2b-4f62-b7c3-9abe900f33d8"
+    },
+    {
+      "id": "5c65e910-e9f3-4c66-8b92-d2421d2e515d",
+      "set_code": "PHUK",
+      "collector_number": "57",
+      "name": "Swamp",
+      "scryfall_id": "46c2785e-2957-4423-b860-79676d97baad"
+    },
+    {
+      "id": "f9d6baec-412b-4021-a248-063a1df4462f",
+      "set_code": "PHUK",
+      "collector_number": "58",
+      "name": "Swamp",
+      "scryfall_id": "9ce167ea-78bc-4666-bd33-b6f1194dd944"
+    },
+    {
+      "id": "366d3a14-acab-48c3-be1d-0c8893b9b7ba",
+      "set_code": "PHUK",
+      "collector_number": "59",
+      "name": "Swamp",
+      "scryfall_id": "6b4506ee-762e-4ed7-aa78-d4a1a68a1ec0"
+    },
+    {
+      "id": "5b3efebe-4136-43c8-8035-35e3eaed161a",
+      "set_code": "PHUK",
+      "collector_number": "60",
+      "name": "Swamp",
+      "scryfall_id": "ea6cb47e-0963-4616-965b-6f18bd331030"
+    }
+  ]
+}

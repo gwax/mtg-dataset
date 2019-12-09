@@ -1,0 +1,1926 @@
+{
+  "id": "09824d9c-d950-4826-bd35-ae91b4795066",
+  "code": "RTR",
+  "name": "Return to Ravnica",
+  "scryfall_id": "80b2374d-c5f1-403e-9772-f6c806fd275e",
+  "cards": [
+    {
+      "id": "8de41a69-f341-4812-99bb-9d4f8f19bbd5",
+      "set_code": "RTR",
+      "collector_number": "1",
+      "name": "Angel of Serenity",
+      "scryfall_id": "f10d82f7-7759-457e-a9bb-f9a5bd968f82"
+    },
+    {
+      "id": "18a94372-f9f1-4611-b236-2ac3603310be",
+      "set_code": "RTR",
+      "collector_number": "2",
+      "name": "Armory Guard",
+      "scryfall_id": "c03498c1-b7f7-41fb-8e2a-1c087d4e9990"
+    },
+    {
+      "id": "7b66a29a-2f25-4179-ae34-fcbb17c081aa",
+      "set_code": "RTR",
+      "collector_number": "3",
+      "name": "Arrest",
+      "scryfall_id": "498f74a2-7e5e-4082-97e7-b938d703f869"
+    },
+    {
+      "id": "ceab51d9-7721-4154-981b-5225739955cf",
+      "set_code": "RTR",
+      "collector_number": "4",
+      "name": "Avenging Arrow",
+      "scryfall_id": "696678ff-44dc-4fe4-bf17-024e86cd0220"
+    },
+    {
+      "id": "e9454365-0227-4880-9e69-6f25e49b5ddd",
+      "set_code": "RTR",
+      "collector_number": "5",
+      "name": "Azorius Arrester",
+      "scryfall_id": "199f7563-563e-483c-8317-5380a83db955"
+    },
+    {
+      "id": "d1037282-0517-4ea7-b176-90b6d7575880",
+      "set_code": "RTR",
+      "collector_number": "6",
+      "name": "Azorius Justiciar",
+      "scryfall_id": "9f56272e-c05e-446b-8871-e3783dd29a8b"
+    },
+    {
+      "id": "d2f88dd6-62ad-4d34-93f1-86da99917a73",
+      "set_code": "RTR",
+      "collector_number": "7",
+      "name": "Bazaar Krovod",
+      "scryfall_id": "b07bb2fe-3a9b-47d0-864b-99a662d9544b"
+    },
+    {
+      "id": "73708ce0-0fe7-433a-bde4-92c741a5a7fe",
+      "set_code": "RTR",
+      "collector_number": "8",
+      "name": "Concordia Pegasus",
+      "scryfall_id": "f0333d0b-ae42-48aa-83d8-a4f2c7483a46"
+    },
+    {
+      "id": "53e84a9e-152f-4108-8132-2a36659b03d7",
+      "set_code": "RTR",
+      "collector_number": "9",
+      "name": "Ethereal Armor",
+      "scryfall_id": "76960e65-e5c7-4414-b9a5-37d7b2ded4a0"
+    },
+    {
+      "id": "35dd5265-9c8a-4e26-a3de-6cec2a7f485b",
+      "set_code": "RTR",
+      "collector_number": "10",
+      "name": "Eyes in the Skies",
+      "scryfall_id": "befef095-3429-4dd7-aa01-2f7f619675d4"
+    },
+    {
+      "id": "28224148-9ac7-458b-8f60-7d53cb01fe34",
+      "set_code": "RTR",
+      "collector_number": "11",
+      "name": "Fencing Ace",
+      "scryfall_id": "a42d3066-f4ec-4d28-83ab-e48141206c72"
+    },
+    {
+      "id": "9f9dad4f-a77a-4725-8658-7e66a0658920",
+      "set_code": "RTR",
+      "collector_number": "12",
+      "name": "Keening Apparition",
+      "scryfall_id": "657b242c-46cb-44d1-86fd-fb2485144a5b"
+    },
+    {
+      "id": "8bd268f5-b35d-48cc-94aa-0b2b692ad2dc",
+      "set_code": "RTR",
+      "collector_number": "13",
+      "name": "Knightly Valor",
+      "scryfall_id": "122d821f-c8dd-4a3c-a6d7-b42fe5491f02"
+    },
+    {
+      "id": "44a81d9c-0931-4162-9523-229c1a59f8dd",
+      "set_code": "RTR",
+      "collector_number": "14",
+      "name": "Martial Law",
+      "scryfall_id": "21078b6f-a39d-4ec8-879e-ad10d97c3ff6"
+    },
+    {
+      "id": "884c2677-61e5-4763-b69d-d1a04fd490ea",
+      "set_code": "RTR",
+      "collector_number": "15",
+      "name": "Palisade Giant",
+      "scryfall_id": "fdfd37ca-e4c9-4674-a75f-15d8ebcce72b"
+    },
+    {
+      "id": "0e074474-d0a5-427e-86a3-750afbaeb057",
+      "set_code": "RTR",
+      "collector_number": "16",
+      "name": "Phantom General",
+      "scryfall_id": "11f42791-070a-4e3a-91c8-b801980abb76"
+    },
+    {
+      "id": "3baae6e5-7ef3-49e6-bc0a-a3a8d8a3bb41",
+      "set_code": "RTR",
+      "collector_number": "17",
+      "name": "Precinct Captain",
+      "scryfall_id": "5f1f6178-4071-401f-bd0d-cac0c5967661"
+    },
+    {
+      "id": "5ec01fd9-267b-40a5-bb8a-65989e7ba9a4",
+      "set_code": "RTR",
+      "collector_number": "18",
+      "name": "Rest in Peace",
+      "scryfall_id": "37c2b1d1-faa0-40fd-82f4-216604ce7635"
+    },
+    {
+      "id": "9d529b88-6925-4f03-bc50-f0e84f9b4356",
+      "set_code": "RTR",
+      "collector_number": "19",
+      "name": "Rootborn Defenses",
+      "scryfall_id": "deccfa48-b8df-4dcc-ba1b-920f8352def7"
+    },
+    {
+      "id": "a0eb7c70-1f6e-475a-9c72-89a2f5b20870",
+      "set_code": "RTR",
+      "collector_number": "20",
+      "name": "Security Blockade",
+      "scryfall_id": "e6250b31-8592-48b2-a877-3637c9ee7d49"
+    },
+    {
+      "id": "df98cc78-d127-43e0-bf57-11ad07af8b5f",
+      "set_code": "RTR",
+      "collector_number": "21",
+      "name": "Selesnya Sentry",
+      "scryfall_id": "9c34c1f5-d509-4c66-ba41-c7958ef5ee44"
+    },
+    {
+      "id": "c2d6ca15-4099-493b-ba05-02acdbd892d2",
+      "set_code": "RTR",
+      "collector_number": "22",
+      "name": "Seller of Songbirds",
+      "scryfall_id": "2a41edbe-4c5a-4535-a082-235dc3ffe60a"
+    },
+    {
+      "id": "0c2c7f7d-c09b-4225-8993-f7eff137ae60",
+      "set_code": "RTR",
+      "collector_number": "23",
+      "name": "Soul Tithe",
+      "scryfall_id": "77e546ce-f498-4136-9015-bb262c301716"
+    },
+    {
+      "id": "0ddd25ab-c4fb-47dc-a795-d6b1f462dc72",
+      "set_code": "RTR",
+      "collector_number": "24",
+      "name": "Sphere of Safety",
+      "scryfall_id": "ce3bd0d8-7e44-4cf2-9012-8ff0bc39417f"
+    },
+    {
+      "id": "b0f055e3-b7ff-481f-97b0-fd1994bbfad3",
+      "set_code": "RTR",
+      "collector_number": "25",
+      "name": "Sunspire Griffin",
+      "scryfall_id": "1388ce6e-8199-46c1-8ee3-71266b0929bf"
+    },
+    {
+      "id": "4111624e-e179-434c-947f-7fa18fa97bf2",
+      "set_code": "RTR",
+      "collector_number": "26",
+      "name": "Swift Justice",
+      "scryfall_id": "a94801ba-0295-4611-abda-4c6508d69cc3"
+    },
+    {
+      "id": "a90cdac1-e373-4d50-9dee-cf92e717465d",
+      "set_code": "RTR",
+      "collector_number": "27",
+      "name": "Trained Caracal",
+      "scryfall_id": "797e45d1-d17d-40c0-bfdf-ec533784e676"
+    },
+    {
+      "id": "baa281df-a8cc-4cee-9b62-fcd1202403c3",
+      "set_code": "RTR",
+      "collector_number": "28",
+      "name": "Trostani's Judgment",
+      "scryfall_id": "d707bdb1-1f8c-4cc0-be01-496f3f03b878"
+    },
+    {
+      "id": "f7bebd27-2f81-4fb4-97ba-0549f68c51af",
+      "set_code": "RTR",
+      "collector_number": "29",
+      "name": "Aquus Steed",
+      "scryfall_id": "af643949-7a9b-4195-8ab8-d43b1928b85a"
+    },
+    {
+      "id": "e29bb890-8c61-478c-8da2-b0a94bcbe66e",
+      "set_code": "RTR",
+      "collector_number": "30",
+      "name": "Blustersquall",
+      "scryfall_id": "d998847b-323d-406a-b08e-0da66edcc7b3"
+    },
+    {
+      "id": "fec803c9-dbd5-44aa-bdb5-b2f4d993b0a3",
+      "set_code": "RTR",
+      "collector_number": "31",
+      "name": "Cancel",
+      "scryfall_id": "fd994a26-65ff-43be-8d52-476e887d3ed2"
+    },
+    {
+      "id": "649bb181-c790-4086-b14c-f982c82b8029",
+      "set_code": "RTR",
+      "collector_number": "32",
+      "name": "Chronic Flooding",
+      "scryfall_id": "1a757425-3cf2-4aca-b415-5ec2d5f753fe"
+    },
+    {
+      "id": "3f54f806-e6ef-4208-a433-6ebb75aac9cc",
+      "set_code": "RTR",
+      "collector_number": "33",
+      "name": "Conjured Currency",
+      "scryfall_id": "a7c2ea6e-7d29-4526-b135-9bbb1eed9d4a"
+    },
+    {
+      "id": "1a085ba4-d637-43a3-9dcd-2568be64475f",
+      "set_code": "RTR",
+      "collector_number": "34",
+      "name": "Crosstown Courier",
+      "scryfall_id": "8c8875a3-9f56-4947-9655-aa5d95f06de0"
+    },
+    {
+      "id": "0787eb13-0154-4601-8917-05e1f4540ced",
+      "set_code": "RTR",
+      "collector_number": "35",
+      "name": "Cyclonic Rift",
+      "scryfall_id": "205c4689-8b02-4d40-9274-3c1fcafa8b82"
+    },
+    {
+      "id": "c96edb40-b50d-4247-bd31-55f15db4541b",
+      "set_code": "RTR",
+      "collector_number": "36",
+      "name": "Dispel",
+      "scryfall_id": "08d4a8d7-c136-472f-8146-a1100701ca4f"
+    },
+    {
+      "id": "44b96245-5bea-4255-98c2-b1b970a2f77a",
+      "set_code": "RTR",
+      "collector_number": "37",
+      "name": "Doorkeeper",
+      "scryfall_id": "5c31221f-3753-4d5c-905a-6b558ab648ae"
+    },
+    {
+      "id": "432356ae-790f-4bc0-943f-a400ccfbf9af",
+      "set_code": "RTR",
+      "collector_number": "38",
+      "name": "Downsize",
+      "scryfall_id": "e8408a52-d34a-4e03-9312-700dec75d844"
+    },
+    {
+      "id": "e7a9871c-2eb1-4f8b-9288-7c3512a361c0",
+      "set_code": "RTR",
+      "collector_number": "39",
+      "name": "Faerie Impostor",
+      "scryfall_id": "7dfddc9d-85f6-4b37-9973-14c69f6818ec"
+    },
+    {
+      "id": "4e078777-1ab3-423a-ac28-857de6b95671",
+      "set_code": "RTR",
+      "collector_number": "40",
+      "name": "Hover Barrier",
+      "scryfall_id": "884afdb3-0d5f-45a1-b57e-6c3760aa0031"
+    },
+    {
+      "id": "971ba3ed-bbaa-403a-8025-9e5da664d4ca",
+      "set_code": "RTR",
+      "collector_number": "41",
+      "name": "Inaction Injunction",
+      "scryfall_id": "5342ec3c-9d26-474a-9df5-c21ac90bb233"
+    },
+    {
+      "id": "efc9af06-9705-4dcb-8216-744655a7c143",
+      "set_code": "RTR",
+      "collector_number": "42",
+      "name": "Inspiration",
+      "scryfall_id": "e3cf9dc0-0a12-459c-88e2-97ed94653058"
+    },
+    {
+      "id": "b95f0397-c1c8-41ff-a06f-fcd205e53a32",
+      "set_code": "RTR",
+      "collector_number": "43",
+      "name": "Isperia's Skywatch",
+      "scryfall_id": "019ba84d-d236-45c5-a8ad-75def7736d0c"
+    },
+    {
+      "id": "f51a41c2-34d2-4aad-a68d-f4a27741ece1",
+      "set_code": "RTR",
+      "collector_number": "44",
+      "name": "Jace, Architect of Thought",
+      "scryfall_id": "d4df3a38-678e-42dc-a3fd-d1d399368f07"
+    },
+    {
+      "id": "7b85d92c-a8b8-4d37-b3c6-77e55449e563",
+      "set_code": "RTR",
+      "collector_number": "45",
+      "name": "Mizzium Skin",
+      "scryfall_id": "d9859344-4efc-4b87-a3fb-147e496cee68"
+    },
+    {
+      "id": "5b2dbad1-b591-4c8a-ae0a-16acefe1d24d",
+      "set_code": "RTR",
+      "collector_number": "46",
+      "name": "Paralyzing Grasp",
+      "scryfall_id": "3dfd97b3-d83e-406f-af45-40eec6347462"
+    },
+    {
+      "id": "9aa64818-4f85-420e-8660-824fa5b736da",
+      "set_code": "RTR",
+      "collector_number": "47",
+      "name": "Psychic Spiral",
+      "scryfall_id": "59b09c16-f611-4c90-a990-e22bf46bd0e2"
+    },
+    {
+      "id": "020ff157-bca9-4788-ae66-755c7a7c28f5",
+      "set_code": "RTR",
+      "collector_number": "48",
+      "name": "Runewing",
+      "scryfall_id": "749961e6-b135-4629-ae9d-124de0d70db9"
+    },
+    {
+      "id": "b7dd4996-0f4a-4442-8a4d-c55a6f4d2c06",
+      "set_code": "RTR",
+      "collector_number": "49",
+      "name": "Search the City",
+      "scryfall_id": "9cd77575-fedc-45b1-a53b-dfed0f34c875"
+    },
+    {
+      "id": "c19eadea-910a-48b4-8f3f-84cd8d8f57ce",
+      "set_code": "RTR",
+      "collector_number": "50",
+      "name": "Skyline Predator",
+      "scryfall_id": "5839556c-6635-44c4-96ed-666e4466b929"
+    },
+    {
+      "id": "a6ed3f47-d610-42e6-9c5e-860a81d25fd8",
+      "set_code": "RTR",
+      "collector_number": "51",
+      "name": "Soulsworn Spirit",
+      "scryfall_id": "32602ed9-c0a7-4498-a333-235eaae628df"
+    },
+    {
+      "id": "f6af1505-ef29-4779-8957-c7944f9f8e4f",
+      "set_code": "RTR",
+      "collector_number": "52",
+      "name": "Sphinx of the Chimes",
+      "scryfall_id": "31a0cae5-925f-4d00-a4da-1db8bae5511b"
+    },
+    {
+      "id": "53579557-27ee-45bf-a77d-2d3ccb68f55b",
+      "set_code": "RTR",
+      "collector_number": "53",
+      "name": "Stealer of Secrets",
+      "scryfall_id": "30ae7001-4d0f-4160-b41c-2fcb83fdb60b"
+    },
+    {
+      "id": "389e9d67-78b0-4563-8fdf-c0fa61116cd4",
+      "set_code": "RTR",
+      "collector_number": "54",
+      "name": "Syncopate",
+      "scryfall_id": "ba6f218f-83b0-4b68-a00f-0327cd79f32a"
+    },
+    {
+      "id": "2e1d13bb-8bcf-4c1d-88bb-0df1123989c1",
+      "set_code": "RTR",
+      "collector_number": "55",
+      "name": "Tower Drake",
+      "scryfall_id": "5d759d6f-daf0-47f4-8a35-81c9d6437495"
+    },
+    {
+      "id": "e3e53d5d-88a6-4b91-83ec-065ab35e19c2",
+      "set_code": "RTR",
+      "collector_number": "56",
+      "name": "Voidwielder",
+      "scryfall_id": "23723bc7-a68e-4810-bc87-60df916cbb8a"
+    },
+    {
+      "id": "9d2526e8-00a0-4abe-82cf-f775adef27f7",
+      "set_code": "RTR",
+      "collector_number": "57",
+      "name": "Assassin's Strike",
+      "scryfall_id": "f796e320-9898-45d4-9d7a-6d35de53c9ab"
+    },
+    {
+      "id": "300182cf-744e-420d-a044-b5e8172f927d",
+      "set_code": "RTR",
+      "collector_number": "58",
+      "name": "Catacomb Slug",
+      "scryfall_id": "53b36fba-6a0e-4f03-8bee-03919062537f"
+    },
+    {
+      "id": "88c6a8f2-db29-46bd-99e2-39189002a755",
+      "set_code": "RTR",
+      "collector_number": "59",
+      "name": "Cremate",
+      "scryfall_id": "013d5260-f906-4f6a-97ed-725197743b60"
+    },
+    {
+      "id": "3600cdba-ae97-447a-b672-8879ff1baa77",
+      "set_code": "RTR",
+      "collector_number": "60",
+      "name": "Daggerdrome Imp",
+      "scryfall_id": "70639887-bdba-4879-a3f8-c716f97fc325"
+    },
+    {
+      "id": "e36ffac0-8e14-44af-b07e-b4d1b6fb8344",
+      "set_code": "RTR",
+      "collector_number": "61",
+      "name": "Dark Revenant",
+      "scryfall_id": "2167cc6d-ddb5-4f13-8905-a0c5123b852a"
+    },
+    {
+      "id": "f231318d-ed7a-492c-a8a6-00909afa51a0",
+      "set_code": "RTR",
+      "collector_number": "62",
+      "name": "Dead Reveler",
+      "scryfall_id": "909a0a38-2c22-4b49-8938-1a8162c077e6"
+    },
+    {
+      "id": "ddeb0c96-4288-44a1-9691-54efbd049895",
+      "set_code": "RTR",
+      "collector_number": "63",
+      "name": "Desecration Demon",
+      "scryfall_id": "8242fade-754c-4404-b3fb-f3cccf84b3b6"
+    },
+    {
+      "id": "ed5b9f10-58bf-4d07-9f46-a7fe8dcb1f4c",
+      "set_code": "RTR",
+      "collector_number": "64",
+      "name": "Destroy the Evidence",
+      "scryfall_id": "bca53097-108d-457e-831c-e3d6cb499a41"
+    },
+    {
+      "id": "42e9f34b-09eb-4fe7-92d1-94e2352f0fba",
+      "set_code": "RTR",
+      "collector_number": "65",
+      "name": "Deviant Glee",
+      "scryfall_id": "e150896e-8745-42ac-894b-8f42a92bd7a7"
+    },
+    {
+      "id": "517a1cc2-66ba-4dc1-8ec4-57a93271242b",
+      "set_code": "RTR",
+      "collector_number": "66",
+      "name": "Drainpipe Vermin",
+      "scryfall_id": "4d7251f3-df66-4611-a84c-1897f74431f7"
+    },
+    {
+      "id": "8477a3dd-a896-4eba-a842-f23573b55dd5",
+      "set_code": "RTR",
+      "collector_number": "67",
+      "name": "Grave Betrayal",
+      "scryfall_id": "47b38c68-8e72-4afc-bb5e-0b40880fdda9"
+    },
+    {
+      "id": "98fa7fff-f6d4-4541-ac55-c4af8adbe480",
+      "set_code": "RTR",
+      "collector_number": "68",
+      "name": "Grim Roustabout",
+      "scryfall_id": "1a5ae3f5-5466-4058-a2cd-1a036cb38a8e"
+    },
+    {
+      "id": "9d17a895-595a-4ec0-901c-6cca71569b41",
+      "set_code": "RTR",
+      "collector_number": "69",
+      "name": "Launch Party",
+      "scryfall_id": "53f29821-902e-41bc-97a2-6fc7a710cbdb"
+    },
+    {
+      "id": "0ec46b95-feac-4c8e-9bd5-d5381ef8ce30",
+      "set_code": "RTR",
+      "collector_number": "70",
+      "name": "Mind Rot",
+      "scryfall_id": "5261ab4b-dfe7-4761-a71c-44a893fc4a69"
+    },
+    {
+      "id": "ef13aec7-3eb4-4a85-b058-b5322d27759e",
+      "set_code": "RTR",
+      "collector_number": "71",
+      "name": "Necropolis Regent",
+      "scryfall_id": "b421dcc9-0299-416d-86bc-c70ef49bcf98"
+    },
+    {
+      "id": "fef53d25-22d9-4315-8377-ae58bb238fe8",
+      "set_code": "RTR",
+      "collector_number": "72",
+      "name": "Ogre Jailbreaker",
+      "scryfall_id": "9a96c83d-96d9-4f8f-8020-77990130ad81"
+    },
+    {
+      "id": "107d1200-1960-4ccb-bc2a-c93615bf1815",
+      "set_code": "RTR",
+      "collector_number": "73",
+      "name": "Pack Rat",
+      "scryfall_id": "170693f5-13db-4191-99b1-e527ffb5b88e"
+    },
+    {
+      "id": "72a9084f-318b-4202-a826-7a84c48bc867",
+      "set_code": "RTR",
+      "collector_number": "74",
+      "name": "Perilous Shadow",
+      "scryfall_id": "2c101171-a988-4c1d-9954-634e2f1c6f01"
+    },
+    {
+      "id": "5ee2ac0e-1001-432c-8700-5f175c3b1478",
+      "set_code": "RTR",
+      "collector_number": "75",
+      "name": "Sewer Shambler",
+      "scryfall_id": "0ae7ba14-c901-4266-ae31-812e001916d3"
+    },
+    {
+      "id": "81a86894-8dd6-49f8-8925-aa7350b8b481",
+      "set_code": "RTR",
+      "collector_number": "76",
+      "name": "Shrieking Affliction",
+      "scryfall_id": "dfd08894-2534-4114-9365-40809ba95eb2"
+    },
+    {
+      "id": "c101b3e3-886d-46e4-9a52-9222f6f8d636",
+      "set_code": "RTR",
+      "collector_number": "77",
+      "name": "Slum Reaper",
+      "scryfall_id": "6f0fea13-63cf-4574-8752-3c357eee4524"
+    },
+    {
+      "id": "52a8fce2-c13d-4668-9ab8-4fd69826e2e3",
+      "set_code": "RTR",
+      "collector_number": "78",
+      "name": "Stab Wound",
+      "scryfall_id": "7b562269-e6ec-4f8d-844e-26b272248d9d"
+    },
+    {
+      "id": "b678c2b6-de8d-45d9-9907-e0bb462e9386",
+      "set_code": "RTR",
+      "collector_number": "79",
+      "name": "Tavern Swindler",
+      "scryfall_id": "47240ed3-f256-45fb-ab38-7b07e672d2ed"
+    },
+    {
+      "id": "cbdf8139-7c10-47ad-8ea3-3573d2cc1673",
+      "set_code": "RTR",
+      "collector_number": "80",
+      "name": "Terrus Wurm",
+      "scryfall_id": "1998135c-7b7f-402b-a8a5-4f4af131b1bc"
+    },
+    {
+      "id": "b41c29d0-b57b-4e59-bb89-1ecd640ad28e",
+      "set_code": "RTR",
+      "collector_number": "81",
+      "name": "Thrill-Kill Assassin",
+      "scryfall_id": "a9f32204-eda7-4184-92e5-9da8b15b2359"
+    },
+    {
+      "id": "ccb9b80d-c3b8-4794-8c97-8920c0db2f2c",
+      "set_code": "RTR",
+      "collector_number": "82",
+      "name": "Ultimate Price",
+      "scryfall_id": "d2b4912a-83a2-4870-8fac-81fa79da2830"
+    },
+    {
+      "id": "cb4d5265-a788-42a0-8a3d-aba09cd9ba1c",
+      "set_code": "RTR",
+      "collector_number": "83",
+      "name": "Underworld Connections",
+      "scryfall_id": "19c52e3b-b3b8-4243-96fe-fa4c8eea7c59"
+    },
+    {
+      "id": "01e0e1d1-390e-4471-8b7c-da6288ae884c",
+      "set_code": "RTR",
+      "collector_number": "84",
+      "name": "Zanikev Locust",
+      "scryfall_id": "adcbd7ee-8958-46fe-abb0-e899e7d2e654"
+    },
+    {
+      "id": "111e4390-2376-473a-a644-12eec8596190",
+      "set_code": "RTR",
+      "collector_number": "85",
+      "name": "Annihilating Fire",
+      "scryfall_id": "ae12fd10-c13e-4777-a233-96204ec75ac1"
+    },
+    {
+      "id": "ebcdbcc7-76ba-4838-ba79-af30db7971d5",
+      "set_code": "RTR",
+      "collector_number": "86",
+      "name": "Ash Zealot",
+      "scryfall_id": "1f61b1a3-4b3b-4490-a9dc-17aac258cbda"
+    },
+    {
+      "id": "a02f8075-6d20-4974-b6f8-6aa66bb32a65",
+      "set_code": "RTR",
+      "collector_number": "87",
+      "name": "Batterhorn",
+      "scryfall_id": "a7b40f74-893f-4bfc-87b2-7f8df4c912d8"
+    },
+    {
+      "id": "f1e4a193-dcb0-4863-86b6-7e0b25885a3e",
+      "set_code": "RTR",
+      "collector_number": "88",
+      "name": "Bellows Lizard",
+      "scryfall_id": "5da4a644-9809-4591-9007-6b70b5f9d923"
+    },
+    {
+      "id": "27527175-3791-488b-afd2-5f79c2bff4bc",
+      "set_code": "RTR",
+      "collector_number": "89",
+      "name": "Bloodfray Giant",
+      "scryfall_id": "a8c468cd-1255-4257-9a69-c6b40a27c427"
+    },
+    {
+      "id": "d6f9b9c9-a1b7-40ac-b728-548dff1207e1",
+      "set_code": "RTR",
+      "collector_number": "90",
+      "name": "Chaos Imps",
+      "scryfall_id": "c70a702a-c9be-4bee-9087-22b5905f783a"
+    },
+    {
+      "id": "d1db421e-0b28-4fde-82e7-cd975a906095",
+      "set_code": "RTR",
+      "collector_number": "91",
+      "name": "Cobblebrute",
+      "scryfall_id": "4e038376-801f-454e-a635-0e2d58ccbf7c"
+    },
+    {
+      "id": "cead12d9-4ace-4d75-bc5f-3e7ad5fdff55",
+      "set_code": "RTR",
+      "collector_number": "92",
+      "name": "Dynacharge",
+      "scryfall_id": "e612a032-39be-44cd-a78c-29f89dc384b0"
+    },
+    {
+      "id": "1c2fb02b-9f53-4e63-a038-284d8ba45128",
+      "set_code": "RTR",
+      "collector_number": "93",
+      "name": "Electrickery",
+      "scryfall_id": "5ed81ee8-d5e4-4127-876e-9bff81f9c726"
+    },
+    {
+      "id": "60f2650a-0075-4af4-b61d-3707931aeb4b",
+      "set_code": "RTR",
+      "collector_number": "94",
+      "name": "Explosive Impact",
+      "scryfall_id": "3a3e2b45-b086-4ffd-aa1a-1d03046e0d61"
+    },
+    {
+      "id": "8e35e793-e955-4935-8309-18e84e9ab5a1",
+      "set_code": "RTR",
+      "collector_number": "95",
+      "name": "Goblin Rally",
+      "scryfall_id": "e4ec8ada-09a6-449a-ac4a-7d3acbd08014"
+    },
+    {
+      "id": "0aadafd0-3371-4040-9c5d-b2a7a8d0671a",
+      "set_code": "RTR",
+      "collector_number": "96",
+      "name": "Gore-House Chainwalker",
+      "scryfall_id": "56ba132f-95fc-4b99-a1dc-ebe6f622bb41"
+    },
+    {
+      "id": "fa82c5a2-af99-4b9c-ab34-3f9cf60e8909",
+      "set_code": "RTR",
+      "collector_number": "97",
+      "name": "Guild Feud",
+      "scryfall_id": "8e622878-0aea-4401-873e-d34bf05ee98d"
+    },
+    {
+      "id": "b3de96d1-77cd-451c-ab4a-4d75c4abf55e",
+      "set_code": "RTR",
+      "collector_number": "98",
+      "name": "Guttersnipe",
+      "scryfall_id": "9d8590ea-512c-4e09-97cc-7f07d0706f2b"
+    },
+    {
+      "id": "6d2eb34d-9dc5-4397-8e6f-734934436c27",
+      "set_code": "RTR",
+      "collector_number": "99",
+      "name": "Lobber Crew",
+      "scryfall_id": "b9d4aa15-a3c2-42a3-a87a-443e7dd20c04"
+    },
+    {
+      "id": "7db75f8b-eb32-4b67-9db0-edbe7a4df170",
+      "set_code": "RTR",
+      "collector_number": "100",
+      "name": "Minotaur Aggressor",
+      "scryfall_id": "e22959dc-8759-454e-80b9-623a799af354"
+    },
+    {
+      "id": "e7f3bb08-d9ee-4c40-90c3-34b4d4adbe42",
+      "set_code": "RTR",
+      "collector_number": "101",
+      "name": "Mizzium Mortars",
+      "scryfall_id": "d4ded88d-2688-4f5e-a8b2-16216cf9c792"
+    },
+    {
+      "id": "c047c63a-7cb4-4082-a92b-7431fe73380e",
+      "set_code": "RTR",
+      "collector_number": "102",
+      "name": "Pursuit of Flight",
+      "scryfall_id": "37a6290c-a0a8-4032-972b-84a7eef04dae"
+    },
+    {
+      "id": "668f9191-e21c-484e-aa39-da3af689bd44",
+      "set_code": "RTR",
+      "collector_number": "103",
+      "name": "Pyroconvergence",
+      "scryfall_id": "6cff95b7-79eb-4796-9a01-31ff355681ab"
+    },
+    {
+      "id": "11d7dc44-4079-459c-b5b1-d954be776f2c",
+      "set_code": "RTR",
+      "collector_number": "104",
+      "name": "Racecourse Fury",
+      "scryfall_id": "15d13d35-b5f7-4d3d-a1fa-84178b28acae"
+    },
+    {
+      "id": "ccca5163-f319-4830-808d-3a1015d434c6",
+      "set_code": "RTR",
+      "collector_number": "105",
+      "name": "Splatter Thug",
+      "scryfall_id": "7c511805-3392-4033-8679-811711a0aaca"
+    },
+    {
+      "id": "ada9352d-a6cb-45c2-8162-8943fec285b5",
+      "set_code": "RTR",
+      "collector_number": "106",
+      "name": "Street Spasm",
+      "scryfall_id": "9a19d3b8-80d0-480f-8900-47be527d0e53"
+    },
+    {
+      "id": "8222a6e2-ac5c-43c3-9941-a9c7fe403539",
+      "set_code": "RTR",
+      "collector_number": "107",
+      "name": "Survey the Wreckage",
+      "scryfall_id": "a6e750f9-ad86-4d60-98a3-78d11cd52cd1"
+    },
+    {
+      "id": "9fa4bf3e-c0f8-4f9b-867c-c8e6b4723247",
+      "set_code": "RTR",
+      "collector_number": "108",
+      "name": "Tenement Crasher",
+      "scryfall_id": "44af9170-bd99-4fde-b673-62d988312b2d"
+    },
+    {
+      "id": "6a9f4474-ec86-4f1b-9343-63a699cf1194",
+      "set_code": "RTR",
+      "collector_number": "109",
+      "name": "Traitorous Instinct",
+      "scryfall_id": "d4456951-844a-4847-b933-c32cfafbfef0"
+    },
+    {
+      "id": "fe2015e5-5dff-4454-a385-c9434830e089",
+      "set_code": "RTR",
+      "collector_number": "110",
+      "name": "Utvara Hellkite",
+      "scryfall_id": "f17c6478-dd80-4854-9560-bfc5ef597872"
+    },
+    {
+      "id": "978006a4-cdfb-4aca-8cc5-f471f93885b8",
+      "set_code": "RTR",
+      "collector_number": "111",
+      "name": "Vandalblast",
+      "scryfall_id": "5925c559-3e3c-481b-ba95-20a405cbffce"
+    },
+    {
+      "id": "04dbbf10-f6d4-4cc0-bc7f-02bdaa005c95",
+      "set_code": "RTR",
+      "collector_number": "112",
+      "name": "Viashino Racketeer",
+      "scryfall_id": "bf4c2d22-9c36-42cc-854d-f96410bb5cf1"
+    },
+    {
+      "id": "ba77f0a2-dcd8-4897-a848-10e8e8802930",
+      "set_code": "RTR",
+      "collector_number": "113",
+      "name": "Aerial Predation",
+      "scryfall_id": "ec3c023c-037e-495a-b7df-32be42a75f36"
+    },
+    {
+      "id": "f60237f9-d91c-42be-afc1-0f40c91148b0",
+      "set_code": "RTR",
+      "collector_number": "114",
+      "name": "Archweaver",
+      "scryfall_id": "f99dc8ff-932c-4d56-9253-99ce9e145306"
+    },
+    {
+      "id": "f887c6ea-9980-45c3-b685-5746636af4f0",
+      "set_code": "RTR",
+      "collector_number": "115",
+      "name": "Axebane Guardian",
+      "scryfall_id": "725584fe-9e97-4020-89b1-5e5b45a5beb2"
+    },
+    {
+      "id": "463d0e1a-ccfd-46fb-8ddd-20eb3aec23cf",
+      "set_code": "RTR",
+      "collector_number": "116",
+      "name": "Axebane Stag",
+      "scryfall_id": "bfce7c02-ccc3-44cd-8087-627eaa6a072e"
+    },
+    {
+      "id": "bc3d1c30-968b-4b68-8775-7b7b05a23639",
+      "set_code": "RTR",
+      "collector_number": "117",
+      "name": "Brushstrider",
+      "scryfall_id": "59bd1534-52d1-4946-b430-d26f039a9067"
+    },
+    {
+      "id": "3a72ff73-a47f-4c7b-a841-da9260053f88",
+      "set_code": "RTR",
+      "collector_number": "118",
+      "name": "Centaur's Herald",
+      "scryfall_id": "08598b2b-6fd2-4a1d-8d74-7ca6d93ad382"
+    },
+    {
+      "id": "d0200b30-7d48-44fb-b499-1b7f34ad0e1f",
+      "set_code": "RTR",
+      "collector_number": "119",
+      "name": "Chorus of Might",
+      "scryfall_id": "214dc9c1-154d-4c35-845d-dd2928f1e142"
+    },
+    {
+      "id": "e7abe1ce-9a82-47bc-9844-a6d52fe4e52c",
+      "set_code": "RTR",
+      "collector_number": "120",
+      "name": "Deadbridge Goliath",
+      "scryfall_id": "6ad03e99-25d3-4a09-819b-9192dfd8c9d2"
+    },
+    {
+      "id": "4670c6e7-536e-45ee-b701-13811271f40e",
+      "set_code": "RTR",
+      "collector_number": "121",
+      "name": "Death's Presence",
+      "scryfall_id": "fa82c57d-4bb9-407c-b973-7abc793b6f47"
+    },
+    {
+      "id": "2ccc3346-b940-4b35-a82f-615f7a51c518",
+      "set_code": "RTR",
+      "collector_number": "122",
+      "name": "Drudge Beetle",
+      "scryfall_id": "e4812e81-beca-4afc-b2f2-24d5ab27abff"
+    },
+    {
+      "id": "9a13d088-4228-444e-8313-54ef901482ec",
+      "set_code": "RTR",
+      "collector_number": "123",
+      "name": "Druid's Deliverance",
+      "scryfall_id": "83b35961-f4d5-4e14-a793-335147110627"
+    },
+    {
+      "id": "e4587a1f-6323-43f8-9056-31b042aaf7f0",
+      "set_code": "RTR",
+      "collector_number": "124",
+      "name": "Gatecreeper Vine",
+      "scryfall_id": "5dabcc2f-7536-44e3-a495-bbfc526fdc5d"
+    },
+    {
+      "id": "c357c8c9-07d3-459a-98c2-2eb70d6b7ce4",
+      "set_code": "RTR",
+      "collector_number": "125",
+      "name": "Giant Growth",
+      "scryfall_id": "7b1f6503-e4b2-4085-92cd-e9c522b4b10d"
+    },
+    {
+      "id": "d4604ff5-1587-45e1-8b0e-0fc5cabbaace",
+      "set_code": "RTR",
+      "collector_number": "126",
+      "name": "Gobbling Ooze",
+      "scryfall_id": "465d8a63-0ced-4aec-be34-2098b72c8af6"
+    },
+    {
+      "id": "a39a6ef9-6e09-4654-9397-218780dc30cf",
+      "set_code": "RTR",
+      "collector_number": "127",
+      "name": "Golgari Decoy",
+      "scryfall_id": "511a42a8-71ce-476f-98fa-fc0dc822edcf"
+    },
+    {
+      "id": "5e873d0e-7b97-4155-ba8c-0562e4d72d92",
+      "set_code": "RTR",
+      "collector_number": "128",
+      "name": "Horncaller's Chant",
+      "scryfall_id": "7b8d33ed-9ca2-41d1-ba35-fdeb5b88ad44"
+    },
+    {
+      "id": "02a9a0c2-9012-40ad-abb8-b865935fd038",
+      "set_code": "RTR",
+      "collector_number": "129",
+      "name": "Korozda Monitor",
+      "scryfall_id": "2f319d57-7a54-4b10-86d4-58d7b3994844"
+    },
+    {
+      "id": "ea44581e-166f-4299-bd37-9b8e128ef2bf",
+      "set_code": "RTR",
+      "collector_number": "130",
+      "name": "Mana Bloom",
+      "scryfall_id": "d7592d88-64e8-4a31-b00a-f65d4b1867fc"
+    },
+    {
+      "id": "58fcb4ba-22f6-4546-bbb0-16443e5d3db4",
+      "set_code": "RTR",
+      "collector_number": "131",
+      "name": "Oak Street Innkeeper",
+      "scryfall_id": "08274d1b-52b7-46c1-8f93-7631d2e21def"
+    },
+    {
+      "id": "1cc3add8-3f30-48b0-a965-0782d99bbfc9",
+      "set_code": "RTR",
+      "collector_number": "132",
+      "name": "Rubbleback Rhino",
+      "scryfall_id": "51daaf9b-d8a8-49a6-94e1-0c8be2c6188b"
+    },
+    {
+      "id": "980bfb87-6fc3-40b8-8219-0c88ec5abdf7",
+      "set_code": "RTR",
+      "collector_number": "133",
+      "name": "Savage Surge",
+      "scryfall_id": "0fa74aae-e857-410c-8836-953c8623d0b0"
+    },
+    {
+      "id": "47cb8b3a-d742-4f2f-88b0-4770d0e66ed9",
+      "set_code": "RTR",
+      "collector_number": "134",
+      "name": "Seek the Horizon",
+      "scryfall_id": "b6f52ac7-933f-4b31-8576-338f5dcf4285"
+    },
+    {
+      "id": "7db48dd9-edfb-4300-922b-23bb30de6874",
+      "set_code": "RTR",
+      "collector_number": "135",
+      "name": "Slime Molding",
+      "scryfall_id": "44a439e8-d586-4995-abfc-3dee5c860968"
+    },
+    {
+      "id": "e4240fee-fa23-4cbb-bdb4-48794d64f067",
+      "set_code": "RTR",
+      "collector_number": "136",
+      "name": "Stonefare Crocodile",
+      "scryfall_id": "a2517d74-0589-49dc-88f1-1fc02b27bc9d"
+    },
+    {
+      "id": "6b62dded-c819-463a-be56-34f06cd20acc",
+      "set_code": "RTR",
+      "collector_number": "137",
+      "name": "Towering Indrik",
+      "scryfall_id": "c6049e92-6c52-44be-a3c7-aa8e8bf9c10a"
+    },
+    {
+      "id": "8a155f2d-ab47-42a6-9982-1c31956e48bc",
+      "set_code": "RTR",
+      "collector_number": "138",
+      "name": "Urban Burgeoning",
+      "scryfall_id": "393c230f-5bc3-4b71-b5ac-81d5ce227df5"
+    },
+    {
+      "id": "8a0e5c7b-764c-4055-9978-ecc8d9776dc2",
+      "set_code": "RTR",
+      "collector_number": "139",
+      "name": "Wild Beastmaster",
+      "scryfall_id": "a4d4ef98-949b-49db-b4f9-a070f8b4ff47"
+    },
+    {
+      "id": "684638f6-4368-48a9-a664-82d3bac2ff11",
+      "set_code": "RTR",
+      "collector_number": "140",
+      "name": "Worldspine Wurm",
+      "scryfall_id": "543d55cb-3a6b-4620-af25-10ae74ed32c4"
+    },
+    {
+      "id": "f6290789-9e19-4da1-bd01-de7e85857736",
+      "set_code": "RTR",
+      "collector_number": "141",
+      "name": "Abrupt Decay",
+      "scryfall_id": "3b1e92b4-6e53-4dba-a572-c67e01965ac5"
+    },
+    {
+      "id": "8b4e95f8-5050-49d5-aeec-761f31c86ee4",
+      "set_code": "RTR",
+      "collector_number": "142",
+      "name": "Archon of the Triumvirate",
+      "scryfall_id": "bf91d847-4a87-4a65-8d6d-e20d538c5cec"
+    },
+    {
+      "id": "2407054d-9567-4974-8f7a-f32fbda18eec",
+      "set_code": "RTR",
+      "collector_number": "143",
+      "name": "Armada Wurm",
+      "scryfall_id": "50cb4bf3-70d1-4acc-a1fb-49f4ea74ca16"
+    },
+    {
+      "id": "2d6ad754-885c-4bc2-9b99-21848dc2bce0",
+      "set_code": "RTR",
+      "collector_number": "144",
+      "name": "Auger Spree",
+      "scryfall_id": "9580a40b-b413-4f0d-9b38-13903a9d367d"
+    },
+    {
+      "id": "bf05bb08-9be9-4824-bd2e-6540e4d46cb8",
+      "set_code": "RTR",
+      "collector_number": "145",
+      "name": "Azorius Charm",
+      "scryfall_id": "26adc211-d089-4102-91e5-225bbeb5f382"
+    },
+    {
+      "id": "baf948d7-12e9-45d3-8dd2-6f7af15049ed",
+      "set_code": "RTR",
+      "collector_number": "146",
+      "name": "Call of the Conclave",
+      "scryfall_id": "c6df8f4d-a07a-4664-878d-efec8b2affb9"
+    },
+    {
+      "id": "75fa1e87-28e4-458e-b054-50fa1c38a30d",
+      "set_code": "RTR",
+      "collector_number": "147",
+      "name": "Carnival Hellsteed",
+      "scryfall_id": "d8ada7ce-c693-48f0-a6e3-766f61d93370"
+    },
+    {
+      "id": "eb3b130f-9019-40e3-a87f-3a70a04520da",
+      "set_code": "RTR",
+      "collector_number": "148",
+      "name": "Centaur Healer",
+      "scryfall_id": "833835d1-9beb-4ad8-b675-7adebdbd7d82"
+    },
+    {
+      "id": "42246e26-2fc0-4601-ac1e-2488253083a6",
+      "set_code": "RTR",
+      "collector_number": "149",
+      "name": "Chemister's Trick",
+      "scryfall_id": "dbfc2748-351f-4b5d-8a7e-bc51851578bb"
+    },
+    {
+      "id": "c3ccc74f-8571-47b9-91d3-6541ef0a7f17",
+      "set_code": "RTR",
+      "collector_number": "150",
+      "name": "Collective Blessing",
+      "scryfall_id": "53c84c4d-e6d6-4eac-9d14-5b6cba914c3d"
+    },
+    {
+      "id": "14853ed7-290c-4a44-9491-2b2cac78e327",
+      "set_code": "RTR",
+      "collector_number": "151",
+      "name": "Common Bond",
+      "scryfall_id": "59965953-1522-4103-9a6c-5534205d34d9"
+    },
+    {
+      "id": "6459c800-bceb-4840-82fd-3fb5a0182b33",
+      "set_code": "RTR",
+      "collector_number": "152",
+      "name": "Corpsejack Menace",
+      "scryfall_id": "b35a8efe-2a3e-4060-9134-d4150e4bdf28"
+    },
+    {
+      "id": "a7cb52c6-ebf9-4d45-8b07-75b830d80efb",
+      "set_code": "RTR",
+      "collector_number": "153",
+      "name": "Counterflux",
+      "scryfall_id": "94e4b773-40a4-4272-85dd-f728ada22748"
+    },
+    {
+      "id": "c8ed34f8-e014-4486-a706-1f9108b0c1fc",
+      "set_code": "RTR",
+      "collector_number": "154",
+      "name": "Coursers' Accord",
+      "scryfall_id": "f027ceb0-5d2b-4cf6-87ad-e6b9b1e20634"
+    },
+    {
+      "id": "1b566d99-1306-48f8-93cc-b6d45a671c0f",
+      "set_code": "RTR",
+      "collector_number": "155",
+      "name": "Detention Sphere",
+      "scryfall_id": "afee5464-83b7-4d7a-b407-9ee7de21535b"
+    },
+    {
+      "id": "fd3bbe2a-08f3-4614-aeba-e186a7197409",
+      "set_code": "RTR",
+      "collector_number": "156",
+      "name": "Dramatic Rescue",
+      "scryfall_id": "041afd23-1ecc-4cca-9244-fe42203ad689"
+    },
+    {
+      "id": "424a867b-d888-432d-8ef4-5a4a94494cae",
+      "set_code": "RTR",
+      "collector_number": "157",
+      "name": "Dreadbore",
+      "scryfall_id": "a83945c6-4dc6-4d9a-9bc2-2d4a264e5422"
+    },
+    {
+      "id": "bc942b17-f60d-4fce-bb28-2ac3b324beec",
+      "set_code": "RTR",
+      "collector_number": "158",
+      "name": "Dreg Mangler",
+      "scryfall_id": "28d42d6a-e9a0-449e-9b31-436c09b7c1ba"
+    },
+    {
+      "id": "e7b1b84b-e268-44b1-b19c-b0dea43bcc13",
+      "set_code": "RTR",
+      "collector_number": "159",
+      "name": "Epic Experiment",
+      "scryfall_id": "42f0b68a-de4b-4c0c-98ac-a812017f88a7"
+    },
+    {
+      "id": "cb9d9fa6-fec6-4c82-aa0f-33b5e3bab7ce",
+      "set_code": "RTR",
+      "collector_number": "160",
+      "name": "Essence Backlash",
+      "scryfall_id": "a98609dc-ea90-4c7e-a191-5e5d0ba16847"
+    },
+    {
+      "id": "444be2a9-107d-4012-b6a4-fb5b3c6532c9",
+      "set_code": "RTR",
+      "collector_number": "161",
+      "name": "Fall of the Gavel",
+      "scryfall_id": "64f42848-963b-4b16-aeec-66d0f349758b"
+    },
+    {
+      "id": "8b5e9621-8671-460d-a713-9e04f55ad0a9",
+      "set_code": "RTR",
+      "collector_number": "162",
+      "name": "Firemind's Foresight",
+      "scryfall_id": "9cb5cb63-e7ec-4fc3-a389-4d8b5a4b96b9"
+    },
+    {
+      "id": "45cb0442-bbdf-4a77-a0d3-b3d51a2d023a",
+      "set_code": "RTR",
+      "collector_number": "163",
+      "name": "Goblin Electromancer",
+      "scryfall_id": "79fb620f-4057-4f60-94b9-56ab855be974"
+    },
+    {
+      "id": "d8d584b5-c2f2-4afe-841b-72bed55de048",
+      "set_code": "RTR",
+      "collector_number": "164",
+      "name": "Golgari Charm",
+      "scryfall_id": "48fce388-eefc-4234-8dd9-1260c1ba97eb"
+    },
+    {
+      "id": "75b1b2cf-97ec-497f-9528-2efc45ad3e63",
+      "set_code": "RTR",
+      "collector_number": "165",
+      "name": "Grisly Salvage",
+      "scryfall_id": "dcb5eb2a-ae7a-4416-970c-6e9306689c88"
+    },
+    {
+      "id": "96f88957-8f6b-4d41-ab87-aa315a60df5f",
+      "set_code": "RTR",
+      "collector_number": "166",
+      "name": "Havoc Festival",
+      "scryfall_id": "04560623-c768-4273-a40d-7e3f39e832cf"
+    },
+    {
+      "id": "220301f1-49bd-4586-ab41-f3d0b6fb25c4",
+      "set_code": "RTR",
+      "collector_number": "167",
+      "name": "Hellhole Flailer",
+      "scryfall_id": "4984a089-84af-4387-9a0d-819b119b5565"
+    },
+    {
+      "id": "4e3cdf82-9b57-4bba-894c-afad0e4d725b",
+      "set_code": "RTR",
+      "collector_number": "168",
+      "name": "Heroes' Reunion",
+      "scryfall_id": "99b56515-f688-495c-b721-2b9abc6628c2"
+    },
+    {
+      "id": "fd569b19-f02a-4dd0-b207-51ac950fe1dc",
+      "set_code": "RTR",
+      "collector_number": "169",
+      "name": "Hussar Patrol",
+      "scryfall_id": "dd775231-e1e0-41e2-ad9a-0726624f57f9"
+    },
+    {
+      "id": "562142a3-2dc0-41de-8c7a-6e19318a1d64",
+      "set_code": "RTR",
+      "collector_number": "170",
+      "name": "Hypersonic Dragon",
+      "scryfall_id": "f024b19a-923a-4313-be06-e743d3fbab46"
+    },
+    {
+      "id": "0fe33b31-77ad-41e4-8e6c-a8b64ada4bf8",
+      "set_code": "RTR",
+      "collector_number": "171",
+      "name": "Isperia, Supreme Judge",
+      "scryfall_id": "b2cce2d4-3944-4ff0-98e8-80f19697f108"
+    },
+    {
+      "id": "20ef4cd7-8e99-4beb-b791-66b346245ab8",
+      "set_code": "RTR",
+      "collector_number": "172",
+      "name": "Izzet Charm",
+      "scryfall_id": "1e3a5af6-5423-442b-a207-364e97a871d8"
+    },
+    {
+      "id": "ec2b5535-545e-41da-9b2d-58e44bf892a1",
+      "set_code": "RTR",
+      "collector_number": "173",
+      "name": "Izzet Staticaster",
+      "scryfall_id": "190ac2fe-532d-4d7e-9d74-07ae6850aac8"
+    },
+    {
+      "id": "8491f528-5091-483c-83cf-872b6ae9a130",
+      "set_code": "RTR",
+      "collector_number": "174",
+      "name": "Jarad, Golgari Lich Lord",
+      "scryfall_id": "02ef18d1-fd05-4dbc-9fa7-a383799b34e9"
+    },
+    {
+      "id": "b5a5573f-ef2a-457b-8eb2-9a5fa42604af",
+      "set_code": "RTR",
+      "collector_number": "175",
+      "name": "Jarad's Orders",
+      "scryfall_id": "c59171ce-7dc6-4dd9-a124-3c2c3028d93d"
+    },
+    {
+      "id": "4e29f1b7-758d-4d88-af78-8322e442a17c",
+      "set_code": "RTR",
+      "collector_number": "176",
+      "name": "Korozda Guildmage",
+      "scryfall_id": "761c16aa-d4a7-492d-9275-98d0e07de45a"
+    },
+    {
+      "id": "be4fbc58-0625-4069-b62c-e23a982622bf",
+      "set_code": "RTR",
+      "collector_number": "177",
+      "name": "Lotleth Troll",
+      "scryfall_id": "3b628197-f26c-457a-b9a4-c1f1d3e02f3d"
+    },
+    {
+      "id": "7f6a6451-4689-4a16-880c-1d5f4df46c2e",
+      "set_code": "RTR",
+      "collector_number": "178",
+      "name": "Loxodon Smiter",
+      "scryfall_id": "69247168-2bfb-4cce-a2a6-61459a0fbce4"
+    },
+    {
+      "id": "002a05c3-fd65-4ef4-86ce-2391f0553983",
+      "set_code": "RTR",
+      "collector_number": "179",
+      "name": "Lyev Skyknight",
+      "scryfall_id": "11cbeb3b-1579-4318-a024-4a2c06896eaf"
+    },
+    {
+      "id": "d9f6c9bb-c6e7-418e-a66d-7d80f0568d24",
+      "set_code": "RTR",
+      "collector_number": "180",
+      "name": "Mercurial Chemister",
+      "scryfall_id": "881728ce-4b18-410e-9cdb-4d439ce0b21d"
+    },
+    {
+      "id": "5fef0a0c-5ac2-4968-9ab3-8bf4a67d8d41",
+      "set_code": "RTR",
+      "collector_number": "181",
+      "name": "New Prahv Guildmage",
+      "scryfall_id": "698b47d1-c72e-4dc3-b28b-7421e0163f22"
+    },
+    {
+      "id": "4709668d-e83f-401e-9875-db6767ee45c0",
+      "set_code": "RTR",
+      "collector_number": "182",
+      "name": "Nivix Guildmage",
+      "scryfall_id": "9d3fde47-8d9e-4a84-b8a5-dcfe0c1d443c"
+    },
+    {
+      "id": "0a6b355c-5ca3-41da-996c-6eabe3795450",
+      "set_code": "RTR",
+      "collector_number": "183",
+      "name": "Niv-Mizzet, Dracogenius",
+      "scryfall_id": "c345e475-8095-41b5-90b4-771fcf80b939"
+    },
+    {
+      "id": "c08a3c15-dfa9-464b-aad0-2062207e3312",
+      "set_code": "RTR",
+      "collector_number": "184",
+      "name": "Rakdos Charm",
+      "scryfall_id": "0fcd4394-d22d-4eec-ad73-ffaf10ad60de"
+    },
+    {
+      "id": "34c723f3-27f4-4a52-9aca-07c74a2976c1",
+      "set_code": "RTR",
+      "collector_number": "185",
+      "name": "Rakdos Ragemutt",
+      "scryfall_id": "bb36840a-3f85-4fca-87ab-379dfce8e542"
+    },
+    {
+      "id": "f3905817-9fdf-4a71-9cc8-cb39dfb87aec",
+      "set_code": "RTR",
+      "collector_number": "186",
+      "name": "Rakdos Ringleader",
+      "scryfall_id": "6b54fbe8-324a-4066-bed1-dda1dca319fc"
+    },
+    {
+      "id": "70760a8f-7680-4bc8-bd6e-8da9a128f752",
+      "set_code": "RTR",
+      "collector_number": "187",
+      "name": "Rakdos, Lord of Riots",
+      "scryfall_id": "04f3db71-802f-488c-b40d-ac90df2d660a"
+    },
+    {
+      "id": "40f0a8a0-506c-470a-895f-d2088f538143",
+      "set_code": "RTR",
+      "collector_number": "188",
+      "name": "Rakdos's Return",
+      "scryfall_id": "d72981c0-1632-4d64-9341-2a76047d9b36"
+    },
+    {
+      "id": "d678aeef-03d0-4cd0-8c58-c56c68d31403",
+      "set_code": "RTR",
+      "collector_number": "189",
+      "name": "Righteous Authority",
+      "scryfall_id": "6695e5bb-56a9-49ab-8940-72336e845875"
+    },
+    {
+      "id": "045a1eb7-29b5-4b1a-b707-58d232a08e7d",
+      "set_code": "RTR",
+      "collector_number": "190",
+      "name": "Risen Sanctuary",
+      "scryfall_id": "a0b6c136-2bbe-48c1-ac53-2a8221b96936"
+    },
+    {
+      "id": "afa58c73-0350-49af-8b29-d62ae4bf48b2",
+      "set_code": "RTR",
+      "collector_number": "191",
+      "name": "Rites of Reaping",
+      "scryfall_id": "115d504f-3aec-4374-8cd8-732d56c448f2"
+    },
+    {
+      "id": "cbab9b1d-fb76-4704-9a1b-889aeca17242",
+      "set_code": "RTR",
+      "collector_number": "192",
+      "name": "Rix Maadi Guildmage",
+      "scryfall_id": "eb737465-5de8-4015-befe-2bf386da2a89"
+    },
+    {
+      "id": "62e55476-c8bb-43ab-9b14-511a29b0bae5",
+      "set_code": "RTR",
+      "collector_number": "193",
+      "name": "Search Warrant",
+      "scryfall_id": "d55f625a-6e9e-40ba-ae46-cf6bafc0a41b"
+    },
+    {
+      "id": "36f85e41-f34d-47cc-9413-044522950d27",
+      "set_code": "RTR",
+      "collector_number": "194",
+      "name": "Selesnya Charm",
+      "scryfall_id": "a9848eab-1d3a-4ab0-adf6-c20858aa3afb"
+    },
+    {
+      "id": "148e4378-389f-4072-ba2a-6e2564280b78",
+      "set_code": "RTR",
+      "collector_number": "195",
+      "name": "Skull Rend",
+      "scryfall_id": "1c8efb23-bac0-41d2-b4ee-27a6b1fe3134"
+    },
+    {
+      "id": "df18eae5-0735-40d5-bd4b-7ccf1cb02bd6",
+      "set_code": "RTR",
+      "collector_number": "196",
+      "name": "Skymark Roc",
+      "scryfall_id": "60601296-2229-4c48-94cc-1903926750ce"
+    },
+    {
+      "id": "638accfa-8999-4f6f-b4f4-1f41b1abdbb8",
+      "set_code": "RTR",
+      "collector_number": "197",
+      "name": "Slaughter Games",
+      "scryfall_id": "bf37391d-db35-40a7-908a-abb53895793c"
+    },
+    {
+      "id": "081bed9c-711a-4e62-ac88-72923bbed507",
+      "set_code": "RTR",
+      "collector_number": "198",
+      "name": "Sluiceway Scorpion",
+      "scryfall_id": "7b6dbadf-a6f7-4876-9c3f-44e4a33b2bee"
+    },
+    {
+      "id": "a04f183c-d6d6-45f1-8f3e-def039cd1134",
+      "set_code": "RTR",
+      "collector_number": "199",
+      "name": "Spawn of Rix Maadi",
+      "scryfall_id": "6196e702-7f76-49db-8ee4-bd343359d498"
+    },
+    {
+      "id": "5d339055-6e32-4d73-8bba-35d446ff967c",
+      "set_code": "RTR",
+      "collector_number": "200",
+      "name": "Sphinx's Revelation",
+      "scryfall_id": "404d9413-ef57-4b6e-8584-48a1dc7fe6f1"
+    },
+    {
+      "id": "0616a4b9-b250-4ed1-bff3-fcaa6bdb42e9",
+      "set_code": "RTR",
+      "collector_number": "201",
+      "name": "Supreme Verdict",
+      "scryfall_id": "4e9648f9-7a67-4717-bca1-861d1f7fed43"
+    },
+    {
+      "id": "34e52333-6c33-4238-8c99-5881de7fa48e",
+      "set_code": "RTR",
+      "collector_number": "202",
+      "name": "Teleportal",
+      "scryfall_id": "e438c718-ac18-45d5-824e-5b697c5f0692"
+    },
+    {
+      "id": "39fd0948-ff2d-4aad-ab9e-82c8eeda9ce8",
+      "set_code": "RTR",
+      "collector_number": "203",
+      "name": "Thoughtflare",
+      "scryfall_id": "d90514aa-e356-4502-9e0e-76ab7644a07a"
+    },
+    {
+      "id": "10fd4ca5-67fd-42a8-b489-a900f0a5f357",
+      "set_code": "RTR",
+      "collector_number": "204",
+      "name": "Treasured Find",
+      "scryfall_id": "a2c0e00b-2290-493f-a3fc-3b9bff2830cc"
+    },
+    {
+      "id": "23323718-f08c-4d80-930c-114730763f85",
+      "set_code": "RTR",
+      "collector_number": "205",
+      "name": "Trestle Troll",
+      "scryfall_id": "6d224279-83f3-4a29-9fd9-86b72407b87a"
+    },
+    {
+      "id": "f8c30f3d-817d-43ed-8b46-d592582506de",
+      "set_code": "RTR",
+      "collector_number": "206",
+      "name": "Trostani, Selesnya's Voice",
+      "scryfall_id": "9d1d9d86-5666-4e59-9766-137657b4e040"
+    },
+    {
+      "id": "c0fcc1c1-1730-4dec-8b95-96c07b2f0047",
+      "set_code": "RTR",
+      "collector_number": "207",
+      "name": "Vitu-Ghazi Guildmage",
+      "scryfall_id": "e54f8e61-550f-4493-b8ba-65f81b2457d3"
+    },
+    {
+      "id": "59fd765a-6b47-4378-9c74-01169233a241",
+      "set_code": "RTR",
+      "collector_number": "208",
+      "name": "Vraska the Unseen",
+      "scryfall_id": "8971938c-cd26-4b83-96d7-1408cd0b0de6"
+    },
+    {
+      "id": "8b5d853e-9f4b-4893-ac81-c26d588df8ef",
+      "set_code": "RTR",
+      "collector_number": "209",
+      "name": "Wayfaring Temple",
+      "scryfall_id": "2125e6aa-f916-4dfa-a9fe-82bb546012af"
+    },
+    {
+      "id": "6789cef4-2b6c-4ca1-9086-54adc710dbb3",
+      "set_code": "RTR",
+      "collector_number": "210",
+      "name": "Azor's Elocutors",
+      "scryfall_id": "61e82934-546b-4734-a715-b22ace4c5a9b"
+    },
+    {
+      "id": "0799a401-5c2e-4c99-bd1c-b15e9b385f5a",
+      "set_code": "RTR",
+      "collector_number": "211",
+      "name": "Blistercoil Weird",
+      "scryfall_id": "d2a8e716-ea33-4ae2-9ff8-5e78b0e50459"
+    },
+    {
+      "id": "1ea3914f-2daa-4e60-8eef-973fc0cb0943",
+      "set_code": "RTR",
+      "collector_number": "212",
+      "name": "Cryptborn Horror",
+      "scryfall_id": "8ffd77d7-3fe6-4493-96eb-f62183c0358d"
+    },
+    {
+      "id": "50c1642f-bbfc-4fdd-8a42-0fcf864c4a65",
+      "set_code": "RTR",
+      "collector_number": "213",
+      "name": "Deathrite Shaman",
+      "scryfall_id": "70496f16-c4c0-4c03-beef-454eb4824cd1"
+    },
+    {
+      "id": "21c306de-547b-47c6-9cd8-76d70349f367",
+      "set_code": "RTR",
+      "collector_number": "214",
+      "name": "Dryad Militant",
+      "scryfall_id": "2bb8cb8c-0d03-4cbf-b7f2-a97324817698"
+    },
+    {
+      "id": "d8aa61f0-f4f0-4032-a836-66dbd21c00af",
+      "set_code": "RTR",
+      "collector_number": "215",
+      "name": "Frostburn Weird",
+      "scryfall_id": "ba5a68d3-6bc9-4de8-bc06-e1106cf9b3d4"
+    },
+    {
+      "id": "2519734d-8e23-4ee9-83db-f0173736bb37",
+      "set_code": "RTR",
+      "collector_number": "216",
+      "name": "Golgari Longlegs",
+      "scryfall_id": "d44058ba-3419-4777-8d59-05dea5e864e1"
+    },
+    {
+      "id": "61956406-cf6c-4536-b983-4930dc31ca03",
+      "set_code": "RTR",
+      "collector_number": "217",
+      "name": "Growing Ranks",
+      "scryfall_id": "12f31616-1249-4964-b81a-4435405a2449"
+    },
+    {
+      "id": "b815d75c-f79a-48b6-b13d-5f980dea79e1",
+      "set_code": "RTR",
+      "collector_number": "218",
+      "name": "Judge's Familiar",
+      "scryfall_id": "0fc51899-3970-416b-b7de-fadbc9678955"
+    },
+    {
+      "id": "fdabed5e-7944-4823-9888-cfbf1881c31c",
+      "set_code": "RTR",
+      "collector_number": "219",
+      "name": "Nivmagus Elemental",
+      "scryfall_id": "b1892003-2e4c-43bd-8a37-3a97a76f113a"
+    },
+    {
+      "id": "ba126c83-a0ac-41cd-a343-8811ad7590b5",
+      "set_code": "RTR",
+      "collector_number": "220",
+      "name": "Rakdos Cackler",
+      "scryfall_id": "5f873c0b-e779-4f09-8e9c-94a1765eb5da"
+    },
+    {
+      "id": "43df9060-86f0-4f87-bde6-38f8a6a9278c",
+      "set_code": "RTR",
+      "collector_number": "221",
+      "name": "Rakdos Shred-Freak",
+      "scryfall_id": "06899549-5534-4d11-86c1-afd1796e18b1"
+    },
+    {
+      "id": "cdce0e08-38dd-4e87-8ad4-d12ebfc6b881",
+      "set_code": "RTR",
+      "collector_number": "222",
+      "name": "Slitherhead",
+      "scryfall_id": "d9327905-a254-4885-8310-69fc153ec52f"
+    },
+    {
+      "id": "b73aff22-26d8-4ad7-a0ff-e04b3a4aeb6c",
+      "set_code": "RTR",
+      "collector_number": "223",
+      "name": "Sundering Growth",
+      "scryfall_id": "14d5048e-cb76-48c4-8a95-70dcc14775f6"
+    },
+    {
+      "id": "7b8d8b61-a8b8-4af1-abdf-999054aa16b0",
+      "set_code": "RTR",
+      "collector_number": "224",
+      "name": "Vassal Soul",
+      "scryfall_id": "dfc61748-029f-4bae-a7ec-e08b7059226d"
+    },
+    {
+      "id": "6cc39e77-0d35-4ded-80dd-4b9600e3c8e3",
+      "set_code": "RTR",
+      "collector_number": "225",
+      "name": "Azorius Keyrune",
+      "scryfall_id": "23a05db7-dcae-4180-8ad1-60ba6fb30816"
+    },
+    {
+      "id": "4416a814-170b-4fb4-b836-62904db34406",
+      "set_code": "RTR",
+      "collector_number": "226",
+      "name": "Chromatic Lantern",
+      "scryfall_id": "57f4e0f0-13d1-43ed-8d95-13cff94a26e7"
+    },
+    {
+      "id": "e8c7262f-90aa-424c-8cc9-97e0014e3bc7",
+      "set_code": "RTR",
+      "collector_number": "227",
+      "name": "Civic Saber",
+      "scryfall_id": "29c9247e-05f4-44bb-86e3-90a60e880374"
+    },
+    {
+      "id": "1d4b6ff7-a8fc-444e-8ffe-59afa789f4a4",
+      "set_code": "RTR",
+      "collector_number": "228",
+      "name": "Codex Shredder",
+      "scryfall_id": "8f7b632b-ee20-4082-8376-1dae53f91b70"
+    },
+    {
+      "id": "8536bfca-4cd9-480c-b11d-1375f3af7f39",
+      "set_code": "RTR",
+      "collector_number": "229",
+      "name": "Golgari Keyrune",
+      "scryfall_id": "913b803f-ba82-4660-86be-49677d1e32c9"
+    },
+    {
+      "id": "077d3139-3a47-453f-8dd9-35746e6f17d4",
+      "set_code": "RTR",
+      "collector_number": "230",
+      "name": "Izzet Keyrune",
+      "scryfall_id": "83e4e83b-cbb8-4efd-b6c4-4459a29177ac"
+    },
+    {
+      "id": "7464ca97-8cdf-40a3-abcd-df0e84f8d45c",
+      "set_code": "RTR",
+      "collector_number": "231",
+      "name": "Pithing Needle",
+      "scryfall_id": "786c1e91-9d75-46a3-9e0d-56d29fcb01a7"
+    },
+    {
+      "id": "a40ecc19-9e32-41f3-8158-2ed1c074762a",
+      "set_code": "RTR",
+      "collector_number": "232",
+      "name": "Rakdos Keyrune",
+      "scryfall_id": "f6124b4c-49a1-42e3-a6ff-62de231c7823"
+    },
+    {
+      "id": "2fdc9532-0b1c-4b6c-9fae-843f8e1f8daa",
+      "set_code": "RTR",
+      "collector_number": "233",
+      "name": "Selesnya Keyrune",
+      "scryfall_id": "1645eafd-cd17-463a-9d7e-42f5f7b5196f"
+    },
+    {
+      "id": "edf8238d-5413-44fa-b1a8-9fd4a5918b01",
+      "set_code": "RTR",
+      "collector_number": "234",
+      "name": "Street Sweeper",
+      "scryfall_id": "4a62827a-183f-4bef-b6ce-20a4577f6d30"
+    },
+    {
+      "id": "bcf1c7e0-de0c-4634-9478-7543f9b29565",
+      "set_code": "RTR",
+      "collector_number": "235",
+      "name": "Tablet of the Guilds",
+      "scryfall_id": "6b006384-6fb6-4129-b1d2-7674d1141f8f"
+    },
+    {
+      "id": "30af4fcb-6a3c-44f9-a207-d40aac44c6d6",
+      "set_code": "RTR",
+      "collector_number": "236",
+      "name": "Volatile Rig",
+      "scryfall_id": "5055ed18-b234-4702-92eb-4d483431ff47"
+    },
+    {
+      "id": "7aae69cf-c344-4a82-bfc1-3fdd0ed670a4",
+      "set_code": "RTR",
+      "collector_number": "237",
+      "name": "Azorius Guildgate",
+      "scryfall_id": "984e37df-0734-493a-a958-f519a0c98580"
+    },
+    {
+      "id": "e97a4ce9-7a0f-42c8-a97f-8a15f0582631",
+      "set_code": "RTR",
+      "collector_number": "238",
+      "name": "Blood Crypt",
+      "scryfall_id": "8bd5828b-8dcd-4ce6-b834-ebe9cbaa12d1"
+    },
+    {
+      "id": "8f26d1da-316d-4fc2-8573-eade39d07568",
+      "set_code": "RTR",
+      "collector_number": "239",
+      "name": "Golgari Guildgate",
+      "scryfall_id": "8fe2fd1a-f7d3-48b4-bad8-be5ee45d6121"
+    },
+    {
+      "id": "50b7a534-5b7b-4850-8bf5-7f77e34e8c14",
+      "set_code": "RTR",
+      "collector_number": "240",
+      "name": "Grove of the Guardian",
+      "scryfall_id": "3cf60ca0-e01f-499c-8d04-d59050f38c33"
+    },
+    {
+      "id": "1f1fc787-238e-4e4e-a251-1c019503dc81",
+      "set_code": "RTR",
+      "collector_number": "241",
+      "name": "Hallowed Fountain",
+      "scryfall_id": "af7091c9-5f98-4078-a42b-c9e057346d9b"
+    },
+    {
+      "id": "2d9c33ed-8bf8-4f4d-82a0-0af43c7926d8",
+      "set_code": "RTR",
+      "collector_number": "242",
+      "name": "Izzet Guildgate",
+      "scryfall_id": "6951d84f-2d3c-4203-8d31-e08f4bc707f0"
+    },
+    {
+      "id": "1e834b04-6a79-42c8-af49-8b6e0069390a",
+      "set_code": "RTR",
+      "collector_number": "243",
+      "name": "Overgrown Tomb",
+      "scryfall_id": "1c7d50d6-b63a-4d8c-88fa-1d78ae693a45"
+    },
+    {
+      "id": "a83a51ba-699c-4f1c-8718-3bcf29cd96b7",
+      "set_code": "RTR",
+      "collector_number": "244",
+      "name": "Rakdos Guildgate",
+      "scryfall_id": "207048f5-268b-4cdb-b4e7-c8282cac1b28"
+    },
+    {
+      "id": "b479ba95-0e9c-4ba5-99e0-36a9ad14392d",
+      "set_code": "RTR",
+      "collector_number": "245",
+      "name": "Rogue's Passage",
+      "scryfall_id": "f416e36a-15cb-43c8-b27f-82f65a95ddef"
+    },
+    {
+      "id": "24fc2a2e-1bfd-42ed-a11a-09884a828b3b",
+      "set_code": "RTR",
+      "collector_number": "246",
+      "name": "Selesnya Guildgate",
+      "scryfall_id": "ff61d4e4-3c8c-48f7-a994-ec2317bbd9a0"
+    },
+    {
+      "id": "5a33ba5a-0348-4c49-b6f3-cfd8cda19923",
+      "set_code": "RTR",
+      "collector_number": "247",
+      "name": "Steam Vents",
+      "scryfall_id": "de911c88-f5c8-4955-9fa5-1f28a9b17236"
+    },
+    {
+      "id": "b6fd3e70-e0fa-412b-b50c-84d19a0d320c",
+      "set_code": "RTR",
+      "collector_number": "248",
+      "name": "Temple Garden",
+      "scryfall_id": "b821e604-f9fd-47a4-b5ff-bfb5022834c2"
+    },
+    {
+      "id": "79abbc9a-b65c-4f1d-9823-c58dcf4248fc",
+      "set_code": "RTR",
+      "collector_number": "249",
+      "name": "Transguild Promenade",
+      "scryfall_id": "90ce8115-41fe-44c2-8719-741ba87bcb17"
+    },
+    {
+      "id": "0fbb498d-4169-4bb9-9faa-8cba3147b0a2",
+      "set_code": "RTR",
+      "collector_number": "250",
+      "name": "Plains",
+      "scryfall_id": "ac754820-343e-4c01-bcfa-89fa5c8c7e1d"
+    },
+    {
+      "id": "041b0176-eb5b-4f8c-b8fd-8ff8324bc2bf",
+      "set_code": "RTR",
+      "collector_number": "251",
+      "name": "Plains",
+      "scryfall_id": "34044cf5-79ed-479c-abdc-3718ec193dd3"
+    },
+    {
+      "id": "e9911f18-a04e-4e80-baeb-eb638ed3f4cf",
+      "set_code": "RTR",
+      "collector_number": "252",
+      "name": "Plains",
+      "scryfall_id": "b0b9bcca-b41a-4a6a-b380-36bfea9f0715"
+    },
+    {
+      "id": "37b8d812-bbf8-407d-8da3-86aef17af34f",
+      "set_code": "RTR",
+      "collector_number": "253",
+      "name": "Plains",
+      "scryfall_id": "d293ea0f-8b87-4d8a-ad8f-650131c83c20"
+    },
+    {
+      "id": "9c03abe5-30bd-4802-b50f-7052a1592027",
+      "set_code": "RTR",
+      "collector_number": "254",
+      "name": "Plains",
+      "scryfall_id": "be0334fe-3de3-4779-a31d-d021db50b62b"
+    },
+    {
+      "id": "2dedb6e7-f307-4d0f-b443-391e1093e40d",
+      "set_code": "RTR",
+      "collector_number": "255",
+      "name": "Island",
+      "scryfall_id": "78f35064-c662-48ff-a2a9-d26f594500f5"
+    },
+    {
+      "id": "7c7dc78d-cdc7-41a3-9906-5d6bb99d02bb",
+      "set_code": "RTR",
+      "collector_number": "256",
+      "name": "Island",
+      "scryfall_id": "8dc5e0d9-1c8f-4d38-9915-40469988983d"
+    },
+    {
+      "id": "4829d659-ad41-4322-86ea-dfde700f18c0",
+      "set_code": "RTR",
+      "collector_number": "257",
+      "name": "Island",
+      "scryfall_id": "f10e5b17-6099-445d-9a7b-484eeff7cea8"
+    },
+    {
+      "id": "c0579084-45b8-467d-8bb5-d5d21ff45022",
+      "set_code": "RTR",
+      "collector_number": "258",
+      "name": "Island",
+      "scryfall_id": "7869f14e-d1d5-4a99-bc2c-f3a0d63077a5"
+    },
+    {
+      "id": "0db1288c-e784-4d71-bc99-a7d8f4d5118f",
+      "set_code": "RTR",
+      "collector_number": "259",
+      "name": "Island",
+      "scryfall_id": "e070e97c-142a-4d5d-ae89-c0c6d85a97ac"
+    },
+    {
+      "id": "8c63af08-059a-428c-927d-c1ede3a563b8",
+      "set_code": "RTR",
+      "collector_number": "260",
+      "name": "Swamp",
+      "scryfall_id": "2d8c3f29-121e-42d1-be21-29f403f97708"
+    },
+    {
+      "id": "42ae7ecc-d632-4e0c-a106-3c2d86f76625",
+      "set_code": "RTR",
+      "collector_number": "261",
+      "name": "Swamp",
+      "scryfall_id": "be73b50e-8230-41e5-8492-db8f749d00a4"
+    },
+    {
+      "id": "e2397daf-1fd9-426b-ae42-f6a15e32c54a",
+      "set_code": "RTR",
+      "collector_number": "262",
+      "name": "Swamp",
+      "scryfall_id": "46908606-f572-4b2d-9562-ed9c6f50f1ad"
+    },
+    {
+      "id": "7bf51eca-9db8-473e-89b2-0c3560546584",
+      "set_code": "RTR",
+      "collector_number": "263",
+      "name": "Swamp",
+      "scryfall_id": "f7cd375e-f41c-42b1-bbd4-36032d4fb92d"
+    },
+    {
+      "id": "ca4a2188-5917-4de3-90f0-2c886e3766ee",
+      "set_code": "RTR",
+      "collector_number": "264",
+      "name": "Swamp",
+      "scryfall_id": "745b1731-af31-44d2-ad50-b3e43b620913"
+    },
+    {
+      "id": "a16f9f11-6f84-4371-b678-9ecb9df34b1e",
+      "set_code": "RTR",
+      "collector_number": "265",
+      "name": "Mountain",
+      "scryfall_id": "3b4a196f-de7e-4100-ad65-56cf8b0a8b23"
+    },
+    {
+      "id": "a6854f2e-b45e-461f-b465-115cc0913b94",
+      "set_code": "RTR",
+      "collector_number": "266",
+      "name": "Mountain",
+      "scryfall_id": "a5b2d0ed-0b47-459a-8f5c-554dd816c03a"
+    },
+    {
+      "id": "58557a25-6192-4ca0-af65-e94d4d29d6db",
+      "set_code": "RTR",
+      "collector_number": "267",
+      "name": "Mountain",
+      "scryfall_id": "5353e8b2-3280-48ec-9bc2-8c8e7a15b460"
+    },
+    {
+      "id": "bfc51949-0eeb-4442-ac79-c83cbeda67df",
+      "set_code": "RTR",
+      "collector_number": "268",
+      "name": "Mountain",
+      "scryfall_id": "24b61852-860e-4f89-a1b2-6429168f0c02"
+    },
+    {
+      "id": "936d47f7-18eb-4e18-82b1-7472451ffdac",
+      "set_code": "RTR",
+      "collector_number": "269",
+      "name": "Mountain",
+      "scryfall_id": "96614dc1-9386-4861-b792-b83bcc6c5811"
+    },
+    {
+      "id": "c322991d-bf18-41ab-80a4-ff000cfb41d1",
+      "set_code": "RTR",
+      "collector_number": "270",
+      "name": "Forest",
+      "scryfall_id": "f00849dd-c1ba-4171-a503-603fe77c0a43"
+    },
+    {
+      "id": "537a5f6f-012e-43c6-b9c5-2c8aa1d7daca",
+      "set_code": "RTR",
+      "collector_number": "271",
+      "name": "Forest",
+      "scryfall_id": "1428575c-f18e-41a0-b58a-259d2feafd06"
+    },
+    {
+      "id": "c51ce99b-993c-4b6d-a20f-34d430e9283d",
+      "set_code": "RTR",
+      "collector_number": "272",
+      "name": "Forest",
+      "scryfall_id": "e6850740-6219-4f82-a705-2e7b20ede751"
+    },
+    {
+      "id": "dd3eb2d7-3079-4243-a93c-69786d759105",
+      "set_code": "RTR",
+      "collector_number": "273",
+      "name": "Forest",
+      "scryfall_id": "edc50993-1fd4-4dba-9d2f-ae7a18559829"
+    },
+    {
+      "id": "3f629f9d-adea-4f47-b5ca-14ce936cfd01",
+      "set_code": "RTR",
+      "collector_number": "274",
+      "name": "Forest",
+      "scryfall_id": "ddfcde62-1b20-48ce-8ba0-7929edcd26fc"
+    }
+  ]
+}

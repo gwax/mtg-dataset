@@ -1,0 +1,540 @@
+{
+  "id": "415ba329-d526-4432-9770-a382dca82d5f",
+  "code": "DDU",
+  "name": "Duel Decks: Elves vs. Inventors",
+  "scryfall_id": "01e30e53-f292-4c39-ab09-435b015877f5",
+  "cards": [
+    {
+      "id": "0c27dd3d-a9b3-4f4a-b696-2a4e747e33fa",
+      "set_code": "DDU",
+      "collector_number": "1",
+      "name": "Ezuri, Renegade Leader",
+      "scryfall_id": "8a448dbf-08a1-4145-a4b2-0265cc9f2e53"
+    },
+    {
+      "id": "7bd5107b-617b-4c72-9ee5-674dfdb1cff3",
+      "set_code": "DDU",
+      "collector_number": "2",
+      "name": "Dwynen, Gilt-Leaf Daen",
+      "scryfall_id": "868bb9fc-6b55-471c-9963-055ed2221526"
+    },
+    {
+      "id": "a4a0d0b3-ff86-47f6-b604-22edbf03ae20",
+      "set_code": "DDU",
+      "collector_number": "3",
+      "name": "Dwynen's Elite",
+      "scryfall_id": "8abb79f6-e54c-4c37-8cc5-115a737898a0"
+    },
+    {
+      "id": "e372e46e-91db-4eec-b658-091a80d80d01",
+      "set_code": "DDU",
+      "collector_number": "4",
+      "name": "Elvish Aberration",
+      "scryfall_id": "43a1d2c3-0bae-47ef-acf0-d94f7abe2ea0"
+    },
+    {
+      "id": "0c64cbec-666a-457a-b559-a21b0dc15dfb",
+      "set_code": "DDU",
+      "collector_number": "5",
+      "name": "Elvish Archdruid",
+      "scryfall_id": "1eb230a8-08d6-46a8-87fb-3c1614550f16"
+    },
+    {
+      "id": "aacc3272-970f-458a-9c47-5ad4c7392a49",
+      "set_code": "DDU",
+      "collector_number": "6",
+      "name": "Elvish Branchbender",
+      "scryfall_id": "f3731491-097c-4915-acab-1da2d5176b37"
+    },
+    {
+      "id": "ecba1a8f-04d4-49d7-b759-4cd136432108",
+      "set_code": "DDU",
+      "collector_number": "7",
+      "name": "Elvish Mystic",
+      "scryfall_id": "d618c3ea-f823-4fe0-8e11-65d5965528d3"
+    },
+    {
+      "id": "1f04c197-1566-4241-8133-18b6a9e123a8",
+      "set_code": "DDU",
+      "collector_number": "8",
+      "name": "Elvish Vanguard",
+      "scryfall_id": "838a8d40-5268-467e-8d14-d9fd72253df6"
+    },
+    {
+      "id": "1d804e4d-ff8e-4f62-8861-8cfe7b35582b",
+      "set_code": "DDU",
+      "collector_number": "9",
+      "name": "Ezuri's Archers",
+      "scryfall_id": "f909f002-f419-4292-ad92-05c4fd71749d"
+    },
+    {
+      "id": "48a36003-63ba-4a20-ad2f-b7823829910b",
+      "set_code": "DDU",
+      "collector_number": "10",
+      "name": "Fierce Empath",
+      "scryfall_id": "856c640c-234e-4fa7-b486-834134ba1a84"
+    },
+    {
+      "id": "1619a4f7-306e-4f54-9ee0-5e9ff07f90d2",
+      "set_code": "DDU",
+      "collector_number": "11",
+      "name": "Gladehart Cavalry",
+      "scryfall_id": "50558302-eea7-4d60-a65b-50386e73fccd"
+    },
+    {
+      "id": "de60ca15-a9d4-4a40-a686-c003015821f2",
+      "set_code": "DDU",
+      "collector_number": "12",
+      "name": "Ivy Lane Denizen",
+      "scryfall_id": "dba4b527-8dbf-4d11-af87-710ab9561182"
+    },
+    {
+      "id": "6fe586bf-0e06-41bf-90ef-de5fd40c250b",
+      "set_code": "DDU",
+      "collector_number": "13",
+      "name": "Jagged-Scar Archers",
+      "scryfall_id": "0f6ff643-461c-428b-8420-3b3393bbb003"
+    },
+    {
+      "id": "e2d7f990-fda8-4d86-a119-0f059148ff60",
+      "set_code": "DDU",
+      "collector_number": "14",
+      "name": "Krosan Tusker",
+      "scryfall_id": "6d1eb94d-5e52-4e4d-9cf7-5df1021b2aac"
+    },
+    {
+      "id": "409cf948-c78e-4008-aef0-dcb7fb673ce2",
+      "set_code": "DDU",
+      "collector_number": "15",
+      "name": "Kujar Seedsculptor",
+      "scryfall_id": "7a8a8d63-e64b-4a7a-ba95-1a68f75977d4"
+    },
+    {
+      "id": "b0924e76-ce37-4ee1-b604-d8320198a215",
+      "set_code": "DDU",
+      "collector_number": "16",
+      "name": "Lead the Stampede",
+      "scryfall_id": "b4d1f656-4a33-4348-b850-af7391ac071b"
+    },
+    {
+      "id": "8d628a91-836d-4132-a5d6-0732b1d1deb0",
+      "set_code": "DDU",
+      "collector_number": "17",
+      "name": "Leaf Gilder",
+      "scryfall_id": "e7d04e77-cbc4-40bf-a0f2-67312309a9cb"
+    },
+    {
+      "id": "3c6da098-697b-4a1e-bebd-558c1fd30255",
+      "set_code": "DDU",
+      "collector_number": "18",
+      "name": "Llanowar Empath",
+      "scryfall_id": "8ad19d75-b506-4d5c-bd94-40e8a1be7f27"
+    },
+    {
+      "id": "a8413815-9dd4-411c-ae1b-007ee40131ec",
+      "set_code": "DDU",
+      "collector_number": "19",
+      "name": "Naturalize",
+      "scryfall_id": "3b4465b8-0988-4efd-8b33-cc471909a773"
+    },
+    {
+      "id": "a531bd5e-c333-4678-8dbf-15b7344041c0",
+      "set_code": "DDU",
+      "collector_number": "20",
+      "name": "Nature's Way",
+      "scryfall_id": "29a4abe5-9770-4a55-b20a-2ceb6bb00db6"
+    },
+    {
+      "id": "5d606560-a6e0-48ab-95fe-b0816d35e402",
+      "set_code": "DDU",
+      "collector_number": "21",
+      "name": "Nissa's Judgment",
+      "scryfall_id": "e9dcece0-13eb-4931-b39e-13de528a11a6"
+    },
+    {
+      "id": "18fcccb0-23f4-4f81-a41b-9a555e6726e1",
+      "set_code": "DDU",
+      "collector_number": "22",
+      "name": "Regal Force",
+      "scryfall_id": "9c24fe81-a8b7-4b20-b5dd-1d1c91ff057f"
+    },
+    {
+      "id": "dc45f446-8069-4e0b-8d5d-3ea38b58f8fb",
+      "set_code": "DDU",
+      "collector_number": "23",
+      "name": "Sylvan Advocate",
+      "scryfall_id": "46475e1b-f49f-4880-accd-1a5e4b119198"
+    },
+    {
+      "id": "382399b6-8164-4ac0-b399-da741465ceb9",
+      "set_code": "DDU",
+      "collector_number": "24",
+      "name": "Talara's Battalion",
+      "scryfall_id": "366c5992-e97f-4f15-bea9-8a62675e46a5"
+    },
+    {
+      "id": "ea5c0d00-88b0-41a3-8939-3629928933a1",
+      "set_code": "DDU",
+      "collector_number": "25",
+      "name": "Viridian Shaman",
+      "scryfall_id": "bed8b8aa-2c1f-4a5b-af6e-16802b3b9453"
+    },
+    {
+      "id": "7afacd52-9e6d-4892-b0fe-5f8a71db9ba0",
+      "set_code": "DDU",
+      "collector_number": "26",
+      "name": "Wildheart Invoker",
+      "scryfall_id": "416b9302-62e9-453b-a8b6-db367d37a584"
+    },
+    {
+      "id": "d2986a74-36f0-4235-a8d2-76f28d3a0dbc",
+      "set_code": "DDU",
+      "collector_number": "27",
+      "name": "Yeva, Nature's Herald",
+      "scryfall_id": "22ecead7-58b3-4e34-8f7d-b095abee7f24"
+    },
+    {
+      "id": "a2d50867-2d17-420a-b997-b431cb10ae3f",
+      "set_code": "DDU",
+      "collector_number": "28",
+      "name": "Oran-Rief, the Vastwood",
+      "scryfall_id": "0d307dc2-7897-4394-b437-c1fc7c199e68"
+    },
+    {
+      "id": "9496548f-a638-4243-8f8a-c5c77d06a504",
+      "set_code": "DDU",
+      "collector_number": "29",
+      "name": "Tranquil Thicket",
+      "scryfall_id": "0433780c-d072-4d8b-9109-236764824dc9"
+    },
+    {
+      "id": "f711fc43-d933-4cbc-8f89-6c61b4f95ad4",
+      "set_code": "DDU",
+      "collector_number": "30",
+      "name": "Treetop Village",
+      "scryfall_id": "14394198-0993-46ee-a3ea-5c7084a78772"
+    },
+    {
+      "id": "4f794527-da62-4589-9908-de0be3c76911",
+      "set_code": "DDU",
+      "collector_number": "31",
+      "name": "Forest",
+      "scryfall_id": "5c284c81-195b-49e5-bfdd-3e0447103469"
+    },
+    {
+      "id": "c7e37c88-ab56-4ac1-9cb5-f7395fffabb5",
+      "set_code": "DDU",
+      "collector_number": "32",
+      "name": "Forest",
+      "scryfall_id": "5257440c-ab4e-4b9e-a694-f7ff54feaa1b"
+    },
+    {
+      "id": "80cf814a-8866-4444-98a4-104a552e4d0a",
+      "set_code": "DDU",
+      "collector_number": "33",
+      "name": "Forest",
+      "scryfall_id": "88e1bf57-cb14-4dfe-abb1-d8ed9c051f1a"
+    },
+    {
+      "id": "ad29dfae-aff1-466c-b86d-a4f69c8f0542",
+      "set_code": "DDU",
+      "collector_number": "34",
+      "name": "Forest",
+      "scryfall_id": "bb0e5fc9-1b11-45c0-a0c7-668507cfabfb"
+    },
+    {
+      "id": "344b6f6f-5892-4a41-b3c5-3c28a9c79038",
+      "set_code": "DDU",
+      "collector_number": "35",
+      "name": "Goblin Welder",
+      "scryfall_id": "17be21c8-d7bb-405e-addd-5aba1125b709"
+    },
+    {
+      "id": "7edbd9c1-a327-4184-b447-b1edad889e8d",
+      "set_code": "DDU",
+      "collector_number": "36",
+      "name": "Artificer's Epiphany",
+      "scryfall_id": "f4e6f89d-c73b-4105-9743-95504f0fd866"
+    },
+    {
+      "id": "741f473e-4916-46ae-8c78-e417060f4da8",
+      "set_code": "DDU",
+      "collector_number": "37",
+      "name": "Etherium Sculptor",
+      "scryfall_id": "7225ae44-1357-44a6-9244-1cf43c199f15"
+    },
+    {
+      "id": "64e4cb11-5f1a-4227-ad78-98c6d6ede23f",
+      "set_code": "DDU",
+      "collector_number": "38",
+      "name": "Faerie Mechanist",
+      "scryfall_id": "b8733a45-fb31-439b-9e4c-a092ae015569"
+    },
+    {
+      "id": "a1350df6-8f0d-4d6c-b1b7-9bf54586dc26",
+      "set_code": "DDU",
+      "collector_number": "39",
+      "name": "Riddlesmith",
+      "scryfall_id": "29638358-d0fa-4cd5-9d42-66cee8e8ccc6"
+    },
+    {
+      "id": "76daa51c-ed6d-4c1a-8661-f30b1553ecd2",
+      "set_code": "DDU",
+      "collector_number": "40",
+      "name": "Treasure Mage",
+      "scryfall_id": "2b87cd20-b8c7-4ce2-86f9-3d1078995bfb"
+    },
+    {
+      "id": "da197ccd-90e5-4ad3-b8a3-8d86d609786f",
+      "set_code": "DDU",
+      "collector_number": "41",
+      "name": "Trinket Mage",
+      "scryfall_id": "9a7800f7-95cd-4f5c-b054-4afad8924367"
+    },
+    {
+      "id": "2c091bfd-d164-4e64-999b-465095cb0cf2",
+      "set_code": "DDU",
+      "collector_number": "42",
+      "name": "Trophy Mage",
+      "scryfall_id": "5252794a-5cbe-45e3-b5c1-b27c667e9c17"
+    },
+    {
+      "id": "74728259-8195-4137-ab4e-df9bf9a2d36c",
+      "set_code": "DDU",
+      "collector_number": "43",
+      "name": "Whirler Rogue",
+      "scryfall_id": "6bf5a7b6-62ef-48c5-b081-a6f0ca917d16"
+    },
+    {
+      "id": "3b996dfa-4879-4234-ba5a-58238f567eab",
+      "set_code": "DDU",
+      "collector_number": "44",
+      "name": "Barrage Ogre",
+      "scryfall_id": "98e67a2f-7556-47aa-a953-89dcfe57a6ee"
+    },
+    {
+      "id": "740be747-5921-434a-a58b-5ad85238cd3a",
+      "set_code": "DDU",
+      "collector_number": "45",
+      "name": "Galvanic Blast",
+      "scryfall_id": "e3ba390c-26d4-4086-ab7e-db5e61bd9db9"
+    },
+    {
+      "id": "7dd8abb7-102e-4ada-bb21-57cb9227623e",
+      "set_code": "DDU",
+      "collector_number": "46",
+      "name": "Ghirapur Gearcrafter",
+      "scryfall_id": "e6087550-9f15-4a06-b030-18b0be652065"
+    },
+    {
+      "id": "2eba48e8-8e01-44bb-87e7-aa2035be6930",
+      "set_code": "DDU",
+      "collector_number": "47",
+      "name": "Pia and Kiran Nalaar",
+      "scryfall_id": "107b2271-ec4d-4c4c-b52b-ecf698066aef"
+    },
+    {
+      "id": "9fd6faa0-bf49-41b1-941c-046e61fc232d",
+      "set_code": "DDU",
+      "collector_number": "48",
+      "name": "Shrapnel Blast",
+      "scryfall_id": "ae1c5afc-81b4-438a-928e-0b0aefae191a"
+    },
+    {
+      "id": "acbf68e3-1748-4cc2-86a3-dd480d71a55f",
+      "set_code": "DDU",
+      "collector_number": "49",
+      "name": "Welding Sparks",
+      "scryfall_id": "8e6bbaa4-b2c8-4e95-92b3-4d2e713e1a8d"
+    },
+    {
+      "id": "eb2d8233-cc50-4953-9e70-59e647b22662",
+      "set_code": "DDU",
+      "collector_number": "50",
+      "name": "Maverick Thopterist",
+      "scryfall_id": "1022eb7c-4195-41dc-acdb-ac42ddaec45e"
+    },
+    {
+      "id": "c6eeeec3-ea42-41c7-8e20-89964056ab62",
+      "set_code": "DDU",
+      "collector_number": "51",
+      "name": "Reclusive Artificer",
+      "scryfall_id": "9e6cda07-c6b0-4138-9b83-bff1802fe138"
+    },
+    {
+      "id": "87737609-622c-4ed7-a0cc-9c754c224628",
+      "set_code": "DDU",
+      "collector_number": "52",
+      "name": "Darksteel Plate",
+      "scryfall_id": "7718b0ef-9df6-4983-b902-8d9580fc9370"
+    },
+    {
+      "id": "20179d0c-9017-4780-801e-b3bfe010eae2",
+      "set_code": "DDU",
+      "collector_number": "53",
+      "name": "Filigree Familiar",
+      "scryfall_id": "987d52d0-d682-4a79-b48b-21a0eddd0732"
+    },
+    {
+      "id": "458930a4-9cc9-4a35-9e6a-b570ad971fd3",
+      "set_code": "DDU",
+      "collector_number": "54",
+      "name": "Ichor Wellspring",
+      "scryfall_id": "537721ab-088f-4dbd-b984-67f68eaaf3cf"
+    },
+    {
+      "id": "477feabe-f673-433e-9c25-1aeb912be67b",
+      "set_code": "DDU",
+      "collector_number": "55",
+      "name": "Inventor's Goggles",
+      "scryfall_id": "8fc62d61-2bc0-4b84-a0e9-5a01fcd4ef92"
+    },
+    {
+      "id": "748878ee-db58-49de-9c8a-1da2146b4680",
+      "set_code": "DDU",
+      "collector_number": "56",
+      "name": "Mycosynth Wellspring",
+      "scryfall_id": "f7104572-5602-4c26-8df3-b1cb8409db41"
+    },
+    {
+      "id": "5da11949-3714-4d4f-bfe6-033e5ba4584f",
+      "set_code": "DDU",
+      "collector_number": "57",
+      "name": "Myr Battlesphere",
+      "scryfall_id": "2b3d86bd-0686-42bc-b540-3c1e2cb75e35"
+    },
+    {
+      "id": "5e9999be-e717-46a8-b7c1-059ef79644ca",
+      "set_code": "DDU",
+      "collector_number": "58",
+      "name": "Myr Sire",
+      "scryfall_id": "8e289d6c-1dcd-4431-9ed4-62b48eb207e1"
+    },
+    {
+      "id": "af3f9c08-f45f-4c73-ac81-e3a66c7ec65e",
+      "set_code": "DDU",
+      "collector_number": "59",
+      "name": "Neurok Replica",
+      "scryfall_id": "76114dda-811c-41b2-995b-9e80115cc8c8"
+    },
+    {
+      "id": "e958214a-3f4a-42ca-987e-4c15ed892c7c",
+      "set_code": "DDU",
+      "collector_number": "60",
+      "name": "Pyrite Spellbomb",
+      "scryfall_id": "b76903b2-f8d2-4157-ad93-361eccc1a617"
+    },
+    {
+      "id": "2cfdb77b-4cef-4ca3-8707-825fbac12834",
+      "set_code": "DDU",
+      "collector_number": "61",
+      "name": "Scuttling Doom Engine",
+      "scryfall_id": "16f74ee4-f647-49b1-88b8-1aae8df3b271"
+    },
+    {
+      "id": "07ac9bc2-c9ed-47d3-a342-a06d15d58367",
+      "set_code": "DDU",
+      "collector_number": "62",
+      "name": "Solemn Simulacrum",
+      "scryfall_id": "9fb8c25a-5ca8-40b2-a782-50eee49721b7"
+    },
+    {
+      "id": "7913b59c-710d-4625-b209-f22e4bc737b5",
+      "set_code": "DDU",
+      "collector_number": "63",
+      "name": "Thopter Assembly",
+      "scryfall_id": "94858a1d-7107-4ae4-a519-c3f7904146fa"
+    },
+    {
+      "id": "f30cf35d-598e-4c42-b8ce-93250d7065cf",
+      "set_code": "DDU",
+      "collector_number": "64",
+      "name": "Voyager Staff",
+      "scryfall_id": "44db92d7-2c55-4587-9a49-7cc305b8fca0"
+    },
+    {
+      "id": "5e6c4584-983b-4526-aa40-13a09f718b54",
+      "set_code": "DDU",
+      "collector_number": "65",
+      "name": "Darksteel Citadel",
+      "scryfall_id": "dbd78b03-312b-4bbf-a4f6-d5095545a11b"
+    },
+    {
+      "id": "777a074b-f150-4806-ac64-3d78bb3bcbee",
+      "set_code": "DDU",
+      "collector_number": "66",
+      "name": "Foundry of the Consuls",
+      "scryfall_id": "7907175d-aa71-4c6b-8d44-026cb6b0f91c"
+    },
+    {
+      "id": "e2b69d0f-6317-4a94-a48b-a61932dddcf4",
+      "set_code": "DDU",
+      "collector_number": "67",
+      "name": "Great Furnace",
+      "scryfall_id": "c91c6c79-8512-4318-822c-8eed96eecdaa"
+    },
+    {
+      "id": "9133fbdd-c35d-4f75-9ec8-5da5744fe5aa",
+      "set_code": "DDU",
+      "collector_number": "68",
+      "name": "Phyrexia's Core",
+      "scryfall_id": "8d0afc49-24af-4ef6-8336-ad47bfd38e81"
+    },
+    {
+      "id": "2f3f1712-44b4-4ee2-99ac-649d8acb68b2",
+      "set_code": "DDU",
+      "collector_number": "69",
+      "name": "Seat of the Synod",
+      "scryfall_id": "27b10829-fd16-4bef-8aa7-d47acdb3f53f"
+    },
+    {
+      "id": "727b42e1-0f46-4095-8861-fc9561d0fa37",
+      "set_code": "DDU",
+      "collector_number": "70",
+      "name": "Shivan Reef",
+      "scryfall_id": "ae4c9315-41f9-4264-ae6b-c0d9ed6287ca"
+    },
+    {
+      "id": "28468f91-2780-4fce-94c3-18c3357c0eec",
+      "set_code": "DDU",
+      "collector_number": "71",
+      "name": "Swiftwater Cliffs",
+      "scryfall_id": "9b0bfb57-1483-4049-82da-05d206338b2c"
+    },
+    {
+      "id": "d8c31325-c748-45ad-a864-9d0a2b032299",
+      "set_code": "DDU",
+      "collector_number": "72",
+      "name": "Temple of Epiphany",
+      "scryfall_id": "4b1ba650-2397-4dc4-bad3-5c97f3a1e0db"
+    },
+    {
+      "id": "9f40384f-6f35-4187-901c-2f7e62ab9234",
+      "set_code": "DDU",
+      "collector_number": "73",
+      "name": "Island",
+      "scryfall_id": "c0229fef-746c-417a-beb9-150f286da14a"
+    },
+    {
+      "id": "bc3b7c29-a31c-4d91-a736-8d2ea767c0ad",
+      "set_code": "DDU",
+      "collector_number": "74",
+      "name": "Island",
+      "scryfall_id": "e4f4b3e7-7c8e-42c9-895d-4c8b802ed4f7"
+    },
+    {
+      "id": "546e80e3-0dcd-4a52-b59f-5c0d5bf425c6",
+      "set_code": "DDU",
+      "collector_number": "75",
+      "name": "Mountain",
+      "scryfall_id": "b55b57b3-6cbd-4571-8163-b6ba76904d9d"
+    },
+    {
+      "id": "3a3a45fd-31a1-4de4-a396-8c28563a88bc",
+      "set_code": "DDU",
+      "collector_number": "76",
+      "name": "Mountain",
+      "scryfall_id": "e13ee385-ad54-410a-b1db-19a0267294e1"
+    }
+  ]
+}

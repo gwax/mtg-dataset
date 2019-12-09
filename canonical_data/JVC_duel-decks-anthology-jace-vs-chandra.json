@@ -1,0 +1,442 @@
+{
+  "id": "a7bf4d5b-a844-4937-9555-8013ece7cced",
+  "code": "JVC",
+  "name": "Duel Decks Anthology: Jace vs. Chandra",
+  "scryfall_id": "37832684-2fe0-4b06-842b-eec06e5a17cb",
+  "cards": [
+    {
+      "id": "bdbaa724-70bf-42fa-8dde-03f9f2fee491",
+      "set_code": "JVC",
+      "collector_number": "1",
+      "name": "Jace Beleren",
+      "scryfall_id": "97956927-135f-47b0-8aef-cc63889eab5a"
+    },
+    {
+      "id": "f7febdeb-2751-47bb-bbb5-9966baacb207",
+      "set_code": "JVC",
+      "collector_number": "2",
+      "name": "Martyr of Frost",
+      "scryfall_id": "0e7c25c9-1634-4675-b975-e9d477d1f8e1"
+    },
+    {
+      "id": "9b164154-3422-4106-8499-00f3d46a941e",
+      "set_code": "JVC",
+      "collector_number": "3",
+      "name": "Fathom Seer",
+      "scryfall_id": "e4d42591-6bf4-4ad7-b662-2449a65f6040"
+    },
+    {
+      "id": "f6ec26c3-2669-47be-86b8-7f2dd6cd9802",
+      "set_code": "JVC",
+      "collector_number": "4",
+      "name": "Voidmage Apprentice",
+      "scryfall_id": "fdc000af-a161-4803-bd24-4fdde083caec"
+    },
+    {
+      "id": "cc658cee-895e-4bd1-baf9-b956d384240b",
+      "set_code": "JVC",
+      "collector_number": "5",
+      "name": "Wall of Deceit",
+      "scryfall_id": "6eab8bfb-6e46-44b7-8fb1-72bb1c1d04cc"
+    },
+    {
+      "id": "6912466b-076c-464f-9234-cb31573ded1a",
+      "set_code": "JVC",
+      "collector_number": "6",
+      "name": "Willbender",
+      "scryfall_id": "5670480f-cd51-48cc-9279-4fbc58317372"
+    },
+    {
+      "id": "261e8d87-bdbc-4183-a6f0-fabbd38b8fc0",
+      "set_code": "JVC",
+      "collector_number": "7",
+      "name": "Bottle Gnomes",
+      "scryfall_id": "eb985dcc-0a1b-483e-b122-470f4ea03d43"
+    },
+    {
+      "id": "d02e36a2-f40a-429e-9072-7e8cbe9c7b4f",
+      "set_code": "JVC",
+      "collector_number": "8",
+      "name": "Man-o'-War",
+      "scryfall_id": "adc8be1e-37fa-49be-b556-f0b34b5034cd"
+    },
+    {
+      "id": "ac5a6202-ad5a-483d-ae3f-69fc12cedebf",
+      "set_code": "JVC",
+      "collector_number": "9",
+      "name": "Ophidian",
+      "scryfall_id": "03be605e-dddf-4a1f-a4ee-0d71ab771e47"
+    },
+    {
+      "id": "f499b419-367a-46fc-bbf7-5a0eac0ba7ec",
+      "set_code": "JVC",
+      "collector_number": "10",
+      "name": "Fledgling Mawcor",
+      "scryfall_id": "4d461acf-f7dc-4f57-be58-48d3e1018959"
+    },
+    {
+      "id": "c8e9b889-51ef-4e61-845a-b2701488acb4",
+      "set_code": "JVC",
+      "collector_number": "11",
+      "name": "Waterspout Djinn",
+      "scryfall_id": "0c4d3ffe-3e4d-496f-98d7-60f3b1757b67"
+    },
+    {
+      "id": "3af52a59-5b0a-4b76-9e26-a688ea2b87a5",
+      "set_code": "JVC",
+      "collector_number": "12",
+      "name": "Mulldrifter",
+      "scryfall_id": "909c8cc3-4adf-4c14-8fac-673558fe1f7f"
+    },
+    {
+      "id": "663c6e97-f6f2-49de-986b-61af33f12db0",
+      "set_code": "JVC",
+      "collector_number": "13",
+      "name": "Air Elemental",
+      "scryfall_id": "fecc022a-9643-48af-8423-2923036c147f"
+    },
+    {
+      "id": "f951bbf1-2a13-42c2-8854-f61fecbcf1a8",
+      "set_code": "JVC",
+      "collector_number": "14",
+      "name": "Guile",
+      "scryfall_id": "0a837cde-356e-40b1-8434-5799acdaa946"
+    },
+    {
+      "id": "ab9291b4-c4e1-4e9c-83c0-dc338d186674",
+      "set_code": "JVC",
+      "collector_number": "15",
+      "name": "Riftwing Cloudskate",
+      "scryfall_id": "7a150bc3-1d1a-4364-a97a-a71b6c09f6c9"
+    },
+    {
+      "id": "7ef9e04f-d4e6-4a57-a28c-d88871bc5aa0",
+      "set_code": "JVC",
+      "collector_number": "16",
+      "name": "Spire Golem",
+      "scryfall_id": "b299c599-1a10-4122-ac0b-8f52a9cec7b6"
+    },
+    {
+      "id": "7013ab72-4322-4a16-9160-c012ba4210da",
+      "set_code": "JVC",
+      "collector_number": "17",
+      "name": "Aethersnipe",
+      "scryfall_id": "f94d1b8e-2182-4916-a458-a6055c9b94c3"
+    },
+    {
+      "id": "03d6417f-db24-4ff9-9ef6-4f32e3506d01",
+      "set_code": "JVC",
+      "collector_number": "18",
+      "name": "Brine Elemental",
+      "scryfall_id": "4006ad97-47a9-4e69-bcc5-419751d37119"
+    },
+    {
+      "id": "4baf230d-270e-4b73-b83f-f51dd784f436",
+      "set_code": "JVC",
+      "collector_number": "19",
+      "name": "Quicksilver Dragon",
+      "scryfall_id": "a8943e2c-8a85-4ca4-a7b1-87b89e697877"
+    },
+    {
+      "id": "51f04e56-e7cb-45a9-87c3-1dfd07b1e9a8",
+      "set_code": "JVC",
+      "collector_number": "20",
+      "name": "Errant Ephemeron",
+      "scryfall_id": "aa9b2b1d-7ba0-4a65-ae70-31960917d96c"
+    },
+    {
+      "id": "b4e3261e-b22e-47f6-9d68-3d33cbd1bc60",
+      "set_code": "JVC",
+      "collector_number": "21",
+      "name": "Ancestral Vision",
+      "scryfall_id": "307752ed-f4cc-4e2d-a0fd-0c677844e848"
+    },
+    {
+      "id": "392805b7-eb2d-4b19-b7cd-56eb656caf77",
+      "set_code": "JVC",
+      "collector_number": "22",
+      "name": "Mind Stone",
+      "scryfall_id": "a1baff4f-eaeb-4fe2-821d-5b9079aad4b1"
+    },
+    {
+      "id": "c60b081e-d477-40e7-841c-0645d1327199",
+      "set_code": "JVC",
+      "collector_number": "23",
+      "name": "Daze",
+      "scryfall_id": "90261920-05c2-4297-8531-7b813e51545b"
+    },
+    {
+      "id": "a8dc636c-ee15-473b-9970-1d15ba80b2ca",
+      "set_code": "JVC",
+      "collector_number": "24",
+      "name": "Counterspell",
+      "scryfall_id": "2a6c681a-2b5f-4c4e-81c3-91e8aba47985"
+    },
+    {
+      "id": "4115e377-87ad-43a1-85d9-df1b44acf23a",
+      "set_code": "JVC",
+      "collector_number": "25",
+      "name": "Repulse",
+      "scryfall_id": "70bc2094-0258-49b5-ac18-dd2a49ae31ac"
+    },
+    {
+      "id": "89067fda-ba2c-46b4-af65-692755ddcae9",
+      "set_code": "JVC",
+      "collector_number": "26",
+      "name": "Fact or Fiction",
+      "scryfall_id": "994ae903-576d-4945-911d-9c086bbf75d7"
+    },
+    {
+      "id": "9d6ba56c-a526-4e00-b856-e81c6f7c972d",
+      "set_code": "JVC",
+      "collector_number": "27",
+      "name": "Gush",
+      "scryfall_id": "d4a3a921-3b7f-474c-b8c3-67a1a6ba5cc1"
+    },
+    {
+      "id": "78f5d7ff-1c40-48b9-99ae-885e249d043c",
+      "set_code": "JVC",
+      "collector_number": "28",
+      "name": "Condescend",
+      "scryfall_id": "f70232b8-e0aa-4fc9-b76b-6766f69b9823"
+    },
+    {
+      "id": "500015f3-3cf2-4c2a-bc8c-a7183fdcdf84",
+      "set_code": "JVC",
+      "collector_number": "29",
+      "name": "Terrain Generator",
+      "scryfall_id": "8c953463-6c26-4adf-a089-00514af200c5"
+    },
+    {
+      "id": "0c188ef4-97f6-42be-8e92-f809a150e537",
+      "set_code": "JVC",
+      "collector_number": "30",
+      "name": "Island",
+      "scryfall_id": "7646a5be-ae69-4d31-b576-64263ae5ff09"
+    },
+    {
+      "id": "57c3629b-3a17-4a84-acbb-d464e5cdd2da",
+      "set_code": "JVC",
+      "collector_number": "31",
+      "name": "Island",
+      "scryfall_id": "259cb11a-32f7-4483-a859-a26313c62610"
+    },
+    {
+      "id": "6d553adb-c462-43ae-baa0-51e4e300a45f",
+      "set_code": "JVC",
+      "collector_number": "32",
+      "name": "Island",
+      "scryfall_id": "478100da-a66a-47e0-ab15-54dc3398740f"
+    },
+    {
+      "id": "aa29df99-4027-4377-876c-64aeffea15b7",
+      "set_code": "JVC",
+      "collector_number": "33",
+      "name": "Island",
+      "scryfall_id": "d1fe1dbb-4552-418f-b919-1e30261a2e1f"
+    },
+    {
+      "id": "ac6d197c-3b97-4b86-9627-d2e15b814b37",
+      "set_code": "JVC",
+      "collector_number": "34",
+      "name": "Chandra Nalaar",
+      "scryfall_id": "44108e96-1fb5-41e0-a391-0c111e0f4f11"
+    },
+    {
+      "id": "8d0ae7ed-1571-4f01-8ad2-c2ae9c8024a4",
+      "set_code": "JVC",
+      "collector_number": "35",
+      "name": "Flamekin Brawler",
+      "scryfall_id": "42da4ec7-9d30-4c4e-9220-db0f4172bf9c"
+    },
+    {
+      "id": "ce44f0c1-2cb5-44f6-aae8-7cf2280cd76e",
+      "set_code": "JVC",
+      "collector_number": "36",
+      "name": "Fireslinger",
+      "scryfall_id": "87f8a822-5f41-4742-81e1-c78dc437b3d0"
+    },
+    {
+      "id": "86d210be-d1ca-4840-b1db-fdf1aa5fb1a2",
+      "set_code": "JVC",
+      "collector_number": "37",
+      "name": "Soulbright Flamekin",
+      "scryfall_id": "118c1dfc-0551-4320-8fa6-f75c0afd9931"
+    },
+    {
+      "id": "ce15fcce-16d8-4c84-94fc-397338d4e38f",
+      "set_code": "JVC",
+      "collector_number": "38",
+      "name": "Pyre Charger",
+      "scryfall_id": "4998ac4f-b461-4ab8-9680-81c396df371a"
+    },
+    {
+      "id": "c44ebd5d-be10-4481-aa65-737d5af7347b",
+      "set_code": "JVC",
+      "collector_number": "39",
+      "name": "Slith Firewalker",
+      "scryfall_id": "9ee6c9a1-5e3c-4a3e-8f48-7054c1626bb1"
+    },
+    {
+      "id": "33f72c95-d703-423e-a26a-5e7a4d4d150f",
+      "set_code": "JVC",
+      "collector_number": "40",
+      "name": "Flamewave Invoker",
+      "scryfall_id": "bdd4a223-ed72-4d0b-bf1e-34f62c6b2c80"
+    },
+    {
+      "id": "25b04001-4006-49c9-99e8-f5bdabac17c0",
+      "set_code": "JVC",
+      "collector_number": "41",
+      "name": "Inner-Flame Acolyte",
+      "scryfall_id": "70ec84e5-2a49-4738-9594-f51c76387d33"
+    },
+    {
+      "id": "cf89067b-bf61-4150-9b1a-76cb77741bd8",
+      "set_code": "JVC",
+      "collector_number": "42",
+      "name": "Flametongue Kavu",
+      "scryfall_id": "d2ec1557-4fe3-4d9b-8cc1-e5fbf1e52d70"
+    },
+    {
+      "id": "659b94ab-7e48-4a74-a82b-9784ea89bb1a",
+      "set_code": "JVC",
+      "collector_number": "43",
+      "name": "Furnace Whelp",
+      "scryfall_id": "b4b6a111-90fe-492a-8548-d7749d60e30e"
+    },
+    {
+      "id": "ceaab8c4-24a9-44da-a385-76b446491f72",
+      "set_code": "JVC",
+      "collector_number": "44",
+      "name": "Rakdos Pit Dragon",
+      "scryfall_id": "bff6c92f-e7c5-43d2-999c-d48b1ad2492a"
+    },
+    {
+      "id": "8875ed74-e64e-427f-abbb-02ec9d7fb834",
+      "set_code": "JVC",
+      "collector_number": "45",
+      "name": "Ingot Chewer",
+      "scryfall_id": "7130e801-f66c-4c65-8a53-985738c55192"
+    },
+    {
+      "id": "f284f2f6-e2f0-47d3-b9e1-4d286045ef81",
+      "set_code": "JVC",
+      "collector_number": "46",
+      "name": "Oxidda Golem",
+      "scryfall_id": "3a5994a9-dc0c-486d-a622-0e2a68699073"
+    },
+    {
+      "id": "37c1886a-6bcf-4fa8-907b-69855d93be06",
+      "set_code": "JVC",
+      "collector_number": "47",
+      "name": "Chartooth Cougar",
+      "scryfall_id": "d1aff81b-9c70-4447-b391-5de982e84cce"
+    },
+    {
+      "id": "f5ec30db-a481-48d8-8c38-c3a2033f7092",
+      "set_code": "JVC",
+      "collector_number": "48",
+      "name": "Hostility",
+      "scryfall_id": "f065797a-2aef-4753-a3a1-058807c138f0"
+    },
+    {
+      "id": "4f525f50-df84-4a7b-821d-0a8c471367ca",
+      "set_code": "JVC",
+      "collector_number": "49",
+      "name": "Firebolt",
+      "scryfall_id": "5ea4db47-77ae-4362-83f2-4bf5e205a1b7"
+    },
+    {
+      "id": "845ae045-668e-4aa0-a695-0dc9fcec51cf",
+      "set_code": "JVC",
+      "collector_number": "50",
+      "name": "Seal of Fire",
+      "scryfall_id": "210f4f5a-4a36-4f2f-8821-d04f3f52c8db"
+    },
+    {
+      "id": "811af37c-34fc-49b9-b184-713628f4c4c7",
+      "set_code": "JVC",
+      "collector_number": "51",
+      "name": "Incinerate",
+      "scryfall_id": "f23dff46-e040-4cba-890a-97c2899701f2"
+    },
+    {
+      "id": "3892e58c-7b4a-4aa9-8342-8beef452e3d9",
+      "set_code": "JVC",
+      "collector_number": "52",
+      "name": "Magma Jet",
+      "scryfall_id": "1dffd252-9eda-4da8-aa7e-7f478c5dbf97"
+    },
+    {
+      "id": "dbbe8cdd-247f-4ef3-8da8-ff603a0cc067",
+      "set_code": "JVC",
+      "collector_number": "53",
+      "name": "Flame Javelin",
+      "scryfall_id": "47ff534c-a8eb-4303-95bb-00b3df0c5da6"
+    },
+    {
+      "id": "b3c34e11-877b-46cd-bfc1-1c675e8ebe3e",
+      "set_code": "JVC",
+      "collector_number": "54",
+      "name": "Cone of Flame",
+      "scryfall_id": "b0174452-08c3-4095-9dee-46736cc9a7c5"
+    },
+    {
+      "id": "eca625be-6bc9-4c46-85b7-732d383d1536",
+      "set_code": "JVC",
+      "collector_number": "55",
+      "name": "Fireblast",
+      "scryfall_id": "51e839d8-2c62-46df-a6ca-3964f43b7e54"
+    },
+    {
+      "id": "920575b4-e62a-4154-b2e5-f413fefb51e0",
+      "set_code": "JVC",
+      "collector_number": "56",
+      "name": "Fireball",
+      "scryfall_id": "dcbdc3be-f187-4fb2-9506-06d5abc37785"
+    },
+    {
+      "id": "54cec251-d796-4506-bbab-bee7e3dee07f",
+      "set_code": "JVC",
+      "collector_number": "57",
+      "name": "Demonfire",
+      "scryfall_id": "4de10b65-2079-46a4-9966-fdb30359810a"
+    },
+    {
+      "id": "ddd1639a-b1c9-40d7-bc36-757fbf5deea0",
+      "set_code": "JVC",
+      "collector_number": "58",
+      "name": "Keldon Megaliths",
+      "scryfall_id": "da7c4600-1dc3-4a9d-a112-1b70abcb8951"
+    },
+    {
+      "id": "6e3a200b-9209-4597-aceb-c1f99178cfa7",
+      "set_code": "JVC",
+      "collector_number": "59",
+      "name": "Mountain",
+      "scryfall_id": "8fbd06f1-3427-4168-9a34-82f43a514146"
+    },
+    {
+      "id": "78cb3038-0779-4595-ada0-cf7ac1553171",
+      "set_code": "JVC",
+      "collector_number": "60",
+      "name": "Mountain",
+      "scryfall_id": "af426fb7-6bd0-470a-a887-0b1adeab1a11"
+    },
+    {
+      "id": "1e2c14b5-da4d-4eff-be0c-1c642c767a31",
+      "set_code": "JVC",
+      "collector_number": "61",
+      "name": "Mountain",
+      "scryfall_id": "1d8bc14f-7009-440b-a72c-64e911b13379"
+    },
+    {
+      "id": "d07c65fa-0913-41c3-97fe-7d006703b3d6",
+      "set_code": "JVC",
+      "collector_number": "62",
+      "name": "Mountain",
+      "scryfall_id": "899ee6f6-4aad-4093-b1ef-7e2ec2b78df8"
+    }
+  ]
+}

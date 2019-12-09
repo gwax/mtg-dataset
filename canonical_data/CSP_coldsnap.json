@@ -1,0 +1,1093 @@
+{
+  "id": "40529f29-44ab-466e-a429-592395474a9c",
+  "code": "CSP",
+  "name": "Coldsnap",
+  "scryfall_id": "1f4f105f-73e4-4f03-849e-82a204807847",
+  "cards": [
+    {
+      "id": "e78b4d11-6527-4da6-9dc3-20494a1499fe",
+      "set_code": "CSP",
+      "collector_number": "1",
+      "name": "Adarkar Valkyrie",
+      "scryfall_id": "ee4336a9-c904-44a3-8cbd-a1fd5fdbcd74"
+    },
+    {
+      "id": "db79ce2a-2778-44fe-a8fc-80e0f9bebb16",
+      "set_code": "CSP",
+      "collector_number": "2",
+      "name": "Boreal Griffin",
+      "scryfall_id": "36638e20-0a1d-4ea3-936c-2ea74add868a"
+    },
+    {
+      "id": "59c554da-106f-4cee-ba16-8ca9c774c658",
+      "set_code": "CSP",
+      "collector_number": "3",
+      "name": "Cover of Winter",
+      "scryfall_id": "91d9bb89-d8f8-4dff-8b94-3f7b8aa8f299"
+    },
+    {
+      "id": "95e99451-16ba-4f7d-bcaf-a6ec0e099c08",
+      "set_code": "CSP",
+      "collector_number": "4",
+      "name": "Darien, King of Kjeldor",
+      "scryfall_id": "5ea571ae-b9bd-4bd2-9357-52915f0d2f15"
+    },
+    {
+      "id": "c98fd441-d6fb-4556-b667-e4b6b0ec3446",
+      "set_code": "CSP",
+      "collector_number": "5",
+      "name": "Field Marshal",
+      "scryfall_id": "421648a0-51c8-45c4-9771-0fd3ccdc69c9"
+    },
+    {
+      "id": "e32b6921-3dec-4fae-9b43-2bcb0e40436a",
+      "set_code": "CSP",
+      "collector_number": "6",
+      "name": "Gelid Shackles",
+      "scryfall_id": "d372bb70-2d2a-4c44-8f69-4abff8ba7c2a"
+    },
+    {
+      "id": "8aa72ddb-c748-437b-8c35-b24946ccf448",
+      "set_code": "CSP",
+      "collector_number": "7",
+      "name": "Glacial Plating",
+      "scryfall_id": "55742f0f-a894-48c3-82b1-dfc3d8390dc3"
+    },
+    {
+      "id": "9b0f3c3c-29b4-4756-a252-72374f41e251",
+      "set_code": "CSP",
+      "collector_number": "8",
+      "name": "J\u00f6tun Grunt",
+      "scryfall_id": "5526c510-bd33-4fac-8941-f19bd0997557"
+    },
+    {
+      "id": "f06da9bc-c3c6-4dcc-9429-3c6ed36603ed",
+      "set_code": "CSP",
+      "collector_number": "9",
+      "name": "J\u00f6tun Owl Keeper",
+      "scryfall_id": "1566c8a2-aaca-4ce0-a36b-620ea6f135cb"
+    },
+    {
+      "id": "766a77d4-5717-4a9d-9f3d-8e0b5b122faa",
+      "set_code": "CSP",
+      "collector_number": "10",
+      "name": "Kjeldoran Gargoyle",
+      "scryfall_id": "484a4892-fba0-459d-9e72-e82f7e079d78"
+    },
+    {
+      "id": "8a555794-9261-40a6-91c7-7ca60f3458fe",
+      "set_code": "CSP",
+      "collector_number": "11",
+      "name": "Kjeldoran Javelineer",
+      "scryfall_id": "48b0776b-d1ed-4b0d-9684-99978e3e3b46"
+    },
+    {
+      "id": "92483a38-6099-4714-9f1d-0bfbff996f68",
+      "set_code": "CSP",
+      "collector_number": "12",
+      "name": "Kjeldoran Outrider",
+      "scryfall_id": "bd641b1d-dab8-415b-9655-09e033df761d"
+    },
+    {
+      "id": "19c93d80-03c3-4b8d-82d2-de4c9bf785a7",
+      "set_code": "CSP",
+      "collector_number": "13",
+      "name": "Kjeldoran War Cry",
+      "scryfall_id": "320b2b02-a3ff-4f68-93e6-8539d7caa005"
+    },
+    {
+      "id": "98124c1a-1395-4402-bf90-306992cdd599",
+      "set_code": "CSP",
+      "collector_number": "14",
+      "name": "Luminesce",
+      "scryfall_id": "38e8fe10-a4b7-4504-849f-a5c8379e587d"
+    },
+    {
+      "id": "27d1f1bf-c5c1-4995-8b4f-02dd25567a22",
+      "set_code": "CSP",
+      "collector_number": "15",
+      "name": "Martyr of Sands",
+      "scryfall_id": "59c55105-bffc-43dc-b5f3-2e6bb9323230"
+    },
+    {
+      "id": "6499211a-16f6-4adf-8781-45e1b92b037a",
+      "set_code": "CSP",
+      "collector_number": "16",
+      "name": "Ronom Unicorn",
+      "scryfall_id": "ae4764e1-e47c-4934-86a5-9b432c29a158"
+    },
+    {
+      "id": "302d852d-df67-4c52-a648-8f4b6968c84a",
+      "set_code": "CSP",
+      "collector_number": "17",
+      "name": "Squall Drifter",
+      "scryfall_id": "b3ecb728-4b54-47d0-bbef-d39e5f7d172f"
+    },
+    {
+      "id": "cc5ccc7e-8c0e-4130-ad8a-a40a120ff721",
+      "set_code": "CSP",
+      "collector_number": "18",
+      "name": "Sun's Bounty",
+      "scryfall_id": "bde59b0e-c75e-455b-b375-e0dac430a6d1"
+    },
+    {
+      "id": "7fe431f0-e60b-4821-85f5-5b2ba6e5f198",
+      "set_code": "CSP",
+      "collector_number": "19",
+      "name": "Sunscour",
+      "scryfall_id": "44c726db-a30a-4e76-9fbf-ec6d5cd7a1ba"
+    },
+    {
+      "id": "27f8714d-7f94-4f2f-bfa4-3e5c9dde6d2f",
+      "set_code": "CSP",
+      "collector_number": "20",
+      "name": "Surging Sentinels",
+      "scryfall_id": "264d120a-d7e2-4b9e-ac85-c66e976c577b"
+    },
+    {
+      "id": "b1abaeea-1a2d-4cca-91c5-fe7496fa4660",
+      "set_code": "CSP",
+      "collector_number": "21",
+      "name": "Swift Maneuver",
+      "scryfall_id": "1f97ef40-9d07-47fa-ad4b-45f26f7351c9"
+    },
+    {
+      "id": "87ea5d30-39aa-4e8e-b6b4-9b24f29c867a",
+      "set_code": "CSP",
+      "collector_number": "22",
+      "name": "Ursine Fylgja",
+      "scryfall_id": "1ad7c141-2e20-4891-93a8-1cf309d3b979"
+    },
+    {
+      "id": "311e45fe-d45a-4d8f-bd95-3020e4f4b72a",
+      "set_code": "CSP",
+      "collector_number": "23",
+      "name": "Wall of Shards",
+      "scryfall_id": "884ee8d8-4c0d-4e44-8321-bccd18195693"
+    },
+    {
+      "id": "1ac3c8b9-fab8-4203-a547-4f30b5356412",
+      "set_code": "CSP",
+      "collector_number": "24",
+      "name": "White Shield Crusader",
+      "scryfall_id": "368322d7-d399-45e1-8d7f-8001d048071e"
+    },
+    {
+      "id": "bddc12bb-49cd-4355-ab9c-b531fb48e1a6",
+      "set_code": "CSP",
+      "collector_number": "25",
+      "name": "Woolly Razorback",
+      "scryfall_id": "95ed6354-161e-496e-9ac7-74432f9b0818"
+    },
+    {
+      "id": "2f0d1985-444b-4249-a6e6-67065d576e44",
+      "set_code": "CSP",
+      "collector_number": "26",
+      "name": "Adarkar Windform",
+      "scryfall_id": "c18bce4a-9afb-4b91-bc9a-d62634b0f8dd"
+    },
+    {
+      "id": "28a9a546-4502-4247-977c-39d60f29076e",
+      "set_code": "CSP",
+      "collector_number": "27",
+      "name": "Arcum Dagsson",
+      "scryfall_id": "dd9d3ce7-53db-4808-88bc-03c120211f81"
+    },
+    {
+      "id": "104cc980-1c61-4cb2-ab72-a46a252c70b0",
+      "set_code": "CSP",
+      "collector_number": "28",
+      "name": "Balduvian Frostwaker",
+      "scryfall_id": "18096cdb-0ba9-41e0-b597-c5ed819e7497"
+    },
+    {
+      "id": "36a29c9d-cf38-4b40-ac18-83abaa1eae18",
+      "set_code": "CSP",
+      "collector_number": "29",
+      "name": "Commandeer",
+      "scryfall_id": "7e6e6204-c622-4efe-ac4f-8195528cec9c"
+    },
+    {
+      "id": "7d605898-ae36-4292-b577-e626e1ca23f7",
+      "set_code": "CSP",
+      "collector_number": "30",
+      "name": "Controvert",
+      "scryfall_id": "0e670f6b-d16e-47fc-a5b7-7ca0d8763644"
+    },
+    {
+      "id": "75cf1a4c-27e6-4016-b3f9-68cea8843984",
+      "set_code": "CSP",
+      "collector_number": "31",
+      "name": "Counterbalance",
+      "scryfall_id": "c329ff2b-0331-4934-a8df-870dd7bf402b"
+    },
+    {
+      "id": "b6e4cf47-7980-4b88-b9a5-0ce758c161f8",
+      "set_code": "CSP",
+      "collector_number": "32",
+      "name": "Drelnoch",
+      "scryfall_id": "954a1e9c-ed2f-4774-b2b7-166052a5c59a"
+    },
+    {
+      "id": "108176fb-fc54-4974-8e22-d913b1247250",
+      "set_code": "CSP",
+      "collector_number": "33",
+      "name": "Flashfreeze",
+      "scryfall_id": "cefd9955-a195-4855-a00e-3809b96ca92b"
+    },
+    {
+      "id": "89eee727-8a07-481a-bc8d-b5cc3c2776f0",
+      "set_code": "CSP",
+      "collector_number": "34",
+      "name": "Frost Raptor",
+      "scryfall_id": "4ab2f81a-fcbe-44d1-8281-04dd78bb9ea3"
+    },
+    {
+      "id": "4c3fce85-3157-433a-836a-d58aaf75c881",
+      "set_code": "CSP",
+      "collector_number": "35",
+      "name": "Frozen Solid",
+      "scryfall_id": "72c00743-d208-4aed-939a-d70de2d759b9"
+    },
+    {
+      "id": "9bb067ac-c236-4a49-8e8c-5fb7c14e5f6f",
+      "set_code": "CSP",
+      "collector_number": "36",
+      "name": "Heidar, Rimewind Master",
+      "scryfall_id": "39916d65-60a6-4da6-8675-8a8ef9505772"
+    },
+    {
+      "id": "251d6ac5-9dd8-4207-b567-8dabec476784",
+      "set_code": "CSP",
+      "collector_number": "37",
+      "name": "Jokulmorder",
+      "scryfall_id": "a8bd1c2f-dab8-4f22-9400-a0e45618757a"
+    },
+    {
+      "id": "5105103f-b9f7-47b9-bb9a-094bd3f7d25a",
+      "set_code": "CSP",
+      "collector_number": "38",
+      "name": "Krovikan Mist",
+      "scryfall_id": "43e09469-205d-4a60-821c-ceb7ae2e01be"
+    },
+    {
+      "id": "38a31253-9618-4a7b-8d1b-43334f6a99ba",
+      "set_code": "CSP",
+      "collector_number": "39",
+      "name": "Krovikan Whispers",
+      "scryfall_id": "e9ac2469-db92-44e4-8930-96f2c40c60f1"
+    },
+    {
+      "id": "dfb216f7-d243-428a-8cf5-d22cccb56db7",
+      "set_code": "CSP",
+      "collector_number": "40",
+      "name": "Martyr of Frost",
+      "scryfall_id": "b249136c-94d4-4f65-95a4-d45b4f20429b"
+    },
+    {
+      "id": "a1683db1-c23e-46d7-912c-95d5d7cd0564",
+      "set_code": "CSP",
+      "collector_number": "41",
+      "name": "Perilous Research",
+      "scryfall_id": "0669285c-5560-4f49-8d0a-44b8c33e23d0"
+    },
+    {
+      "id": "367d7a1b-7875-4ed3-aca8-d648ccb458b5",
+      "set_code": "CSP",
+      "collector_number": "42",
+      "name": "Rimefeather Owl",
+      "scryfall_id": "7e8e3552-a251-4a80-b0bb-a96a9f8a4c56"
+    },
+    {
+      "id": "32bead78-fad4-4bd3-ac8b-ddddc46fd6aa",
+      "set_code": "CSP",
+      "collector_number": "43",
+      "name": "Rimewind Cryomancer",
+      "scryfall_id": "4433653d-5ba9-4cdb-8a0b-69026301bc6f"
+    },
+    {
+      "id": "4c288dca-cebb-4213-8efa-63c64eec3b4a",
+      "set_code": "CSP",
+      "collector_number": "44",
+      "name": "Rimewind Taskmage",
+      "scryfall_id": "e9cdc06e-1458-4b19-a272-28a3d0453643"
+    },
+    {
+      "id": "0aeb7a50-72c3-4ae4-a6e4-81f83d8e6d11",
+      "set_code": "CSP",
+      "collector_number": "45",
+      "name": "Ronom Serpent",
+      "scryfall_id": "3bf81a39-0a6e-4253-81eb-a24f48253343"
+    },
+    {
+      "id": "d397a6b1-7a60-4f22-afc7-ac858ca7c64e",
+      "set_code": "CSP",
+      "collector_number": "46",
+      "name": "Rune Snag",
+      "scryfall_id": "45b6cadf-1974-47c8-98d8-ba413486c3b5"
+    },
+    {
+      "id": "9a8bc670-ba00-4126-b666-9862835c897c",
+      "set_code": "CSP",
+      "collector_number": "47",
+      "name": "Surging Aether",
+      "scryfall_id": "bfba9fc2-8746-4693-bb75-01b5d78f7fee"
+    },
+    {
+      "id": "3bc5d60b-b87d-4369-a551-1437a3c7972a",
+      "set_code": "CSP",
+      "collector_number": "48",
+      "name": "Survivor of the Unseen",
+      "scryfall_id": "8a28c9cb-ae41-4f9c-b3f6-151ef95c81b3"
+    },
+    {
+      "id": "21f91e1d-59a0-44c1-8e9a-5df1d20d154a",
+      "set_code": "CSP",
+      "collector_number": "49",
+      "name": "Thermal Flux",
+      "scryfall_id": "523ab8a0-906a-43b3-a554-db0d3dcd62d3"
+    },
+    {
+      "id": "e9501f19-662a-4013-87dd-88767f270d11",
+      "set_code": "CSP",
+      "collector_number": "50",
+      "name": "Vexing Sphinx",
+      "scryfall_id": "81cc1248-85c8-428f-ba08-96d188167eaa"
+    },
+    {
+      "id": "14bc72a7-4775-4e0a-960b-d36d2b16b35a",
+      "set_code": "CSP",
+      "collector_number": "51",
+      "name": "Balduvian Fallen",
+      "scryfall_id": "6a52b952-6e3b-403b-b355-2af47a282ab6"
+    },
+    {
+      "id": "7d8bf5d8-8cf0-4c1d-ad6f-a2f26e250760",
+      "set_code": "CSP",
+      "collector_number": "52",
+      "name": "Chill to the Bone",
+      "scryfall_id": "312505d7-362e-43cf-bd23-28c248a8b7e1"
+    },
+    {
+      "id": "b6f76b67-e4f7-4a2e-b47c-a0bbd001e986",
+      "set_code": "CSP",
+      "collector_number": "53",
+      "name": "Chilling Shade",
+      "scryfall_id": "d050c8b9-2b5a-4025-9886-73c418f4e22f"
+    },
+    {
+      "id": "b00da031-c3bd-4f80-a676-6156c9b7174c",
+      "set_code": "CSP",
+      "collector_number": "54",
+      "name": "Deathmark",
+      "scryfall_id": "e72e8728-d0a0-4ee5-87c3-092ca94225e0"
+    },
+    {
+      "id": "9c78fbbf-9849-4ef6-8a25-0fcbc7b6c9cb",
+      "set_code": "CSP",
+      "collector_number": "55",
+      "name": "Disciple of Tevesh Szat",
+      "scryfall_id": "8f99ec07-8af7-4e80-9f0e-fa304a94d4b4"
+    },
+    {
+      "id": "f9e02485-cd4a-49b3-9fdd-3ca8a3945744",
+      "set_code": "CSP",
+      "collector_number": "56",
+      "name": "Feast of Flesh",
+      "scryfall_id": "2d344791-5d5c-40c5-99c7-931954ea39d1"
+    },
+    {
+      "id": "ff7ac295-5fc4-435e-9bfa-541a7b2d6f85",
+      "set_code": "CSP",
+      "collector_number": "57",
+      "name": "Garza's Assassin",
+      "scryfall_id": "3407ccbd-788d-4fe3-a039-0497724a94b5"
+    },
+    {
+      "id": "8edd88f9-f67c-43db-90fb-38260fde1b0c",
+      "set_code": "CSP",
+      "collector_number": "58",
+      "name": "Grim Harvest",
+      "scryfall_id": "bdb1972f-2ef7-4fe2-8c8e-ab07f48a3176"
+    },
+    {
+      "id": "a761a903-ad1e-4b87-a064-71ee7876bcd1",
+      "set_code": "CSP",
+      "collector_number": "59",
+      "name": "Gristle Grinner",
+      "scryfall_id": "ff8b607d-56c5-4a18-88b5-d5d0f50ef403"
+    },
+    {
+      "id": "e4765af9-7f8d-4776-872a-e301ef9925aa",
+      "set_code": "CSP",
+      "collector_number": "60",
+      "name": "Gutless Ghoul",
+      "scryfall_id": "b8bb97ce-d9cf-47db-93cb-02745ebeb05e"
+    },
+    {
+      "id": "775c7e24-6b5e-4050-ac1f-2607da4fd36b",
+      "set_code": "CSP",
+      "collector_number": "61",
+      "name": "Haakon, Stromgald Scourge",
+      "scryfall_id": "10a7101e-e6c7-40d6-82cb-daa84701d1f8"
+    },
+    {
+      "id": "8a3def75-3715-40ce-9b88-99f29588dad4",
+      "set_code": "CSP",
+      "collector_number": "62",
+      "name": "Herald of Leshrac",
+      "scryfall_id": "ad6080b1-b032-4172-8594-4d894a60a80d"
+    },
+    {
+      "id": "7a10e791-572b-49f8-8716-fc0ba0fd50af",
+      "set_code": "CSP",
+      "collector_number": "63",
+      "name": "Krovikan Rot",
+      "scryfall_id": "17597c66-0d9f-41af-9160-0d92be88f450"
+    },
+    {
+      "id": "8c47f23e-7ff2-465a-aeaf-1f893f96edf0",
+      "set_code": "CSP",
+      "collector_number": "64",
+      "name": "Krovikan Scoundrel",
+      "scryfall_id": "bd9f046c-b416-4d80-8998-047b98361352"
+    },
+    {
+      "id": "3dda0562-e7f0-48f9-87a4-a49b85281629",
+      "set_code": "CSP",
+      "collector_number": "65",
+      "name": "Martyr of Bones",
+      "scryfall_id": "8bba602e-5a81-4da2-99c0-6082f8a981e1"
+    },
+    {
+      "id": "78f15502-9f49-44ff-b6cb-90a46d014e68",
+      "set_code": "CSP",
+      "collector_number": "66",
+      "name": "Phobian Phantasm",
+      "scryfall_id": "a14802be-f9d4-4984-86e0-537467f37fd7"
+    },
+    {
+      "id": "d1434167-b204-4c3d-912a-079aff9f69cd",
+      "set_code": "CSP",
+      "collector_number": "67",
+      "name": "Phyrexian Etchings",
+      "scryfall_id": "978dbf63-0842-4abd-9950-a33aa080971c"
+    },
+    {
+      "id": "204b968a-5e96-4784-8040-027b1f213920",
+      "set_code": "CSP",
+      "collector_number": "68",
+      "name": "Rime Transfusion",
+      "scryfall_id": "e18318fe-b429-459f-9b70-d444b48b8dc7"
+    },
+    {
+      "id": "b9ba499b-9e3b-45b4-bf57-2dc3b81b642d",
+      "set_code": "CSP",
+      "collector_number": "69",
+      "name": "Rimebound Dead",
+      "scryfall_id": "6877469b-f14e-4121-aa5d-6cea92ab7278"
+    },
+    {
+      "id": "f8162d2e-94b4-4502-a671-541d5dabdf2a",
+      "set_code": "CSP",
+      "collector_number": "70",
+      "name": "Soul Spike",
+      "scryfall_id": "4b14b97d-122b-453a-9e5f-129404f96440"
+    },
+    {
+      "id": "b7b82c52-bfe8-481b-975e-c46e7bc94925",
+      "set_code": "CSP",
+      "collector_number": "71",
+      "name": "Stromgald Crusader",
+      "scryfall_id": "a5baeff5-40e9-47b6-85a8-3a6548565b5f"
+    },
+    {
+      "id": "fa747cfe-8850-4873-90a1-7288c912defc",
+      "set_code": "CSP",
+      "collector_number": "72",
+      "name": "Surging Dementia",
+      "scryfall_id": "1eb7cb72-24f7-433b-9858-26009189daaa"
+    },
+    {
+      "id": "95fae224-19aa-47d4-bed1-2b2f99ecae75",
+      "set_code": "CSP",
+      "collector_number": "73",
+      "name": "Tresserhorn Skyknight",
+      "scryfall_id": "b852d9f9-069d-419a-b8d1-db30c72aaac6"
+    },
+    {
+      "id": "75f15f4c-93ad-4b39-b7f6-abd5cfef97e5",
+      "set_code": "CSP",
+      "collector_number": "74",
+      "name": "Void Maw",
+      "scryfall_id": "ba464b81-2633-4422-a4b5-3593dfb7e7aa"
+    },
+    {
+      "id": "5ea3014b-3102-4aa7-a33c-dcbe46a88f90",
+      "set_code": "CSP",
+      "collector_number": "75",
+      "name": "Zombie Musher",
+      "scryfall_id": "51cf9ade-1c3d-4104-98fa-3c6a8cccc088"
+    },
+    {
+      "id": "a77efe90-11fd-4271-8a32-dc0dec87201a",
+      "set_code": "CSP",
+      "collector_number": "76",
+      "name": "Balduvian Rage",
+      "scryfall_id": "6716c980-bd89-4297-a843-9c3e18178b47"
+    },
+    {
+      "id": "cc149b33-c3c3-4bef-b598-755318461311",
+      "set_code": "CSP",
+      "collector_number": "77",
+      "name": "Balduvian Warlord",
+      "scryfall_id": "a3286dbd-c8b8-45cb-98e4-d572289f2c14"
+    },
+    {
+      "id": "cff0a9a8-d96b-4fcd-8c4c-ad798f898167",
+      "set_code": "CSP",
+      "collector_number": "78",
+      "name": "Braid of Fire",
+      "scryfall_id": "41bab8de-6e0f-4ccd-a303-01e9c8c82d3f"
+    },
+    {
+      "id": "103ac21b-1cb9-41b2-b711-f61dcd399dbd",
+      "set_code": "CSP",
+      "collector_number": "79",
+      "name": "Cryoclasm",
+      "scryfall_id": "6a892711-a1a4-4402-957f-92077d00320d"
+    },
+    {
+      "id": "ff9df5a4-f471-43be-84d5-0eb347d8c578",
+      "set_code": "CSP",
+      "collector_number": "80",
+      "name": "Earthen Goo",
+      "scryfall_id": "b347f1bf-6167-4c59-bfa6-3e921874ab9a"
+    },
+    {
+      "id": "5f585de3-a87f-43ec-9659-8f40e13df701",
+      "set_code": "CSP",
+      "collector_number": "81",
+      "name": "Fury of the Horde",
+      "scryfall_id": "f3223ef9-787a-40ac-8ab2-79ac75664aa2"
+    },
+    {
+      "id": "15ddefd3-eec6-4f50-b68a-8e2b3e759223",
+      "set_code": "CSP",
+      "collector_number": "82",
+      "name": "Goblin Furrier",
+      "scryfall_id": "4f8ec9c1-da73-44fb-9e30-5279a7ed4e7e"
+    },
+    {
+      "id": "b0806103-170c-4f30-9839-b4604b89a92e",
+      "set_code": "CSP",
+      "collector_number": "83",
+      "name": "Goblin Rimerunner",
+      "scryfall_id": "0254a437-5240-40ca-bf7b-d30b95942bf5"
+    },
+    {
+      "id": "8b6933ea-fc36-42e9-b8dc-3ce474c8a13b",
+      "set_code": "CSP",
+      "collector_number": "84",
+      "name": "Greater Stone Spirit",
+      "scryfall_id": "77697b16-7faa-400d-a865-732c8b0d3d41"
+    },
+    {
+      "id": "48bbcea2-d343-4a20-8142-f49cb316c12e",
+      "set_code": "CSP",
+      "collector_number": "85",
+      "name": "Icefall",
+      "scryfall_id": "6cf90fc3-b08b-4261-a194-d6b06fdd59d8"
+    },
+    {
+      "id": "12ca7e30-a53b-4630-9d07-bd4b94bde25f",
+      "set_code": "CSP",
+      "collector_number": "86",
+      "name": "Karplusan Minotaur",
+      "scryfall_id": "963f45d7-ce84-47af-ae1c-727172a31f0f"
+    },
+    {
+      "id": "448d929e-3830-4c0d-b43a-4a961db6d018",
+      "set_code": "CSP",
+      "collector_number": "87",
+      "name": "Karplusan Wolverine",
+      "scryfall_id": "602610ce-8f42-4a1d-8f6e-92424d9d637c"
+    },
+    {
+      "id": "dfed311e-450f-4e05-b012-5c1d5b013b51",
+      "set_code": "CSP",
+      "collector_number": "88",
+      "name": "Lightning Serpent",
+      "scryfall_id": "f6b4f4b6-51cd-4ae0-9585-82ad964853ba"
+    },
+    {
+      "id": "7cd13cab-e1ba-4bed-aecc-af42a9d998da",
+      "set_code": "CSP",
+      "collector_number": "89",
+      "name": "Lightning Storm",
+      "scryfall_id": "c9c0388e-a04c-4757-a06d-8e8046f5a783"
+    },
+    {
+      "id": "a6053c60-8f71-4e74-9ab6-570db414a236",
+      "set_code": "CSP",
+      "collector_number": "90",
+      "name": "Lovisa Coldeyes",
+      "scryfall_id": "b11bdd7d-0b85-4b63-89c9-9e865c680bd4"
+    },
+    {
+      "id": "ad479ab0-c79f-42ab-b1a0-b0342d0d23e4",
+      "set_code": "CSP",
+      "collector_number": "91",
+      "name": "Magmatic Core",
+      "scryfall_id": "98db70f9-1feb-4932-97be-02db824eda70"
+    },
+    {
+      "id": "970c0115-37d8-4f0d-9c1d-c325cf89eb46",
+      "set_code": "CSP",
+      "collector_number": "92",
+      "name": "Martyr of Ashes",
+      "scryfall_id": "600a2cd2-166a-4fd8-838d-e513534b7cb0"
+    },
+    {
+      "id": "cc4e8f1b-6206-461c-ae74-83249e5e7317",
+      "set_code": "CSP",
+      "collector_number": "93",
+      "name": "Ohran Yeti",
+      "scryfall_id": "8d6cfa21-75b1-4380-b0fc-a7450699660f"
+    },
+    {
+      "id": "e313ee80-a36b-4c1d-a863-04c4431bf67e",
+      "set_code": "CSP",
+      "collector_number": "94",
+      "name": "Orcish Bloodpainter",
+      "scryfall_id": "746eaf30-3ded-4a9f-a4ec-1925edcc8e94"
+    },
+    {
+      "id": "fe237484-e38c-4a80-944c-6918e42abc91",
+      "set_code": "CSP",
+      "collector_number": "95",
+      "name": "Rimescale Dragon",
+      "scryfall_id": "113d0342-0ba2-46b0-bda5-6a9fe4dcad3e"
+    },
+    {
+      "id": "72ac8b5c-9576-4465-a133-21a2903a2a91",
+      "set_code": "CSP",
+      "collector_number": "96",
+      "name": "Rite of Flame",
+      "scryfall_id": "c062caf7-f0eb-44db-9f74-e6711a13fada"
+    },
+    {
+      "id": "0402bcc1-684b-4559-bd7e-ed804348441b",
+      "set_code": "CSP",
+      "collector_number": "97",
+      "name": "Skred",
+      "scryfall_id": "b3d6d42a-7607-4361-acc4-7f3cb956bfc9"
+    },
+    {
+      "id": "c9c9dd84-61ef-4075-afd8-1b85a36ec9b9",
+      "set_code": "CSP",
+      "collector_number": "98",
+      "name": "Stalking Yeti",
+      "scryfall_id": "4af53d0b-ac60-4519-a6f4-c67899bcfdd6"
+    },
+    {
+      "id": "4604d4a3-3113-4e99-adc8-a0e34e0630d4",
+      "set_code": "CSP",
+      "collector_number": "99",
+      "name": "Surging Flame",
+      "scryfall_id": "9974a543-7429-458b-a24f-c84cbffbb54d"
+    },
+    {
+      "id": "2986dee7-15a7-4221-bd07-f3174637b01b",
+      "set_code": "CSP",
+      "collector_number": "100",
+      "name": "Thermopod",
+      "scryfall_id": "c09475e9-d6c1-4d4b-905e-40bc30405725"
+    },
+    {
+      "id": "4305fca5-d9f2-46e1-b30d-6ab452592d6c",
+      "set_code": "CSP",
+      "collector_number": "101",
+      "name": "Allosaurus Rider",
+      "scryfall_id": "e0f3ba39-5b4d-4a7c-9215-7e349aecbeb3"
+    },
+    {
+      "id": "c4bd5f27-fa26-4c3d-aaa8-37ecd996759c",
+      "set_code": "CSP",
+      "collector_number": "102",
+      "name": "Arctic Nishoba",
+      "scryfall_id": "8da62ada-b7cd-4110-a213-281f00fca3e7"
+    },
+    {
+      "id": "ef7c16f3-1044-4fc1-b630-ce8c134f7201",
+      "set_code": "CSP",
+      "collector_number": "103",
+      "name": "Aurochs Herd",
+      "scryfall_id": "d757b3ad-b808-4506-934e-727e065f66c1"
+    },
+    {
+      "id": "ece9a735-b31b-4bd9-b79e-3c9199d6b213",
+      "set_code": "CSP",
+      "collector_number": "104",
+      "name": "Boreal Centaur",
+      "scryfall_id": "05231fa1-47b8-49aa-9393-ec4d8384c41b"
+    },
+    {
+      "id": "7d13d411-8e72-41da-af81-af2496f3151e",
+      "set_code": "CSP",
+      "collector_number": "105",
+      "name": "Boreal Druid",
+      "scryfall_id": "473d3633-6dc7-4026-a50e-3ea76b9e8c20"
+    },
+    {
+      "id": "4ea1b232-2f92-45d1-828c-5155fafe830c",
+      "set_code": "CSP",
+      "collector_number": "106",
+      "name": "Brooding Saurian",
+      "scryfall_id": "252ef807-f861-4dcf-8e52-9260301c729a"
+    },
+    {
+      "id": "50e4a06a-0ca3-445b-8468-93aa6afdbe44",
+      "set_code": "CSP",
+      "collector_number": "107",
+      "name": "Bull Aurochs",
+      "scryfall_id": "2d59bd4a-006b-4dd8-ab33-d931196f3a8a"
+    },
+    {
+      "id": "d09953fd-bdd1-4b7d-8106-d8d8083cc153",
+      "set_code": "CSP",
+      "collector_number": "108",
+      "name": "Freyalise's Radiance",
+      "scryfall_id": "4bafb0b4-9f01-4c67-add4-a0ffe0a3a691"
+    },
+    {
+      "id": "03d9b5cf-b434-42e8-9f0e-c0b4392632e7",
+      "set_code": "CSP",
+      "collector_number": "109",
+      "name": "Frostweb Spider",
+      "scryfall_id": "48574974-bdbb-40e8-916a-44c54b08b501"
+    },
+    {
+      "id": "44d778b9-ea00-490b-8018-2706ffdf0776",
+      "set_code": "CSP",
+      "collector_number": "110",
+      "name": "Hibernation's End",
+      "scryfall_id": "093ab03a-99e3-4596-a19a-033845f77a93"
+    },
+    {
+      "id": "bc57d85c-3236-4f69-bc11-a8e9d6710fde",
+      "set_code": "CSP",
+      "collector_number": "111",
+      "name": "Into the North",
+      "scryfall_id": "79cea55d-8ef3-44a5-894e-967f1e97fc02"
+    },
+    {
+      "id": "34bdc97a-5428-4ffa-80dc-8700c604a6be",
+      "set_code": "CSP",
+      "collector_number": "112",
+      "name": "Karplusan Strider",
+      "scryfall_id": "44d27fdf-690b-4e93-8412-4f6fb0ed43db"
+    },
+    {
+      "id": "cee94d90-0e68-4b31-a8cb-edc32ad929e9",
+      "set_code": "CSP",
+      "collector_number": "113",
+      "name": "Martyr of Spores",
+      "scryfall_id": "375fc47b-9a1b-4540-9c07-09e4e92ab974"
+    },
+    {
+      "id": "f7877bad-8957-42b1-a0cc-200c3b52f9a3",
+      "set_code": "CSP",
+      "collector_number": "114",
+      "name": "Mystic Melting",
+      "scryfall_id": "bf4ff91d-acc1-4be7-a327-58fcb036b452"
+    },
+    {
+      "id": "b2a9e3de-8d17-4e55-8819-d8dfa8e3ef54",
+      "set_code": "CSP",
+      "collector_number": "115",
+      "name": "Ohran Viper",
+      "scryfall_id": "bd5fd0ee-2350-4eb0-8417-700459879f74"
+    },
+    {
+      "id": "f2b8cc46-99ee-47c6-a69e-9f6717d94355",
+      "set_code": "CSP",
+      "collector_number": "116",
+      "name": "Panglacial Wurm",
+      "scryfall_id": "063bb28b-5e32-4f31-a208-16b653edf413"
+    },
+    {
+      "id": "ecf4269a-0e10-41a5-ae03-de31b4619348",
+      "set_code": "CSP",
+      "collector_number": "117",
+      "name": "Resize",
+      "scryfall_id": "c5dded16-e516-430e-a528-c49a483f03b4"
+    },
+    {
+      "id": "d9671145-a4db-428f-bf13-f5543930eaf8",
+      "set_code": "CSP",
+      "collector_number": "118",
+      "name": "Rimehorn Aurochs",
+      "scryfall_id": "3844b3f8-2d42-4265-b2dd-fa888492efff"
+    },
+    {
+      "id": "d2dd183b-bbed-48f8-8f6a-320531c3b808",
+      "set_code": "CSP",
+      "collector_number": "119",
+      "name": "Ronom Hulk",
+      "scryfall_id": "e5b4b14c-e6fa-4cd2-9be7-fa2a2df05de1"
+    },
+    {
+      "id": "4385278b-c7ee-4ea1-8d1b-db93d419b566",
+      "set_code": "CSP",
+      "collector_number": "120",
+      "name": "Shape of the Wiitigo",
+      "scryfall_id": "5436d55d-d2d0-4f22-b399-93f1d48e080f"
+    },
+    {
+      "id": "514f05f1-a2a8-44fb-b649-de0b8f13e98e",
+      "set_code": "CSP",
+      "collector_number": "121",
+      "name": "Sheltering Ancient",
+      "scryfall_id": "d16535ae-6e03-4992-9459-d31626a3222e"
+    },
+    {
+      "id": "3ad57c0c-47db-4d9f-8b1e-d117026bf40a",
+      "set_code": "CSP",
+      "collector_number": "122",
+      "name": "Simian Brawler",
+      "scryfall_id": "df2ed9f3-50b1-493b-9c14-0f8ddb4d8c57"
+    },
+    {
+      "id": "3dbba2d0-582d-4b89-9bec-a27ee21f6042",
+      "set_code": "CSP",
+      "collector_number": "123",
+      "name": "Sound the Call",
+      "scryfall_id": "ae586221-c13c-4f4e-83ae-9b1ab0aeae61"
+    },
+    {
+      "id": "99b63f88-69c7-4177-9c08-46d98f1297c1",
+      "set_code": "CSP",
+      "collector_number": "124",
+      "name": "Steam Spitter",
+      "scryfall_id": "8aa585b7-cf7e-4f04-9490-1e6c53631647"
+    },
+    {
+      "id": "37fde395-1c59-4f75-a5cb-aa5fadd697ce",
+      "set_code": "CSP",
+      "collector_number": "125",
+      "name": "Surging Might",
+      "scryfall_id": "aa51adee-b343-4a03-8fa0-0d86244db5b7"
+    },
+    {
+      "id": "7f754958-5aa8-49d1-964d-ca929e8e7466",
+      "set_code": "CSP",
+      "collector_number": "126",
+      "name": "Blizzard Specter",
+      "scryfall_id": "d925746c-4bba-4d50-aeee-3a3bfd165a2e"
+    },
+    {
+      "id": "49790212-2986-47f1-bcee-ff188339457f",
+      "set_code": "CSP",
+      "collector_number": "127",
+      "name": "Deepfire Elemental",
+      "scryfall_id": "a26cf431-b79b-4619-9d19-bc4557f2f9bf"
+    },
+    {
+      "id": "7fb1906e-0878-42de-87a0-5463fa5400e9",
+      "set_code": "CSP",
+      "collector_number": "128",
+      "name": "Diamond Faerie",
+      "scryfall_id": "0072cf13-284b-4fb8-ab2c-b2e15388a30a"
+    },
+    {
+      "id": "70ca93bd-a345-4e44-94ff-94997c88f7a5",
+      "set_code": "CSP",
+      "collector_number": "129",
+      "name": "Garza Zol, Plague Queen",
+      "scryfall_id": "3570143b-183b-4ae2-8806-3d0c4cd7406e"
+    },
+    {
+      "id": "a595946e-d40b-4300-add5-cbc1b2c020ca",
+      "set_code": "CSP",
+      "collector_number": "130",
+      "name": "Juniper Order Ranger",
+      "scryfall_id": "ce582ff6-6a21-418d-b72c-4402a43be7dc"
+    },
+    {
+      "id": "7ad8d159-bd6e-40f9-aa9c-c5e20290d201",
+      "set_code": "CSP",
+      "collector_number": "131",
+      "name": "Sek'Kuar, Deathkeeper",
+      "scryfall_id": "9257bb20-de32-460c-96cf-375acb6a0b1d"
+    },
+    {
+      "id": "dae7793b-494d-4b4b-956d-b3cbc711692d",
+      "set_code": "CSP",
+      "collector_number": "132",
+      "name": "Tamanoa",
+      "scryfall_id": "6d32955b-cbf6-429b-9513-17ca75d4ec2c"
+    },
+    {
+      "id": "25de40c7-2d66-4c72-870e-621003eea10e",
+      "set_code": "CSP",
+      "collector_number": "133",
+      "name": "Vanish into Memory",
+      "scryfall_id": "6da89cfe-274f-452d-a5ca-b034534898c7"
+    },
+    {
+      "id": "4aa5553f-8741-43b6-9072-a59d3784024f",
+      "set_code": "CSP",
+      "collector_number": "134",
+      "name": "Wilderness Elemental",
+      "scryfall_id": "b63632a0-1493-4a72-917c-aae1600c6230"
+    },
+    {
+      "id": "26d2f613-666f-4db1-bf79-9594a43c60cd",
+      "set_code": "CSP",
+      "collector_number": "135",
+      "name": "Zur the Enchanter",
+      "scryfall_id": "4b1255e9-c0b8-4757-a857-b27a99dd4930"
+    },
+    {
+      "id": "7589a9e2-f5e0-4006-868d-97123bff0be5",
+      "set_code": "CSP",
+      "collector_number": "136",
+      "name": "Coldsteel Heart",
+      "scryfall_id": "cdd5015e-fe31-42e3-923d-44b9cdece273"
+    },
+    {
+      "id": "68e970e4-67ad-4fe9-bfa3-ec82dccd1887",
+      "set_code": "CSP",
+      "collector_number": "137",
+      "name": "Jester's Scepter",
+      "scryfall_id": "7118c2e0-04d6-4a71-8ffd-b9365b154050"
+    },
+    {
+      "id": "1b980414-dec1-49d4-b749-8b39b229e694",
+      "set_code": "CSP",
+      "collector_number": "138",
+      "name": "Mishra's Bauble",
+      "scryfall_id": "8a720448-017f-4f4a-9501-678245eaed17"
+    },
+    {
+      "id": "40fed338-4f42-409b-bb02-b0b11a0b9527",
+      "set_code": "CSP",
+      "collector_number": "139",
+      "name": "Phyrexian Ironfoot",
+      "scryfall_id": "49ff9859-92a4-4732-94bf-6c02b0a57338"
+    },
+    {
+      "id": "9d8f76b2-e7cc-447f-8acf-5ab7554e6943",
+      "set_code": "CSP",
+      "collector_number": "140",
+      "name": "Phyrexian Snowcrusher",
+      "scryfall_id": "9f3cf3d3-101e-4649-9495-8a95507d0283"
+    },
+    {
+      "id": "e5888beb-bc1e-49b1-a4f9-0ddb0ca12960",
+      "set_code": "CSP",
+      "collector_number": "141",
+      "name": "Phyrexian Soulgorger",
+      "scryfall_id": "9d4325ea-2e84-4871-a8d6-a42b1d3d6765"
+    },
+    {
+      "id": "128aa6a3-56cb-4c9e-99af-127b4c49c4b9",
+      "set_code": "CSP",
+      "collector_number": "142",
+      "name": "Thrumming Stone",
+      "scryfall_id": "31412335-110c-449a-9c2f-bff8763a6504"
+    },
+    {
+      "id": "bd0102bf-a580-46c6-a203-2e3ac85226d2",
+      "set_code": "CSP",
+      "collector_number": "143",
+      "name": "Arctic Flats",
+      "scryfall_id": "609b15f6-e65b-46d6-95e8-dc39f25d7efa"
+    },
+    {
+      "id": "7808bc1f-07c5-47f7-a4ba-80a318cf1032",
+      "set_code": "CSP",
+      "collector_number": "144",
+      "name": "Boreal Shelf",
+      "scryfall_id": "3f2f8396-72ab-4387-9276-987836427107"
+    },
+    {
+      "id": "5f29fe54-41da-42ab-9835-e264f7ea0d1c",
+      "set_code": "CSP",
+      "collector_number": "145",
+      "name": "Dark Depths",
+      "scryfall_id": "92409c3a-fb1a-4205-9fe1-0f5affc7b21d"
+    },
+    {
+      "id": "749bfb75-4c7a-47a0-b2f4-0e4d45f93e01",
+      "set_code": "CSP",
+      "collector_number": "146",
+      "name": "Frost Marsh",
+      "scryfall_id": "e9320033-d8d7-4a01-80db-60de222040e6"
+    },
+    {
+      "id": "098e31f3-f121-476b-90ea-9f9cff609622",
+      "set_code": "CSP",
+      "collector_number": "147",
+      "name": "Highland Weald",
+      "scryfall_id": "38bcd111-0830-4fc0-a113-37eb306fb1a0"
+    },
+    {
+      "id": "52a249c9-177a-40cc-a140-e805e6c5195c",
+      "set_code": "CSP",
+      "collector_number": "148",
+      "name": "Mouth of Ronom",
+      "scryfall_id": "2d8f7396-23d3-48e2-8686-2b59ccbfc7e5"
+    },
+    {
+      "id": "2c427c91-ebe0-4e92-9774-b072547daf8b",
+      "set_code": "CSP",
+      "collector_number": "149",
+      "name": "Scrying Sheets",
+      "scryfall_id": "19e95422-c6fe-4750-916b-43bf22ae193a"
+    },
+    {
+      "id": "fdf8321b-fe65-4e4f-a511-10388a34dd8d",
+      "set_code": "CSP",
+      "collector_number": "150",
+      "name": "Tresserhorn Sinks",
+      "scryfall_id": "4bd8fe2c-2297-4e19-8a87-01eb99b8c6dc"
+    },
+    {
+      "id": "04a7a174-006c-48ad-b59e-97030342e896",
+      "set_code": "CSP",
+      "collector_number": "151",
+      "name": "Snow-Covered Plains",
+      "scryfall_id": "b1e3a010-dae3-41b6-8dd8-e31d14c3ac4a"
+    },
+    {
+      "id": "ea8c888f-0466-4769-99b6-e8f9ef8a0dd5",
+      "set_code": "CSP",
+      "collector_number": "152",
+      "name": "Snow-Covered Island",
+      "scryfall_id": "6abf0692-07d1-4b72-af06-93d0e338589d"
+    },
+    {
+      "id": "0d07275c-b471-4e3d-9ad6-3c22cc67c87b",
+      "set_code": "CSP",
+      "collector_number": "153",
+      "name": "Snow-Covered Swamp",
+      "scryfall_id": "c4dacaf1-09b8-42bb-8064-990190fdaf81"
+    },
+    {
+      "id": "81c761bb-2949-4cec-abc9-747da2f3f183",
+      "set_code": "CSP",
+      "collector_number": "154",
+      "name": "Snow-Covered Mountain",
+      "scryfall_id": "0dc9a6d1-a1ca-4b8f-894d-71c2a9933f79"
+    },
+    {
+      "id": "eb7b1b7c-98cb-42d2-88d1-91a8d0d2bde7",
+      "set_code": "CSP",
+      "collector_number": "155",
+      "name": "Snow-Covered Forest",
+      "scryfall_id": "838c915d-8153-43c2-b513-dfbe4e9388a5"
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "id": "cb97cf7b-51bb-4458-87e1-431b6caa39fb",
+  "code": "DDG",
+  "name": "Duel Decks: Knights vs. Dragons",
+  "scryfall_id": "cf842e69-7a05-48e2-adac-fd177087caf5",
+  "cards": [
+    {
+      "id": "ce5976c4-f819-4310-989b-da31691d6270",
+      "set_code": "DDG",
+      "collector_number": "1",
+      "name": "Knight of the Reliquary",
+      "scryfall_id": "648da53a-5cce-4133-9779-62d18783dd67"
+    },
+    {
+      "id": "47c2f398-7a34-41aa-af5c-8a737eb63a0c",
+      "set_code": "DDG",
+      "collector_number": "2",
+      "name": "Caravan Escort",
+      "scryfall_id": "f2a569c8-d51c-4414-a227-40dc05c2aed8"
+    },
+    {
+      "id": "128fe35a-c265-4bc9-add0-37bc6ec0070e",
+      "set_code": "DDG",
+      "collector_number": "3",
+      "name": "Lionheart Maverick",
+      "scryfall_id": "0a818fdf-2cbc-451a-9893-36da510d63e4"
+    },
+    {
+      "id": "1c5b8801-a43d-41dc-a319-a7a8e0b21e0c",
+      "set_code": "DDG",
+      "collector_number": "4",
+      "name": "Knight of Cliffhaven",
+      "scryfall_id": "760f4d9c-779b-48cc-b597-05bf83fd6f9b"
+    },
+    {
+      "id": "d3851aca-fdad-42af-a352-a3b27d83f83f",
+      "set_code": "DDG",
+      "collector_number": "5",
+      "name": "Knight of Meadowgrain",
+      "scryfall_id": "6156d61c-640e-4e8c-bd2f-838dfef0c885"
+    },
+    {
+      "id": "4fa121e4-fce0-492c-8687-de8505c65dd5",
+      "set_code": "DDG",
+      "collector_number": "6",
+      "name": "Knight of the White Orchid",
+      "scryfall_id": "2d7787da-e158-4711-ac50-85c5a8ae08dd"
+    },
+    {
+      "id": "e5ad0874-5b38-429d-b6bd-40ffbff9a14b",
+      "set_code": "DDG",
+      "collector_number": "7",
+      "name": "Leonin Skyhunter",
+      "scryfall_id": "15d6476c-1944-48e8-9af6-6db78edd58e5"
+    },
+    {
+      "id": "1d14543e-0d17-4c7e-abfa-8729ea384bfd",
+      "set_code": "DDG",
+      "collector_number": "8",
+      "name": "Silver Knight",
+      "scryfall_id": "297316bd-e91b-4b18-9d13-31dd51c92cce"
+    },
+    {
+      "id": "66a6699a-0cc8-49da-9bb9-4c155dc4b5b9",
+      "set_code": "DDG",
+      "collector_number": "9",
+      "name": "White Knight",
+      "scryfall_id": "660f69ef-c04f-4f53-80e6-8190549ab12a"
+    },
+    {
+      "id": "f99ca2ee-6c4b-4beb-86e9-052c0449b934",
+      "set_code": "DDG",
+      "collector_number": "10",
+      "name": "Knotvine Paladin",
+      "scryfall_id": "4ed9e062-f9aa-4f89-bfb4-cfecae426b27"
+    },
+    {
+      "id": "06aa57fe-ce78-4315-b737-d48755a48571",
+      "set_code": "DDG",
+      "collector_number": "11",
+      "name": "Steward of Valeron",
+      "scryfall_id": "237c62b7-7c0e-44bb-b420-d41aad2792a0"
+    },
+    {
+      "id": "3bf7e2ea-ae8d-422e-bcd7-9980fffe922e",
+      "set_code": "DDG",
+      "collector_number": "12",
+      "name": "Benalish Lancer",
+      "scryfall_id": "8453b08f-34cb-491d-be7d-dc4022f7c131"
+    },
+    {
+      "id": "ae908359-aef6-409e-a97a-7f374154bdec",
+      "set_code": "DDG",
+      "collector_number": "13",
+      "name": "Zhalfirin Commander",
+      "scryfall_id": "e296cd1a-0508-46c1-aeda-82ecde991caa"
+    },
+    {
+      "id": "34080678-0d56-429e-815e-d6eb50711b28",
+      "set_code": "DDG",
+      "collector_number": "14",
+      "name": "Knight Exemplar",
+      "scryfall_id": "129e61c0-3ea1-49c5-bed4-9f6db17f7847"
+    },
+    {
+      "id": "48762378-1fda-4d15-87a8-f9fd5502113d",
+      "set_code": "DDG",
+      "collector_number": "15",
+      "name": "Wilt-Leaf Cavaliers",
+      "scryfall_id": "c161772e-d8b1-4ca6-8971-dd46c96fb0f7"
+    },
+    {
+      "id": "53cbac89-7a3c-40ca-b6b1-ffc6d5e985c8",
+      "set_code": "DDG",
+      "collector_number": "16",
+      "name": "Kabira Vindicator",
+      "scryfall_id": "52b1e9b3-d641-4fe5-a3bf-14d953f62e73"
+    },
+    {
+      "id": "c40a122e-e72f-4e91-ada1-e85d570bd21e",
+      "set_code": "DDG",
+      "collector_number": "17",
+      "name": "Kinsbaile Cavalier",
+      "scryfall_id": "bcda21e6-f423-4dd9-a4a3-bacfa83612d0"
+    },
+    {
+      "id": "c901a76f-ce86-4459-a722-d77ae15236d0",
+      "set_code": "DDG",
+      "collector_number": "18",
+      "name": "Alaborn Cavalier",
+      "scryfall_id": "8877b120-55ee-4e5a-9f51-e72a110f638e"
+    },
+    {
+      "id": "d286a051-ab5b-4956-a787-188d336b56e7",
+      "set_code": "DDG",
+      "collector_number": "19",
+      "name": "Skyhunter Patrol",
+      "scryfall_id": "675bfd45-4b73-451c-b1d9-2fe46b5dd5aa"
+    },
+    {
+      "id": "6ac2870e-0392-40d5-b46b-a56173103847",
+      "set_code": "DDG",
+      "collector_number": "20",
+      "name": "Plover Knights",
+      "scryfall_id": "d84fdc31-43f8-4cb9-b9a8-4ad3d1e90edb"
+    },
+    {
+      "id": "84a95f6e-f328-490f-87f6-ccc152c42200",
+      "set_code": "DDG",
+      "collector_number": "21",
+      "name": "Juniper Order Ranger",
+      "scryfall_id": "5f239395-9973-411e-920b-b6c2e8262e60"
+    },
+    {
+      "id": "460f5a5d-5665-4f16-8eeb-d87035605599",
+      "set_code": "DDG",
+      "collector_number": "22",
+      "name": "Paladin of Prahv",
+      "scryfall_id": "32412fd8-e295-4d9e-b33a-20a7e9aeb437"
+    },
+    {
+      "id": "769a6fd7-c290-47ca-b6c3-1506774a1e02",
+      "set_code": "DDG",
+      "collector_number": "23",
+      "name": "Harm's Way",
+      "scryfall_id": "9c59d43e-0e07-4601-b6df-178010ea909f"
+    },
+    {
+      "id": "504bc4a3-1e81-4d57-b4d5-36ff62b0ba36",
+      "set_code": "DDG",
+      "collector_number": "24",
+      "name": "Reciprocate",
+      "scryfall_id": "0440701b-8df5-4125-8e06-f29f91acba2f"
+    },
+    {
+      "id": "bc21d12b-5361-4a99-a02b-1acc74c74e86",
+      "set_code": "DDG",
+      "collector_number": "25",
+      "name": "Edge of Autumn",
+      "scryfall_id": "6eb41074-2b68-455f-a43e-817fc1116018"
+    },
+    {
+      "id": "08d01339-c083-42e4-a62e-70013515c28d",
+      "set_code": "DDG",
+      "collector_number": "26",
+      "name": "Mighty Leap",
+      "scryfall_id": "26db8ea1-3e8b-46a7-a683-9bb7ea46e343"
+    },
+    {
+      "id": "e5db93e8-dae0-4538-a084-3509384e2ab5",
+      "set_code": "DDG",
+      "collector_number": "27",
+      "name": "Reprisal",
+      "scryfall_id": "9490b531-95b6-492c-89e8-676fd004c0cb"
+    },
+    {
+      "id": "9a237409-afe9-467c-918d-4437afedb999",
+      "set_code": "DDG",
+      "collector_number": "28",
+      "name": "Test of Faith",
+      "scryfall_id": "59d16178-e4c6-4cc9-9aa4-7a1ef2f08a9e"
+    },
+    {
+      "id": "5facd053-2382-4ffd-9891-d2b27c9764b9",
+      "set_code": "DDG",
+      "collector_number": "29",
+      "name": "Heroes' Reunion",
+      "scryfall_id": "62d908da-a488-4f2b-a4a9-aedaae6a3ead"
+    },
+    {
+      "id": "69d435cb-9763-488a-806f-0e2082a17f85",
+      "set_code": "DDG",
+      "collector_number": "30",
+      "name": "Sigil Blessing",
+      "scryfall_id": "40762529-c2cb-4273-960b-a93748fcba53"
+    },
+    {
+      "id": "38ec9010-3ec5-42e0-9027-50c7d2ec4319",
+      "set_code": "DDG",
+      "collector_number": "31",
+      "name": "Loxodon Warhammer",
+      "scryfall_id": "e98480ec-3661-4b50-8214-31ddcd7cd09c"
+    },
+    {
+      "id": "b8e8da25-f6ce-4f3f-b86e-732aac575894",
+      "set_code": "DDG",
+      "collector_number": "32",
+      "name": "Spidersilk Armor",
+      "scryfall_id": "e55202a1-c246-4b5b-94d6-43c86a69d61a"
+    },
+    {
+      "id": "6356e1bd-1878-48c7-9290-b10bc062bbcb",
+      "set_code": "DDG",
+      "collector_number": "33",
+      "name": "Griffin Guide",
+      "scryfall_id": "ba8e0599-082d-4252-a579-c773466347a2"
+    },
+    {
+      "id": "fa055b63-12bd-4165-be12-7b08310d87fe",
+      "set_code": "DDG",
+      "collector_number": "34",
+      "name": "Oblivion Ring",
+      "scryfall_id": "2c7142a8-38fa-4e9d-9085-a26fb217a433"
+    },
+    {
+      "id": "326cddaa-066c-4878-af4e-6cb56aa39066",
+      "set_code": "DDG",
+      "collector_number": "35",
+      "name": "Grasslands",
+      "scryfall_id": "2af68733-bae8-432c-9fdf-1764f469fa9b"
+    },
+    {
+      "id": "408dbc79-91df-465a-82b0-664c9e7a9804",
+      "set_code": "DDG",
+      "collector_number": "36",
+      "name": "Sejiri Steppe",
+      "scryfall_id": "d45b0ed8-8692-4fa7-b32c-30d29028da3d"
+    },
+    {
+      "id": "d8e58c15-0b7c-410a-ae80-6ac6251d1375",
+      "set_code": "DDG",
+      "collector_number": "37",
+      "name": "Selesnya Sanctuary",
+      "scryfall_id": "d56583b6-f4db-451c-9360-27f06afe15f8"
+    },
+    {
+      "id": "b3fdf236-669b-4dc8-89bc-04b41c018724",
+      "set_code": "DDG",
+      "collector_number": "38",
+      "name": "Treetop Village",
+      "scryfall_id": "b3432374-a4e6-43b3-bb2e-f27fc45f00a3"
+    },
+    {
+      "id": "d3d93561-5ef8-46de-80c9-1bbebdee235b",
+      "set_code": "DDG",
+      "collector_number": "39",
+      "name": "Plains",
+      "scryfall_id": "18a72e75-762b-4760-937a-05031cdec732"
+    },
+    {
+      "id": "7073c30f-4a09-4480-8fb7-88a80badb39b",
+      "set_code": "DDG",
+      "collector_number": "40",
+      "name": "Plains",
+      "scryfall_id": "4adc1cc7-e118-43b6-a1fd-45161a8f614c"
+    },
+    {
+      "id": "1598dcea-4552-4e5d-8028-c4e4728cff95",
+      "set_code": "DDG",
+      "collector_number": "41",
+      "name": "Plains",
+      "scryfall_id": "4c150b5b-542c-41ce-b980-bb4a940b6c20"
+    },
+    {
+      "id": "b8353f44-659b-4033-a9d6-2352c093020d",
+      "set_code": "DDG",
+      "collector_number": "42",
+      "name": "Plains",
+      "scryfall_id": "a251f4cb-054f-43ac-94af-bd205f97327f"
+    },
+    {
+      "id": "63b5c7c6-1fa5-45bf-a004-308b47f3387e",
+      "set_code": "DDG",
+      "collector_number": "43",
+      "name": "Forest",
+      "scryfall_id": "657c597e-2a5a-4b6f-9a4e-e6df84e28ad9"
+    },
+    {
+      "id": "18a35043-a795-47e8-be9b-ba6c8d8162e7",
+      "set_code": "DDG",
+      "collector_number": "44",
+      "name": "Forest",
+      "scryfall_id": "e9f26305-2f99-43f2-8059-9694ad89cec6"
+    },
+    {
+      "id": "64903b46-84bf-4dd1-8069-f379bcad8744",
+      "set_code": "DDG",
+      "collector_number": "45",
+      "name": "Forest",
+      "scryfall_id": "36454f7f-0b60-451e-9b4f-2cb4c8ccc9c2"
+    },
+    {
+      "id": "c5eaac22-e4b2-42ca-8e3c-ea95aa93a1a5",
+      "set_code": "DDG",
+      "collector_number": "46",
+      "name": "Forest",
+      "scryfall_id": "7f087727-bbd5-4fb0-b604-82acffa02fea"
+    },
+    {
+      "id": "96944082-1978-433b-a638-80485040a559",
+      "set_code": "DDG",
+      "collector_number": "47",
+      "name": "Bogardan Hellkite",
+      "scryfall_id": "fd9dc863-f495-4f4c-a6d6-8239061967dd"
+    },
+    {
+      "id": "759da38b-8c12-43fc-b6d5-385387341a21",
+      "set_code": "DDG",
+      "collector_number": "48",
+      "name": "Cinder Wall",
+      "scryfall_id": "1a7571b8-0b06-4d81-84d6-8e6c593aa4f2"
+    },
+    {
+      "id": "21eca41d-27b2-4d2e-aeab-fd5b93718bd4",
+      "set_code": "DDG",
+      "collector_number": "49",
+      "name": "Skirk Prospector",
+      "scryfall_id": "d0d1494f-2352-48ae-be29-30c3a372f924"
+    },
+    {
+      "id": "29420de9-963b-4efb-9e1e-53953c8d4f19",
+      "set_code": "DDG",
+      "collector_number": "50",
+      "name": "Bloodmark Mentor",
+      "scryfall_id": "734ad23e-7603-4625-b8e3-54466ad86736"
+    },
+    {
+      "id": "2d470848-729f-487b-906f-684444cae040",
+      "set_code": "DDG",
+      "collector_number": "51",
+      "name": "Fire-Belly Changeling",
+      "scryfall_id": "803f388a-0f92-4984-ace5-02fbeaa0cf28"
+    },
+    {
+      "id": "81fa303b-790f-4c92-b49f-8cbca6797255",
+      "set_code": "DDG",
+      "collector_number": "52",
+      "name": "Mudbutton Torchrunner",
+      "scryfall_id": "8de97a52-ae13-4df2-836c-48a0546d76a7"
+    },
+    {
+      "id": "3e5b52ee-add1-4639-8dd7-956b68d89fd9",
+      "set_code": "DDG",
+      "collector_number": "53",
+      "name": "Dragonspeaker Shaman",
+      "scryfall_id": "8b885c3e-91ea-4273-99df-473a2191047a"
+    },
+    {
+      "id": "519e078b-40c3-4e7b-9be7-c6aadd45d8b4",
+      "set_code": "DDG",
+      "collector_number": "54",
+      "name": "Dragon Whelp",
+      "scryfall_id": "71f542ff-3508-4df4-a741-138c9d7b9a81"
+    },
+    {
+      "id": "a7d914d4-5aa8-4b0f-a8c4-15b5c469ff14",
+      "set_code": "DDG",
+      "collector_number": "55",
+      "name": "Henge Guardian",
+      "scryfall_id": "f01d6807-8fbd-4593-9582-71d4cd720728"
+    },
+    {
+      "id": "43a34345-f9b5-468d-b1e1-13a0738a693f",
+      "set_code": "DDG",
+      "collector_number": "56",
+      "name": "Voracious Dragon",
+      "scryfall_id": "fbda3a22-2aff-49db-8779-38551142b860"
+    },
+    {
+      "id": "e93e3213-f194-41e3-9986-499f4b32699e",
+      "set_code": "DDG",
+      "collector_number": "57",
+      "name": "Bogardan Rager",
+      "scryfall_id": "04128756-cfdc-4e7e-be5f-c9a34c2a0ccc"
+    },
+    {
+      "id": "df10940e-8082-46ce-81a0-c2c71ceb3469",
+      "set_code": "DDG",
+      "collector_number": "58",
+      "name": "Mordant Dragon",
+      "scryfall_id": "b278baec-573a-4864-9bc5-4941ceb5adb2"
+    },
+    {
+      "id": "bb1aa5c9-5fb4-4426-9364-55e1738d7ece",
+      "set_code": "DDG",
+      "collector_number": "59",
+      "name": "Kilnmouth Dragon",
+      "scryfall_id": "67bbc1c3-8806-49d4-9111-a2334c66e5ec"
+    },
+    {
+      "id": "f3ba32d2-3b09-4038-994e-263700b995be",
+      "set_code": "DDG",
+      "collector_number": "60",
+      "name": "Shivan Hellkite",
+      "scryfall_id": "53657f64-0fd5-450e-989c-c11726f5138c"
+    },
+    {
+      "id": "1b2c9c05-dfad-41d6-be8c-63b4614119fe",
+      "set_code": "DDG",
+      "collector_number": "61",
+      "name": "Thunder Dragon",
+      "scryfall_id": "98d83eb1-8d12-41f0-a6e6-54d94542781c"
+    },
+    {
+      "id": "55988b59-1d42-41b6-9271-f3ac51fc225d",
+      "set_code": "DDG",
+      "collector_number": "62",
+      "name": "Armillary Sphere",
+      "scryfall_id": "e5a79706-d06a-4dac-8856-bf80a5ef3fc7"
+    },
+    {
+      "id": "2db91646-7409-4a11-a6a7-34885c0d364e",
+      "set_code": "DDG",
+      "collector_number": "63",
+      "name": "Dragon's Claw",
+      "scryfall_id": "fe9ceb8b-8945-4630-b93b-79d1db7bd62d"
+    },
+    {
+      "id": "08791aad-bd30-4d50-a20e-06160da89dcf",
+      "set_code": "DDG",
+      "collector_number": "64",
+      "name": "Breath of Darigaaz",
+      "scryfall_id": "128b0ae0-00ea-4060-9bf2-bc18b43368cb"
+    },
+    {
+      "id": "dc093c5c-01a9-4094-b626-1586f29fde53",
+      "set_code": "DDG",
+      "collector_number": "65",
+      "name": "Dragon Fodder",
+      "scryfall_id": "037158e7-a3a4-4da5-967a-5096ae287061"
+    },
+    {
+      "id": "25d9fc23-cd8e-4068-9346-f97877d02a94",
+      "set_code": "DDG",
+      "collector_number": "66",
+      "name": "Punishing Fire",
+      "scryfall_id": "0da4409b-fe3f-4500-bf4b-890593f7d313"
+    },
+    {
+      "id": "ad6d4e54-b76a-405b-8f0b-a49c5b6a1620",
+      "set_code": "DDG",
+      "collector_number": "67",
+      "name": "Spitting Earth",
+      "scryfall_id": "8c071d33-78de-4b64-9870-5daa90273f6f"
+    },
+    {
+      "id": "f3372545-5665-4abe-b1d0-2303fda7678f",
+      "set_code": "DDG",
+      "collector_number": "68",
+      "name": "Captive Flame",
+      "scryfall_id": "147a6ab8-e49c-402c-ae6a-17231054b1fa"
+    },
+    {
+      "id": "85a56634-9c73-4c52-9e4d-e506b463b890",
+      "set_code": "DDG",
+      "collector_number": "69",
+      "name": "Ghostfire",
+      "scryfall_id": "71f7b2e4-8999-440d-ab4a-403a26f425c5"
+    },
+    {
+      "id": "dd2ddb1e-1c52-4f64-86cf-7d6bd700d234",
+      "set_code": "DDG",
+      "collector_number": "70",
+      "name": "Seething Song",
+      "scryfall_id": "e11775d9-2636-4726-93ae-a7f130ca0e64"
+    },
+    {
+      "id": "23cc92e5-fea1-4a61-a4e4-a226907e94c5",
+      "set_code": "DDG",
+      "collector_number": "71",
+      "name": "Seismic Strike",
+      "scryfall_id": "137dfb88-20eb-447f-988a-0125c08238de"
+    },
+    {
+      "id": "78975f37-5508-4db0-9e61-3e640929a6cd",
+      "set_code": "DDG",
+      "collector_number": "72",
+      "name": "Claws of Valakut",
+      "scryfall_id": "1bd90bc0-93b6-427f-96ad-b303dcc0383f"
+    },
+    {
+      "id": "e8396bfb-862b-4e23-b2b9-bbfca9cfdf0f",
+      "set_code": "DDG",
+      "collector_number": "73",
+      "name": "Temporary Insanity",
+      "scryfall_id": "d37747ce-d532-469b-9963-ad25c95a8361"
+    },
+    {
+      "id": "e0ac3752-1e3f-450e-a2ba-cc3825246a4e",
+      "set_code": "DDG",
+      "collector_number": "74",
+      "name": "Shiv's Embrace",
+      "scryfall_id": "2a9b3c25-ed4e-4fff-a7dc-811755408f3e"
+    },
+    {
+      "id": "35194783-548a-43f6-8f60-bdb53e42ee8c",
+      "set_code": "DDG",
+      "collector_number": "75",
+      "name": "Cone of Flame",
+      "scryfall_id": "cdd3b622-7c2c-47c9-9298-2cd8329f9db3"
+    },
+    {
+      "id": "1e0f5b8e-dd40-4cee-b25c-ae1ada522a6a",
+      "set_code": "DDG",
+      "collector_number": "76",
+      "name": "Fiery Fall",
+      "scryfall_id": "b44a51f0-87f8-41b9-b600-5a106c93c8d7"
+    },
+    {
+      "id": "8ea9a723-fc18-4e70-ae43-03857438cc9c",
+      "set_code": "DDG",
+      "collector_number": "77",
+      "name": "Jaws of Stone",
+      "scryfall_id": "49298937-c793-4903-b665-9b77288f795f"
+    },
+    {
+      "id": "3c00424c-2233-4b85-a2d3-da4b612fb376",
+      "set_code": "DDG",
+      "collector_number": "78",
+      "name": "Mountain",
+      "scryfall_id": "cb939924-52e1-4802-86f1-3c2ab164007f"
+    },
+    {
+      "id": "275e8e99-276c-4226-a336-5228bc908ccb",
+      "set_code": "DDG",
+      "collector_number": "79",
+      "name": "Mountain",
+      "scryfall_id": "bc543a7a-698b-422d-a2be-8315bb366b27"
+    },
+    {
+      "id": "38d44c94-94f4-41fa-b614-646fcf5e8105",
+      "set_code": "DDG",
+      "collector_number": "80",
+      "name": "Mountain",
+      "scryfall_id": "41db412a-d559-4cc3-9951-6f314daa9849"
+    },
+    {
+      "id": "6a5247c0-4944-4f15-b3d4-17c694068f0f",
+      "set_code": "DDG",
+      "collector_number": "81",
+      "name": "Mountain",
+      "scryfall_id": "0b04aed9-bab5-427b-8fd3-9ada33e93398"
+    }
+  ]
+}

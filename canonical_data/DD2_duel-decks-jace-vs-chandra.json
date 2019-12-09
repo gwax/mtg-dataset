@@ -1,0 +1,456 @@
+{
+  "id": "e83be4f8-46d4-4e5e-8848-6150903befce",
+  "code": "DD2",
+  "name": "Duel Decks: Jace vs. Chandra",
+  "scryfall_id": "7161cc1c-adbd-479c-9125-df4c40b0e3ad",
+  "cards": [
+    {
+      "id": "cab24cb9-7b3c-4c10-b6f1-2faa9da89f66",
+      "set_code": "DD2",
+      "collector_number": "1",
+      "name": "Jace Beleren",
+      "scryfall_id": "bc836203-4bb9-4bfa-89ab-0ad49f916c92"
+    },
+    {
+      "id": "95c71f47-b146-422c-a39d-7ea818466d84",
+      "set_code": "DD2",
+      "collector_number": "1\u2605",
+      "name": "Jace Beleren",
+      "scryfall_id": "38f5e6d2-e4b2-4292-85d6-b14a26c8e909"
+    },
+    {
+      "id": "f39f2943-19fc-4f33-acef-cb84bbb5446a",
+      "set_code": "DD2",
+      "collector_number": "2",
+      "name": "Martyr of Frost",
+      "scryfall_id": "80ec3fa9-e871-471b-aa44-afbbac7b928b"
+    },
+    {
+      "id": "561381f2-f33d-4e7c-8abc-f980cf250d6a",
+      "set_code": "DD2",
+      "collector_number": "3",
+      "name": "Fathom Seer",
+      "scryfall_id": "a2090c89-49a9-444d-84ed-1f767f1fc9f1"
+    },
+    {
+      "id": "81caca61-e9f5-44fb-b7e5-348983aa6e97",
+      "set_code": "DD2",
+      "collector_number": "4",
+      "name": "Voidmage Apprentice",
+      "scryfall_id": "bfbb719f-e6a7-4aab-870f-d375d901b85a"
+    },
+    {
+      "id": "08335ce6-29e6-4235-bae7-12b27c53b081",
+      "set_code": "DD2",
+      "collector_number": "5",
+      "name": "Wall of Deceit",
+      "scryfall_id": "ce478fc4-234e-43d5-8b6c-cfe272134f5c"
+    },
+    {
+      "id": "f8021aae-6ce7-4166-b56c-3b73b538d79f",
+      "set_code": "DD2",
+      "collector_number": "6",
+      "name": "Willbender",
+      "scryfall_id": "7c35a94e-4449-4093-9652-5db0ec8b8bdd"
+    },
+    {
+      "id": "dfffd143-213a-49b0-b68a-cb733d80e905",
+      "set_code": "DD2",
+      "collector_number": "7",
+      "name": "Bottle Gnomes",
+      "scryfall_id": "23f461b3-cdf2-475c-83bb-593657332f27"
+    },
+    {
+      "id": "443ac288-5ddd-4c9b-a6c3-91ccbccad149",
+      "set_code": "DD2",
+      "collector_number": "8",
+      "name": "Man-o'-War",
+      "scryfall_id": "61f82f30-330b-4903-9d92-5d82c79ab546"
+    },
+    {
+      "id": "f9b6d91d-693f-4f70-b151-9d4caeea2021",
+      "set_code": "DD2",
+      "collector_number": "9",
+      "name": "Ophidian",
+      "scryfall_id": "4e244697-76ef-4228-9057-fd73ecf667a6"
+    },
+    {
+      "id": "6cacdd9f-63d1-465a-9546-0b7f53c62c60",
+      "set_code": "DD2",
+      "collector_number": "10",
+      "name": "Fledgling Mawcor",
+      "scryfall_id": "6b0917cb-3048-484f-9367-daec3892c3a9"
+    },
+    {
+      "id": "2e76db85-f0a1-4a0a-983b-027de849c0a0",
+      "set_code": "DD2",
+      "collector_number": "11",
+      "name": "Waterspout Djinn",
+      "scryfall_id": "d97cb3ca-7d21-4b3e-8d40-b243762531fd"
+    },
+    {
+      "id": "5b19687c-adff-4850-8e0b-06904ec0a954",
+      "set_code": "DD2",
+      "collector_number": "12",
+      "name": "Mulldrifter",
+      "scryfall_id": "6f5a5da9-f328-423c-8724-f3fcdddb9f16"
+    },
+    {
+      "id": "726db8f2-fc23-4943-bb38-263ffb693c6d",
+      "set_code": "DD2",
+      "collector_number": "13",
+      "name": "Air Elemental",
+      "scryfall_id": "53ea9019-a80c-4973-9d6a-6d414062f8e0"
+    },
+    {
+      "id": "d037612f-b16c-4622-8030-9b994bcc0190",
+      "set_code": "DD2",
+      "collector_number": "14",
+      "name": "Guile",
+      "scryfall_id": "5d820bbf-6a18-45cf-bc59-3c79726adbc7"
+    },
+    {
+      "id": "7c15bb11-76fc-411e-846a-f3b4565c048b",
+      "set_code": "DD2",
+      "collector_number": "15",
+      "name": "Riftwing Cloudskate",
+      "scryfall_id": "97ebe333-244f-46fe-84dd-eaee56583239"
+    },
+    {
+      "id": "84925fe8-cf49-420c-83dc-ecd2de721a37",
+      "set_code": "DD2",
+      "collector_number": "16",
+      "name": "Spire Golem",
+      "scryfall_id": "767a864d-5b52-4725-a5b0-18fde3e2da94"
+    },
+    {
+      "id": "6b147aa1-6d17-4e7c-91c5-9d43929ca673",
+      "set_code": "DD2",
+      "collector_number": "17",
+      "name": "Aethersnipe",
+      "scryfall_id": "77bf2307-714d-429b-b9db-b1ab4395f930"
+    },
+    {
+      "id": "e79ae175-e748-406c-becd-f0d62de4fcea",
+      "set_code": "DD2",
+      "collector_number": "18",
+      "name": "Brine Elemental",
+      "scryfall_id": "2e487de9-8cde-4cc5-8030-5619068978bf"
+    },
+    {
+      "id": "25042966-dcb9-46a5-b2dc-030d60ffa21f",
+      "set_code": "DD2",
+      "collector_number": "19",
+      "name": "Quicksilver Dragon",
+      "scryfall_id": "11232886-35f0-4e43-a61b-18a850070a86"
+    },
+    {
+      "id": "2a37ddd5-81d8-4baa-92e7-71f41dc570b5",
+      "set_code": "DD2",
+      "collector_number": "20",
+      "name": "Errant Ephemeron",
+      "scryfall_id": "4c2e5c34-dfc8-485c-b3ab-034e6624c168"
+    },
+    {
+      "id": "cde2a797-1f54-4026-a02a-7e9ce769d295",
+      "set_code": "DD2",
+      "collector_number": "21",
+      "name": "Ancestral Vision",
+      "scryfall_id": "dd18851b-5e8d-4d56-b58c-f62b8e43ba0d"
+    },
+    {
+      "id": "8ce46527-fe7a-42e3-b706-306b772b210a",
+      "set_code": "DD2",
+      "collector_number": "22",
+      "name": "Mind Stone",
+      "scryfall_id": "fa6dac02-c557-4a3b-864a-1189325baf5c"
+    },
+    {
+      "id": "eeac9feb-9dfa-498c-92b4-a1844f2308ba",
+      "set_code": "DD2",
+      "collector_number": "23",
+      "name": "Daze",
+      "scryfall_id": "bbac85b3-1b40-49c7-8f79-bde83d4a0791"
+    },
+    {
+      "id": "2ffbd2f5-d231-4cfc-b3d2-26a0095067ee",
+      "set_code": "DD2",
+      "collector_number": "24",
+      "name": "Counterspell",
+      "scryfall_id": "71cfcba5-1571-48b8-a3db-55dca135506e"
+    },
+    {
+      "id": "3ef4bd2e-7544-406f-9222-418de3abca51",
+      "set_code": "DD2",
+      "collector_number": "25",
+      "name": "Repulse",
+      "scryfall_id": "58cce2cc-3466-48f7-8cc8-9ac93d028917"
+    },
+    {
+      "id": "60752599-b115-4cb4-91d4-200b03f223fd",
+      "set_code": "DD2",
+      "collector_number": "26",
+      "name": "Fact or Fiction",
+      "scryfall_id": "a4038abf-6f47-4228-baba-5707a25b4108"
+    },
+    {
+      "id": "b29f5891-f8ed-49c8-96c0-a3a4a512c427",
+      "set_code": "DD2",
+      "collector_number": "27",
+      "name": "Gush",
+      "scryfall_id": "f205a94c-9a28-4a43-ba86-fa73112e360f"
+    },
+    {
+      "id": "bc198b9a-638d-4c16-87c7-e440a82c2bcd",
+      "set_code": "DD2",
+      "collector_number": "28",
+      "name": "Condescend",
+      "scryfall_id": "50f4255c-8543-4a9d-a198-d48f386b9afa"
+    },
+    {
+      "id": "6465b535-5290-4e86-946a-cd1d7e9cc793",
+      "set_code": "DD2",
+      "collector_number": "29",
+      "name": "Terrain Generator",
+      "scryfall_id": "8cd33ce6-1f5d-4c34-89d1-8e529b60b3e1"
+    },
+    {
+      "id": "0f5794b2-1cb1-4887-869f-a2079d89e2d9",
+      "set_code": "DD2",
+      "collector_number": "30",
+      "name": "Island",
+      "scryfall_id": "bed99c19-6452-4258-8369-41d17387062a"
+    },
+    {
+      "id": "d9809311-bee5-4294-8cae-5d55462ff67e",
+      "set_code": "DD2",
+      "collector_number": "31",
+      "name": "Island",
+      "scryfall_id": "7e0c8a05-aa2b-49b9-9a87-b13d7810a320"
+    },
+    {
+      "id": "e820b2b7-b46f-4a03-8c7e-f0be22d69127",
+      "set_code": "DD2",
+      "collector_number": "32",
+      "name": "Island",
+      "scryfall_id": "4c4845cc-77d8-4f87-8424-e2371bbb72da"
+    },
+    {
+      "id": "c638e7c5-ea03-49d1-826b-968e50571796",
+      "set_code": "DD2",
+      "collector_number": "33",
+      "name": "Island",
+      "scryfall_id": "8b20beee-87c8-45f7-8d3f-088937724fb8"
+    },
+    {
+      "id": "3b51e415-eb83-41c7-aa99-e642690d3a99",
+      "set_code": "DD2",
+      "collector_number": "34",
+      "name": "Chandra Nalaar",
+      "scryfall_id": "1acd7aa1-f523-4f58-8626-36c975ef46a9"
+    },
+    {
+      "id": "b44c2ccc-25ee-4484-bb84-a02ca9c25498",
+      "set_code": "DD2",
+      "collector_number": "34\u2605",
+      "name": "Chandra Nalaar",
+      "scryfall_id": "27bed57a-027e-46c2-b87a-c52d18a357f9"
+    },
+    {
+      "id": "7adbf53c-48c2-4def-8735-30850fb149e1",
+      "set_code": "DD2",
+      "collector_number": "35",
+      "name": "Flamekin Brawler",
+      "scryfall_id": "72121780-03c7-49d6-b2c4-6b87fa945766"
+    },
+    {
+      "id": "9586e6da-15d1-4030-9495-03b727c6006f",
+      "set_code": "DD2",
+      "collector_number": "36",
+      "name": "Fireslinger",
+      "scryfall_id": "3ace8dec-5dad-4846-aaeb-297767cf3e35"
+    },
+    {
+      "id": "52b3ea58-87f4-4466-82f5-66455d1bf0d5",
+      "set_code": "DD2",
+      "collector_number": "37",
+      "name": "Soulbright Flamekin",
+      "scryfall_id": "7c540d07-299d-4be3-9b97-42c05eea6237"
+    },
+    {
+      "id": "77949067-f8bf-45bd-b737-71825659f3c2",
+      "set_code": "DD2",
+      "collector_number": "38",
+      "name": "Pyre Charger",
+      "scryfall_id": "273c99c1-7326-4ceb-9be0-37efcb69be1e"
+    },
+    {
+      "id": "dd389a01-dc6b-4d7e-9115-bc04f9c13419",
+      "set_code": "DD2",
+      "collector_number": "39",
+      "name": "Slith Firewalker",
+      "scryfall_id": "3c7b8135-42a4-4d4b-b585-506c0b83755e"
+    },
+    {
+      "id": "f77f1216-079e-46df-9d4a-3a883261cc31",
+      "set_code": "DD2",
+      "collector_number": "40",
+      "name": "Flamewave Invoker",
+      "scryfall_id": "e6699bcb-40e3-47b9-a96d-1478d4a1c0a0"
+    },
+    {
+      "id": "6d872f89-80eb-4d48-ae1e-b042570b5286",
+      "set_code": "DD2",
+      "collector_number": "41",
+      "name": "Inner-Flame Acolyte",
+      "scryfall_id": "9ea3564c-a4cb-4e0d-afcb-44c98e5d7659"
+    },
+    {
+      "id": "9f604570-67a2-43da-af32-05735c1ecf38",
+      "set_code": "DD2",
+      "collector_number": "42",
+      "name": "Flametongue Kavu",
+      "scryfall_id": "b7cc7076-362f-4b8b-8d2f-66099c1b6dde"
+    },
+    {
+      "id": "85a809e7-c3e7-48b1-a8d6-f0e946ece120",
+      "set_code": "DD2",
+      "collector_number": "43",
+      "name": "Furnace Whelp",
+      "scryfall_id": "38f13881-67ba-4671-a32c-b2ecc4370df7"
+    },
+    {
+      "id": "89da811a-7a14-4d64-bc60-77b1aa74f6ef",
+      "set_code": "DD2",
+      "collector_number": "44",
+      "name": "Rakdos Pit Dragon",
+      "scryfall_id": "57a5af51-6cd1-47bd-94d8-7ef8d953d8ca"
+    },
+    {
+      "id": "152aa200-e699-47c7-8400-5603c1a782fc",
+      "set_code": "DD2",
+      "collector_number": "45",
+      "name": "Ingot Chewer",
+      "scryfall_id": "9f56009a-0a9f-4894-afff-9aae6adb2826"
+    },
+    {
+      "id": "4c9c535d-0bcd-4456-b339-1046a82d6c34",
+      "set_code": "DD2",
+      "collector_number": "46",
+      "name": "Oxidda Golem",
+      "scryfall_id": "54f0cac4-ca65-4fd5-88b1-8148d1e83c67"
+    },
+    {
+      "id": "62de1e87-6d2f-4359-b145-efcf8ba6f62b",
+      "set_code": "DD2",
+      "collector_number": "47",
+      "name": "Chartooth Cougar",
+      "scryfall_id": "7c3ba5f8-13e8-446d-a0c4-55e6d2f300c7"
+    },
+    {
+      "id": "27084175-91e2-4c72-807f-57f2f47012ed",
+      "set_code": "DD2",
+      "collector_number": "48",
+      "name": "Hostility",
+      "scryfall_id": "a6fc64af-f766-4022-9b36-82aa57b5a09d"
+    },
+    {
+      "id": "f3bf0656-da34-48c8-a79b-1aded3d2dd79",
+      "set_code": "DD2",
+      "collector_number": "49",
+      "name": "Firebolt",
+      "scryfall_id": "3bd1ec98-8188-4649-899e-b0972509fc7e"
+    },
+    {
+      "id": "8bf5224f-2127-40d0-8f0c-07fb74c2108b",
+      "set_code": "DD2",
+      "collector_number": "50",
+      "name": "Seal of Fire",
+      "scryfall_id": "b7cb599d-dfe6-4453-b700-705d44b65f6e"
+    },
+    {
+      "id": "a51be94a-890e-4e5b-a89e-9e59cc10149d",
+      "set_code": "DD2",
+      "collector_number": "51",
+      "name": "Incinerate",
+      "scryfall_id": "8503210d-be78-4271-a050-53caa94f735d"
+    },
+    {
+      "id": "97e05a36-23c5-4991-a3f8-9c5a36d323dc",
+      "set_code": "DD2",
+      "collector_number": "52",
+      "name": "Magma Jet",
+      "scryfall_id": "a4561625-c6a1-4ad1-8b0b-fe1904049e8e"
+    },
+    {
+      "id": "a6a090a0-00ba-4bd3-8915-4f6023535ae6",
+      "set_code": "DD2",
+      "collector_number": "53",
+      "name": "Flame Javelin",
+      "scryfall_id": "5de80c65-48dc-4cd0-a6f1-1e9f91206ab2"
+    },
+    {
+      "id": "3192ae1b-e351-4afc-8352-ba5c035f5321",
+      "set_code": "DD2",
+      "collector_number": "54",
+      "name": "Cone of Flame",
+      "scryfall_id": "37ec5107-d44f-48dc-81e9-7bd83afe5d97"
+    },
+    {
+      "id": "f7dcdda2-42ff-4a6e-8694-1f034bea6df3",
+      "set_code": "DD2",
+      "collector_number": "55",
+      "name": "Fireblast",
+      "scryfall_id": "ab427d46-936d-4e1b-9968-0ee1a261cedc"
+    },
+    {
+      "id": "a010195c-bc47-4026-8727-c9c47a379291",
+      "set_code": "DD2",
+      "collector_number": "56",
+      "name": "Fireball",
+      "scryfall_id": "47883c95-5822-4893-b0ae-fc540a28a0c1"
+    },
+    {
+      "id": "4a851885-76e4-4e90-b22b-5211c17fecfe",
+      "set_code": "DD2",
+      "collector_number": "57",
+      "name": "Demonfire",
+      "scryfall_id": "ffbc80e7-9788-4b6b-a254-24c7670a88ce"
+    },
+    {
+      "id": "a9da4968-cb2b-41cc-b861-5aac367bc3e4",
+      "set_code": "DD2",
+      "collector_number": "58",
+      "name": "Keldon Megaliths",
+      "scryfall_id": "6e714757-3bf8-45e0-9a90-6437b6d72c14"
+    },
+    {
+      "id": "9b8ab9c6-5c57-46a6-ab25-036fde2a30be",
+      "set_code": "DD2",
+      "collector_number": "59",
+      "name": "Mountain",
+      "scryfall_id": "e91e1aae-438b-41df-ad8e-25ba7c9a8f74"
+    },
+    {
+      "id": "20c3adad-be64-4fdb-84ad-e747fe23bfad",
+      "set_code": "DD2",
+      "collector_number": "60",
+      "name": "Mountain",
+      "scryfall_id": "d2c5b445-3679-4acc-9e88-1e8c7c656589"
+    },
+    {
+      "id": "bdce198e-6cf0-4549-b82f-d22b5bc965b5",
+      "set_code": "DD2",
+      "collector_number": "61",
+      "name": "Mountain",
+      "scryfall_id": "91e5ce25-a0cb-4d9e-8274-af5672a85b0a"
+    },
+    {
+      "id": "762e2c99-e7d0-4871-b2d4-1b443cc57559",
+      "set_code": "DD2",
+      "collector_number": "62",
+      "name": "Mountain",
+      "scryfall_id": "4ecd2a9c-45b7-45c2-8936-d9e631367507"
+    }
+  ]
+}

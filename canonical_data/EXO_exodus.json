@@ -1,0 +1,1009 @@
+{
+  "id": "e161ff1b-49ad-47ae-bba4-170d4c5602e8",
+  "code": "EXO",
+  "name": "Exodus",
+  "scryfall_id": "1401f7af-2e71-476d-9813-991084ed0bb9",
+  "cards": [
+    {
+      "id": "0c9e012f-81de-4877-802b-3dbee712e599",
+      "set_code": "EXO",
+      "collector_number": "1",
+      "name": "Allay",
+      "scryfall_id": "f20a1c6d-ec6a-4bd6-b3b2-b997f71d41fc"
+    },
+    {
+      "id": "f06bd579-b823-4b2d-b268-5efebc67b158",
+      "set_code": "EXO",
+      "collector_number": "2",
+      "name": "Angelic Blessing",
+      "scryfall_id": "ed3c8bae-953f-4bb4-a78d-02e4e354e53c"
+    },
+    {
+      "id": "87c3bd69-05dd-4948-b05e-665f389e7c66",
+      "set_code": "EXO",
+      "collector_number": "3",
+      "name": "Cataclysm",
+      "scryfall_id": "024ae668-a1ae-4020-89c8-acbd8bd0a691"
+    },
+    {
+      "id": "61404278-5977-4739-937e-8c5e21fdcfd9",
+      "set_code": "EXO",
+      "collector_number": "4",
+      "name": "Charging Paladin",
+      "scryfall_id": "851f3f72-2923-4432-898a-02679a8b320f"
+    },
+    {
+      "id": "9cccb4a1-57bb-4c02-ab48-8cb2ffb831a7",
+      "set_code": "EXO",
+      "collector_number": "5",
+      "name": "Convalescence",
+      "scryfall_id": "0fd49a61-42ba-400a-8ca9-9f6058bf85ca"
+    },
+    {
+      "id": "839633d0-ef5f-4bae-b769-71a50b6bfcfb",
+      "set_code": "EXO",
+      "collector_number": "6",
+      "name": "Exalted Dragon",
+      "scryfall_id": "7537bab3-4bac-4b83-9ad3-dfcb4ff19d6d"
+    },
+    {
+      "id": "35f4fed2-bb50-425f-8e2f-e14ecc0a7c4b",
+      "set_code": "EXO",
+      "collector_number": "7",
+      "name": "High Ground",
+      "scryfall_id": "1c5239dc-f51b-48c0-91a2-ed6551aaff32"
+    },
+    {
+      "id": "e59204f0-a436-476a-82de-8277e4ae405a",
+      "set_code": "EXO",
+      "collector_number": "8",
+      "name": "Keeper of the Light",
+      "scryfall_id": "06eda847-c599-4163-b48b-aa76b153ed86"
+    },
+    {
+      "id": "12468924-0d80-4ca1-a636-1b36e3a6ac3d",
+      "set_code": "EXO",
+      "collector_number": "9",
+      "name": "Kor Chant",
+      "scryfall_id": "8dc61cc3-0312-44f4-9c23-4fc37c3fbbd5"
+    },
+    {
+      "id": "6032f626-cbea-4e37-aafa-a30ff7d22703",
+      "set_code": "EXO",
+      "collector_number": "10",
+      "name": "Limited Resources",
+      "scryfall_id": "20ae3609-a3cc-486c-94f6-b8f647adfb47"
+    },
+    {
+      "id": "fe13758b-01ba-4d0e-bfb6-cbb00fa809f3",
+      "set_code": "EXO",
+      "collector_number": "11",
+      "name": "Oath of Lieges",
+      "scryfall_id": "470a2092-eeda-4557-8cee-ac401b61a225"
+    },
+    {
+      "id": "5be826b7-c3fe-4cdb-be2d-1f897a7fe4ce",
+      "set_code": "EXO",
+      "collector_number": "12",
+      "name": "Paladin en-Vec",
+      "scryfall_id": "bf1ea89d-4b9d-455f-a7f4-a26026e0c272"
+    },
+    {
+      "id": "c4fabcbb-344a-4074-b7e2-0b9604f74482",
+      "set_code": "EXO",
+      "collector_number": "13",
+      "name": "Peace of Mind",
+      "scryfall_id": "c383f12f-da06-4ef0-bf8e-6a8a9cfcc74c"
+    },
+    {
+      "id": "1cd0cc6e-96e3-4fcc-94fa-d3434b66d700",
+      "set_code": "EXO",
+      "collector_number": "14",
+      "name": "Pegasus Stampede",
+      "scryfall_id": "3b941576-8254-4d69-85ae-c748c7921ce5"
+    },
+    {
+      "id": "76d49483-8db0-4e57-bfd7-4030ccbc8dcd",
+      "set_code": "EXO",
+      "collector_number": "15",
+      "name": "Penance",
+      "scryfall_id": "1f3db848-8394-43bd-a236-264641033a6d"
+    },
+    {
+      "id": "2f4678a5-8d80-4ace-9765-7c15f875932a",
+      "set_code": "EXO",
+      "collector_number": "16",
+      "name": "Reaping the Rewards",
+      "scryfall_id": "379b0495-8795-4b21-9d0a-dc4e10098de2"
+    },
+    {
+      "id": "eca03f6e-461d-45fb-a539-09eee55143e9",
+      "set_code": "EXO",
+      "collector_number": "17",
+      "name": "Reconnaissance",
+      "scryfall_id": "a16012d8-703c-4385-8769-13e3caba3fc6"
+    },
+    {
+      "id": "5b477638-b976-4933-a444-838302280749",
+      "set_code": "EXO",
+      "collector_number": "18",
+      "name": "Shackles",
+      "scryfall_id": "c5315668-b8ef-49ab-a8f5-144adc7bcd84"
+    },
+    {
+      "id": "afcf0f0c-964e-4eb9-ac35-1bfa004a776d",
+      "set_code": "EXO",
+      "collector_number": "19",
+      "name": "Shield Mate",
+      "scryfall_id": "b49261bb-66b5-4226-9001-02d045fbcbce"
+    },
+    {
+      "id": "774049f2-0632-405c-8d16-dc62cc317488",
+      "set_code": "EXO",
+      "collector_number": "20",
+      "name": "Soltari Visionary",
+      "scryfall_id": "1a3ae384-7b60-4264-9dc1-1613917168ca"
+    },
+    {
+      "id": "42fed019-d424-4805-8d3a-2a55866787a4",
+      "set_code": "EXO",
+      "collector_number": "21",
+      "name": "Soul Warden",
+      "scryfall_id": "d5ee24ee-4d28-4634-bd43-90eff15c16dd"
+    },
+    {
+      "id": "8e2ec7a9-fa34-40ad-bd1c-4cc0dc7a389a",
+      "set_code": "EXO",
+      "collector_number": "22",
+      "name": "Standing Troops",
+      "scryfall_id": "135e258a-71d8-45dd-9307-91111aa34bde"
+    },
+    {
+      "id": "9c9a6213-a5f8-4db4-85d5-3838da7dceed",
+      "set_code": "EXO",
+      "collector_number": "23",
+      "name": "Treasure Hunter",
+      "scryfall_id": "06452630-621b-498e-8f25-ecfe544d4213"
+    },
+    {
+      "id": "55562aa3-5421-413f-9d64-533b156cb7f2",
+      "set_code": "EXO",
+      "collector_number": "24",
+      "name": "Wall of Nets",
+      "scryfall_id": "c1da8e79-365d-4a36-87c5-648085828f9f"
+    },
+    {
+      "id": "b4e3af01-c8d8-4f23-9ae3-94408e74490e",
+      "set_code": "EXO",
+      "collector_number": "25",
+      "name": "Welkin Hawk",
+      "scryfall_id": "8166253c-c6ac-4b5e-9746-09ce3774c66b"
+    },
+    {
+      "id": "e6d06b48-d216-4e4d-b750-1142428fba7b",
+      "set_code": "EXO",
+      "collector_number": "26",
+      "name": "Zealots en-Dal",
+      "scryfall_id": "6a9fb486-1d6a-478e-af6e-fd8539dc646d"
+    },
+    {
+      "id": "a8338edb-e39e-4fef-b6f5-1ba717fb11d9",
+      "set_code": "EXO",
+      "collector_number": "27",
+      "name": "Aether Tide",
+      "scryfall_id": "9aab7526-5825-4f31-92ff-be25ab5af2f5"
+    },
+    {
+      "id": "052e5ca1-d040-43b6-87f5-126ba7e3ca94",
+      "set_code": "EXO",
+      "collector_number": "28",
+      "name": "Cunning",
+      "scryfall_id": "52f36bb8-5a97-4596-8ca3-707665770c76"
+    },
+    {
+      "id": "7ca73c05-8810-47bf-8a9f-5467fe27542e",
+      "set_code": "EXO",
+      "collector_number": "29",
+      "name": "Curiosity",
+      "scryfall_id": "fee17ef5-7e1a-42ae-b680-df81204df7dd"
+    },
+    {
+      "id": "39251e09-71d9-42b1-b39b-08c6bd388232",
+      "set_code": "EXO",
+      "collector_number": "30",
+      "name": "Dominating Licid",
+      "scryfall_id": "e3e03323-43e8-4ddc-a874-211a97fd7648"
+    },
+    {
+      "id": "8c746ee5-be0d-4ac2-90c2-e12c226a3c54",
+      "set_code": "EXO",
+      "collector_number": "31",
+      "name": "Ephemeron",
+      "scryfall_id": "f2cdcd3b-6df5-481a-a244-1fc2545d1356"
+    },
+    {
+      "id": "f39912ca-ea64-405e-bea0-04b2747303d3",
+      "set_code": "EXO",
+      "collector_number": "32",
+      "name": "Equilibrium",
+      "scryfall_id": "460b2ec6-0180-4214-acca-c9eed778ef50"
+    },
+    {
+      "id": "015e521e-53d8-4a4d-8e30-accbe68ff33d",
+      "set_code": "EXO",
+      "collector_number": "33",
+      "name": "Ertai, Wizard Adept",
+      "scryfall_id": "91971e19-61ce-45ac-b700-9ffca5091a27"
+    },
+    {
+      "id": "cd829a24-e645-4fd0-a78f-16fe757e76d6",
+      "set_code": "EXO",
+      "collector_number": "34",
+      "name": "Fade Away",
+      "scryfall_id": "a6f9103e-dcc2-4f7a-a8ca-eaa831f5f83b"
+    },
+    {
+      "id": "0dee73df-ee4a-46c8-8dbd-c46c43eabe4d",
+      "set_code": "EXO",
+      "collector_number": "35",
+      "name": "Forbid",
+      "scryfall_id": "29df5ef7-d679-4543-bdb7-3984155c87e0"
+    },
+    {
+      "id": "9864c4f5-ce14-494d-a9c2-0f41cc8a7f99",
+      "set_code": "EXO",
+      "collector_number": "36",
+      "name": "Keeper of the Mind",
+      "scryfall_id": "7bc232d4-ab4f-4d88-a9ec-72403d05ec04"
+    },
+    {
+      "id": "e884eb64-728a-4827-ba59-fbeccce6bc9b",
+      "set_code": "EXO",
+      "collector_number": "37",
+      "name": "Killer Whale",
+      "scryfall_id": "d932f6d3-4918-4a41-836c-4eaa6cfac049"
+    },
+    {
+      "id": "0d5702ef-4a46-4fa8-a3f1-6caffaf3942a",
+      "set_code": "EXO",
+      "collector_number": "38",
+      "name": "Mana Breach",
+      "scryfall_id": "3a97f019-5ad9-4520-ba79-2c9b259748d9"
+    },
+    {
+      "id": "091af298-9390-4ef8-8a52-17ca18de2f20",
+      "set_code": "EXO",
+      "collector_number": "39",
+      "name": "Merfolk Looter",
+      "scryfall_id": "0fbb1c41-388f-4ff2-af37-ad64a0f4618e"
+    },
+    {
+      "id": "4cc73e83-944f-497b-9f28-5444388a9672",
+      "set_code": "EXO",
+      "collector_number": "40",
+      "name": "Mind Over Matter",
+      "scryfall_id": "6e091dd6-149f-46ea-bae0-224e79e3aacb"
+    },
+    {
+      "id": "3d0edad9-33e4-4a5e-b478-4599b0c17adf",
+      "set_code": "EXO",
+      "collector_number": "41",
+      "name": "Mirozel",
+      "scryfall_id": "16417e94-e33f-4ed4-bb3e-52f29f7d441b"
+    },
+    {
+      "id": "16fd3f46-bd44-4567-a0ea-75a9489f223c",
+      "set_code": "EXO",
+      "collector_number": "42",
+      "name": "Oath of Scholars",
+      "scryfall_id": "d61376ad-21c8-4d34-b37d-ed60877f5d4a"
+    },
+    {
+      "id": "254be2d3-d7cf-4f1c-8b18-64a472f75188",
+      "set_code": "EXO",
+      "collector_number": "43",
+      "name": "Robe of Mirrors",
+      "scryfall_id": "371720a2-ec3f-43a5-9551-c018e164e79f"
+    },
+    {
+      "id": "efd559ff-8cc0-4f3c-bb76-c876f7e019fd",
+      "set_code": "EXO",
+      "collector_number": "44",
+      "name": "Rootwater Mystic",
+      "scryfall_id": "94af81f2-383c-4129-b8dc-60633c3f4ea1"
+    },
+    {
+      "id": "89f76f89-77cc-467e-86a4-f37e625ee729",
+      "set_code": "EXO",
+      "collector_number": "45",
+      "name": "School of Piranha",
+      "scryfall_id": "71217af5-3538-4e42-9343-3949b5306671"
+    },
+    {
+      "id": "51ff4478-ce79-4288-a9d9-3bd48ed17458",
+      "set_code": "EXO",
+      "collector_number": "46",
+      "name": "Scrivener",
+      "scryfall_id": "8b236bba-160a-4637-a83e-8456834ce59f"
+    },
+    {
+      "id": "ecb8ed1d-232b-4ecd-9e34-d1c8e43db321",
+      "set_code": "EXO",
+      "collector_number": "47",
+      "name": "Thalakos Drifters",
+      "scryfall_id": "468e13d2-6bd7-403c-8e2e-e00917b39597"
+    },
+    {
+      "id": "d5641c2b-7e98-49ba-9b7f-1de165e63ec4",
+      "set_code": "EXO",
+      "collector_number": "48",
+      "name": "Thalakos Scout",
+      "scryfall_id": "1703fe9d-ca70-4e8a-9d6a-6173a17d0f04"
+    },
+    {
+      "id": "74260d7c-f203-4fb7-9b4e-0dfcb98ceddd",
+      "set_code": "EXO",
+      "collector_number": "49",
+      "name": "Theft of Dreams",
+      "scryfall_id": "099da8aa-16b1-4395-8467-1636feb14a8a"
+    },
+    {
+      "id": "dd47c01b-5dea-479b-adbd-0aebe36a5efb",
+      "set_code": "EXO",
+      "collector_number": "50",
+      "name": "Treasure Trove",
+      "scryfall_id": "f23ce909-e744-47ca-943d-62d97e97b1ea"
+    },
+    {
+      "id": "4a2a89cc-7721-4315-984a-b45e87390797",
+      "set_code": "EXO",
+      "collector_number": "51",
+      "name": "Wayward Soul",
+      "scryfall_id": "28f96d5d-1d16-40bb-aaa7-8a7dd465d37b"
+    },
+    {
+      "id": "3852a3eb-9d10-4e51-9851-60734a0926e3",
+      "set_code": "EXO",
+      "collector_number": "52",
+      "name": "Whiptongue Frog",
+      "scryfall_id": "6fc17186-e786-46a3-9812-4a6e367e78b9"
+    },
+    {
+      "id": "5e817f12-d329-46fe-9cb7-2017809d5533",
+      "set_code": "EXO",
+      "collector_number": "53",
+      "name": "Carnophage",
+      "scryfall_id": "d17c057f-cb1b-4895-831a-fb35c75d3845"
+    },
+    {
+      "id": "0a28b7f1-9f65-447b-9605-dc172f5b79a5",
+      "set_code": "EXO",
+      "collector_number": "54",
+      "name": "Cat Burglar",
+      "scryfall_id": "947109f9-7035-4a2a-bbc2-a2958f8c5d01"
+    },
+    {
+      "id": "c138b748-5887-4a18-ab51-ff08db4234df",
+      "set_code": "EXO",
+      "collector_number": "55",
+      "name": "Culling the Weak",
+      "scryfall_id": "50c33f18-0a5c-4e46-ab0d-6e450915594f"
+    },
+    {
+      "id": "d72e5e09-e598-4925-9317-bd535defa292",
+      "set_code": "EXO",
+      "collector_number": "56",
+      "name": "Cursed Flesh",
+      "scryfall_id": "7433b9bf-ee6e-41fe-b826-0d20584198b1"
+    },
+    {
+      "id": "c960a156-33de-4162-bb98-50ee07109775",
+      "set_code": "EXO",
+      "collector_number": "57",
+      "name": "Dauthi Cutthroat",
+      "scryfall_id": "127b8994-fff8-4500-8ab4-244eeb3ed110"
+    },
+    {
+      "id": "29401e28-d1ef-4a32-94c2-9161404d1dcd",
+      "set_code": "EXO",
+      "collector_number": "58",
+      "name": "Dauthi Jackal",
+      "scryfall_id": "419871bc-f036-4244-8b6c-3857ebe993f3"
+    },
+    {
+      "id": "535bb595-348e-4d6d-b809-42e9d6977f76",
+      "set_code": "EXO",
+      "collector_number": "59",
+      "name": "Dauthi Warlord",
+      "scryfall_id": "af3ca689-482a-457d-9744-0bd79981f361"
+    },
+    {
+      "id": "ae7f62e5-877b-4807-b998-2cbd2d394e03",
+      "set_code": "EXO",
+      "collector_number": "60",
+      "name": "Death's Duet",
+      "scryfall_id": "4756b6fd-2bb2-4be1-9b02-851a26ff4303"
+    },
+    {
+      "id": "3c7497a1-7e70-42ec-8c8b-6393768e171d",
+      "set_code": "EXO",
+      "collector_number": "61",
+      "name": "Entropic Specter",
+      "scryfall_id": "bdb04d81-b0ab-4bc7-935d-c31005887240"
+    },
+    {
+      "id": "7ecd87de-ee22-4b65-84b9-bb8e15d6a4fd",
+      "set_code": "EXO",
+      "collector_number": "62",
+      "name": "Fugue",
+      "scryfall_id": "1629cd63-95aa-40b6-aa57-7fb88f569e59"
+    },
+    {
+      "id": "ce9d2e16-0482-4f4e-b7db-1e07eb8da4b3",
+      "set_code": "EXO",
+      "collector_number": "63",
+      "name": "Grollub",
+      "scryfall_id": "47f6301a-d581-4aaf-9993-3013323074aa"
+    },
+    {
+      "id": "aeacf3a6-c4d0-40cc-8563-eb81e7568fc3",
+      "set_code": "EXO",
+      "collector_number": "64",
+      "name": "Hatred",
+      "scryfall_id": "2383a8d9-96fd-4f9a-bcf9-eb81fdb15ead"
+    },
+    {
+      "id": "bc6433d2-50e9-4d8c-8245-f19b6f47a6f4",
+      "set_code": "EXO",
+      "collector_number": "65",
+      "name": "Keeper of the Dead",
+      "scryfall_id": "6b641171-35bc-4945-ada9-3ea28ea9fabf"
+    },
+    {
+      "id": "92121e44-d92f-46a9-af53-2c49598a1f61",
+      "set_code": "EXO",
+      "collector_number": "66",
+      "name": "Mind Maggots",
+      "scryfall_id": "c3c92a7f-a250-4497-aa7a-0394e94ef13d"
+    },
+    {
+      "id": "42f1745b-862d-4256-9709-99955f6e71d9",
+      "set_code": "EXO",
+      "collector_number": "67",
+      "name": "Nausea",
+      "scryfall_id": "a10531d8-fc99-4a2b-94b0-97a25521d725"
+    },
+    {
+      "id": "318514e7-2553-44a8-82cc-f6b678a24f2d",
+      "set_code": "EXO",
+      "collector_number": "68",
+      "name": "Necrologia",
+      "scryfall_id": "8c2ee9d9-20be-46f0-8752-1df50942f59c"
+    },
+    {
+      "id": "91c3b12e-328d-43a6-9b64-3c70d532fc74",
+      "set_code": "EXO",
+      "collector_number": "69",
+      "name": "Oath of Ghouls",
+      "scryfall_id": "1102f35a-ae62-479d-b61c-31a82978aedd"
+    },
+    {
+      "id": "9c7e7f88-430a-443e-a41f-503254474583",
+      "set_code": "EXO",
+      "collector_number": "70",
+      "name": "Pit Spawn",
+      "scryfall_id": "669ad60b-4053-4f07-9072-52e6ff65b4e3"
+    },
+    {
+      "id": "b5f666c6-3221-4bfa-9c4e-12899be200a5",
+      "set_code": "EXO",
+      "collector_number": "71",
+      "name": "Plaguebearer",
+      "scryfall_id": "a8493df6-9954-4e33-867c-ca4bcf3953b2"
+    },
+    {
+      "id": "ed44c524-a1d1-425e-9b37-8c60101e44c7",
+      "set_code": "EXO",
+      "collector_number": "72",
+      "name": "Recurring Nightmare",
+      "scryfall_id": "c8173030-1c33-417c-b8e9-79231b6a85a7"
+    },
+    {
+      "id": "cbf791f4-6ae7-4796-a8c8-eec87f0c7ff7",
+      "set_code": "EXO",
+      "collector_number": "73",
+      "name": "Scare Tactics",
+      "scryfall_id": "6a9d4e11-ce2e-445a-9536-756a6687d6d7"
+    },
+    {
+      "id": "3158b359-003a-4b7a-9e27-946ef9bec294",
+      "set_code": "EXO",
+      "collector_number": "74",
+      "name": "Slaughter",
+      "scryfall_id": "8ff06c7d-5e78-4bcf-864b-34487f6555b2"
+    },
+    {
+      "id": "7cc148b9-fa33-41f5-9756-4ae9d9297245",
+      "set_code": "EXO",
+      "collector_number": "75",
+      "name": "Spike Cannibal",
+      "scryfall_id": "64003772-c62f-4728-a00c-48c78991c6ae"
+    },
+    {
+      "id": "c4efa749-5429-41f3-b796-2ac253669cc3",
+      "set_code": "EXO",
+      "collector_number": "76",
+      "name": "Thrull Surgeon",
+      "scryfall_id": "d6e89bf1-42c9-4829-a565-78cac632810b"
+    },
+    {
+      "id": "77ddf5bd-89b2-4fa3-8376-27453199a76a",
+      "set_code": "EXO",
+      "collector_number": "77",
+      "name": "Vampire Hounds",
+      "scryfall_id": "746bc301-9f08-4d9b-819e-690f6fce6bc8"
+    },
+    {
+      "id": "d1f773f5-2af2-4a74-b984-01726b9c2029",
+      "set_code": "EXO",
+      "collector_number": "78",
+      "name": "Volrath's Dungeon",
+      "scryfall_id": "a4ab28e1-74e1-4c4e-920f-a658c6a44d75"
+    },
+    {
+      "id": "8841c65b-a20d-4608-995f-4243b10905eb",
+      "set_code": "EXO",
+      "collector_number": "79",
+      "name": "Anarchist",
+      "scryfall_id": "a298df66-2075-40a7-bced-457656b6b788"
+    },
+    {
+      "id": "461065c6-667d-4a07-ae9f-66b52b55a522",
+      "set_code": "EXO",
+      "collector_number": "80",
+      "name": "Cinder Crawler",
+      "scryfall_id": "a9406050-d76b-4569-a463-e21acaf84166"
+    },
+    {
+      "id": "c59aa5ca-c076-4064-ab03-00cb333bea8c",
+      "set_code": "EXO",
+      "collector_number": "81",
+      "name": "Dizzying Gaze",
+      "scryfall_id": "71a482cf-a1cd-47b5-a76a-08e03965c679"
+    },
+    {
+      "id": "6385d2d6-8002-4350-a44f-6b612b5f6ff3",
+      "set_code": "EXO",
+      "collector_number": "82",
+      "name": "Fighting Chance",
+      "scryfall_id": "ca75f6e9-5eee-4904-88c0-71ec730a0f23"
+    },
+    {
+      "id": "03650492-27bc-4b93-89a5-f88751cb32c0",
+      "set_code": "EXO",
+      "collector_number": "83",
+      "name": "Flowstone Flood",
+      "scryfall_id": "8bcda003-6fac-4879-87e6-ec0c115630ba"
+    },
+    {
+      "id": "4eb96508-6957-4abe-8301-da80368f3474",
+      "set_code": "EXO",
+      "collector_number": "84",
+      "name": "Furnace Brood",
+      "scryfall_id": "0a79c6d9-96f1-434a-89b8-d773aa77ac5e"
+    },
+    {
+      "id": "cacfb7b2-0740-4aab-af77-2dc4431315a3",
+      "set_code": "EXO",
+      "collector_number": "85",
+      "name": "Keeper of the Flame",
+      "scryfall_id": "9bf246ca-9dfc-400f-8883-acc80ac016e1"
+    },
+    {
+      "id": "1b126ecf-ceb2-452f-b1d6-259f664431ed",
+      "set_code": "EXO",
+      "collector_number": "86",
+      "name": "Mage il-Vec",
+      "scryfall_id": "04e3e38b-2191-4b92-ae5d-bb9397d24a27"
+    },
+    {
+      "id": "8651317c-14bc-4eae-967a-d836fd4501de",
+      "set_code": "EXO",
+      "collector_number": "87",
+      "name": "Maniacal Rage",
+      "scryfall_id": "f3aa840f-6a70-4674-acb7-ded0ea4397d8"
+    },
+    {
+      "id": "13fae348-c177-4bbd-a5d9-80bcdfd4fc7b",
+      "set_code": "EXO",
+      "collector_number": "88",
+      "name": "Mogg Assassin",
+      "scryfall_id": "1124725d-e643-43a1-873e-255636c7f334"
+    },
+    {
+      "id": "811ecff7-d501-405e-a1bf-8ea7c0ee78bd",
+      "set_code": "EXO",
+      "collector_number": "89",
+      "name": "Monstrous Hound",
+      "scryfall_id": "d5066b1b-3910-4434-83d6-030851f20bcf"
+    },
+    {
+      "id": "611f512c-1ed5-428f-9912-964cf728a6d5",
+      "set_code": "EXO",
+      "collector_number": "90",
+      "name": "Oath of Mages",
+      "scryfall_id": "ed8708d2-2c73-4da5-b6ff-41c083b59caa"
+    },
+    {
+      "id": "a48e21bb-d1d7-4be6-9d92-628b8e7aec83",
+      "set_code": "EXO",
+      "collector_number": "91",
+      "name": "Ogre Shaman",
+      "scryfall_id": "cb3224ac-9b60-48cf-9734-86768fd370ac"
+    },
+    {
+      "id": "fdb715de-d72e-493d-be87-03aaa33d4392",
+      "set_code": "EXO",
+      "collector_number": "92",
+      "name": "Onslaught",
+      "scryfall_id": "0afaf142-dbca-45bf-aea2-01c53bda635a"
+    },
+    {
+      "id": "e0b1acd3-80b6-4acd-ac2f-829192907b11",
+      "set_code": "EXO",
+      "collector_number": "93",
+      "name": "Pandemonium",
+      "scryfall_id": "5f618231-28bb-4cdd-b887-a8aa186814d5"
+    },
+    {
+      "id": "3aeec8f4-2d62-4b7b-be1b-5fa88644e735",
+      "set_code": "EXO",
+      "collector_number": "94",
+      "name": "Paroxysm",
+      "scryfall_id": "53320321-4f02-40ee-8171-2375b1d4ed66"
+    },
+    {
+      "id": "eda6ddf6-7ff7-4444-9261-318a43614ad3",
+      "set_code": "EXO",
+      "collector_number": "95",
+      "name": "Price of Progress",
+      "scryfall_id": "8e5283db-3e22-4862-9d95-56d03d09c2ae"
+    },
+    {
+      "id": "654d652b-9acf-426b-a9f2-47cada3b984f",
+      "set_code": "EXO",
+      "collector_number": "96",
+      "name": "Raging Goblin",
+      "scryfall_id": "1f0a166c-f7c0-45b4-aa90-053ce545cfb2"
+    },
+    {
+      "id": "bee85b9c-0827-4120-ac15-5b2f6c805f0f",
+      "set_code": "EXO",
+      "collector_number": "97",
+      "name": "Ravenous Baboons",
+      "scryfall_id": "6d00b68b-8b6a-48c9-8911-2a3270897091"
+    },
+    {
+      "id": "7583c720-9d18-4e2b-9377-4cd3e89432f8",
+      "set_code": "EXO",
+      "collector_number": "98",
+      "name": "Reckless Ogre",
+      "scryfall_id": "90d27b79-a22d-48d9-86b2-7ad02cab8697"
+    },
+    {
+      "id": "713e766f-7dfe-41d9-a8d5-622548f1eb53",
+      "set_code": "EXO",
+      "collector_number": "99",
+      "name": "Sabertooth Wyvern",
+      "scryfall_id": "84c1d384-d341-4bab-bf71-5dbcf76d51e8"
+    },
+    {
+      "id": "31438ebc-4aee-4ade-9616-e9416b525604",
+      "set_code": "EXO",
+      "collector_number": "100",
+      "name": "Scalding Salamander",
+      "scryfall_id": "5a0e9433-88d7-4bfc-99a0-ff47807fd594"
+    },
+    {
+      "id": "ef4d4b99-ee19-44eb-a6f7-c01329ffe3ba",
+      "set_code": "EXO",
+      "collector_number": "101",
+      "name": "Seismic Assault",
+      "scryfall_id": "cc494af5-4da4-43f5-a193-426ef84d80a7"
+    },
+    {
+      "id": "5e820d1d-0e84-4b46-8a44-e4449b2b3c5f",
+      "set_code": "EXO",
+      "collector_number": "102",
+      "name": "Shattering Pulse",
+      "scryfall_id": "89d3b846-6071-4d65-86ba-da08c4bd0aa1"
+    },
+    {
+      "id": "56069b80-5c74-42e3-b2d3-6b1294b568eb",
+      "set_code": "EXO",
+      "collector_number": "103",
+      "name": "Sonic Burst",
+      "scryfall_id": "05530d5a-dcb6-403e-9e35-224c7b5cf615"
+    },
+    {
+      "id": "5b5729e4-42ac-462b-9c98-ca36518ce58a",
+      "set_code": "EXO",
+      "collector_number": "104",
+      "name": "Spellshock",
+      "scryfall_id": "52db2a78-e1c5-4732-a4ee-04b4c540edbe"
+    },
+    {
+      "id": "79a55c68-e6ea-47d4-a520-20581da19e99",
+      "set_code": "EXO",
+      "collector_number": "105",
+      "name": "Avenging Druid",
+      "scryfall_id": "fca9fd31-639a-4fbc-84bd-c3078df29c0a"
+    },
+    {
+      "id": "0bb3aa40-1529-4421-85c7-38aa6b82d1fa",
+      "set_code": "EXO",
+      "collector_number": "106",
+      "name": "Bequeathal",
+      "scryfall_id": "20aae577-9683-4d9b-bfd5-52702b38d3a7"
+    },
+    {
+      "id": "be88b0c4-adf1-4c06-8e29-f70286cd5185",
+      "set_code": "EXO",
+      "collector_number": "107",
+      "name": "Cartographer",
+      "scryfall_id": "7f2c2cc9-37ce-435e-9df2-083d5e3c8c5c"
+    },
+    {
+      "id": "a05c6394-248f-46c4-aa29-686b5d6cf121",
+      "set_code": "EXO",
+      "collector_number": "108",
+      "name": "Crashing Boars",
+      "scryfall_id": "a2965bd5-4f16-443a-9133-adb92cf0e12b"
+    },
+    {
+      "id": "1e181f6d-2aa5-4f09-96cd-e3f6ae9488db",
+      "set_code": "EXO",
+      "collector_number": "109",
+      "name": "Elven Palisade",
+      "scryfall_id": "b990ffe5-fd2a-4646-bac3-8e52cdc328aa"
+    },
+    {
+      "id": "8763719a-4199-40ca-855e-1797a1aa1e2a",
+      "set_code": "EXO",
+      "collector_number": "110",
+      "name": "Elvish Berserker",
+      "scryfall_id": "dfa69a8e-1b75-4d93-918d-d772cec69e99"
+    },
+    {
+      "id": "aa5f31c7-72f3-44fa-aa9f-a46d3529cd31",
+      "set_code": "EXO",
+      "collector_number": "111",
+      "name": "Jackalope Herd",
+      "scryfall_id": "cb80105c-d2c0-4f8c-9302-5e6152a60f54"
+    },
+    {
+      "id": "497db842-a8b5-4ef2-a3d6-c39743c8c4e8",
+      "set_code": "EXO",
+      "collector_number": "112",
+      "name": "Keeper of the Beasts",
+      "scryfall_id": "cccccf78-8b00-406b-a2b7-0e6ba76703d0"
+    },
+    {
+      "id": "264434c5-b062-4fb4-8d61-c5ad6cfc1af3",
+      "set_code": "EXO",
+      "collector_number": "113",
+      "name": "Manabond",
+      "scryfall_id": "212ca7e7-5ba3-4da7-a2f0-16c721004bac"
+    },
+    {
+      "id": "bb9ed0fe-98c6-4920-87a3-50620125cebd",
+      "set_code": "EXO",
+      "collector_number": "114",
+      "name": "Mirri, Cat Warrior",
+      "scryfall_id": "6d1682dd-5a99-4bee-a2c2-c8735047e1a9"
+    },
+    {
+      "id": "dac7cb62-29ad-40af-91f2-3eb8b4933937",
+      "set_code": "EXO",
+      "collector_number": "115",
+      "name": "Oath of Druids",
+      "scryfall_id": "cf14de50-d123-400c-862e-2c95fd2aa23f"
+    },
+    {
+      "id": "e1a3e760-2312-4a6e-bece-9007c99b6933",
+      "set_code": "EXO",
+      "collector_number": "116",
+      "name": "Plated Rootwalla",
+      "scryfall_id": "4bf4da70-c656-4e40-bb0f-68e9dda024c9"
+    },
+    {
+      "id": "31f399d3-007b-4228-9e4f-17f889e35999",
+      "set_code": "EXO",
+      "collector_number": "117",
+      "name": "Predatory Hunger",
+      "scryfall_id": "db6d9d28-3a05-4dfa-a322-36b4cc2697d4"
+    },
+    {
+      "id": "6fc08f94-14ff-4114-bbc9-3218ab79861c",
+      "set_code": "EXO",
+      "collector_number": "118",
+      "name": "Pygmy Troll",
+      "scryfall_id": "7be9714d-125f-4700-879d-b920fe9f1b68"
+    },
+    {
+      "id": "9b952bf0-18a1-4692-bd0d-573265363eff",
+      "set_code": "EXO",
+      "collector_number": "119",
+      "name": "Rabid Wolverines",
+      "scryfall_id": "99121a2b-c735-47be-b01e-cdf59809e7f3"
+    },
+    {
+      "id": "186edf0a-d904-429c-aab0-3ac72823e3ad",
+      "set_code": "EXO",
+      "collector_number": "120",
+      "name": "Reclaim",
+      "scryfall_id": "2b47c082-57f6-4f69-87e8-a07cad9ef042"
+    },
+    {
+      "id": "859f44e9-02a3-4b56-a7c6-4ef41ea3e35d",
+      "set_code": "EXO",
+      "collector_number": "121",
+      "name": "Resuscitate",
+      "scryfall_id": "f5707560-fcc6-4aca-adce-d41de45f37e8"
+    },
+    {
+      "id": "5a80dc92-38c9-4fc5-9301-07d7dc778e64",
+      "set_code": "EXO",
+      "collector_number": "122",
+      "name": "Rootwater Alligator",
+      "scryfall_id": "3a840bba-4725-45fd-885f-1b3d615dfa97"
+    },
+    {
+      "id": "492d3886-06ca-4b58-9002-69175bdbb25d",
+      "set_code": "EXO",
+      "collector_number": "123",
+      "name": "Skyshroud Elite",
+      "scryfall_id": "f6a496a4-1b4c-4c5d-99e5-ec40601c759d"
+    },
+    {
+      "id": "e99a5d39-56d4-420c-af2b-f9db21d8fd60",
+      "set_code": "EXO",
+      "collector_number": "124",
+      "name": "Skyshroud War Beast",
+      "scryfall_id": "19d809c1-e674-40b8-816d-c45d77c66722"
+    },
+    {
+      "id": "817844d0-911e-4a09-ae2b-f5392c11aa56",
+      "set_code": "EXO",
+      "collector_number": "125",
+      "name": "Song of Serenity",
+      "scryfall_id": "2ba85b2f-37da-4595-9880-8e9f1ddbac09"
+    },
+    {
+      "id": "5259fe1d-970f-4f1f-85c1-1dfdc90e12f4",
+      "set_code": "EXO",
+      "collector_number": "126",
+      "name": "Spike Hatcher",
+      "scryfall_id": "1f79fb79-37a0-483f-ba19-853cbfffc73d"
+    },
+    {
+      "id": "6fb9175b-558f-4bfa-a8aa-711b41ed7095",
+      "set_code": "EXO",
+      "collector_number": "127",
+      "name": "Spike Rogue",
+      "scryfall_id": "f0d9b671-344b-460d-8f65-d65129db91c3"
+    },
+    {
+      "id": "d8a71fe6-8961-47ee-a16e-1a239d097283",
+      "set_code": "EXO",
+      "collector_number": "128",
+      "name": "Spike Weaver",
+      "scryfall_id": "9c561a2a-91c6-4d4b-9f96-bffd43a00478"
+    },
+    {
+      "id": "45279729-ea85-4409-a18b-8d02f26ea11a",
+      "set_code": "EXO",
+      "collector_number": "129",
+      "name": "Survival of the Fittest",
+      "scryfall_id": "c060c178-3c0e-493f-b6f0-ead5b1d6f191"
+    },
+    {
+      "id": "d5b661e9-31b2-435f-9136-fc1214ba6daa",
+      "set_code": "EXO",
+      "collector_number": "130",
+      "name": "Wood Elves",
+      "scryfall_id": "4716bb55-0821-4809-9bc0-04e299b09549"
+    },
+    {
+      "id": "ee8c5fe5-eb20-4388-a617-a0946f7abc45",
+      "set_code": "EXO",
+      "collector_number": "131",
+      "name": "Coat of Arms",
+      "scryfall_id": "9e32c939-1d64-4082-bafe-59dfa9c054f6"
+    },
+    {
+      "id": "a02f2e23-2604-4591-b207-444afd0f7505",
+      "set_code": "EXO",
+      "collector_number": "132",
+      "name": "Erratic Portal",
+      "scryfall_id": "2e652007-02f0-424f-b52c-c1540d1939bd"
+    },
+    {
+      "id": "91b0d81d-c924-4bca-9e3b-14a01bb70f8b",
+      "set_code": "EXO",
+      "collector_number": "133",
+      "name": "Medicine Bag",
+      "scryfall_id": "399c06d5-af2a-47a1-9239-ff14224a026b"
+    },
+    {
+      "id": "ba051da0-be11-4d96-ac49-52adf595de63",
+      "set_code": "EXO",
+      "collector_number": "134",
+      "name": "Memory Crystal",
+      "scryfall_id": "c786ea5b-52ad-4d1b-855e-ce6d0b9af67e"
+    },
+    {
+      "id": "845c9a79-457b-4096-b972-809399a57600",
+      "set_code": "EXO",
+      "collector_number": "135",
+      "name": "Mindless Automaton",
+      "scryfall_id": "6ddfc5ab-b11b-4ad7-ab46-8ee60d938a5b"
+    },
+    {
+      "id": "8e0a03c0-2cd1-402d-8c77-80fc8687e248",
+      "set_code": "EXO",
+      "collector_number": "136",
+      "name": "Null Brooch",
+      "scryfall_id": "d5d5a0c6-916c-428a-ae66-8adc8844e56e"
+    },
+    {
+      "id": "84427cdd-f491-4b63-8e29-63dbc0832aa7",
+      "set_code": "EXO",
+      "collector_number": "137",
+      "name": "Skyshaper",
+      "scryfall_id": "234ed934-6ea7-41f6-bd13-3df8662a3a1d"
+    },
+    {
+      "id": "c1eb8530-4ac4-4117-96be-3110887ba52f",
+      "set_code": "EXO",
+      "collector_number": "138",
+      "name": "Spellbook",
+      "scryfall_id": "33fb104c-f8ca-4da2-8f1f-8fe6f291407e"
+    },
+    {
+      "id": "f8241b08-8bea-41a5-9721-cac3b842addc",
+      "set_code": "EXO",
+      "collector_number": "139",
+      "name": "Sphere of Resistance",
+      "scryfall_id": "17f4d2a5-bb85-4662-b2dd-a363ec7eab9b"
+    },
+    {
+      "id": "277a67c8-d045-4550-a0cb-3f550442b2ec",
+      "set_code": "EXO",
+      "collector_number": "140",
+      "name": "Thopter Squadron",
+      "scryfall_id": "d3ac2d30-7c9a-40b3-812e-e77e49229f48"
+    },
+    {
+      "id": "39334179-329d-4d10-bbb0-329bbb66630c",
+      "set_code": "EXO",
+      "collector_number": "141",
+      "name": "Transmogrifying Licid",
+      "scryfall_id": "1a115563-81da-42f6-95c4-22ae7bb51a0f"
+    },
+    {
+      "id": "b6e3610e-6c2a-40e5-b423-99840953c9c9",
+      "set_code": "EXO",
+      "collector_number": "142",
+      "name": "Workhorse",
+      "scryfall_id": "c2571ff7-0287-4ba2-8365-5ff08de641a2"
+    },
+    {
+      "id": "bd983759-3b9a-4dc9-9db0-6b3f16463192",
+      "set_code": "EXO",
+      "collector_number": "143",
+      "name": "City of Traitors",
+      "scryfall_id": "a7a8b6b8-b95f-4014-b17a-a6d44d965995"
+    }
+  ]
+}

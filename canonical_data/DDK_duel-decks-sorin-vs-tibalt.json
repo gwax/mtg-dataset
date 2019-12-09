@@ -1,0 +1,568 @@
+{
+  "id": "5b8eccf0-e67b-41eb-a7e5-1455278c481d",
+  "code": "DDK",
+  "name": "Duel Decks: Sorin vs. Tibalt",
+  "scryfall_id": "529a5259-8a88-4baf-86a0-cd88098c3ce7",
+  "cards": [
+    {
+      "id": "ce53d16b-c11a-4898-a3b2-0e19fc2648d5",
+      "set_code": "DDK",
+      "collector_number": "1",
+      "name": "Sorin, Lord of Innistrad",
+      "scryfall_id": "329b9f70-2c35-4fec-813a-5b7f26d34c8e"
+    },
+    {
+      "id": "df1c11b9-401e-4772-b279-3e97c12293a0",
+      "set_code": "DDK",
+      "collector_number": "2",
+      "name": "Doomed Traveler",
+      "scryfall_id": "a8ed737f-dbda-455c-a240-5fca57caeb64"
+    },
+    {
+      "id": "9daed9d1-060a-47c9-ae83-77de57b8519b",
+      "set_code": "DDK",
+      "collector_number": "3",
+      "name": "Vampire Lacerator",
+      "scryfall_id": "4425f4be-cc4e-4247-a407-39142bcb6b44"
+    },
+    {
+      "id": "696338ad-13b6-44a7-a3c3-b9b870be46ae",
+      "set_code": "DDK",
+      "collector_number": "4",
+      "name": "Wall of Omens",
+      "scryfall_id": "0596155d-8f83-40ca-be31-9a0df1ced65e"
+    },
+    {
+      "id": "866c46f8-38b7-4620-b4c7-50786916ef91",
+      "set_code": "DDK",
+      "collector_number": "5",
+      "name": "Child of Night",
+      "scryfall_id": "7cb2a512-330a-4ae6-888c-6762fa099fae"
+    },
+    {
+      "id": "70bcba5a-cd2b-425a-80c8-1682d81d26b9",
+      "set_code": "DDK",
+      "collector_number": "6",
+      "name": "Duskhunter Bat",
+      "scryfall_id": "3438edfe-479d-4595-a694-5848f07156d6"
+    },
+    {
+      "id": "ec46b9c3-aa51-4ebb-b630-fc8a02920199",
+      "set_code": "DDK",
+      "collector_number": "7",
+      "name": "Mesmeric Fiend",
+      "scryfall_id": "1785cb18-c291-4fd5-b8c7-ace893c32e49"
+    },
+    {
+      "id": "98e1c0c9-ae6a-4716-84cf-155ac022124a",
+      "set_code": "DDK",
+      "collector_number": "8",
+      "name": "Gatekeeper of Malakir",
+      "scryfall_id": "a8417510-3e4b-4093-8980-ce6a9625eb14"
+    },
+    {
+      "id": "91d03ca9-922e-4874-80a5-c726708371ca",
+      "set_code": "DDK",
+      "collector_number": "9",
+      "name": "Twilight Drover",
+      "scryfall_id": "b3c44b4b-616e-4652-b85f-a627025d09b8"
+    },
+    {
+      "id": "4fb1b0ff-c06d-454f-b754-4551d172f1de",
+      "set_code": "DDK",
+      "collector_number": "10",
+      "name": "Bloodrage Vampire",
+      "scryfall_id": "692013da-b090-49d1-9c7a-ff5863d6ffd5"
+    },
+    {
+      "id": "294c6831-1881-453d-a36e-91cbb6a27d98",
+      "set_code": "DDK",
+      "collector_number": "11",
+      "name": "Fiend Hunter",
+      "scryfall_id": "d7b402fa-abf1-4e93-a481-dfd065ae3206"
+    },
+    {
+      "id": "d3dd7348-4436-4c2c-84a4-a2a24c214308",
+      "set_code": "DDK",
+      "collector_number": "12",
+      "name": "Vampire Nighthawk",
+      "scryfall_id": "c98ccdac-3c6f-464f-962d-73fd4b8c597f"
+    },
+    {
+      "id": "74b785b9-8932-4916-b418-6223094344a1",
+      "set_code": "DDK",
+      "collector_number": "13",
+      "name": "Mausoleum Guard",
+      "scryfall_id": "996ac78f-ad5f-44d5-8567-3d88934c5a71"
+    },
+    {
+      "id": "3bb71349-1f27-48fc-9957-0c3d12d7cf77",
+      "set_code": "DDK",
+      "collector_number": "14",
+      "name": "Phantom General",
+      "scryfall_id": "2bd4af62-ed1e-47be-991b-0ce984a7b321"
+    },
+    {
+      "id": "541285a8-dde0-437c-b27d-054adc049444",
+      "set_code": "DDK",
+      "collector_number": "15",
+      "name": "Vampire Outcasts",
+      "scryfall_id": "354eabab-39d2-457e-a0e7-5d6e26f0b17c"
+    },
+    {
+      "id": "caae013e-7687-44a6-a4a3-286a16d547f2",
+      "set_code": "DDK",
+      "collector_number": "16",
+      "name": "Revenant Patriarch",
+      "scryfall_id": "52f23f01-67f0-49d3-b907-6203976cdf4d"
+    },
+    {
+      "id": "3021fa1a-a872-45fe-94e5-8a6645c115ae",
+      "set_code": "DDK",
+      "collector_number": "17",
+      "name": "Sengir Vampire",
+      "scryfall_id": "88ade143-90be-4ded-911e-5f1318ac24a1"
+    },
+    {
+      "id": "f93f7996-cc05-4f65-b09c-4b09f4457cf1",
+      "set_code": "DDK",
+      "collector_number": "18",
+      "name": "Butcher of Malakir",
+      "scryfall_id": "7053cea1-d986-4ae6-b9ae-e7aace6b1f9f"
+    },
+    {
+      "id": "74aac4fe-f314-45bb-965d-fc0801254ce6",
+      "set_code": "DDK",
+      "collector_number": "19",
+      "name": "Vampire's Bite",
+      "scryfall_id": "57003079-3d0f-48fe-8fc1-94d38a94d1a8"
+    },
+    {
+      "id": "9a335eb9-eaeb-407c-b867-fef711f1bf40",
+      "set_code": "DDK",
+      "collector_number": "20",
+      "name": "Decompose",
+      "scryfall_id": "f4868145-fb8b-4624-8554-ddbab3d5a43c"
+    },
+    {
+      "id": "d3ba2e87-7f3d-4abf-aeb3-25cfb53cb205",
+      "set_code": "DDK",
+      "collector_number": "21",
+      "name": "Sorin's Thirst",
+      "scryfall_id": "2700fb32-029b-485d-9d9d-3527ca7ef33c"
+    },
+    {
+      "id": "9a8afdce-f508-4fdd-9afd-ce4347c006b0",
+      "set_code": "DDK",
+      "collector_number": "22",
+      "name": "Urge to Feed",
+      "scryfall_id": "eed371fb-b23b-41b0-9fa2-4cb1be8b77cc"
+    },
+    {
+      "id": "8a03e449-3280-48a6-8f10-e29b57552198",
+      "set_code": "DDK",
+      "collector_number": "23",
+      "name": "Zealous Persecution",
+      "scryfall_id": "80b73c66-3b26-4067-bc44-b74fe0f6547e"
+    },
+    {
+      "id": "4dcd7a97-0e7a-4b70-901f-2149fbaefa95",
+      "set_code": "DDK",
+      "collector_number": "24",
+      "name": "Lingering Souls",
+      "scryfall_id": "f28d352a-7254-45ad-afe7-299062f0de61"
+    },
+    {
+      "id": "59886e42-dce4-4311-8a4a-d9092df9a6cb",
+      "set_code": "DDK",
+      "collector_number": "25",
+      "name": "Mortify",
+      "scryfall_id": "38c5e2e8-b781-4265-bce1-98fa25ddd8c3"
+    },
+    {
+      "id": "d99b8c55-762c-41be-b902-8f1648703ccd",
+      "set_code": "DDK",
+      "collector_number": "26",
+      "name": "Spectral Procession",
+      "scryfall_id": "74e91e61-f1e8-4028-9bcd-c1ea25694d20"
+    },
+    {
+      "id": "c69d4e47-badd-4d9b-ba08-d6d2c4b2cd5a",
+      "set_code": "DDK",
+      "collector_number": "27",
+      "name": "Unmake",
+      "scryfall_id": "6d0dea1b-43dc-4e76-aabd-f12e121a78af"
+    },
+    {
+      "id": "3ad717fc-e396-45ab-9c45-38cb8d652857",
+      "set_code": "DDK",
+      "collector_number": "28",
+      "name": "Ancient Craving",
+      "scryfall_id": "b0e0b4bb-791a-4c6e-8dbc-f4dd56d2bc34"
+    },
+    {
+      "id": "2c8121c5-6d52-42d8-86da-e9aa8e539f91",
+      "set_code": "DDK",
+      "collector_number": "29",
+      "name": "Mark of the Vampire",
+      "scryfall_id": "85221e36-d0c4-4688-a5aa-776f320ef737"
+    },
+    {
+      "id": "f14b9eb9-dd78-42c7-a4d5-c4e08f5378fd",
+      "set_code": "DDK",
+      "collector_number": "30",
+      "name": "Field of Souls",
+      "scryfall_id": "54c208eb-a770-4402-8ed5-2aa7f28c0c68"
+    },
+    {
+      "id": "65c781d4-b24a-455b-a065-f9a34ea7d0fd",
+      "set_code": "DDK",
+      "collector_number": "31",
+      "name": "Absorb Vis",
+      "scryfall_id": "18ed2ea8-614b-472d-979d-0d026895abca"
+    },
+    {
+      "id": "ceabe7c8-9cfc-4ff5-9162-49c4e24fa8be",
+      "set_code": "DDK",
+      "collector_number": "32",
+      "name": "Death Grasp",
+      "scryfall_id": "b53775ac-c207-45ec-a868-6354888e30d6"
+    },
+    {
+      "id": "d408de03-b767-4162-8d88-3da90bd7cef5",
+      "set_code": "DDK",
+      "collector_number": "33",
+      "name": "Evolving Wilds",
+      "scryfall_id": "e784f9a3-d7c2-4b73-83b2-3296014f9bf4"
+    },
+    {
+      "id": "0257c71a-0258-4a54-98e4-73ffdd9c11fe",
+      "set_code": "DDK",
+      "collector_number": "34",
+      "name": "Tainted Field",
+      "scryfall_id": "82eea1f3-b8b3-4369-964e-32c3917be90c"
+    },
+    {
+      "id": "a0c17ac4-dcb1-420e-b371-295d953d9ca3",
+      "set_code": "DDK",
+      "collector_number": "35",
+      "name": "Swamp",
+      "scryfall_id": "6c5301f8-350a-4e26-8d97-0f643e5da7d6"
+    },
+    {
+      "id": "f27a0c1e-f906-44c0-891f-c4634ea0ee39",
+      "set_code": "DDK",
+      "collector_number": "36",
+      "name": "Swamp",
+      "scryfall_id": "4f7d8adb-36b1-4f7b-b01d-e60c7bec79be"
+    },
+    {
+      "id": "f14a7636-8ecb-4a1f-80d4-4245d84151bd",
+      "set_code": "DDK",
+      "collector_number": "37",
+      "name": "Swamp",
+      "scryfall_id": "21c39822-b53e-488b-b5df-c0ce325d9039"
+    },
+    {
+      "id": "f79a9924-1edb-42cf-8a2a-fe1f09131ca3",
+      "set_code": "DDK",
+      "collector_number": "38",
+      "name": "Plains",
+      "scryfall_id": "121cc3c5-522e-4b3c-9551-dc501b006ca1"
+    },
+    {
+      "id": "18e38c8d-6b13-4160-bac5-ab5b84055261",
+      "set_code": "DDK",
+      "collector_number": "39",
+      "name": "Plains",
+      "scryfall_id": "4a4b95d4-4ffb-4db1-80cf-c2c90839e8a3"
+    },
+    {
+      "id": "a87b02b9-7b7b-4841-ab74-6af991e09f05",
+      "set_code": "DDK",
+      "collector_number": "40",
+      "name": "Plains",
+      "scryfall_id": "65e1287a-2166-4592-9518-da4b92b3623b"
+    },
+    {
+      "id": "72e9d334-5739-48e8-883f-c3ed24e7e3b8",
+      "set_code": "DDK",
+      "collector_number": "41",
+      "name": "Tibalt, the Fiend-Blooded",
+      "scryfall_id": "fa56d53c-836c-483d-988d-a288d0ad91bb"
+    },
+    {
+      "id": "e45fac5b-6a56-4680-ab9b-e61b6f572d08",
+      "set_code": "DDK",
+      "collector_number": "42",
+      "name": "Goblin Arsonist",
+      "scryfall_id": "cc6f5598-6fbd-4808-bae6-e4d62ce6d315"
+    },
+    {
+      "id": "12a72c8a-051e-4dfe-860f-e8b080c0e7d0",
+      "set_code": "DDK",
+      "collector_number": "43",
+      "name": "Scorched Rusalka",
+      "scryfall_id": "0332c184-476e-4320-b5c9-544a5e4f5ede"
+    },
+    {
+      "id": "68682abd-e664-4e1a-843e-ddb6738825aa",
+      "set_code": "DDK",
+      "collector_number": "44",
+      "name": "Reassembling Skeleton",
+      "scryfall_id": "370d519c-8877-433c-837e-0b5abe866c9d"
+    },
+    {
+      "id": "574d2d20-d39b-44a1-8043-ed344992b464",
+      "set_code": "DDK",
+      "collector_number": "45",
+      "name": "Ashmouth Hound",
+      "scryfall_id": "3c243559-fec8-4b18-b119-3cb0ec19eb9f"
+    },
+    {
+      "id": "89f8d6c8-cb6d-4d3e-9f98-9e816fdb4903",
+      "set_code": "DDK",
+      "collector_number": "46",
+      "name": "Hellspark Elemental",
+      "scryfall_id": "ea080c34-8446-429b-a380-3a95f43089fb"
+    },
+    {
+      "id": "831ce1ff-63e8-4594-b9f1-918631f405a0",
+      "set_code": "DDK",
+      "collector_number": "47",
+      "name": "Vithian Stinger",
+      "scryfall_id": "21626e4b-9361-4657-bac0-85fb475de225"
+    },
+    {
+      "id": "9f8fa8f3-0e01-4ce5-a8e9-aa118287401e",
+      "set_code": "DDK",
+      "collector_number": "48",
+      "name": "Shambling Remains",
+      "scryfall_id": "0171e38f-b663-477b-970e-fce8f00321c7"
+    },
+    {
+      "id": "2b94427b-c674-4226-aabe-a090243facde",
+      "set_code": "DDK",
+      "collector_number": "49",
+      "name": "Coal Stoker",
+      "scryfall_id": "eea8624b-10fb-40ed-b771-90cc73abe676"
+    },
+    {
+      "id": "5c76d62e-a261-4dcc-82a4-bfe06eb86606",
+      "set_code": "DDK",
+      "collector_number": "50",
+      "name": "Lavaborn Muse",
+      "scryfall_id": "f9ac12fe-f895-4450-8516-1feb6a48f1bc"
+    },
+    {
+      "id": "16b40b4f-be8f-43d3-b89d-0f7640f801d3",
+      "set_code": "DDK",
+      "collector_number": "51",
+      "name": "Mad Prophet",
+      "scryfall_id": "802101e1-9c1b-4b46-a7b3-b84b6b2757a0"
+    },
+    {
+      "id": "adc90896-9d28-4096-bf59-98db3b47a49f",
+      "set_code": "DDK",
+      "collector_number": "52",
+      "name": "Hellrider",
+      "scryfall_id": "660694d7-d863-45a3-9992-d4bf95db1186"
+    },
+    {
+      "id": "47bed8af-ebac-46a4-a954-dcc073f77177",
+      "set_code": "DDK",
+      "collector_number": "53",
+      "name": "Skirsdag Cultist",
+      "scryfall_id": "66a20272-2151-4402-b79b-064c95dd26ad"
+    },
+    {
+      "id": "9c08b391-46a1-41d2-8081-68c8a0c7353f",
+      "set_code": "DDK",
+      "collector_number": "54",
+      "name": "Corpse Connoisseur",
+      "scryfall_id": "34320bc2-12af-42a6-8139-d7479e6a3074"
+    },
+    {
+      "id": "64296695-2f21-415b-b20d-bab5516b8f59",
+      "set_code": "DDK",
+      "collector_number": "55",
+      "name": "Scourge Devil",
+      "scryfall_id": "e6f0f89c-453b-41c8-98dc-283e4e7e8edf"
+    },
+    {
+      "id": "f12fdebb-78a9-480d-bdb4-26c5f201b485",
+      "set_code": "DDK",
+      "collector_number": "56",
+      "name": "Gang of Devils",
+      "scryfall_id": "cc8680db-dc0c-4282-aa63-80f83913c47e"
+    },
+    {
+      "id": "96419aae-a651-4915-873f-dd01851afbbc",
+      "set_code": "DDK",
+      "collector_number": "57",
+      "name": "Bump in the Night",
+      "scryfall_id": "320e394c-c8b1-42ad-91a5-6d57296f85ab"
+    },
+    {
+      "id": "5e17d3a4-7c43-4c87-b0ac-516c239339a0",
+      "set_code": "DDK",
+      "collector_number": "58",
+      "name": "Blazing Salvo",
+      "scryfall_id": "87ce6584-0a21-43d0-a2fe-cbdea564927a"
+    },
+    {
+      "id": "9a96b981-13b1-44df-9e93-d82d9f225ef3",
+      "set_code": "DDK",
+      "collector_number": "59",
+      "name": "Faithless Looting",
+      "scryfall_id": "4c81df5a-0829-4117-a94c-f634f338cfad"
+    },
+    {
+      "id": "954b5d95-076b-45f9-81e1-10c69e960928",
+      "set_code": "DDK",
+      "collector_number": "60",
+      "name": "Flame Slash",
+      "scryfall_id": "124c6c0f-d16b-4ec0-aa78-a9595f8888d4"
+    },
+    {
+      "id": "7644b2d2-1b7b-4ef2-bc48-8ce97bbdf5b0",
+      "set_code": "DDK",
+      "collector_number": "61",
+      "name": "Geistflame",
+      "scryfall_id": "c671b096-17a4-4cdb-b954-7b04981e7aef"
+    },
+    {
+      "id": "1b32a8e4-fd94-4873-9f20-28eb7393a188",
+      "set_code": "DDK",
+      "collector_number": "62",
+      "name": "Pyroclasm",
+      "scryfall_id": "a454c426-dd7b-44e4-8404-adb4e0739e4a"
+    },
+    {
+      "id": "e9cc6f45-ffc5-4a7f-b8c9-7e7c09315ba0",
+      "set_code": "DDK",
+      "collector_number": "63",
+      "name": "Recoup",
+      "scryfall_id": "77ac0e4e-71ae-4a4b-aa73-64079bd50308"
+    },
+    {
+      "id": "a6b8b61d-829b-4258-8d62-10b0adc3792b",
+      "set_code": "DDK",
+      "collector_number": "64",
+      "name": "Terminate",
+      "scryfall_id": "2142dc8c-faf2-41a4-a394-38cbcf26bd0d"
+    },
+    {
+      "id": "b5e524b9-75f4-42fd-a963-549cb340dce2",
+      "set_code": "DDK",
+      "collector_number": "65",
+      "name": "Strangling Soot",
+      "scryfall_id": "12ef65e3-2731-4425-9425-8dc16e9e02c6"
+    },
+    {
+      "id": "ac4fe925-2718-415b-8100-0d48518eacad",
+      "set_code": "DDK",
+      "collector_number": "66",
+      "name": "Browbeat",
+      "scryfall_id": "77c0eb52-8e09-471a-b00c-aaa1ae244afc"
+    },
+    {
+      "id": "601b53ea-215f-4474-94dd-8ff5416189a2",
+      "set_code": "DDK",
+      "collector_number": "67",
+      "name": "Breaking Point",
+      "scryfall_id": "73e348dd-2d8a-4ee6-a834-2d5861566043"
+    },
+    {
+      "id": "d991d7c9-18b8-4bfa-b27c-f6c99d7d7d5a",
+      "set_code": "DDK",
+      "collector_number": "68",
+      "name": "Sulfuric Vortex",
+      "scryfall_id": "5a7addef-6612-4796-8d14-39aac3ba38e0"
+    },
+    {
+      "id": "70e06f0b-11f5-490d-979c-953456d5e862",
+      "set_code": "DDK",
+      "collector_number": "69",
+      "name": "Blightning",
+      "scryfall_id": "68ba5a86-ef90-45fd-bc7a-e870e91a207c"
+    },
+    {
+      "id": "507fef0d-1903-45ba-9fcd-ba2bed18dc38",
+      "set_code": "DDK",
+      "collector_number": "70",
+      "name": "Flame Javelin",
+      "scryfall_id": "d9989a45-3e18-4aeb-88a6-bac905567958"
+    },
+    {
+      "id": "4f84814d-17d3-4581-9513-a09d158aa948",
+      "set_code": "DDK",
+      "collector_number": "71",
+      "name": "Torrent of Souls",
+      "scryfall_id": "4ce01cf5-d72c-4b1d-aa52-1040c069572c"
+    },
+    {
+      "id": "b2a41054-9d4d-4f16-8112-304bff7fb51c",
+      "set_code": "DDK",
+      "collector_number": "72",
+      "name": "Devil's Play",
+      "scryfall_id": "337dea2d-4604-4c1c-8f03-846a4e913bdc"
+    },
+    {
+      "id": "3596a792-2a83-47a0-85a3-3d67fb6ce363",
+      "set_code": "DDK",
+      "collector_number": "73",
+      "name": "Akoum Refuge",
+      "scryfall_id": "df319dcb-419d-4588-9c8a-fe82973b704a"
+    },
+    {
+      "id": "e34efbf4-b874-4a67-9be1-0e59dd2ecf03",
+      "set_code": "DDK",
+      "collector_number": "74",
+      "name": "Rakdos Carnarium",
+      "scryfall_id": "42bba982-aa07-4dcb-becb-1568021a94fc"
+    },
+    {
+      "id": "edea578f-7d47-46c3-a775-5ff49a60fe5d",
+      "set_code": "DDK",
+      "collector_number": "75",
+      "name": "Mountain",
+      "scryfall_id": "a4f4d8ac-a69f-436a-9f3e-be2d66b056ff"
+    },
+    {
+      "id": "43cab91c-434a-493a-af4e-972bf7f0edb9",
+      "set_code": "DDK",
+      "collector_number": "76",
+      "name": "Mountain",
+      "scryfall_id": "9db73fef-f5eb-4d98-aa11-117bbed46bbf"
+    },
+    {
+      "id": "983eb768-347b-4f48-aa19-b625aa7435eb",
+      "set_code": "DDK",
+      "collector_number": "77",
+      "name": "Mountain",
+      "scryfall_id": "88b6057d-19f6-4cf3-8d13-a5e9c7a9941d"
+    },
+    {
+      "id": "57fb4f31-8a5a-452f-96c1-fb2c86e844d2",
+      "set_code": "DDK",
+      "collector_number": "78",
+      "name": "Swamp",
+      "scryfall_id": "757d7085-fbd1-4343-b09a-5113d749c731"
+    },
+    {
+      "id": "464cf063-c3ca-4db3-8bc8-bc0ff8a671d5",
+      "set_code": "DDK",
+      "collector_number": "79",
+      "name": "Swamp",
+      "scryfall_id": "c706106e-f556-4ba5-98f1-c5536eb9a0b0"
+    },
+    {
+      "id": "d3682ac8-5882-4868-a80e-c9c66647bcb3",
+      "set_code": "DDK",
+      "collector_number": "80",
+      "name": "Swamp",
+      "scryfall_id": "183acdf0-bd08-4598-966d-426dea71583d"
+    }
+  ]
+}

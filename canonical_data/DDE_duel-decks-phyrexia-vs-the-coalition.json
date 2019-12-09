@@ -1,0 +1,505 @@
+{
+  "id": "044d472c-cc36-468d-a38f-adac4fc4c0f2",
+  "code": "DDE",
+  "name": "Duel Decks: Phyrexia vs. the Coalition",
+  "scryfall_id": "bf561626-56ca-4eb0-a2de-b84dbe7874f8",
+  "cards": [
+    {
+      "id": "08071c60-8974-4585-9be2-df458e825858",
+      "set_code": "DDE",
+      "collector_number": "1",
+      "name": "Phyrexian Negator",
+      "scryfall_id": "7b3543e0-c15f-4fed-9a68-8f590b40ab16"
+    },
+    {
+      "id": "f8a486a5-ed9d-45f4-8593-7aa771b27577",
+      "set_code": "DDE",
+      "collector_number": "2",
+      "name": "Carrion Feeder",
+      "scryfall_id": "083f4ccc-9cfc-44b1-af77-304b65bd878b"
+    },
+    {
+      "id": "9c57364a-e874-4de9-abdc-0afc913770f1",
+      "set_code": "DDE",
+      "collector_number": "3",
+      "name": "Phyrexian Battleflies",
+      "scryfall_id": "6aceeffd-f6d9-46ff-97f8-8accad49ff8d"
+    },
+    {
+      "id": "f33f46b8-9b30-4ff3-857e-ea962616d898",
+      "set_code": "DDE",
+      "collector_number": "4",
+      "name": "Phyrexian Denouncer",
+      "scryfall_id": "1444786c-fb9f-4398-b442-c7cfd6f1df40"
+    },
+    {
+      "id": "3d6f03d1-fc24-4414-b9d0-c2954eba39ee",
+      "set_code": "DDE",
+      "collector_number": "5",
+      "name": "Bone Shredder",
+      "scryfall_id": "83bd8fc0-21b8-45f9-ba09-78ca877ff532"
+    },
+    {
+      "id": "7a4593e6-2bf6-426e-b857-0c7238e6e7b1",
+      "set_code": "DDE",
+      "collector_number": "6",
+      "name": "Phyrexian Ghoul",
+      "scryfall_id": "249fea41-8378-4d6f-a49c-42037b8d219b"
+    },
+    {
+      "id": "19260740-7074-49cd-a7ab-9a7b700728c7",
+      "set_code": "DDE",
+      "collector_number": "7",
+      "name": "Priest of Gix",
+      "scryfall_id": "8cbc4c4c-f1f5-4593-9894-1d8715a2f2c1"
+    },
+    {
+      "id": "16f0f3a2-6e71-451a-a2c0-0bf82a9a3ee6",
+      "set_code": "DDE",
+      "collector_number": "8",
+      "name": "Phyrexian Broodlings",
+      "scryfall_id": "6f0579fb-f6a1-4304-82a6-b3e05e5e9b06"
+    },
+    {
+      "id": "08be0075-4c41-4d9b-a0fe-053fb26cb9f0",
+      "set_code": "DDE",
+      "collector_number": "9",
+      "name": "Sanguine Guard",
+      "scryfall_id": "2c1fa0c5-8eef-484e-9d5f-38e87d99ed73"
+    },
+    {
+      "id": "2f86be8b-c58a-4a1a-8e75-c70caf74b84d",
+      "set_code": "DDE",
+      "collector_number": "10",
+      "name": "Phyrexian Debaser",
+      "scryfall_id": "cd434b31-a92a-4e0e-aabd-4d3e77ff6dcc"
+    },
+    {
+      "id": "7acedb8b-64ca-4742-8677-20f8b946aaf0",
+      "set_code": "DDE",
+      "collector_number": "11",
+      "name": "Order of Yawgmoth",
+      "scryfall_id": "49e5ff9f-9ec9-4c96-b28f-938a2abd15bf"
+    },
+    {
+      "id": "8eace154-02aa-4194-acbb-0ef2ed2e46d4",
+      "set_code": "DDE",
+      "collector_number": "12",
+      "name": "Phyrexian Defiler",
+      "scryfall_id": "f4fc16e1-07d5-4e45-ab29-de526f43036c"
+    },
+    {
+      "id": "7f36b1d5-06c9-4b35-b105-a403ff9649c6",
+      "set_code": "DDE",
+      "collector_number": "13",
+      "name": "Phyrexian Plaguelord",
+      "scryfall_id": "a7d2e7fb-22a2-4f56-8772-bbbf7e491b9c"
+    },
+    {
+      "id": "d7771111-1404-4fb8-9d39-8d0534202360",
+      "set_code": "DDE",
+      "collector_number": "14",
+      "name": "Phyrexian Hulk",
+      "scryfall_id": "16b741c6-3c3b-433f-894e-481611c38a20"
+    },
+    {
+      "id": "07d00c3b-a88f-4d78-95e6-f510de8ae798",
+      "set_code": "DDE",
+      "collector_number": "15",
+      "name": "Phyrexian Gargantua",
+      "scryfall_id": "df109c9d-cbd4-4504-b71e-44486b5b20b3"
+    },
+    {
+      "id": "146a2d36-401e-4d7c-a9d4-13e1546853a1",
+      "set_code": "DDE",
+      "collector_number": "16",
+      "name": "Phyrexian Colossus",
+      "scryfall_id": "25ff2fcb-dcf4-41dc-8178-8e3f6c7839fa"
+    },
+    {
+      "id": "9f5db9bc-0554-4360-ab9f-8a4c9042aff6",
+      "set_code": "DDE",
+      "collector_number": "17",
+      "name": "Voltaic Key",
+      "scryfall_id": "4e1c9ab6-347b-4581-af79-d8105acb8aee"
+    },
+    {
+      "id": "dbe397f9-1bdc-41a3-a356-d5fb34eaceea",
+      "set_code": "DDE",
+      "collector_number": "18",
+      "name": "Dark Ritual",
+      "scryfall_id": "5f363f93-be79-46c6-9dee-987d31da157a"
+    },
+    {
+      "id": "24c5abe5-6e93-4bf3-aa19-335af41177be",
+      "set_code": "DDE",
+      "collector_number": "19",
+      "name": "Lightning Greaves",
+      "scryfall_id": "0d64fc93-aeb4-4f21-a794-71f38ac97ba8"
+    },
+    {
+      "id": "05241b74-895a-41d1-99d7-877565f356e5",
+      "set_code": "DDE",
+      "collector_number": "20",
+      "name": "Phyrexian Totem",
+      "scryfall_id": "31593a02-d026-4108-82e0-21ad5ff8c890"
+    },
+    {
+      "id": "5793cbd0-1b57-4240-85ed-7518a8201b57",
+      "set_code": "DDE",
+      "collector_number": "21",
+      "name": "Phyrexian Vault",
+      "scryfall_id": "e184c465-4f19-4054-b853-dbf8c2efb4aa"
+    },
+    {
+      "id": "050f2622-c53a-4f4d-8ff8-a04e1506d076",
+      "set_code": "DDE",
+      "collector_number": "22",
+      "name": "Puppet Strings",
+      "scryfall_id": "53e0bb82-c64a-4ae6-962a-7a0c45329159"
+    },
+    {
+      "id": "130f3b4e-97a1-4176-b387-7e5f77c32a64",
+      "set_code": "DDE",
+      "collector_number": "23",
+      "name": "Whispersilk Cloak",
+      "scryfall_id": "83a5ba81-1ea0-4cf2-95ba-9f3cbb91bbbb"
+    },
+    {
+      "id": "18768028-803f-4091-b217-0bce7bc6bd8f",
+      "set_code": "DDE",
+      "collector_number": "24",
+      "name": "Worn Powerstone",
+      "scryfall_id": "d4d228fc-2c46-4ded-b2b6-bcada5c24a4e"
+    },
+    {
+      "id": "133f2a15-8caa-4ca2-a0f2-01cac4f47dd2",
+      "set_code": "DDE",
+      "collector_number": "25",
+      "name": "Slay",
+      "scryfall_id": "94dcbf68-faa7-4fa1-be17-2f71a0f9ad5e"
+    },
+    {
+      "id": "77dd0fa5-bd8a-41c2-918f-8df4d14affed",
+      "set_code": "DDE",
+      "collector_number": "26",
+      "name": "Hideous End",
+      "scryfall_id": "519bf730-195c-4d3a-b80b-641b66ffc794"
+    },
+    {
+      "id": "72579d41-d62b-421d-bdd4-e87c029de57e",
+      "set_code": "DDE",
+      "collector_number": "27",
+      "name": "Phyrexian Arena",
+      "scryfall_id": "bcb4ba1d-7fbe-4173-902e-8d68c57a2622"
+    },
+    {
+      "id": "640df701-dcbc-4cc3-8ab5-936086b697c6",
+      "set_code": "DDE",
+      "collector_number": "28",
+      "name": "Hornet Cannon",
+      "scryfall_id": "a3ea39a8-48d1-4a58-8662-88841eabec92"
+    },
+    {
+      "id": "508a8997-a0f3-442a-b11a-b2a0c333bd23",
+      "set_code": "DDE",
+      "collector_number": "29",
+      "name": "Phyrexian Processor",
+      "scryfall_id": "04789161-f0a8-4ba5-832f-4d585c5117a6"
+    },
+    {
+      "id": "86845042-767f-463e-b4f6-8320cdd4fcb6",
+      "set_code": "DDE",
+      "collector_number": "30",
+      "name": "Tendrils of Corruption",
+      "scryfall_id": "75d33538-eff7-45a9-996a-f380a07d6026"
+    },
+    {
+      "id": "c78b73b2-0a68-4469-b1d3-b9ebdbd172e3",
+      "set_code": "DDE",
+      "collector_number": "31",
+      "name": "Living Death",
+      "scryfall_id": "902e75fd-f5d6-4102-9e9b-d8d05a97be86"
+    },
+    {
+      "id": "0f9cf250-769c-4777-a294-940b799d4c86",
+      "set_code": "DDE",
+      "collector_number": "32",
+      "name": "Swamp",
+      "scryfall_id": "81a8861a-ae60-4a1f-9b25-0bc080cfe3af"
+    },
+    {
+      "id": "9ec0af26-6764-471e-9b78-4efb8f95d3a0",
+      "set_code": "DDE",
+      "collector_number": "33",
+      "name": "Swamp",
+      "scryfall_id": "68c40a79-7213-42e2-b93e-d14f0cc5deef"
+    },
+    {
+      "id": "2f968cf8-8be0-49f7-b1f5-f638f7afb4ac",
+      "set_code": "DDE",
+      "collector_number": "34",
+      "name": "Swamp",
+      "scryfall_id": "b6787446-3a5b-4639-87f9-f605f59f4baf"
+    },
+    {
+      "id": "f6f587bf-217c-45be-a799-325958a9b9b1",
+      "set_code": "DDE",
+      "collector_number": "35",
+      "name": "Swamp",
+      "scryfall_id": "ce6966a1-cbf9-4ee9-9fa8-c72e0b1f24ff"
+    },
+    {
+      "id": "cb684901-1eec-43f1-90d6-bb6be4bc3724",
+      "set_code": "DDE",
+      "collector_number": "36",
+      "name": "Urza's Rage",
+      "scryfall_id": "774c52e2-b0d1-4b70-b6d1-bf98f6298603"
+    },
+    {
+      "id": "0fa5e73c-3500-4ec5-8a80-9756814181ed",
+      "set_code": "DDE",
+      "collector_number": "37",
+      "name": "Thornscape Apprentice",
+      "scryfall_id": "ef276e2e-7e4d-48a0-af51-70cd843c6561"
+    },
+    {
+      "id": "de2ddd8c-0f16-4cd0-bc25-9e57320e1454",
+      "set_code": "DDE",
+      "collector_number": "38",
+      "name": "Nomadic Elf",
+      "scryfall_id": "fc4a26f7-36df-4018-8dab-a1294c36b0f0"
+    },
+    {
+      "id": "bf947a84-db4b-4da6-a367-c3873417c5d0",
+      "set_code": "DDE",
+      "collector_number": "39",
+      "name": "Quirion Elves",
+      "scryfall_id": "74a39656-769f-4540-9a30-f637a8ec302e"
+    },
+    {
+      "id": "3fadb611-b0eb-4072-858b-0712071f2b3a",
+      "set_code": "DDE",
+      "collector_number": "40",
+      "name": "Sunscape Battlemage",
+      "scryfall_id": "679e3d63-8902-458e-a9a3-cefe14f6b415"
+    },
+    {
+      "id": "93cda335-e21d-4d0b-a0f3-117bb331e93e",
+      "set_code": "DDE",
+      "collector_number": "41",
+      "name": "Thunderscape Battlemage",
+      "scryfall_id": "ddb1475d-abee-4eec-8615-bf5e286afb4a"
+    },
+    {
+      "id": "d6155d8f-6818-49ff-94af-4a9dcd247cfd",
+      "set_code": "DDE",
+      "collector_number": "42",
+      "name": "Thornscape Battlemage",
+      "scryfall_id": "88866b39-3f43-44fb-a568-8547edc89fe2"
+    },
+    {
+      "id": "56c674aa-5171-4619-acc4-d64f094e674f",
+      "set_code": "DDE",
+      "collector_number": "43",
+      "name": "Verduran Emissary",
+      "scryfall_id": "cf0a1951-4482-4ba0-b29e-2091adde0628"
+    },
+    {
+      "id": "9fab1998-7677-4ef0-b57e-2f3c7b458272",
+      "set_code": "DDE",
+      "collector_number": "44",
+      "name": "Yavimaya Elder",
+      "scryfall_id": "34e8aaaa-0135-440f-9d73-042229f6abfe"
+    },
+    {
+      "id": "4127c912-3a07-4b57-9084-346ac1bbf8f8",
+      "set_code": "DDE",
+      "collector_number": "45",
+      "name": "Charging Troll",
+      "scryfall_id": "a3d4b427-7fef-4a56-91a4-89cfbd881c89"
+    },
+    {
+      "id": "119afbf7-e302-42e8-a9ef-2755ba82c77a",
+      "set_code": "DDE",
+      "collector_number": "46",
+      "name": "Gerrard Capashen",
+      "scryfall_id": "447c8c98-ac0e-4a12-a99e-f75d82b7a51f"
+    },
+    {
+      "id": "63b67ebe-863c-4ac5-a8b1-bee660c143ec",
+      "set_code": "DDE",
+      "collector_number": "47",
+      "name": "Darigaaz, the Igniter",
+      "scryfall_id": "942acc59-3644-47be-80ab-fc8f27626aa3"
+    },
+    {
+      "id": "d0f8f034-6670-4323-8fe1-c50ff81af576",
+      "set_code": "DDE",
+      "collector_number": "48",
+      "name": "Rith, the Awakener",
+      "scryfall_id": "822bb102-58a8-47c7-ab44-6fef29885425"
+    },
+    {
+      "id": "efe0b5d5-d5c9-4ec5-aa23-d22cd8789ed5",
+      "set_code": "DDE",
+      "collector_number": "49",
+      "name": "Treva, the Renewer",
+      "scryfall_id": "74ee66b2-5b69-461b-9590-1143adc692af"
+    },
+    {
+      "id": "5618e243-65ac-42a3-99df-f2cee75977cc",
+      "set_code": "DDE",
+      "collector_number": "50",
+      "name": "Evasive Action",
+      "scryfall_id": "d8fad630-bd1c-42df-86b5-cc00da28abfd"
+    },
+    {
+      "id": "131190ed-abfd-4670-b530-dbf8db30521b",
+      "set_code": "DDE",
+      "collector_number": "51",
+      "name": "Tribal Flames",
+      "scryfall_id": "d041ec68-89cc-41bb-8339-2d785bc08357"
+    },
+    {
+      "id": "7c5048d5-889a-4761-8837-5238c44b4bb8",
+      "set_code": "DDE",
+      "collector_number": "52",
+      "name": "Fertile Ground",
+      "scryfall_id": "7014841f-c3ad-4ce1-b008-e7410002be6f"
+    },
+    {
+      "id": "a7601023-1c08-484e-b503-0064a53b66b4",
+      "set_code": "DDE",
+      "collector_number": "53",
+      "name": "Gerrard's Command",
+      "scryfall_id": "cdb56601-35dd-4b79-80d1-1dff785e32cd"
+    },
+    {
+      "id": "3ae62aa3-9777-4df8-9547-cd68c70996f3",
+      "set_code": "DDE",
+      "collector_number": "54",
+      "name": "Coalition Relic",
+      "scryfall_id": "73f27b75-d400-46fd-acec-6b55a1e801ee"
+    },
+    {
+      "id": "977d56bb-28b3-42ae-9fa5-60ae17d4e031",
+      "set_code": "DDE",
+      "collector_number": "55",
+      "name": "Narrow Escape",
+      "scryfall_id": "c730b0c4-e8cf-4c6f-b65c-faebf508fc3c"
+    },
+    {
+      "id": "80dae08f-db12-4058-b336-35d924558ca1",
+      "set_code": "DDE",
+      "collector_number": "56",
+      "name": "Exotic Curse",
+      "scryfall_id": "1eff81c4-c402-437d-aace-dfe875d9857d"
+    },
+    {
+      "id": "4831736b-9889-4e33-ad95-b016f3b9bc20",
+      "set_code": "DDE",
+      "collector_number": "57",
+      "name": "Harrow",
+      "scryfall_id": "d81fcdf6-2af2-4454-b73c-e98739339c1a"
+    },
+    {
+      "id": "6969207d-6d61-4e37-8773-d5fce90f3054",
+      "set_code": "DDE",
+      "collector_number": "58",
+      "name": "Armadillo Cloak",
+      "scryfall_id": "679ba4c8-ea53-4e1f-a85d-76a5dfa5bc2c"
+    },
+    {
+      "id": "bfd9ac1d-41f0-4d5d-acdb-c37a329d96af",
+      "set_code": "DDE",
+      "collector_number": "59",
+      "name": "Darigaaz's Charm",
+      "scryfall_id": "928af23d-1558-4d20-8841-554a327db861"
+    },
+    {
+      "id": "f3bb3759-d3d0-445a-9658-90c2eecd5730",
+      "set_code": "DDE",
+      "collector_number": "60",
+      "name": "Rith's Charm",
+      "scryfall_id": "0a353fed-e01c-4eaf-afb5-446644628284"
+    },
+    {
+      "id": "9d4aad6e-edc3-4641-8d64-36ce42e18252",
+      "set_code": "DDE",
+      "collector_number": "61",
+      "name": "Treva's Charm",
+      "scryfall_id": "f63c6e81-8d78-4f20-b572-6015385e03ba"
+    },
+    {
+      "id": "be024525-c184-4e32-91fe-bf4e4b787701",
+      "set_code": "DDE",
+      "collector_number": "62",
+      "name": "Power Armor",
+      "scryfall_id": "20bc8710-3d56-45fb-81e7-383a274a2374"
+    },
+    {
+      "id": "b7282731-b083-45a1-8482-fa5a75e6abc2",
+      "set_code": "DDE",
+      "collector_number": "63",
+      "name": "Allied Strategies",
+      "scryfall_id": "2dea7475-af87-4cee-bfdc-804351a632b5"
+    },
+    {
+      "id": "b6443389-64d4-4e2c-98a2-61fa3f319cd9",
+      "set_code": "DDE",
+      "collector_number": "64",
+      "name": "Elfhame Palace",
+      "scryfall_id": "f784ffb4-b460-4a61-b1ac-4b25efbfc056"
+    },
+    {
+      "id": "fff9e7bc-2601-4eb5-8655-0133841da37d",
+      "set_code": "DDE",
+      "collector_number": "65",
+      "name": "Shivan Oasis",
+      "scryfall_id": "6d11de19-fb40-4dc6-ad61-3b7e95163c0b"
+    },
+    {
+      "id": "c99c8877-6d91-4499-bb97-e8467f9b5b77",
+      "set_code": "DDE",
+      "collector_number": "66",
+      "name": "Terramorphic Expanse",
+      "scryfall_id": "c842d45c-9f15-404f-9cd6-9b68a68fb2e7"
+    },
+    {
+      "id": "2709c152-1c64-4875-91e9-6a644fca7da4",
+      "set_code": "DDE",
+      "collector_number": "67",
+      "name": "Plains",
+      "scryfall_id": "c8409f3e-aa2d-4ee0-b9e8-97c03aff5eff"
+    },
+    {
+      "id": "090321ef-6d56-4d40-9767-9f26bea36903",
+      "set_code": "DDE",
+      "collector_number": "68",
+      "name": "Island",
+      "scryfall_id": "83415cd2-7805-450b-be38-99ca0cbb4fea"
+    },
+    {
+      "id": "78ed9e9b-603c-42bb-be0a-e42d0313f791",
+      "set_code": "DDE",
+      "collector_number": "69",
+      "name": "Mountain",
+      "scryfall_id": "cf0725c1-2b83-406e-8a19-0b9d159c8614"
+    },
+    {
+      "id": "cb646f7e-0644-472e-b8db-ca3f6833ba60",
+      "set_code": "DDE",
+      "collector_number": "70",
+      "name": "Forest",
+      "scryfall_id": "c931df5b-650a-4640-b4fa-7c883db1aed9"
+    },
+    {
+      "id": "70db3dab-940c-4f61-9e2e-5dc37e29e9d5",
+      "set_code": "DDE",
+      "collector_number": "71",
+      "name": "Forest",
+      "scryfall_id": "b275edcf-51dc-4dba-be25-875356a05074"
+    }
+  ]
+}

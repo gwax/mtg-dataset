@@ -1,0 +1,386 @@
+{
+  "id": "8d077843-f4c1-4428-83e9-e4f5b5a8c35c",
+  "code": "MP2",
+  "name": "Amonkhet Invocations",
+  "scryfall_id": "c26402e7-838e-48db-a4b2-7abfc305998a",
+  "cards": [
+    {
+      "id": "680fed53-d25b-42fd-8bc8-6eaabccae684",
+      "set_code": "MP2",
+      "collector_number": "1",
+      "name": "Austere Command",
+      "scryfall_id": "dbbf55bc-6bb3-458a-8cf0-1f603bb2acb3"
+    },
+    {
+      "id": "b9c0bc73-a246-430d-a7d2-74ecff64e307",
+      "set_code": "MP2",
+      "collector_number": "2",
+      "name": "Aven Mindcensor",
+      "scryfall_id": "58bb576b-8ec9-49ed-bacb-d8b42ba2e787"
+    },
+    {
+      "id": "f06bddae-7985-4b89-98b7-a4c71442ead8",
+      "set_code": "MP2",
+      "collector_number": "3",
+      "name": "Containment Priest",
+      "scryfall_id": "bd9a01b1-15a1-4590-8700-fbd4872c0bf9"
+    },
+    {
+      "id": "c4a2a568-5d43-445b-a285-41ee53d1e5a8",
+      "set_code": "MP2",
+      "collector_number": "4",
+      "name": "Loyal Retainers",
+      "scryfall_id": "6d80f9af-e841-4d38-9136-367153fdd2a5"
+    },
+    {
+      "id": "20737b64-8919-4239-affe-db5887ec1974",
+      "set_code": "MP2",
+      "collector_number": "5",
+      "name": "Oketra the True",
+      "scryfall_id": "b3aa8c17-e37e-430e-a940-d016c4ab5852"
+    },
+    {
+      "id": "4c7f2310-a57d-4bca-9413-4c6ebad0b5b5",
+      "set_code": "MP2",
+      "collector_number": "6",
+      "name": "Worship",
+      "scryfall_id": "d64f89e7-a91b-4c67-bc64-8b6f03820a4d"
+    },
+    {
+      "id": "bdf1f365-334f-46dc-9e0d-37e76f012b2f",
+      "set_code": "MP2",
+      "collector_number": "7",
+      "name": "Wrath of God",
+      "scryfall_id": "4351bf97-0b9e-44a5-bb7c-1098a683b18d"
+    },
+    {
+      "id": "c6f5b31c-7ff4-4299-b2a9-99c1dac426a5",
+      "set_code": "MP2",
+      "collector_number": "8",
+      "name": "Consecrated Sphinx",
+      "scryfall_id": "da566bc8-6350-481d-99aa-9cea76da2a56"
+    },
+    {
+      "id": "8d2fb372-54de-4fd8-b84c-8d0d4ff543a8",
+      "set_code": "MP2",
+      "collector_number": "9",
+      "name": "Counterbalance",
+      "scryfall_id": "3f4a8acd-1d49-4fa7-a88e-83cfe741de89"
+    },
+    {
+      "id": "496fc36d-5429-45d3-ac81-3680589e46ec",
+      "set_code": "MP2",
+      "collector_number": "10",
+      "name": "Counterspell",
+      "scryfall_id": "3126d20f-1082-4ebc-b2fa-b12be3ba1bac"
+    },
+    {
+      "id": "8e046e3e-6976-44ec-9bd1-fbedc9d05cea",
+      "set_code": "MP2",
+      "collector_number": "11",
+      "name": "Cryptic Command",
+      "scryfall_id": "a2a384c1-a05f-4f00-bd77-f897d9819971"
+    },
+    {
+      "id": "c6a9ffb4-c4f0-4e41-bf83-9698951a4740",
+      "set_code": "MP2",
+      "collector_number": "12",
+      "name": "Daze",
+      "scryfall_id": "a9b037f1-3298-4ba8-92a8-0843f6e497d7"
+    },
+    {
+      "id": "ba6688d9-d434-449c-aa0a-82bcf07118a1",
+      "set_code": "MP2",
+      "collector_number": "13",
+      "name": "Divert",
+      "scryfall_id": "0251408a-aa3c-45f6-8012-822355a6ec25"
+    },
+    {
+      "id": "2f35ca85-b0db-4e12-99fe-9ac28856a87c",
+      "set_code": "MP2",
+      "collector_number": "14",
+      "name": "Force of Will",
+      "scryfall_id": "026983a4-03ca-4812-b129-5ea523596942"
+    },
+    {
+      "id": "88daaa49-5edc-4b58-aa2b-99211d589966",
+      "set_code": "MP2",
+      "collector_number": "15",
+      "name": "Kefnet the Mindful",
+      "scryfall_id": "ef2d627d-60ec-4f68-bdfd-086841483b18"
+    },
+    {
+      "id": "85f7cf57-7931-4873-92c6-80a67250c520",
+      "set_code": "MP2",
+      "collector_number": "16",
+      "name": "Pact of Negation",
+      "scryfall_id": "3ab90299-547a-4538-a31c-f55afab10c50"
+    },
+    {
+      "id": "844496cf-c8f5-4603-a0af-f8a96b012159",
+      "set_code": "MP2",
+      "collector_number": "17",
+      "name": "Spell Pierce",
+      "scryfall_id": "eef1f68a-b27c-4e81-9a3c-dccb86771bec"
+    },
+    {
+      "id": "40fb2c1e-b3fd-4e3f-8fef-4355833bdb7f",
+      "set_code": "MP2",
+      "collector_number": "18",
+      "name": "Stifle",
+      "scryfall_id": "ea24228f-da16-46eb-9dcf-a377286b6168"
+    },
+    {
+      "id": "6af6ba0f-58ab-4bd9-ac61-e0ecd0171dda",
+      "set_code": "MP2",
+      "collector_number": "19",
+      "name": "Attrition",
+      "scryfall_id": "948bcca4-6e7a-4884-82f8-21926db8bdd5"
+    },
+    {
+      "id": "3073aa80-c63b-45cf-8c46-1ac8f13b8405",
+      "set_code": "MP2",
+      "collector_number": "20",
+      "name": "Bontu the Glorified",
+      "scryfall_id": "57ebd0f2-3f5b-48ef-a530-ea6f667ee195"
+    },
+    {
+      "id": "86f4e4bb-ee40-42e5-a4dc-64cd2ff2db1f",
+      "set_code": "MP2",
+      "collector_number": "21",
+      "name": "Dark Ritual",
+      "scryfall_id": "2bbcbe12-b615-47e6-8b6b-c59f92f16c3d"
+    },
+    {
+      "id": "f34d1d77-0b39-431e-896c-81c24c1e0043",
+      "set_code": "MP2",
+      "collector_number": "22",
+      "name": "Diabolic Intent",
+      "scryfall_id": "6b34a328-8d6a-4baf-99de-c8b050b23e10"
+    },
+    {
+      "id": "3092ae49-0268-4e28-a2ae-da819dbd67e3",
+      "set_code": "MP2",
+      "collector_number": "23",
+      "name": "Entomb",
+      "scryfall_id": "466d6254-4d5c-4f66-a018-eb4a3ec1881c"
+    },
+    {
+      "id": "012060a6-ab76-4a6c-983f-edff0b7329fb",
+      "set_code": "MP2",
+      "collector_number": "24",
+      "name": "Mind Twist",
+      "scryfall_id": "5dd68790-cd9a-4527-8e53-798822ee2c6c"
+    },
+    {
+      "id": "a9455856-9399-4f8c-920b-a80bd0f3b27b",
+      "set_code": "MP2",
+      "collector_number": "25",
+      "name": "Aggravated Assault",
+      "scryfall_id": "6bcaa16c-4841-4962-88ca-b17175189e5c"
+    },
+    {
+      "id": "2e788a6a-7897-41cc-9d39-ce0da260c9cb",
+      "set_code": "MP2",
+      "collector_number": "26",
+      "name": "Chain Lightning",
+      "scryfall_id": "14bd3d19-033e-41a7-8710-02b73ba0b4e4"
+    },
+    {
+      "id": "fd65041a-bf96-4096-a524-a0ab6c543aed",
+      "set_code": "MP2",
+      "collector_number": "27",
+      "name": "Hazoret the Fervent",
+      "scryfall_id": "f582e3c3-c329-40bb-9ffb-c4812a7aedd5"
+    },
+    {
+      "id": "3bf285af-6da1-4c4d-b69c-99aa0fc08a3e",
+      "set_code": "MP2",
+      "collector_number": "28",
+      "name": "Rhonas the Indomitable",
+      "scryfall_id": "453d854c-5092-4e00-a388-499353f246c3"
+    },
+    {
+      "id": "0d1778be-ba84-4453-a8e0-1a90e7f1688d",
+      "set_code": "MP2",
+      "collector_number": "29",
+      "name": "Maelstrom Pulse",
+      "scryfall_id": "e2d85423-ebd8-4a6e-aedf-90e52f918764"
+    },
+    {
+      "id": "29934331-7a32-4121-b6ce-a8e06983c704",
+      "set_code": "MP2",
+      "collector_number": "30",
+      "name": "Vindicate",
+      "scryfall_id": "97aeb745-5b98-4240-a1a8-861c06d616cc"
+    },
+    {
+      "id": "987a44cf-988e-47a2-984e-181bd303ec20",
+      "set_code": "MP2",
+      "collector_number": "31",
+      "name": "Armageddon",
+      "scryfall_id": "685dcf04-1453-4db5-b81b-9ef9a444ed71"
+    },
+    {
+      "id": "e0344099-d556-47f5-9bfd-69eab8face32",
+      "set_code": "MP2",
+      "collector_number": "32",
+      "name": "Capsize",
+      "scryfall_id": "122c819d-2b13-49af-92dc-af96d4de45de"
+    },
+    {
+      "id": "b7f09292-512e-4ad6-a1c4-092d07146d0d",
+      "set_code": "MP2",
+      "collector_number": "33",
+      "name": "Forbid",
+      "scryfall_id": "14a9cc52-a45b-4cde-8aff-d672b35c3118"
+    },
+    {
+      "id": "a5c5d9c0-557e-4864-8e5d-026f651871d7",
+      "set_code": "MP2",
+      "collector_number": "34",
+      "name": "Omniscience",
+      "scryfall_id": "5b04f5e9-6728-45be-af2e-b2584cb67e1c"
+    },
+    {
+      "id": "19528a2f-2d30-40b4-a683-34d14f45ebe8",
+      "set_code": "MP2",
+      "collector_number": "35",
+      "name": "Opposition",
+      "scryfall_id": "07574b6a-de37-42a4-8584-2e3f440315be"
+    },
+    {
+      "id": "31955a1d-c237-4555-8a3d-3329822d6f6f",
+      "set_code": "MP2",
+      "collector_number": "36",
+      "name": "Sunder",
+      "scryfall_id": "30053742-35e4-4ae0-a90e-d687a5f298d9"
+    },
+    {
+      "id": "86018833-b7e2-42b7-bd21-454964075c8d",
+      "set_code": "MP2",
+      "collector_number": "37",
+      "name": "Threads of Disloyalty",
+      "scryfall_id": "d827178a-dba3-4036-a0a8-50200d377d56"
+    },
+    {
+      "id": "112692b7-e87b-4e0c-bc26-15a25f04e7e1",
+      "set_code": "MP2",
+      "collector_number": "38",
+      "name": "Avatar of Woe",
+      "scryfall_id": "34c9ef22-ea59-4bf6-b8b6-29e83e9a8e57"
+    },
+    {
+      "id": "a4a1cb19-1d47-48b2-b6b2-b7ab86d44d63",
+      "set_code": "MP2",
+      "collector_number": "39",
+      "name": "Damnation",
+      "scryfall_id": "c916a119-9eee-440d-90ef-05ab35bf3fbe"
+    },
+    {
+      "id": "a15cd7e3-5c29-4c61-9576-09711b0096bb",
+      "set_code": "MP2",
+      "collector_number": "40",
+      "name": "Desolation Angel",
+      "scryfall_id": "92874f7e-504f-4320-bc44-f626ddffe641"
+    },
+    {
+      "id": "9ae53709-cd30-4793-98ba-5c0a675e4583",
+      "set_code": "MP2",
+      "collector_number": "41",
+      "name": "Diabolic Edict",
+      "scryfall_id": "f6986173-56e2-41d8-9387-ab86721ed92e"
+    },
+    {
+      "id": "b37c2e0d-4bb7-4513-9d6b-eefc22792a01",
+      "set_code": "MP2",
+      "collector_number": "42",
+      "name": "Doomsday",
+      "scryfall_id": "0e14c264-d2ce-414c-b2aa-4d3e1433d5a7"
+    },
+    {
+      "id": "91cd39c0-bd74-4daf-960a-d6a75c9ec666",
+      "set_code": "MP2",
+      "collector_number": "43",
+      "name": "No Mercy",
+      "scryfall_id": "96af17e0-91fa-4b99-8313-9dabea8685ea"
+    },
+    {
+      "id": "a67a1811-cc34-4ff9-affe-4ea9e3aa3288",
+      "set_code": "MP2",
+      "collector_number": "44",
+      "name": "Slaughter Pact",
+      "scryfall_id": "bc8475bd-bdd4-421c-ace7-c6262f7405ce"
+    },
+    {
+      "id": "aca1e5bf-8cf3-4444-895f-4b0d47429f09",
+      "set_code": "MP2",
+      "collector_number": "45",
+      "name": "Thoughtseize",
+      "scryfall_id": "ea5ec419-8392-4f1b-9557-5404ba632bf1"
+    },
+    {
+      "id": "cbcd97cf-398b-4e67-821f-539f26caec19",
+      "set_code": "MP2",
+      "collector_number": "46",
+      "name": "Blood Moon",
+      "scryfall_id": "547e80f7-7ec3-4c72-ad51-3245d429af3c"
+    },
+    {
+      "id": "0fcad0cd-b2fb-47a4-86f7-ad166b123e71",
+      "set_code": "MP2",
+      "collector_number": "47",
+      "name": "Boil",
+      "scryfall_id": "f84e0bcd-13f5-41c9-aa7b-06ef4cf8543a"
+    },
+    {
+      "id": "a2d7e797-621a-4d14-8ff9-88b4544ec4e6",
+      "set_code": "MP2",
+      "collector_number": "48",
+      "name": "Shatterstorm",
+      "scryfall_id": "9378ca0c-72b6-4020-8bb6-ea2b7581887a"
+    },
+    {
+      "id": "5bd219a0-7691-4f90-84d0-b5fd8a6d93e5",
+      "set_code": "MP2",
+      "collector_number": "49",
+      "name": "Through the Breach",
+      "scryfall_id": "789196df-143d-4a60-a8e4-5bdcfdfd7ba8"
+    },
+    {
+      "id": "a2c7fd10-00f9-4215-9c9f-c35563d15177",
+      "set_code": "MP2",
+      "collector_number": "50",
+      "name": "Choke",
+      "scryfall_id": "f4b586d8-3b8a-46ed-b2c3-b257bbbaf882"
+    },
+    {
+      "id": "d5c5c1d9-876f-48ce-9eb4-eaf4eeb4e93c",
+      "set_code": "MP2",
+      "collector_number": "51",
+      "name": "The Locust God",
+      "scryfall_id": "cba0603a-37aa-47b5-bfda-6be2c0138f03"
+    },
+    {
+      "id": "4f648596-2ef6-40c8-9a9f-72d84cce10da",
+      "set_code": "MP2",
+      "collector_number": "52",
+      "name": "Lord of Extinction",
+      "scryfall_id": "c1a7890c-4b93-4181-900f-d95aeb6a8db3"
+    },
+    {
+      "id": "66c1de44-109a-4a8b-b89d-36567f2894cd",
+      "set_code": "MP2",
+      "collector_number": "53",
+      "name": "The Scarab God",
+      "scryfall_id": "456b330e-5ff7-4192-bc6f-2f2b4654bee7"
+    },
+    {
+      "id": "fd9707e8-09f5-4c10-9aa9-ba48d5f28e8c",
+      "set_code": "MP2",
+      "collector_number": "54",
+      "name": "The Scorpion God",
+      "scryfall_id": "f3653b53-1f68-4443-813f-58930f3c2715"
+    }
+  ]
+}

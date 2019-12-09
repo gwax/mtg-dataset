@@ -1,0 +1,1058 @@
+{
+  "id": "343ba42c-59b0-4751-9985-d7b60a45f1f8",
+  "code": "ARC",
+  "name": "Archenemy",
+  "scryfall_id": "8bc5ec64-18d5-4c81-96a1-8f619d81a019",
+  "cards": [
+    {
+      "id": "6cd85372-3116-4118-b6de-300572596f70",
+      "set_code": "ARC",
+      "collector_number": "1",
+      "name": "Leonin Abunas",
+      "scryfall_id": "9d26f171-5bb6-463c-8473-53b6cc27ed66"
+    },
+    {
+      "id": "e93522e5-0971-46e7-91dd-598243ad9fdd",
+      "set_code": "ARC",
+      "collector_number": "2",
+      "name": "Metallurgeon",
+      "scryfall_id": "8667b405-b871-4d66-936a-55569ac7d682"
+    },
+    {
+      "id": "12957201-2923-4bdc-bd1b-fb64f916fb20",
+      "set_code": "ARC",
+      "collector_number": "3",
+      "name": "Oblivion Ring",
+      "scryfall_id": "e2083354-a406-42c8-991a-27cc37d18694"
+    },
+    {
+      "id": "2af8492e-665c-432b-a2f7-b722b067b340",
+      "set_code": "ARC",
+      "collector_number": "4",
+      "name": "Path to Exile",
+      "scryfall_id": "a9851a6e-a8be-4c1f-9e44-4bdf06d9d010"
+    },
+    {
+      "id": "0a0fcada-c109-4e06-9b42-36b68a148494",
+      "set_code": "ARC",
+      "collector_number": "5",
+      "name": "Sanctum Gargoyle",
+      "scryfall_id": "a86f4a05-dc07-4247-9958-afa3c3969f6f"
+    },
+    {
+      "id": "93dcbe65-cf64-4b1a-8c9a-f5433bdca7cf",
+      "set_code": "ARC",
+      "collector_number": "6",
+      "name": "March of the Machines",
+      "scryfall_id": "3245f858-b5c3-42dd-8ec2-3f775ad9e1ec"
+    },
+    {
+      "id": "7a4c5b81-a8b0-451c-abbc-25708fcd48a0",
+      "set_code": "ARC",
+      "collector_number": "7",
+      "name": "Master Transmuter",
+      "scryfall_id": "ca2bb35a-2a76-4fee-8111-e312b6d7f6f9"
+    },
+    {
+      "id": "80c0c2ab-5132-455e-8c55-33dc65754fdc",
+      "set_code": "ARC",
+      "collector_number": "8",
+      "name": "Spin into Myth",
+      "scryfall_id": "8997e542-bcce-4fd3-af78-4b520b64c026"
+    },
+    {
+      "id": "241b4b54-db87-4f45-a477-10e90a1f56b2",
+      "set_code": "ARC",
+      "collector_number": "9",
+      "name": "Avatar of Woe",
+      "scryfall_id": "d47e0d1b-2f0e-4fd5-b9bd-7efd8d2f3f44"
+    },
+    {
+      "id": "3246f106-d049-4c0d-b8a6-afa731c188f0",
+      "set_code": "ARC",
+      "collector_number": "10",
+      "name": "Beacon of Unrest",
+      "scryfall_id": "126d5e91-c0c3-4b41-85d1-76508eec5016"
+    },
+    {
+      "id": "6573f886-e148-4b92-a7fc-012ef7ae3002",
+      "set_code": "ARC",
+      "collector_number": "11",
+      "name": "Bog Witch",
+      "scryfall_id": "92662394-c31d-4348-9b9c-0fe619949ea3"
+    },
+    {
+      "id": "784997e1-4249-4cc9-8cbc-3f68ca4d8dcc",
+      "set_code": "ARC",
+      "collector_number": "12",
+      "name": "Cemetery Reaper",
+      "scryfall_id": "d51634e0-84ee-4432-9ef4-c3f3cff01647"
+    },
+    {
+      "id": "2daae575-56f0-4440-a659-dd345ced5e6b",
+      "set_code": "ARC",
+      "collector_number": "13",
+      "name": "Corpse Connoisseur",
+      "scryfall_id": "4c26ff33-4f9c-48e9-be0e-b23384708c28"
+    },
+    {
+      "id": "c5bf487f-48c9-4567-9112-58c9d7befa04",
+      "set_code": "ARC",
+      "collector_number": "14",
+      "name": "Dregscape Zombie",
+      "scryfall_id": "3b8dc03e-76ec-4544-9c3b-e14e28641611"
+    },
+    {
+      "id": "bfcee7a4-75be-411f-9ea5-c442c672e0bc",
+      "set_code": "ARC",
+      "collector_number": "15",
+      "name": "Extractor Demon",
+      "scryfall_id": "d062d1b5-8c9d-44cf-958c-af212e37bf91"
+    },
+    {
+      "id": "8e9cddef-bf0d-4da6-8f6e-7c14600ddb76",
+      "set_code": "ARC",
+      "collector_number": "16",
+      "name": "Festering Goblin",
+      "scryfall_id": "91a72283-0748-4a9e-b918-e1ab1fd3c677"
+    },
+    {
+      "id": "33a7e837-d590-4e18-bb11-4cf398589f7a",
+      "set_code": "ARC",
+      "collector_number": "17",
+      "name": "Incremental Blight",
+      "scryfall_id": "bacfdba6-93df-438c-988f-ca3c6dbfeb08"
+    },
+    {
+      "id": "f405e48a-6f2d-4603-8992-43777a65939f",
+      "set_code": "ARC",
+      "collector_number": "18",
+      "name": "Infectious Horror",
+      "scryfall_id": "0cf8dc63-98d4-487a-96f8-d1a125cc87e3"
+    },
+    {
+      "id": "6df32d5d-708a-4584-8901-3ceb277dffb0",
+      "set_code": "ARC",
+      "collector_number": "19",
+      "name": "Infest",
+      "scryfall_id": "ddc3fb0d-53a6-4a03-a927-c64723ebd7ef"
+    },
+    {
+      "id": "2ad4a5bb-223a-44a9-a850-c0676b8e4e91",
+      "set_code": "ARC",
+      "collector_number": "20",
+      "name": "Makeshift Mannequin",
+      "scryfall_id": "89dfcad2-a737-405b-b3df-9583e6f0dd54"
+    },
+    {
+      "id": "eff1e490-1a36-4a32-9d6a-3b2335376397",
+      "set_code": "ARC",
+      "collector_number": "21",
+      "name": "Reanimate",
+      "scryfall_id": "bee3dad4-88d8-424c-b3f8-d089b6891fb8"
+    },
+    {
+      "id": "4ceb738b-2fd4-4fec-9af5-ac8b77f27bf7",
+      "set_code": "ARC",
+      "collector_number": "22",
+      "name": "Reassembling Skeleton",
+      "scryfall_id": "655f983e-3b23-48ee-89d5-d01d469d5a6f"
+    },
+    {
+      "id": "0f0b5416-8bb5-4dc4-9ba4-f6c40517bcbf",
+      "set_code": "ARC",
+      "collector_number": "23",
+      "name": "Scion of Darkness",
+      "scryfall_id": "fe179672-87c0-4ca9-88f8-d432542b3289"
+    },
+    {
+      "id": "41a4e05c-fa29-4f12-a83c-5f6b1a3e46bc",
+      "set_code": "ARC",
+      "collector_number": "24",
+      "name": "Shriekmaw",
+      "scryfall_id": "133c5079-0cd7-445a-9256-08f0c4ebe462"
+    },
+    {
+      "id": "0ee17c06-69c3-42d8-8459-0cc30bb57a71",
+      "set_code": "ARC",
+      "collector_number": "25",
+      "name": "Sign in Blood",
+      "scryfall_id": "4c9dc6ff-e833-4826-96ac-01d54aed9b82"
+    },
+    {
+      "id": "fcea2338-fec5-4ed0-be7f-9d7ad36e39e4",
+      "set_code": "ARC",
+      "collector_number": "26",
+      "name": "Twisted Abomination",
+      "scryfall_id": "307cdd12-6fe0-4ee4-a7bf-d40cf4af2917"
+    },
+    {
+      "id": "be7f478a-472b-4f3b-84e6-97d434edea10",
+      "set_code": "ARC",
+      "collector_number": "27",
+      "name": "Urborg Syphon-Mage",
+      "scryfall_id": "dba37d3d-96fe-4c42-88a5-5c4198007194"
+    },
+    {
+      "id": "d4da93fc-4588-4dd4-a06e-8fce1948f025",
+      "set_code": "ARC",
+      "collector_number": "28",
+      "name": "Zombie Infestation",
+      "scryfall_id": "e1078bef-8caf-4dc5-a055-e64314501b23"
+    },
+    {
+      "id": "8d26ae2f-2185-4492-9eb4-0179d4bd16bf",
+      "set_code": "ARC",
+      "collector_number": "29",
+      "name": "Zombify",
+      "scryfall_id": "caa1609c-1609-449a-9ab5-c259568c4fcc"
+    },
+    {
+      "id": "d550e45f-0878-40df-8d77-ee36fa83c3a1",
+      "set_code": "ARC",
+      "collector_number": "30",
+      "name": "Battering Craghorn",
+      "scryfall_id": "69786e07-1b2c-4af9-82f1-222fb9fb4e85"
+    },
+    {
+      "id": "f65ea75e-5fa2-4b8c-8ab5-dae835eb8c58",
+      "set_code": "ARC",
+      "collector_number": "31",
+      "name": "Breath of Darigaaz",
+      "scryfall_id": "1030a4d6-9feb-41a9-be1a-e09e0558e81d"
+    },
+    {
+      "id": "3e9f4228-385f-4d3e-b433-d16e8377f358",
+      "set_code": "ARC",
+      "collector_number": "32",
+      "name": "Chandra's Outrage",
+      "scryfall_id": "3282db18-8564-418e-8c26-62e610b160f2"
+    },
+    {
+      "id": "0946a788-1e72-49f9-903a-17d6eedd5b4c",
+      "set_code": "ARC",
+      "collector_number": "33",
+      "name": "Dragon Breath",
+      "scryfall_id": "8dee86ec-0d7e-4c8e-9fb0-ab17e091dd4d"
+    },
+    {
+      "id": "1c0b5fbc-1eff-4317-a0c9-0c45e1d812d9",
+      "set_code": "ARC",
+      "collector_number": "34",
+      "name": "Dragon Fodder",
+      "scryfall_id": "0e164d00-4e82-420d-8260-cf6d2db8c811"
+    },
+    {
+      "id": "fc5123fb-0532-4173-94fc-628aa319e3f1",
+      "set_code": "ARC",
+      "collector_number": "35",
+      "name": "Dragon Whelp",
+      "scryfall_id": "69ed9113-8d3d-4609-be06-fed3f366e004"
+    },
+    {
+      "id": "d14f5446-5d59-4d28-827c-b178121e6ccc",
+      "set_code": "ARC",
+      "collector_number": "36",
+      "name": "Dragonspeaker Shaman",
+      "scryfall_id": "6205a849-f70d-4ba8-95e2-7789fcb5d5f2"
+    },
+    {
+      "id": "c9eb465f-1c83-4433-afb9-278709da5407",
+      "set_code": "ARC",
+      "collector_number": "37",
+      "name": "Fireball",
+      "scryfall_id": "c463b755-cdb9-49c5-a458-50ec1fac8b3c"
+    },
+    {
+      "id": "f57e5217-32be-47ed-82ae-35b6dfb7028a",
+      "set_code": "ARC",
+      "collector_number": "38",
+      "name": "Flameblast Dragon",
+      "scryfall_id": "6fc2865c-8760-433a-b251-aa5c515fa61f"
+    },
+    {
+      "id": "3843e074-d99d-4807-a1fc-ce083fcd325c",
+      "set_code": "ARC",
+      "collector_number": "39",
+      "name": "Furnace Whelp",
+      "scryfall_id": "9dd3ee2b-581d-4f7f-bba0-840910cb74ab"
+    },
+    {
+      "id": "2424b43e-7580-4abf-af0c-a06d423e0a76",
+      "set_code": "ARC",
+      "collector_number": "40",
+      "name": "Gathan Raiders",
+      "scryfall_id": "180c5f5e-95b7-4b83-9051-eb64a3b9defc"
+    },
+    {
+      "id": "783a727b-98db-4ffa-a172-1fc864533c9f",
+      "set_code": "ARC",
+      "collector_number": "41",
+      "name": "Hellkite Charger",
+      "scryfall_id": "bc7f25df-2470-49bc-bfd6-4cec1586c2f5"
+    },
+    {
+      "id": "94b16de7-d310-45d7-8e84-b0274ceb7493",
+      "set_code": "ARC",
+      "collector_number": "42",
+      "name": "Imperial Hellkite",
+      "scryfall_id": "d46470eb-fe6f-4ea0-b89c-261e9dc524dd"
+    },
+    {
+      "id": "79276fe2-cc65-496d-a001-047cb43bb319",
+      "set_code": "ARC",
+      "collector_number": "43",
+      "name": "Inferno Trap",
+      "scryfall_id": "271d387a-41e3-40a2-8cc4-1590fad4df63"
+    },
+    {
+      "id": "41345c84-43ba-49cc-9812-21aa5896602f",
+      "set_code": "ARC",
+      "collector_number": "44",
+      "name": "Kilnmouth Dragon",
+      "scryfall_id": "1f83751f-cf1c-47ae-a8c8-4290aa8fa09c"
+    },
+    {
+      "id": "a543d965-ed90-41e7-bc19-8949309a4ecc",
+      "set_code": "ARC",
+      "collector_number": "45",
+      "name": "Ryusei, the Falling Star",
+      "scryfall_id": "f05861f1-f6f1-44fa-91e9-f7cfa66b38ff"
+    },
+    {
+      "id": "b254326a-7422-4d95-ba63-ce396ca7f218",
+      "set_code": "ARC",
+      "collector_number": "46",
+      "name": "Seething Song",
+      "scryfall_id": "df2da310-28c9-41a8-93ad-c7b0a3a367dd"
+    },
+    {
+      "id": "8f1303a6-f554-40c5-8ff2-0ab102453172",
+      "set_code": "ARC",
+      "collector_number": "47",
+      "name": "Skirk Commando",
+      "scryfall_id": "24506c97-b693-4ce9-a458-7bcb201592d0"
+    },
+    {
+      "id": "999b5aa0-01ed-4250-85dd-146e7d52e48c",
+      "set_code": "ARC",
+      "collector_number": "48",
+      "name": "Skirk Marauder",
+      "scryfall_id": "b0a0cc70-ac86-4e52-a785-6209cbec29dc"
+    },
+    {
+      "id": "7932ac43-3fd1-4c22-8393-5548979e01a5",
+      "set_code": "ARC",
+      "collector_number": "49",
+      "name": "Taurean Mauler",
+      "scryfall_id": "05ed6360-0208-4b93-8d1f-a77d786282c3"
+    },
+    {
+      "id": "091ded3f-23a4-459a-880e-a6d4dd176189",
+      "set_code": "ARC",
+      "collector_number": "50",
+      "name": "Two-Headed Dragon",
+      "scryfall_id": "69e8136d-beab-4783-839c-2d60c26cf5b1"
+    },
+    {
+      "id": "27f4e623-7055-4ced-a7ce-072e1cf6b8cc",
+      "set_code": "ARC",
+      "collector_number": "51",
+      "name": "Volcanic Fallout",
+      "scryfall_id": "9e2c51bc-ebc9-4264-9426-122e7f568bd1"
+    },
+    {
+      "id": "ba71b151-8e17-4077-87e0-a832513317ab",
+      "set_code": "ARC",
+      "collector_number": "52",
+      "name": "Chameleon Colossus",
+      "scryfall_id": "95832968-ffe3-451d-8636-b739621d68ce"
+    },
+    {
+      "id": "13d3bc18-6719-44c6-b8e2-d7f94f854f11",
+      "set_code": "ARC",
+      "collector_number": "53",
+      "name": "Feral Hydra",
+      "scryfall_id": "b347b543-0363-4759-90c9-afb12ee52bf0"
+    },
+    {
+      "id": "1e8a668b-5892-418d-9a47-e2c0bb34020d",
+      "set_code": "ARC",
+      "collector_number": "54",
+      "name": "Fertilid",
+      "scryfall_id": "67e48f3f-9e4a-438c-9171-b59faad1d03c"
+    },
+    {
+      "id": "ef75f31d-f674-4875-b203-dbebbaa81375",
+      "set_code": "ARC",
+      "collector_number": "55",
+      "name": "Fierce Empath",
+      "scryfall_id": "31293564-a080-456e-893f-151cb063e7a9"
+    },
+    {
+      "id": "5b51afec-b8ed-4d5e-b5af-3f0d29023db1",
+      "set_code": "ARC",
+      "collector_number": "56",
+      "name": "Fog",
+      "scryfall_id": "54f1fc27-7b5d-4565-9c9a-f49d9aeadd3b"
+    },
+    {
+      "id": "1ff1063b-53ff-4221-8c51-e006de3272af",
+      "set_code": "ARC",
+      "collector_number": "57",
+      "name": "Forgotten Ancient",
+      "scryfall_id": "96a9249a-18eb-402d-a387-b3e95edb540d"
+    },
+    {
+      "id": "fc90a834-89eb-485d-87cd-c687a51b0298",
+      "set_code": "ARC",
+      "collector_number": "58",
+      "name": "Gleeful Sabotage",
+      "scryfall_id": "7802c7f8-ca2a-4bac-a579-77a8204aa5d4"
+    },
+    {
+      "id": "fe347c8f-5c33-4832-b832-377e9820aea0",
+      "set_code": "ARC",
+      "collector_number": "59",
+      "name": "Harmonize",
+      "scryfall_id": "62a396df-cbeb-49b7-b30d-82b7e3f31bc0"
+    },
+    {
+      "id": "24427231-c233-4f99-8297-75d91da80316",
+      "set_code": "ARC",
+      "collector_number": "60",
+      "name": "Hunting Moa",
+      "scryfall_id": "d1cc7076-500c-4502-9344-266532c0de7f"
+    },
+    {
+      "id": "30416872-0ee3-4408-b64f-71175549f130",
+      "set_code": "ARC",
+      "collector_number": "61",
+      "name": "Kamahl, Fist of Krosa",
+      "scryfall_id": "97ab4974-d0a4-4033-b150-8928b46dc626"
+    },
+    {
+      "id": "6a044944-9873-434d-84ee-93c6a754d591",
+      "set_code": "ARC",
+      "collector_number": "62",
+      "name": "Krosan Tusker",
+      "scryfall_id": "fe2fd83f-b7ae-4062-824c-a2d1b59af915"
+    },
+    {
+      "id": "1469b57f-ce10-4053-83c5-64e5f2348649",
+      "set_code": "ARC",
+      "collector_number": "63",
+      "name": "Leaf Gilder",
+      "scryfall_id": "2381eb3b-e45b-4fbb-a84a-0858b356a008"
+    },
+    {
+      "id": "24178834-0b0d-4e92-a8a8-4e51e7ac716c",
+      "set_code": "ARC",
+      "collector_number": "64",
+      "name": "Molimo, Maro-Sorcerer",
+      "scryfall_id": "bce5d573-680b-481b-b016-42bb782cb000"
+    },
+    {
+      "id": "7bf70f0f-6be2-4110-9023-9c7e8daf8518",
+      "set_code": "ARC",
+      "collector_number": "65",
+      "name": "Plummet",
+      "scryfall_id": "a67bb585-cc4f-4cbc-9a5a-d31df98c07ae"
+    },
+    {
+      "id": "8705f4d2-0a90-41a1-85ad-310d745cc1a7",
+      "set_code": "ARC",
+      "collector_number": "66",
+      "name": "Primal Command",
+      "scryfall_id": "8a8ba5d9-9c83-45ab-aacd-ba3c44df57ea"
+    },
+    {
+      "id": "98bb782a-1bab-4658-b137-843dda36d0ee",
+      "set_code": "ARC",
+      "collector_number": "67",
+      "name": "Rancor",
+      "scryfall_id": "fd456c1d-ed44-42d8-aa45-86782717c462"
+    },
+    {
+      "id": "a45797ea-c097-493e-9eff-a118c03fc530",
+      "set_code": "ARC",
+      "collector_number": "68",
+      "name": "Sakura-Tribe Elder",
+      "scryfall_id": "6734e5dd-ca50-4c2d-905a-cae287d5bf69"
+    },
+    {
+      "id": "ff92d15a-235e-4d69-8afb-ff5e8c2b5bb8",
+      "set_code": "ARC",
+      "collector_number": "69",
+      "name": "Shinen of Life's Roar",
+      "scryfall_id": "dad82af4-f004-4716-a17b-66a1ee31e128"
+    },
+    {
+      "id": "6ae80ec2-b0c4-47c8-a688-205aac4a1971",
+      "set_code": "ARC",
+      "collector_number": "70",
+      "name": "Spider Umbra",
+      "scryfall_id": "3e0ab16d-e77f-43e9-87d0-8c2bacb35757"
+    },
+    {
+      "id": "0107b6e0-2f99-4c34-a3e2-3236f0db9f7b",
+      "set_code": "ARC",
+      "collector_number": "71",
+      "name": "Thelonite Hermit",
+      "scryfall_id": "810b345c-eb62-4b8d-b3be-43e4310c668b"
+    },
+    {
+      "id": "17f2f8b2-40bc-466a-a6bc-e124ff76c32e",
+      "set_code": "ARC",
+      "collector_number": "72",
+      "name": "Verdeloth the Ancient",
+      "scryfall_id": "44e811ab-af9f-414d-8f4b-62df991059b9"
+    },
+    {
+      "id": "c37f9892-de02-4ab0-9760-d9e3b178129f",
+      "set_code": "ARC",
+      "collector_number": "73",
+      "name": "Wall of Roots",
+      "scryfall_id": "95862196-1805-498e-84ee-3c6bbee1a673"
+    },
+    {
+      "id": "f97ba1cd-7ac2-4ccc-8ccc-81e0d6956ec3",
+      "set_code": "ARC",
+      "collector_number": "74",
+      "name": "Wickerbough Elder",
+      "scryfall_id": "a5f5c90d-9c31-4d9f-bec0-023334ae0bac"
+    },
+    {
+      "id": "ec84a686-16aa-4954-a52c-9b30cf8af615",
+      "set_code": "ARC",
+      "collector_number": "75",
+      "name": "Yavimaya Dryad",
+      "scryfall_id": "b8ec6920-bd22-46ef-8f29-69bb39d6de1a"
+    },
+    {
+      "id": "86cd2a57-8eab-41ec-9386-845eb8a9f3f8",
+      "set_code": "ARC",
+      "collector_number": "76",
+      "name": "Agony Warp",
+      "scryfall_id": "be3e1fd8-6d78-4ec3-993b-bf334876ec06"
+    },
+    {
+      "id": "a476a17a-0c03-445c-b21e-7efc3cf6b994",
+      "set_code": "ARC",
+      "collector_number": "77",
+      "name": "Architects of Will",
+      "scryfall_id": "6f614bb4-92e3-4ae0-9f2f-294434706c48"
+    },
+    {
+      "id": "ae69fbd2-c9f9-4524-b7fa-ecd2fbf188fe",
+      "set_code": "ARC",
+      "collector_number": "78",
+      "name": "Armadillo Cloak",
+      "scryfall_id": "e22c22d0-a928-450a-9b14-3157b7bdf309"
+    },
+    {
+      "id": "23bbe728-dfe4-4a20-9440-71f955690476",
+      "set_code": "ARC",
+      "collector_number": "79",
+      "name": "Avatar of Discord",
+      "scryfall_id": "adf2a1fd-eb1e-46aa-b715-6e6fb5195e42"
+    },
+    {
+      "id": "866c2efa-c5c9-4b0b-bec5-ccb2af95c1a7",
+      "set_code": "ARC",
+      "collector_number": "80",
+      "name": "Batwing Brume",
+      "scryfall_id": "279450ca-29df-430d-b803-7ce18196260e"
+    },
+    {
+      "id": "e5ce36f1-9374-4857-8cde-0ad8e89bac5e",
+      "set_code": "ARC",
+      "collector_number": "81",
+      "name": "Bituminous Blast",
+      "scryfall_id": "3005cc7f-f7a6-47ff-bad6-0b1b93ff2b66"
+    },
+    {
+      "id": "ded460b2-25f9-4143-97ad-4b9e5093b959",
+      "set_code": "ARC",
+      "collector_number": "82",
+      "name": "Branching Bolt",
+      "scryfall_id": "9ee5d78d-fdfb-436a-82e1-1d021db69b6f"
+    },
+    {
+      "id": "9d9d7140-0cf5-4b29-b9b2-074b2067ff03",
+      "set_code": "ARC",
+      "collector_number": "83",
+      "name": "Colossal Might",
+      "scryfall_id": "1d568133-bd44-4f16-a476-a475e3c83cc4"
+    },
+    {
+      "id": "d58aeeb5-0fe3-4d9e-8776-2debfd297b50",
+      "set_code": "ARC",
+      "collector_number": "84",
+      "name": "Ethersworn Shieldmage",
+      "scryfall_id": "0ce33f36-e29e-4cac-a237-a7b932d50bbb"
+    },
+    {
+      "id": "cf38b9a1-4bae-4393-99cc-d3b46ffe705d",
+      "set_code": "ARC",
+      "collector_number": "85",
+      "name": "Fieldmist Borderpost",
+      "scryfall_id": "bd652205-192c-4cad-a7c9-2433d5a4febb"
+    },
+    {
+      "id": "44f3592b-5bda-4fbd-9535-a01510b758bb",
+      "set_code": "ARC",
+      "collector_number": "86",
+      "name": "Fires of Yavimaya",
+      "scryfall_id": "0d4d0211-136e-4362-bf7c-b7e9499584bf"
+    },
+    {
+      "id": "b7436280-256b-4ce0-8b32-bfe700229859",
+      "set_code": "ARC",
+      "collector_number": "87",
+      "name": "Heroes' Reunion",
+      "scryfall_id": "14758a68-a270-471b-8f4c-638f679ec3f8"
+    },
+    {
+      "id": "149310b9-8579-409a-bc07-b683a0a15885",
+      "set_code": "ARC",
+      "collector_number": "88",
+      "name": "Kaervek the Merciless",
+      "scryfall_id": "0c77c243-ca76-4aec-9325-1399119c8ff9"
+    },
+    {
+      "id": "4a38d120-020f-4ce5-9e42-aab231dfc29e",
+      "set_code": "ARC",
+      "collector_number": "89",
+      "name": "Magister Sphinx",
+      "scryfall_id": "73785bad-3981-40d4-9610-f5f44323609d"
+    },
+    {
+      "id": "8325f009-1d75-45e8-aa28-c9f9b29c4258",
+      "set_code": "ARC",
+      "collector_number": "90",
+      "name": "Mistvein Borderpost",
+      "scryfall_id": "5d0588a8-6039-42d6-98ee-8fea16f63e88"
+    },
+    {
+      "id": "8a204ef2-cb47-4444-974e-74392e7f9129",
+      "set_code": "ARC",
+      "collector_number": "91",
+      "name": "Pale Recluse",
+      "scryfall_id": "fb045233-af6c-4d1e-b17b-ff779aeb7d5f"
+    },
+    {
+      "id": "a51a8df3-3ae5-4fbe-86ff-e0f432e11ee2",
+      "set_code": "ARC",
+      "collector_number": "92",
+      "name": "Rakdos Guildmage",
+      "scryfall_id": "7663815e-9fd8-4021-ad91-07d3d7ee508e"
+    },
+    {
+      "id": "b42bc8c5-d990-4aef-89e0-1d6457f5b868",
+      "set_code": "ARC",
+      "collector_number": "93",
+      "name": "Savage Twister",
+      "scryfall_id": "aa0642ed-86f6-47df-9ec8-26fbf6b70d78"
+    },
+    {
+      "id": "c9662cfa-6d0e-4ac0-81a9-4331f58ea4ef",
+      "set_code": "ARC",
+      "collector_number": "94",
+      "name": "Selesnya Guildmage",
+      "scryfall_id": "5a1a5a33-e316-41d3-a7a4-502029511215"
+    },
+    {
+      "id": "f55d7426-42e0-488b-aaef-e629b7025aec",
+      "set_code": "ARC",
+      "collector_number": "95",
+      "name": "Terminate",
+      "scryfall_id": "4de2d9a9-5948-4f2a-b024-b9599f53e281"
+    },
+    {
+      "id": "2ec0f6be-c935-4d54-9de8-13240930aa1e",
+      "set_code": "ARC",
+      "collector_number": "96",
+      "name": "Torrent of Souls",
+      "scryfall_id": "d0074236-ac60-4005-9c4d-c52761e873ca"
+    },
+    {
+      "id": "54cf1c2a-11c4-4c01-ae40-db3c9efe0610",
+      "set_code": "ARC",
+      "collector_number": "97",
+      "name": "Unbender Tine",
+      "scryfall_id": "2b322b16-d288-4643-80b2-e1077e6d4869"
+    },
+    {
+      "id": "8c72fa66-3e67-497b-be0a-16b987bde6f2",
+      "set_code": "ARC",
+      "collector_number": "98",
+      "name": "Unmake",
+      "scryfall_id": "89b0fabc-f98e-458e-9dbf-78caa77c30a4"
+    },
+    {
+      "id": "57dce486-f4ee-437d-929c-b75a58f23397",
+      "set_code": "ARC",
+      "collector_number": "99",
+      "name": "Vampiric Dragon",
+      "scryfall_id": "c5580260-0935-4f8e-af41-41eede903fd5"
+    },
+    {
+      "id": "e1483f16-62a1-46b0-8cb8-911830292978",
+      "set_code": "ARC",
+      "collector_number": "100",
+      "name": "Watchwolf",
+      "scryfall_id": "49a40fcb-4edf-4ad1-92e9-eb1958688855"
+    },
+    {
+      "id": "e660d237-04c8-4f8b-b076-20a192ee32f1",
+      "set_code": "ARC",
+      "collector_number": "101",
+      "name": "Wax // Wane",
+      "scryfall_id": "f855144c-6adb-4cde-8a37-5fb0be775e5d"
+    },
+    {
+      "id": "f498e199-f594-4fdf-a56a-a1b60e0b18ae",
+      "set_code": "ARC",
+      "collector_number": "102",
+      "name": "Aether Spellbomb",
+      "scryfall_id": "b0644999-1e5d-46b0-8eec-84f953a59609"
+    },
+    {
+      "id": "38e17f0a-2ba0-4b08-a6b3-ff14d4c33016",
+      "set_code": "ARC",
+      "collector_number": "103",
+      "name": "Azorius Signet",
+      "scryfall_id": "4675fff8-4a2e-4c95-bf55-d0459fe3d57b"
+    },
+    {
+      "id": "04f430d6-0321-4333-8098-fc4c20b2e6df",
+      "set_code": "ARC",
+      "collector_number": "104",
+      "name": "Dimir Signet",
+      "scryfall_id": "17799546-750e-4b39-8848-815e7bb902d9"
+    },
+    {
+      "id": "2f5c9450-efc0-44fa-a627-3664ba762f67",
+      "set_code": "ARC",
+      "collector_number": "105",
+      "name": "Dreamstone Hedron",
+      "scryfall_id": "0c47168a-fb41-43e7-b878-b564d82b5644"
+    },
+    {
+      "id": "6705cec9-fea9-405a-98f4-079cfbd78d89",
+      "set_code": "ARC",
+      "collector_number": "106",
+      "name": "Duplicant",
+      "scryfall_id": "653fa830-5cd0-4798-94be-e7644f462c26"
+    },
+    {
+      "id": "a54dbedd-dc59-4689-9847-178c770382e5",
+      "set_code": "ARC",
+      "collector_number": "107",
+      "name": "Everflowing Chalice",
+      "scryfall_id": "ec39abba-f3d9-4ab4-96e7-dd1c65cc3d26"
+    },
+    {
+      "id": "8c8f392c-fd9e-4d85-95e7-e787a6a70e70",
+      "set_code": "ARC",
+      "collector_number": "108",
+      "name": "Gruul Signet",
+      "scryfall_id": "fe7f0b54-5a1b-4ad3-9bb7-61d789da7cd6"
+    },
+    {
+      "id": "6b8126de-0413-45e7-863f-2c7b6e5e1222",
+      "set_code": "ARC",
+      "collector_number": "109",
+      "name": "Juggernaut",
+      "scryfall_id": "521e6016-daa3-4391-a5c1-40f4ef20fe5a"
+    },
+    {
+      "id": "dfa76f9f-1e3e-4527-985c-16a548acc8ce",
+      "set_code": "ARC",
+      "collector_number": "110",
+      "name": "Lightning Greaves",
+      "scryfall_id": "b5e96b75-1797-491f-8324-0f60aace1305"
+    },
+    {
+      "id": "ca12c370-e8b2-4b97-bda4-3b717c3c9e1e",
+      "set_code": "ARC",
+      "collector_number": "111",
+      "name": "Lodestone Golem",
+      "scryfall_id": "d34a7891-c70e-45ec-80e8-2ecca3dc8e06"
+    },
+    {
+      "id": "69893df3-a073-4448-a47b-6f1f11c8adba",
+      "set_code": "ARC",
+      "collector_number": "112",
+      "name": "Memnarch",
+      "scryfall_id": "9203fde4-dbc1-449f-9618-4656f0e25e3c"
+    },
+    {
+      "id": "3d7982cd-01d8-4eee-9757-6ee73d700cea",
+      "set_code": "ARC",
+      "collector_number": "113",
+      "name": "Obelisk of Esper",
+      "scryfall_id": "6e4ffc66-2a38-4622-8943-2bfc81830f5d"
+    },
+    {
+      "id": "f6510d06-f8a0-4873-bb77-4a30e8b526ea",
+      "set_code": "ARC",
+      "collector_number": "114",
+      "name": "Rakdos Signet",
+      "scryfall_id": "ad01a874-f3b8-4e70-8008-444e37533daf"
+    },
+    {
+      "id": "f903d1d1-c05c-422e-a1fb-870a73948264",
+      "set_code": "ARC",
+      "collector_number": "115",
+      "name": "Skullcage",
+      "scryfall_id": "9e658a5a-8d84-4225-b595-5265a0bfd996"
+    },
+    {
+      "id": "dcd0136a-261d-404b-999d-43cde4f2dd8d",
+      "set_code": "ARC",
+      "collector_number": "116",
+      "name": "Sorcerer's Strongbox",
+      "scryfall_id": "09379286-54c1-432a-bb3f-00ad56273977"
+    },
+    {
+      "id": "8e2a5ade-1fca-4083-ac15-ddb93f34a917",
+      "set_code": "ARC",
+      "collector_number": "117",
+      "name": "Sun Droplet",
+      "scryfall_id": "2e2cca6f-d615-44c2-872b-7bbef43c6caf"
+    },
+    {
+      "id": "0de3b0f4-a9c1-41ce-baff-593f342a9a66",
+      "set_code": "ARC",
+      "collector_number": "118",
+      "name": "Sundering Titan",
+      "scryfall_id": "5402534d-ccd5-4047-9f0b-d4321b2f0bef"
+    },
+    {
+      "id": "51ffaf74-4c6c-4e43-b21d-22a2baf4355f",
+      "set_code": "ARC",
+      "collector_number": "119",
+      "name": "Synod Centurion",
+      "scryfall_id": "40ca03df-58df-4e76-8ed1-e2c8597df634"
+    },
+    {
+      "id": "632ee4a1-7ba2-479f-b3f3-0499a612d2e6",
+      "set_code": "ARC",
+      "collector_number": "120",
+      "name": "Synod Sanctum",
+      "scryfall_id": "a4ee3b93-6a9c-4e87-b7e3-904114f7e8a1"
+    },
+    {
+      "id": "4f414a42-4140-420a-a8fb-b130148b8341",
+      "set_code": "ARC",
+      "collector_number": "121",
+      "name": "Thran Dynamo",
+      "scryfall_id": "fe8120f4-392c-492d-a6db-47576f02328f"
+    },
+    {
+      "id": "0a499383-67a4-4069-845b-fd816ff388ae",
+      "set_code": "ARC",
+      "collector_number": "122",
+      "name": "Thunderstaff",
+      "scryfall_id": "30bffe2e-588a-465e-ad31-d5715920f41d"
+    },
+    {
+      "id": "7fbfc3c8-57a9-4806-a55e-d37a09e25b30",
+      "set_code": "ARC",
+      "collector_number": "123",
+      "name": "Artisan of Kozilek",
+      "scryfall_id": "b1f2ac56-2602-4352-b0ab-583abb9073a2"
+    },
+    {
+      "id": "b43e482c-133b-471c-a247-8467929b1530",
+      "set_code": "ARC",
+      "collector_number": "124",
+      "name": "Barren Moor",
+      "scryfall_id": "33995084-d546-41d0-9d63-d448d21d3e80"
+    },
+    {
+      "id": "e10c9f3d-5953-4cdd-bc6c-16da2f220f9f",
+      "set_code": "ARC",
+      "collector_number": "125",
+      "name": "Graypelt Refuge",
+      "scryfall_id": "866d3f88-8df5-41eb-b91b-e65f43dc254d"
+    },
+    {
+      "id": "478efdf8-662b-42cb-b377-bc03d4e4ef73",
+      "set_code": "ARC",
+      "collector_number": "126",
+      "name": "Kazandu Refuge",
+      "scryfall_id": "fad380fe-6828-41a5-b198-3f56c76fa83f"
+    },
+    {
+      "id": "ac7e8a07-ae5a-4a28-b437-303d54f6b81c",
+      "set_code": "ARC",
+      "collector_number": "127",
+      "name": "Khalni Garden",
+      "scryfall_id": "2aa510df-182c-47af-9cf2-97629215cc2f"
+    },
+    {
+      "id": "6d7f64c2-1cd5-4bb5-88bb-8b198eff4a60",
+      "set_code": "ARC",
+      "collector_number": "128",
+      "name": "Krosan Verge",
+      "scryfall_id": "c7a3fd2f-2d63-4533-a8b3-f4912005e633"
+    },
+    {
+      "id": "253084b5-8573-4d87-aa90-aca3603e4c5b",
+      "set_code": "ARC",
+      "collector_number": "129",
+      "name": "Llanowar Reborn",
+      "scryfall_id": "2361e5ff-bbd0-4738-992f-1b6b8bbce3d7"
+    },
+    {
+      "id": "1e888a50-90a9-4dc4-9966-e7fe322bcdd7",
+      "set_code": "ARC",
+      "collector_number": "130",
+      "name": "Mosswort Bridge",
+      "scryfall_id": "7513a160-033d-4f6a-9d9c-c3d05a06fa43"
+    },
+    {
+      "id": "099f06be-c33f-4baa-a0fb-a764e44b54fa",
+      "set_code": "ARC",
+      "collector_number": "131",
+      "name": "Nantuko Monastery",
+      "scryfall_id": "aa0412da-ad2a-4895-bceb-c7938c2ae929"
+    },
+    {
+      "id": "c1a0237a-cc01-46f9-8d32-e1b92aee47df",
+      "set_code": "ARC",
+      "collector_number": "132",
+      "name": "Rakdos Carnarium",
+      "scryfall_id": "ce676c84-375f-4407-aaf3-a2f0a9b741a9"
+    },
+    {
+      "id": "f628e3d7-bc91-4f72-942b-e48bb395d9bf",
+      "set_code": "ARC",
+      "collector_number": "133",
+      "name": "Secluded Steppe",
+      "scryfall_id": "917c4f81-dc65-4e4b-b505-7b6a14efacb9"
+    },
+    {
+      "id": "3efe8468-2cac-4a7c-84a8-fe55b1c82d5d",
+      "set_code": "ARC",
+      "collector_number": "134",
+      "name": "Terramorphic Expanse",
+      "scryfall_id": "56bf5bfa-416e-4883-9dc8-dfde85170680"
+    },
+    {
+      "id": "c61f6196-8f5b-45f9-9469-701cf0d25a2d",
+      "set_code": "ARC",
+      "collector_number": "135",
+      "name": "Tranquil Thicket",
+      "scryfall_id": "f656d2cd-96e2-418e-a2b9-890b6b827b1b"
+    },
+    {
+      "id": "9c761fdf-12e7-4ca6-ba25-c3e174f25cab",
+      "set_code": "ARC",
+      "collector_number": "136",
+      "name": "Vitu-Ghazi, the City-Tree",
+      "scryfall_id": "1d7af11e-4211-4858-9fe7-bf345cca7177"
+    },
+    {
+      "id": "4c137eb1-b34c-4e45-9a2a-1a6c7370bdf9",
+      "set_code": "ARC",
+      "collector_number": "137",
+      "name": "Plains",
+      "scryfall_id": "9c6911fd-915b-4720-93e3-da040802c012"
+    },
+    {
+      "id": "3cc9246d-3b27-4d68-abfc-05cb75513b75",
+      "set_code": "ARC",
+      "collector_number": "138",
+      "name": "Plains",
+      "scryfall_id": "c0353ff6-4968-49d3-ba1a-a7d2af492e5c"
+    },
+    {
+      "id": "73f90e7b-a135-4bf4-bc70-a2d06263072a",
+      "set_code": "ARC",
+      "collector_number": "139",
+      "name": "Island",
+      "scryfall_id": "7f4781f2-45bd-4a13-aaf1-9d5c0cbe15eb"
+    },
+    {
+      "id": "719d7a6e-0db5-497d-8c5c-cd7136bde546",
+      "set_code": "ARC",
+      "collector_number": "140",
+      "name": "Island",
+      "scryfall_id": "1be44937-7408-4f46-bdf0-d4162b2b2a1f"
+    },
+    {
+      "id": "dba73743-0ec4-4f92-96e7-969151d864d7",
+      "set_code": "ARC",
+      "collector_number": "141",
+      "name": "Island",
+      "scryfall_id": "5df09249-2226-4113-a1b6-2d7d7b502f7e"
+    },
+    {
+      "id": "f94ad087-61ab-4066-9159-d94a86c611c0",
+      "set_code": "ARC",
+      "collector_number": "142",
+      "name": "Swamp",
+      "scryfall_id": "3f33b699-dab3-44e3-916e-9d52cdd2aeef"
+    },
+    {
+      "id": "0766b0f4-641d-4d13-815f-67336f28c238",
+      "set_code": "ARC",
+      "collector_number": "143",
+      "name": "Swamp",
+      "scryfall_id": "ee817fe1-86aa-4017-afce-130329e91e7f"
+    },
+    {
+      "id": "69a61c53-9fd1-4ea6-a202-1f862b59d89f",
+      "set_code": "ARC",
+      "collector_number": "144",
+      "name": "Swamp",
+      "scryfall_id": "8bef541c-20af-4e36-8b2b-3b07051c524f"
+    },
+    {
+      "id": "b1831149-36a1-47f7-b439-688b749bac97",
+      "set_code": "ARC",
+      "collector_number": "145",
+      "name": "Mountain",
+      "scryfall_id": "bb01948c-c860-4038-aaa2-f306be28884d"
+    },
+    {
+      "id": "426d90e6-19fe-47aa-b840-c0686b8c4e97",
+      "set_code": "ARC",
+      "collector_number": "146",
+      "name": "Mountain",
+      "scryfall_id": "db9a3e4e-930f-494c-83da-5dfaa95b809d"
+    },
+    {
+      "id": "af1dbfa8-335d-4b55-84bb-c8b95a741f0d",
+      "set_code": "ARC",
+      "collector_number": "147",
+      "name": "Mountain",
+      "scryfall_id": "90d151c8-af98-468d-a15f-bb2095f29ff6"
+    },
+    {
+      "id": "8e81beaa-47ff-464f-b476-b71f3b9dbeec",
+      "set_code": "ARC",
+      "collector_number": "148",
+      "name": "Forest",
+      "scryfall_id": "10122865-e379-49c6-b305-476a9383afc0"
+    },
+    {
+      "id": "30c04685-916b-47a7-948a-a2f3675cf437",
+      "set_code": "ARC",
+      "collector_number": "149",
+      "name": "Forest",
+      "scryfall_id": "56cd2a71-67ed-49d7-a574-eb474bcdf532"
+    },
+    {
+      "id": "f106e94c-df11-4b89-913a-3a3324d29f2e",
+      "set_code": "ARC",
+      "collector_number": "150",
+      "name": "Forest",
+      "scryfall_id": "5535aadc-6992-40e9-9890-bbf7f90420eb"
+    }
+  ]
+}

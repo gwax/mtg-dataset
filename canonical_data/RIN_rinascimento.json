@@ -1,0 +1,491 @@
+{
+  "id": "9cd9e1e5-3eae-48c8-83cf-ded372c8130a",
+  "code": "RIN",
+  "name": "Rinascimento",
+  "scryfall_id": "4c53f6a5-90a1-44d6-a21b-bfa9dafba9e8",
+  "cards": [
+    {
+      "id": "97ed027b-cbc3-4341-a015-ac909349a736",
+      "set_code": "RIN",
+      "collector_number": "1",
+      "name": "Abu Ja'far",
+      "scryfall_id": "66259d00-52f3-45d6-af95-7a1d2233edfb"
+    },
+    {
+      "id": "d8e88e04-e01f-4713-8109-3009eede9c56",
+      "set_code": "RIN",
+      "collector_number": "5",
+      "name": "Circle of Protection: Artifacts",
+      "scryfall_id": "87f890cf-1ee2-49aa-b650-51c69df51e62"
+    },
+    {
+      "id": "80ae061e-1f7d-4cbb-9d5b-ea8da22d21d7",
+      "set_code": "RIN",
+      "collector_number": "10",
+      "name": "Repentant Blacksmith",
+      "scryfall_id": "211635a6-ce21-409c-a5f7-7e7e39fbbd99"
+    },
+    {
+      "id": "da72dde2-b15f-4e9a-a0a5-dc6f65bcd049",
+      "set_code": "RIN",
+      "collector_number": "14",
+      "name": "War Elephant",
+      "scryfall_id": "0c1f31c9-64d0-4a0b-9804-c4a3e6398639"
+    },
+    {
+      "id": "bd445185-0398-435a-81d3-2edbade1030b",
+      "set_code": "RIN",
+      "collector_number": "25",
+      "name": "Dand\u00e2n",
+      "scryfall_id": "7715d930-6d75-4b28-9e83-ebd0a1d792b8"
+    },
+    {
+      "id": "31b57381-1923-40c3-9192-422a7a7481b4",
+      "set_code": "RIN",
+      "collector_number": "26",
+      "name": "Fishliver Oil",
+      "scryfall_id": "a73933f7-6b81-471c-824e-657a86031393"
+    },
+    {
+      "id": "5bdea386-6cc2-4204-88bc-a686fcc6b445",
+      "set_code": "RIN",
+      "collector_number": "27",
+      "name": "Giant Tortoise",
+      "scryfall_id": "78ecdc6d-52e7-4a41-be96-623c11e314ea"
+    },
+    {
+      "id": "3917a73c-9547-4cba-812e-5739b1726fe7",
+      "set_code": "RIN",
+      "collector_number": "31",
+      "name": "Sindbad",
+      "scryfall_id": "332f5612-b51c-4bb4-a76d-70148f730fc3"
+    },
+    {
+      "id": "0d98ee03-a3b9-42b0-ad40-a932665ea20f",
+      "set_code": "RIN",
+      "collector_number": "35",
+      "name": "Twiddle",
+      "scryfall_id": "bdf047a9-cbac-4057-af5d-01324e2bc926"
+    },
+    {
+      "id": "f3026945-207c-4f3e-9939-e9aa9f580d4c",
+      "set_code": "RIN",
+      "collector_number": "50",
+      "name": "Cuombajj Witches",
+      "scryfall_id": "47145a44-35ce-411e-86c2-438daff534b3"
+    },
+    {
+      "id": "b9322cb3-b104-4c6d-908f-664f9356034e",
+      "set_code": "RIN",
+      "collector_number": "53",
+      "name": "Hasran Ogress",
+      "scryfall_id": "feba4ad9-3d6d-4676-862a-c2cc9ad35350"
+    },
+    {
+      "id": "b1839fcc-7635-4e81-b25c-a86af832a75e",
+      "set_code": "RIN",
+      "collector_number": "55",
+      "name": "Jun\u00fan Efreet",
+      "scryfall_id": "9f5ef111-fa5a-4b10-872e-d74728b62f1f"
+    },
+    {
+      "id": "73d6312e-c209-4ce2-9f83-734b5f778ab7",
+      "set_code": "RIN",
+      "collector_number": "60",
+      "name": "Xenic Poltergeist",
+      "scryfall_id": "69918c6d-519d-49d5-8abb-9fa397db8e0a"
+    },
+    {
+      "id": "5c5aefac-24b5-47ea-b730-30e99b3b2719",
+      "set_code": "RIN",
+      "collector_number": "61",
+      "name": "Yawgmoth Demon",
+      "scryfall_id": "eb274109-9402-4ce5-90d5-d71189970b92"
+    },
+    {
+      "id": "b79cc658-8f7a-4fb4-9259-f6689b39f80b",
+      "set_code": "RIN",
+      "collector_number": "70",
+      "name": "Aladdin",
+      "scryfall_id": "a17cef18-0a3b-4f41-a467-cddb659ab076"
+    },
+    {
+      "id": "11007068-23f3-4f2a-9f4a-fdc968eeaded",
+      "set_code": "RIN",
+      "collector_number": "71",
+      "name": "Ali Baba",
+      "scryfall_id": "5e2bcd90-1d34-4ef6-a5eb-e0e790ca44e0"
+    },
+    {
+      "id": "aa4f572a-1c81-43e2-8d97-84190916b8f4",
+      "set_code": "RIN",
+      "collector_number": "72",
+      "name": "Bird Maiden",
+      "scryfall_id": "ad8dfe2f-ca4e-463d-ad04-44f11aa3d933"
+    },
+    {
+      "id": "19b493d1-8857-431b-97bb-749257cea1ff",
+      "set_code": "RIN",
+      "collector_number": "77",
+      "name": "Detonate",
+      "scryfall_id": "b01c0d5a-25e3-4e5a-baea-2dd3a3693118"
+    },
+    {
+      "id": "cd910dca-7d67-4eeb-819d-fa77f6196d90",
+      "set_code": "RIN",
+      "collector_number": "79",
+      "name": "Goblin Artisans",
+      "scryfall_id": "f6cf2517-a7fa-4444-bfa7-abe5941c50bb"
+    },
+    {
+      "id": "1328f690-ab1a-4ed7-90dc-d8079f661db2",
+      "set_code": "RIN",
+      "collector_number": "81",
+      "name": "Hurr Jackal",
+      "scryfall_id": "dfd87dd3-4505-4a51-8972-dd9457789f6f"
+    },
+    {
+      "id": "f30a16b6-dfd3-47ce-b620-3283d4e410e3",
+      "set_code": "RIN",
+      "collector_number": "82",
+      "name": "Ironclaw Orcs",
+      "scryfall_id": "840da7c6-3494-41c6-9d12-3207b586303c"
+    },
+    {
+      "id": "5fadc869-d6aa-47e5-89ee-38d308569d89",
+      "set_code": "RIN",
+      "collector_number": "99",
+      "name": "Amulet of Kroog",
+      "scryfall_id": "7b464e4a-8cc9-4c6a-9692-eb7d202617a5"
+    },
+    {
+      "id": "4212b579-34d1-45b3-b64e-a90f732e0077",
+      "set_code": "RIN",
+      "collector_number": "100",
+      "name": "Argothian Pixies",
+      "scryfall_id": "5173186b-ab9b-4d58-b645-5c26bcd7dfdd"
+    },
+    {
+      "id": "a9c8a903-c13e-4a0c-8959-dd50c9ac3bce",
+      "set_code": "RIN",
+      "collector_number": "101",
+      "name": "Ashnod's Altar",
+      "scryfall_id": "99ea166b-01f3-44f2-8e93-da829ea8b5ed"
+    },
+    {
+      "id": "2ce020fb-66d3-4391-bf20-e35dd89d1fb8",
+      "set_code": "RIN",
+      "collector_number": "102",
+      "name": "Ashnod's Battle Gear",
+      "scryfall_id": "2d71186c-812c-4148-8fb6-7f5f309ba905"
+    },
+    {
+      "id": "deb03bbb-6a48-4d35-9798-247aa289d1cf",
+      "set_code": "RIN",
+      "collector_number": "103",
+      "name": "Ashnod's Transmogrant",
+      "scryfall_id": "f790fd2d-a325-43a5-a46a-86e3b91ec8db"
+    },
+    {
+      "id": "8a6dd944-12d2-48a6-857c-7c358db71fb7",
+      "set_code": "RIN",
+      "collector_number": "105",
+      "name": "Battering Ram",
+      "scryfall_id": "f4e309c1-8b0d-400a-a289-4752a996773b"
+    },
+    {
+      "id": "ddd46c44-c7b6-4934-885f-b9bc4db6e43f",
+      "set_code": "RIN",
+      "collector_number": "106",
+      "name": "Bronze Tablet",
+      "scryfall_id": "565d6e4f-57a2-465a-a9ce-9a55c2b118ad"
+    },
+    {
+      "id": "4f872171-2bb0-415f-ac61-9f7d195816e7",
+      "set_code": "RIN",
+      "collector_number": "109",
+      "name": "Clay Statue",
+      "scryfall_id": "3f8d4232-0fde-4e69-823f-5fdf60d8ad96"
+    },
+    {
+      "id": "f7ab27f7-7efe-463a-81a9-c278e4a687cf",
+      "set_code": "RIN",
+      "collector_number": "110",
+      "name": "Clockwork Avian",
+      "scryfall_id": "e4c7eb6b-98d2-4b3c-b93d-0317e593a94e"
+    },
+    {
+      "id": "df954c02-9048-4131-aea1-8fad330060c7",
+      "set_code": "RIN",
+      "collector_number": "111",
+      "name": "Colossus of Sardia",
+      "scryfall_id": "c4b384c8-1aad-4b17-a7e6-e8e616f2542b"
+    },
+    {
+      "id": "dd30b652-9e2e-46ed-bdb6-f904784a4254",
+      "set_code": "RIN",
+      "collector_number": "113",
+      "name": "Coral Helm",
+      "scryfall_id": "7bab6468-32d4-4b0f-87fe-dcc644d0fe98"
+    },
+    {
+      "id": "68a08f7a-0727-43c6-8911-6492abf0dff0",
+      "set_code": "RIN",
+      "collector_number": "114",
+      "name": "Cursed Rack",
+      "scryfall_id": "cac00b69-e889-4f1a-b9cd-f0670bf7e60c"
+    },
+    {
+      "id": "9cb81f7c-b916-4b7f-a478-d6b891e01f30",
+      "set_code": "RIN",
+      "collector_number": "116",
+      "name": "Cyclone",
+      "scryfall_id": "45b467e2-9cb7-4fb4-9ecc-e68bea2df130"
+    },
+    {
+      "id": "31693f46-0c79-4f58-86aa-452a96c0b02d",
+      "set_code": "RIN",
+      "collector_number": "118",
+      "name": "Erhnam Djinn",
+      "scryfall_id": "8129cda8-ed12-44f2-b110-aab04ab7bea3"
+    },
+    {
+      "id": "c0a96223-aeee-48e4-a8d8-a6d68abd671d",
+      "set_code": "RIN",
+      "collector_number": "119",
+      "name": "Feldon's Cane",
+      "scryfall_id": "435acd51-6996-495a-9246-54f590e0471f"
+    },
+    {
+      "id": "2d33d5d6-f52a-4315-8155-d9ad46cfc707",
+      "set_code": "RIN",
+      "collector_number": "121",
+      "name": "Ghazb\u00e1n Ogre",
+      "scryfall_id": "da50d893-1d0e-4ba2-9de1-1db2b6fd1c33"
+    },
+    {
+      "id": "bac0f8e9-61f3-40a8-b0be-193e03e74ae9",
+      "set_code": "RIN",
+      "collector_number": "125",
+      "name": "Grapeshot Catapult",
+      "scryfall_id": "2b6a8ad3-103d-4d53-b8b7-3fc8ec0ad972"
+    },
+    {
+      "id": "b22ccc0e-ca56-4f61-8ac9-f160dfc5ffc0",
+      "set_code": "RIN",
+      "collector_number": "127",
+      "name": "Jalum Tome",
+      "scryfall_id": "e6c5e1a0-1ac9-415a-befa-a1bfe8825bb0"
+    },
+    {
+      "id": "d7e3ed27-a93f-474a-9b69-6fe836b86cb0",
+      "set_code": "RIN",
+      "collector_number": "128",
+      "name": "Jeweled Bird",
+      "scryfall_id": "6778733f-b5c2-4803-8f7b-8ff95cc7d8b8"
+    },
+    {
+      "id": "c98d85fc-ddc3-4328-8298-3cf585ad0003",
+      "set_code": "RIN",
+      "collector_number": "130",
+      "name": "Metamorphosis",
+      "scryfall_id": "56360456-1bb7-4461-98a0-b63c30caf28b"
+    },
+    {
+      "id": "9a39baaf-d0db-4ece-98e1-ae3bcb99b116",
+      "set_code": "RIN",
+      "collector_number": "132",
+      "name": "Nafs Asp",
+      "scryfall_id": "4fa4e9f0-6520-473e-837f-5669f0ca98ff"
+    },
+    {
+      "id": "570b1af5-c9a3-4d57-a6e6-413985ba1771",
+      "set_code": "RIN",
+      "collector_number": "134",
+      "name": "Obelisk of Undoing",
+      "scryfall_id": "ab4e3d43-563d-4566-95e5-43adc38f14d1"
+    },
+    {
+      "id": "b496d8b7-4102-4f65-9fa6-fe73d3e28c6f",
+      "set_code": "RIN",
+      "collector_number": "135",
+      "name": "Rakalite",
+      "scryfall_id": "57d25355-b699-4dd4-8241-9543f659182e"
+    },
+    {
+      "id": "52091205-46a8-4ff2-8337-3722a1f0bc17",
+      "set_code": "RIN",
+      "collector_number": "137",
+      "name": "Sandstorm",
+      "scryfall_id": "1bc0400e-af61-4922-ba7d-7b9a99688262"
+    },
+    {
+      "id": "59994ca7-fb98-491c-b6b9-9ab3ec54dd1f",
+      "set_code": "RIN",
+      "collector_number": "138",
+      "name": "Shapeshifter",
+      "scryfall_id": "8d3974c2-cdb4-4d5d-868c-a2f0aaf381c4"
+    },
+    {
+      "id": "8e2231ec-1198-4f48-b960-b4e9a1bd05a1",
+      "set_code": "RIN",
+      "collector_number": "139",
+      "name": "Tawnos's Wand",
+      "scryfall_id": "0d34ad74-fe2c-4b17-be9a-cb63b60b7acb"
+    },
+    {
+      "id": "48617bf1-6410-4067-9701-730ebdbe8a14",
+      "set_code": "RIN",
+      "collector_number": "140",
+      "name": "Tawnos's Weaponry",
+      "scryfall_id": "65a87d70-f6f1-41ea-a406-65c2c42b8a1c"
+    },
+    {
+      "id": "c436fd98-e15a-41c0-af8c-eebf9fcbd783",
+      "set_code": "RIN",
+      "collector_number": "141",
+      "name": "Tetravus",
+      "scryfall_id": "b40cb42c-a8d1-4fab-a78e-8f544d867936"
+    },
+    {
+      "id": "e2cbfb6e-3a87-4e41-9f83-a573c0f0c4ae",
+      "set_code": "RIN",
+      "collector_number": "142",
+      "name": "Triskelion",
+      "scryfall_id": "4264a36f-480e-49df-b00c-29aafd15ee41"
+    },
+    {
+      "id": "ae098359-3130-488c-8987-14d2d058a7d6",
+      "set_code": "RIN",
+      "collector_number": "144",
+      "name": "Urza's Avenger",
+      "scryfall_id": "01f12395-cef5-4d85-9d68-4ae1f3613fb4"
+    },
+    {
+      "id": "f9d39332-139e-466f-b074-f9fb3ae992cd",
+      "set_code": "RIN",
+      "collector_number": "148",
+      "name": "Wall of Spears",
+      "scryfall_id": "98d2a851-c48f-4012-a871-76d616404e34"
+    },
+    {
+      "id": "7d221282-6402-426e-8031-08dc4fe1d7e3",
+      "set_code": "RIN",
+      "collector_number": "150",
+      "name": "Yotian Soldier",
+      "scryfall_id": "d00c5f98-9a7d-41e2-9f76-faedca958153"
+    },
+    {
+      "id": "20b99d19-5bf2-4c3d-a578-f86ed3749852",
+      "set_code": "RIN",
+      "collector_number": "171",
+      "name": "City of Brass",
+      "scryfall_id": "ea5dc646-fb05-4d2d-92db-5c2d7931dcc3"
+    },
+    {
+      "id": "2a09ed2b-98dd-4370-8557-fcffaff93119",
+      "set_code": "RIN",
+      "collector_number": "172",
+      "name": "Mishra's Factory",
+      "scryfall_id": "747eb1be-7303-4ecb-bc93-81761a2f0c5c"
+    },
+    {
+      "id": "0f1981f5-7d00-4728-b0da-63958fdc0969",
+      "set_code": "RIN",
+      "collector_number": "173",
+      "name": "Oasis",
+      "scryfall_id": "6dad7659-aea2-466c-80a7-58b36d86048b"
+    },
+    {
+      "id": "1fdcb486-ba67-4e21-b941-8a5f38435933",
+      "set_code": "RIN",
+      "collector_number": "174",
+      "name": "Strip Mine",
+      "scryfall_id": "0c5060cb-b9ec-482d-a321-533c67805758"
+    },
+    {
+      "id": "00775e92-1638-485a-b9ce-3a6de76708a1",
+      "set_code": "RIN",
+      "collector_number": "175",
+      "name": "Urza's Mine",
+      "scryfall_id": "f0b8934e-9ff0-4c3e-987e-9c4fb1445b77"
+    },
+    {
+      "id": "b20c29d5-d849-4467-aecb-dda292a0cac3",
+      "set_code": "RIN",
+      "collector_number": "176",
+      "name": "Urza's Mine",
+      "scryfall_id": "d2de2721-7f82-4cef-bca7-ac04dbb3779c"
+    },
+    {
+      "id": "725d8d55-2cb7-42a1-a326-8c76276794df",
+      "set_code": "RIN",
+      "collector_number": "177",
+      "name": "Urza's Mine",
+      "scryfall_id": "5c07c384-8ce9-4be0-a739-699a294fcf47"
+    },
+    {
+      "id": "e433aabb-abd6-4f13-955c-0f6ea4936ccc",
+      "set_code": "RIN",
+      "collector_number": "178",
+      "name": "Urza's Mine",
+      "scryfall_id": "e17d4495-efce-40e3-aa94-27d45b4ce636"
+    },
+    {
+      "id": "f2338d24-42f3-4499-9898-8e2e17d26d53",
+      "set_code": "RIN",
+      "collector_number": "179",
+      "name": "Urza's Power Plant",
+      "scryfall_id": "00fe59e8-d1ab-4f74-a7f4-a8feca3705ee"
+    },
+    {
+      "id": "34696b0c-8b25-46f9-a7d3-f74db43216ee",
+      "set_code": "RIN",
+      "collector_number": "180",
+      "name": "Urza's Power Plant",
+      "scryfall_id": "3c933622-1db9-48ce-9d76-fa1bca42d615"
+    },
+    {
+      "id": "e717649d-5775-42b1-9f60-0bb2531b79ac",
+      "set_code": "RIN",
+      "collector_number": "181",
+      "name": "Urza's Power Plant",
+      "scryfall_id": "e3d0ec69-69ba-4185-b268-5f6890ada0d6"
+    },
+    {
+      "id": "22c0a249-ce9b-4257-a610-9f2672615f82",
+      "set_code": "RIN",
+      "collector_number": "182",
+      "name": "Urza's Power Plant",
+      "scryfall_id": "4a86d6b5-946e-41e4-9c78-edec3f5bb981"
+    },
+    {
+      "id": "f8f17584-69f5-4e11-9f62-6fe76352458f",
+      "set_code": "RIN",
+      "collector_number": "183",
+      "name": "Urza's Tower",
+      "scryfall_id": "a0240c3c-7219-4d5d-ac85-c369e4b180eb"
+    },
+    {
+      "id": "3beaa00a-c8f8-463b-8352-1d5fb94ce61c",
+      "set_code": "RIN",
+      "collector_number": "184",
+      "name": "Urza's Tower",
+      "scryfall_id": "f6ecf34e-7642-43d4-855b-36e125e4c69e"
+    },
+    {
+      "id": "5d60fbfe-a838-4f37-9b18-d8655d8aee0b",
+      "set_code": "RIN",
+      "collector_number": "185",
+      "name": "Urza's Tower",
+      "scryfall_id": "139f0169-80b1-4c9b-9e0f-370cedd0022c"
+    },
+    {
+      "id": "966a7ac5-f203-45f0-b5a2-aa7ae457448a",
+      "set_code": "RIN",
+      "collector_number": "186",
+      "name": "Urza's Tower",
+      "scryfall_id": "dc2c039e-fbf9-4e45-874d-b0ab0d923e52"
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "id": "6a8a2a6f-b81e-4f73-b96a-a4be7cc6bc71",
+  "code": "GVL",
+  "name": "Duel Decks Anthology: Garruk vs. Liliana",
+  "scryfall_id": "db352daa-9827-44ca-ba19-511969a97689",
+  "cards": [
+    {
+      "id": "f9d0b4b8-8aaf-4b74-a2bc-039da3de114a",
+      "set_code": "GVL",
+      "collector_number": "1",
+      "name": "Garruk Wildspeaker",
+      "scryfall_id": "6b56c367-7ac8-4541-9f2e-1fdc9c5aecdc"
+    },
+    {
+      "id": "8c766830-6218-48ea-831e-deba5cc4ce26",
+      "set_code": "GVL",
+      "collector_number": "2",
+      "name": "Basking Rootwalla",
+      "scryfall_id": "b0c26a48-29fe-42a9-b096-99d67ccab4ab"
+    },
+    {
+      "id": "3e99a2e7-8c19-443c-a560-8b9eb03a6a6f",
+      "set_code": "GVL",
+      "collector_number": "3",
+      "name": "Albino Troll",
+      "scryfall_id": "114fefca-8472-4c09-ae61-75d300d6e681"
+    },
+    {
+      "id": "7d52a1e0-33f7-45f7-80d9-a838153f3b71",
+      "set_code": "GVL",
+      "collector_number": "4",
+      "name": "Vine Trellis",
+      "scryfall_id": "4683fa31-da33-4313-82b5-0ed91f33e8d3"
+    },
+    {
+      "id": "e94590a8-9548-459a-8810-cef324e2671f",
+      "set_code": "GVL",
+      "collector_number": "5",
+      "name": "Wild Mongrel",
+      "scryfall_id": "20644b9f-6019-4514-a04f-ff4e8a64a2e9"
+    },
+    {
+      "id": "b929d6e8-dd9c-40bc-a9ff-c76362711614",
+      "set_code": "GVL",
+      "collector_number": "6",
+      "name": "Wirewood Savage",
+      "scryfall_id": "a25d3ffa-cd8c-4b6a-ac63-9bb92cb8802c"
+    },
+    {
+      "id": "15a6b2d7-83ea-4241-810c-82e785946ff3",
+      "set_code": "GVL",
+      "collector_number": "7",
+      "name": "Blastoderm",
+      "scryfall_id": "1aeb6b3a-1e84-4181-9e7f-d5a88ebf08b1"
+    },
+    {
+      "id": "c1086e6f-bf4b-4633-b03c-35a9f8d41891",
+      "set_code": "GVL",
+      "collector_number": "8",
+      "name": "Ravenous Baloth",
+      "scryfall_id": "5611756f-f6c0-4fa7-9676-2c8d25863f43"
+    },
+    {
+      "id": "bfc176ab-47aa-4007-b60f-84f148232c04",
+      "set_code": "GVL",
+      "collector_number": "9",
+      "name": "Stampeding Wildebeests",
+      "scryfall_id": "3134cf43-7723-4420-be98-c6fc7b5bb49b"
+    },
+    {
+      "id": "8883fea9-49dc-4e79-a475-213e8bfb68db",
+      "set_code": "GVL",
+      "collector_number": "10",
+      "name": "Indrik Stomphowler",
+      "scryfall_id": "c070c65f-45b4-4f51-8b54-c61b025787fe"
+    },
+    {
+      "id": "564019d1-3263-491e-85c9-36413b56d62c",
+      "set_code": "GVL",
+      "collector_number": "11",
+      "name": "Krosan Tusker",
+      "scryfall_id": "3975c655-8cad-405e-8180-5c6d42882e69"
+    },
+    {
+      "id": "4e5a32fd-b889-45f0-81d6-b0c39fe060b4",
+      "set_code": "GVL",
+      "collector_number": "12",
+      "name": "Plated Slagwurm",
+      "scryfall_id": "941fa83a-cb61-47b1-83a7-7ce7e894c338"
+    },
+    {
+      "id": "3776f6b0-b1ba-4427-ac0f-7143e6963e49",
+      "set_code": "GVL",
+      "collector_number": "13",
+      "name": "Genju of the Cedars",
+      "scryfall_id": "1254929b-0be1-4068-af69-7e59840c8b98"
+    },
+    {
+      "id": "c4e449a7-3bdc-4873-8815-67b0ba782b68",
+      "set_code": "GVL",
+      "collector_number": "14",
+      "name": "Giant Growth",
+      "scryfall_id": "4761badf-58f9-415d-a2b1-d1b428399384"
+    },
+    {
+      "id": "d14d1149-c35c-432e-8fd7-0effb664a4c4",
+      "set_code": "GVL",
+      "collector_number": "15",
+      "name": "Rancor",
+      "scryfall_id": "c45de3ce-c2d5-47ac-8e9e-c6b24dd6047c"
+    },
+    {
+      "id": "09543351-8c5a-461b-b113-a8a37afb6452",
+      "set_code": "GVL",
+      "collector_number": "16",
+      "name": "Lignify",
+      "scryfall_id": "23464d53-fa76-40e2-84c3-b6d6cc729be4"
+    },
+    {
+      "id": "1f6023a6-6ec7-4fd3-a0cf-b472571af7b3",
+      "set_code": "GVL",
+      "collector_number": "17",
+      "name": "Nature's Lore",
+      "scryfall_id": "53b43b19-c2d3-49ec-88ca-bcd37adcd4af"
+    },
+    {
+      "id": "0e3ba77a-bf5c-4e62-b4ea-f95776407cbe",
+      "set_code": "GVL",
+      "collector_number": "18",
+      "name": "Elephant Guide",
+      "scryfall_id": "95a191bb-85c1-4287-a5ef-93d48f0b9a3d"
+    },
+    {
+      "id": "458ebbd2-0f4c-46cb-9400-aec7a62679c1",
+      "set_code": "GVL",
+      "collector_number": "19",
+      "name": "Invigorate",
+      "scryfall_id": "881be297-e152-48fd-86ca-05ba4f6bcfdc"
+    },
+    {
+      "id": "49bebfe1-a070-443e-854a-8fa1ce9b4571",
+      "set_code": "GVL",
+      "collector_number": "20",
+      "name": "Serrated Arrows",
+      "scryfall_id": "1519b17c-9003-43e0-958f-1fcd20ab2d70"
+    },
+    {
+      "id": "f4bddb2d-2aa2-472e-8009-4e84999897e9",
+      "set_code": "GVL",
+      "collector_number": "21",
+      "name": "Harmonize",
+      "scryfall_id": "b0808b0f-80be-49ae-bc4c-a889eb99e5da"
+    },
+    {
+      "id": "75207651-47ce-4a0b-8411-4452369d23e6",
+      "set_code": "GVL",
+      "collector_number": "22",
+      "name": "Rude Awakening",
+      "scryfall_id": "019897e4-d3ba-43b1-9bd9-2ebba6e3b349"
+    },
+    {
+      "id": "0ac79d84-a517-4cc5-aafe-2fb13dd55d46",
+      "set_code": "GVL",
+      "collector_number": "23",
+      "name": "Beast Attack",
+      "scryfall_id": "d2538490-025e-4f79-b9e5-f3b77fd84bff"
+    },
+    {
+      "id": "7d639c94-a52e-4d7b-bb38-06a80a577c98",
+      "set_code": "GVL",
+      "collector_number": "24",
+      "name": "Overrun",
+      "scryfall_id": "4bb15e84-78f8-485e-a518-5d6f31c47cc0"
+    },
+    {
+      "id": "9c62fce2-a330-40c5-a3bc-e57192ed9ac3",
+      "set_code": "GVL",
+      "collector_number": "25",
+      "name": "Windstorm",
+      "scryfall_id": "43baa030-c455-4922-bd42-d36181dbb319"
+    },
+    {
+      "id": "99eb374b-c8a4-45ea-bd03-e1b99db34441",
+      "set_code": "GVL",
+      "collector_number": "26",
+      "name": "Slippery Karst",
+      "scryfall_id": "de8d5f2f-7508-489c-a84a-add38ddb3d8c"
+    },
+    {
+      "id": "02cbe25b-d6f9-4e7a-8030-1225773a0b8b",
+      "set_code": "GVL",
+      "collector_number": "27",
+      "name": "Treetop Village",
+      "scryfall_id": "cb9aeba9-2e22-4cad-9946-dae24d1f4aa9"
+    },
+    {
+      "id": "21f7f3d4-cf88-499f-acbd-8c6ff0488b44",
+      "set_code": "GVL",
+      "collector_number": "28",
+      "name": "Forest",
+      "scryfall_id": "b7209ed0-c0ff-458f-8f79-259955d29e01"
+    },
+    {
+      "id": "040ae90d-c1b8-48f5-ac50-2239813611d1",
+      "set_code": "GVL",
+      "collector_number": "29",
+      "name": "Forest",
+      "scryfall_id": "e955ba85-fbe5-41e1-acf4-edea058dd135"
+    },
+    {
+      "id": "96343380-eb84-4e7a-bbf6-5cb7f41584e5",
+      "set_code": "GVL",
+      "collector_number": "30",
+      "name": "Forest",
+      "scryfall_id": "9bac6e97-f2c6-444b-a811-66b30fafb744"
+    },
+    {
+      "id": "fc1ebf00-05ac-4653-9d6f-35fdb52ba72f",
+      "set_code": "GVL",
+      "collector_number": "31",
+      "name": "Forest",
+      "scryfall_id": "cc1aebd0-9b96-4ff9-b3d0-888fec778898"
+    },
+    {
+      "id": "d0b06b7f-b6fa-4dfe-9c34-2235cc2dce62",
+      "set_code": "GVL",
+      "collector_number": "32",
+      "name": "Liliana Vess",
+      "scryfall_id": "96bb667b-7240-4072-beb7-9a803c9eabe3"
+    },
+    {
+      "id": "f7d64a89-6d7e-47bc-a2ab-108e9a657f25",
+      "set_code": "GVL",
+      "collector_number": "33",
+      "name": "Deathgreeter",
+      "scryfall_id": "561b8539-cb84-42f0-97f2-2c94839777e3"
+    },
+    {
+      "id": "da3141d9-7b61-4768-a775-47686014e4c3",
+      "set_code": "GVL",
+      "collector_number": "34",
+      "name": "Ghost-Lit Stalker",
+      "scryfall_id": "dd6e17a2-17f0-4d6b-b41a-3bd081b3ef63"
+    },
+    {
+      "id": "701db503-ec9b-4933-95f6-2e098e891953",
+      "set_code": "GVL",
+      "collector_number": "35",
+      "name": "Vampire Bats",
+      "scryfall_id": "573c35a4-543b-47fe-80b4-d6462abfb82f"
+    },
+    {
+      "id": "9ee8f816-8246-4ffa-9123-1ebe8d5ea8c5",
+      "set_code": "GVL",
+      "collector_number": "36",
+      "name": "Drudge Skeletons",
+      "scryfall_id": "bd6f73bc-3181-40fa-9156-b73e4280e747"
+    },
+    {
+      "id": "5cb6d373-a447-45ea-8388-5ef700db4066",
+      "set_code": "GVL",
+      "collector_number": "37",
+      "name": "Ravenous Rats",
+      "scryfall_id": "f87e5072-525e-4b0b-a5c3-ee5e89a81e1d"
+    },
+    {
+      "id": "4a443836-b0bd-4194-9dff-73528f9ec9b9",
+      "set_code": "GVL",
+      "collector_number": "38",
+      "name": "Fleshbag Marauder",
+      "scryfall_id": "f86ef3ad-ae51-4182-9f5d-e4fd238b1622"
+    },
+    {
+      "id": "c43cb90d-cf7f-46d7-959b-9b4091283f94",
+      "set_code": "GVL",
+      "collector_number": "39",
+      "name": "Phyrexian Rager",
+      "scryfall_id": "29ede090-6b81-4526-9bb4-34d47d953377"
+    },
+    {
+      "id": "cdc84a03-e7ad-4970-92c3-eb8f1c07b506",
+      "set_code": "GVL",
+      "collector_number": "40",
+      "name": "Urborg Syphon-Mage",
+      "scryfall_id": "db3ae6eb-0be7-43de-9d4b-32a34e1cec0c"
+    },
+    {
+      "id": "70d79447-45b1-435e-a2e2-f2dcb51b5d24",
+      "set_code": "GVL",
+      "collector_number": "41",
+      "name": "Wall of Bone",
+      "scryfall_id": "45025791-a94a-4046-8297-3b7a2019e4a3"
+    },
+    {
+      "id": "fe7c0cf6-715a-44da-8ff4-b6eca3240651",
+      "set_code": "GVL",
+      "collector_number": "42",
+      "name": "Faerie Macabre",
+      "scryfall_id": "62103ceb-b16d-48ea-af42-d3df88d1ee4c"
+    },
+    {
+      "id": "9cf42bec-bdaa-48f8-9633-2fc775695192",
+      "set_code": "GVL",
+      "collector_number": "43",
+      "name": "Howling Banshee",
+      "scryfall_id": "ce096d78-e8b0-4ba2-a734-aa1e96d2dabe"
+    },
+    {
+      "id": "9a108699-cefd-48e2-961a-cbded3a8bc6e",
+      "set_code": "GVL",
+      "collector_number": "44",
+      "name": "Keening Banshee",
+      "scryfall_id": "80031bc4-28a8-4f57-916f-fcf01dc252f9"
+    },
+    {
+      "id": "2c5b13ca-ebd0-4f09-baaf-6de7a00db256",
+      "set_code": "GVL",
+      "collector_number": "45",
+      "name": "Twisted Abomination",
+      "scryfall_id": "61fd17eb-c2a1-476d-a970-5bc0aac09f8a"
+    },
+    {
+      "id": "d15565cf-35e7-4d2c-8858-af6507b51d0e",
+      "set_code": "GVL",
+      "collector_number": "46",
+      "name": "Skeletal Vampire",
+      "scryfall_id": "0eec62fe-2170-4e94-baa2-5e73114f0eb0"
+    },
+    {
+      "id": "ebf7f549-d9d6-47ea-b3c7-2321645f4204",
+      "set_code": "GVL",
+      "collector_number": "47",
+      "name": "Genju of the Fens",
+      "scryfall_id": "d8e06ff3-5fdd-444d-916e-3764f795456e"
+    },
+    {
+      "id": "04a67c99-7700-4cff-9cbd-2cb4e2767a7d",
+      "set_code": "GVL",
+      "collector_number": "48",
+      "name": "Bad Moon",
+      "scryfall_id": "8f8a75da-ea3c-43e7-9d32-1c92f8ec0fd2"
+    },
+    {
+      "id": "78fa1a89-b9e1-4e60-bd0c-64939d76929a",
+      "set_code": "GVL",
+      "collector_number": "49",
+      "name": "Sign in Blood",
+      "scryfall_id": "e5ae9dea-98b4-4088-864c-8ca4b1da86e6"
+    },
+    {
+      "id": "86629022-df32-436e-b51e-696ac98dcf16",
+      "set_code": "GVL",
+      "collector_number": "50",
+      "name": "Vicious Hunger",
+      "scryfall_id": "a232093a-f136-428d-9a6d-c03b1a20126a"
+    },
+    {
+      "id": "618e2881-d84f-470c-b582-3ccc2e2ab6d3",
+      "set_code": "GVL",
+      "collector_number": "51",
+      "name": "Ichor Slick",
+      "scryfall_id": "113b3bd0-d8d6-4083-bf71-6f6115e0786a"
+    },
+    {
+      "id": "ef04f1d0-e963-4425-8559-9dc0722cfaf3",
+      "set_code": "GVL",
+      "collector_number": "52",
+      "name": "Hideous End",
+      "scryfall_id": "7431b1b3-e7d5-4187-ac6e-747960c0cadd"
+    },
+    {
+      "id": "55440f8b-ed3b-459c-bd15-4746d66c5ad3",
+      "set_code": "GVL",
+      "collector_number": "53",
+      "name": "Snuff Out",
+      "scryfall_id": "75bbe89f-09af-494e-b58e-271f64bde4b5"
+    },
+    {
+      "id": "26e021fc-e7cf-4a19-8647-a6be88b6063f",
+      "set_code": "GVL",
+      "collector_number": "54",
+      "name": "Tendrils of Corruption",
+      "scryfall_id": "7aeac2b2-0b66-402e-96d4-8f4c4f669fa2"
+    },
+    {
+      "id": "1ae37a74-4e14-4f72-886a-a8604d39df4f",
+      "set_code": "GVL",
+      "collector_number": "55",
+      "name": "Mutilate",
+      "scryfall_id": "04587192-e5a6-46f6-98b5-3b349d618880"
+    },
+    {
+      "id": "ac2f4b8a-ab9d-4ad9-8f92-391b81ffdf23",
+      "set_code": "GVL",
+      "collector_number": "56",
+      "name": "Rise from the Grave",
+      "scryfall_id": "f826da19-e1bd-4494-94c0-1fbea79f4d46"
+    },
+    {
+      "id": "3749e86e-2460-428a-afbe-35a07bcb4560",
+      "set_code": "GVL",
+      "collector_number": "57",
+      "name": "Corrupt",
+      "scryfall_id": "cc719eb5-1867-4c5f-a5ce-e97ffa15ac61"
+    },
+    {
+      "id": "7ad1eed8-aa22-42c6-8f73-12a39c507bc5",
+      "set_code": "GVL",
+      "collector_number": "58",
+      "name": "Enslave",
+      "scryfall_id": "b47beeb9-0ce1-49cf-bf6f-3673c489af62"
+    },
+    {
+      "id": "b075af35-2d2c-4fdb-b9b6-bccaabfdd7c9",
+      "set_code": "GVL",
+      "collector_number": "59",
+      "name": "Polluted Mire",
+      "scryfall_id": "616bd97a-ead4-4f80-b67c-d9e4222912be"
+    },
+    {
+      "id": "d222469e-69e5-4f33-8953-b6ad4cadde28",
+      "set_code": "GVL",
+      "collector_number": "60",
+      "name": "Swamp",
+      "scryfall_id": "39c6032a-8a2d-4718-b541-617777db6ec2"
+    },
+    {
+      "id": "ddcd3ad6-472b-40a6-8058-3ebaf94c6d53",
+      "set_code": "GVL",
+      "collector_number": "61",
+      "name": "Swamp",
+      "scryfall_id": "db3f0816-76ea-40d6-935f-e3b1bdc4415b"
+    },
+    {
+      "id": "818c3062-8bee-4438-8fb0-f63de7d07341",
+      "set_code": "GVL",
+      "collector_number": "62",
+      "name": "Swamp",
+      "scryfall_id": "70202db7-63f6-4ba7-a79e-1afc23d86e24"
+    },
+    {
+      "id": "bbca413d-bb1b-4087-9763-8a2c0eacad2e",
+      "set_code": "GVL",
+      "collector_number": "63",
+      "name": "Swamp",
+      "scryfall_id": "376aea7a-6ebd-48fd-ac4f-a16b2e997dce"
+    }
+  ]
+}

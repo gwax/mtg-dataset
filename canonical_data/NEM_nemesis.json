@@ -1,0 +1,1009 @@
+{
+  "id": "7b1c2226-4557-4f61-a37b-1d526d66da7d",
+  "code": "NEM",
+  "name": "Nemesis",
+  "scryfall_id": "fa5d1fdb-f781-473d-b14d-50396d40d43f",
+  "cards": [
+    {
+      "id": "cbf5606e-c942-43f9-84c4-32feb09d1839",
+      "set_code": "NEM",
+      "collector_number": "1",
+      "name": "Angelic Favor",
+      "scryfall_id": "871ad2f3-1dd2-45ea-881d-529aad3b76ec"
+    },
+    {
+      "id": "b8f545b1-34f3-4f84-af05-3c21ae8293de",
+      "set_code": "NEM",
+      "collector_number": "2",
+      "name": "Avenger en-Dal",
+      "scryfall_id": "fcf6f711-c0bc-4e12-b9d0-41581924e13c"
+    },
+    {
+      "id": "875a84ff-2095-4fb8-b762-c2c0d9f3f462",
+      "set_code": "NEM",
+      "collector_number": "3",
+      "name": "Blinding Angel",
+      "scryfall_id": "48c25553-6554-4e31-9012-c50da1f0a171"
+    },
+    {
+      "id": "5255d958-80b0-48a6-922c-9a9763d87fb7",
+      "set_code": "NEM",
+      "collector_number": "4",
+      "name": "Chieftain en-Dal",
+      "scryfall_id": "0c1f49bc-d144-466f-8795-c0dae7afdc10"
+    },
+    {
+      "id": "8c310fd7-5b6e-4202-991e-ef58bbf5f163",
+      "set_code": "NEM",
+      "collector_number": "5",
+      "name": "Defender en-Vec",
+      "scryfall_id": "e7b224b7-d5f7-4515-beca-523f305ee3b8"
+    },
+    {
+      "id": "bdd1d55b-3fa6-4dee-a60e-7a46030225a1",
+      "set_code": "NEM",
+      "collector_number": "6",
+      "name": "Defiant Falcon",
+      "scryfall_id": "4c80032b-daeb-4661-9a66-61abe9d12ddd"
+    },
+    {
+      "id": "c50c515d-77e3-45f4-bc5b-810f23f9d336",
+      "set_code": "NEM",
+      "collector_number": "7",
+      "name": "Defiant Vanguard",
+      "scryfall_id": "4c0bd267-59ec-41df-b0b7-37f6e6d6b073"
+    },
+    {
+      "id": "09078ae1-dae3-4dea-a84e-a38d663c9012",
+      "set_code": "NEM",
+      "collector_number": "8",
+      "name": "Fanatical Devotion",
+      "scryfall_id": "be0ed1fb-d380-4e3e-a43f-c39660a996e9"
+    },
+    {
+      "id": "c238920c-2aa9-440a-b070-ad4a5baeec5d",
+      "set_code": "NEM",
+      "collector_number": "9",
+      "name": "Lashknife",
+      "scryfall_id": "fd7451cc-4126-4518-a103-2558fa81323f"
+    },
+    {
+      "id": "d8a0680a-5e31-4f59-8cfc-6dbdd609f21e",
+      "set_code": "NEM",
+      "collector_number": "10",
+      "name": "Lawbringer",
+      "scryfall_id": "2d76b7e3-6890-4120-8575-732909c8bdff"
+    },
+    {
+      "id": "a52db1e4-e0d7-4ca4-841f-001a3453beef",
+      "set_code": "NEM",
+      "collector_number": "11",
+      "name": "Lightbringer",
+      "scryfall_id": "19451993-7a53-4a50-bfca-ddc9cdfbe168"
+    },
+    {
+      "id": "ba7a5e7f-344f-4fc4-b6f1-027a738cb30f",
+      "set_code": "NEM",
+      "collector_number": "12",
+      "name": "Lin Sivvi, Defiant Hero",
+      "scryfall_id": "e574e522-2632-4cd4-8545-c582ac3b641f"
+    },
+    {
+      "id": "fe25b324-2f4b-407f-bc84-a28c3776df39",
+      "set_code": "NEM",
+      "collector_number": "13",
+      "name": "Netter en-Dal",
+      "scryfall_id": "2190649d-f898-4693-8ccf-80e6709d8496"
+    },
+    {
+      "id": "2e1b8ab1-153f-4dba-87d4-6ede48ab971b",
+      "set_code": "NEM",
+      "collector_number": "14",
+      "name": "Noble Stand",
+      "scryfall_id": "5f53ab12-7c16-43b1-b9f9-a5e523cf431b"
+    },
+    {
+      "id": "04475890-b04d-4a16-a26f-ad6ae3a5983f",
+      "set_code": "NEM",
+      "collector_number": "15",
+      "name": "Off Balance",
+      "scryfall_id": "adafe5c4-8de0-4d38-919f-de96bc70c21b"
+    },
+    {
+      "id": "aa4439d6-5f74-4cb9-b9f5-55dc40788742",
+      "set_code": "NEM",
+      "collector_number": "16",
+      "name": "Oracle's Attendants",
+      "scryfall_id": "e2e0ea3e-9826-408d-835b-18dfecaac8af"
+    },
+    {
+      "id": "5f99d2d9-b31b-4c0f-adb6-a6b3452848d6",
+      "set_code": "NEM",
+      "collector_number": "17",
+      "name": "Parallax Wave",
+      "scryfall_id": "cef789e8-e4cc-4f61-bc15-debc2487777f"
+    },
+    {
+      "id": "d38105d9-6714-4fe0-80cf-18f785d1533d",
+      "set_code": "NEM",
+      "collector_number": "18",
+      "name": "Seal of Cleansing",
+      "scryfall_id": "af6c921e-1b82-412c-9979-adfdf83440f7"
+    },
+    {
+      "id": "344217e8-e6d7-465e-a50d-f0ced1a88667",
+      "set_code": "NEM",
+      "collector_number": "19",
+      "name": "Silkenfist Fighter",
+      "scryfall_id": "3480efc4-1078-4c63-a94c-d00a7507f6b1"
+    },
+    {
+      "id": "22ae07e1-53f1-4543-a99d-cf58c07440ce",
+      "set_code": "NEM",
+      "collector_number": "20",
+      "name": "Silkenfist Order",
+      "scryfall_id": "93741517-90ed-46fe-a505-fe6299f188bf"
+    },
+    {
+      "id": "d1ede27f-20da-4a9e-b08d-063b8a216bfc",
+      "set_code": "NEM",
+      "collector_number": "21",
+      "name": "Sivvi's Ruse",
+      "scryfall_id": "132112a0-0fb0-4a80-927d-39d34cf10159"
+    },
+    {
+      "id": "a3bf943e-31fb-4f26-8952-9256f2946b8f",
+      "set_code": "NEM",
+      "collector_number": "22",
+      "name": "Sivvi's Valor",
+      "scryfall_id": "9d15f7b5-5070-4742-a05c-623822d874fb"
+    },
+    {
+      "id": "69d3091c-e0dd-4ac2-a684-8282a209625e",
+      "set_code": "NEM",
+      "collector_number": "23",
+      "name": "Spiritual Asylum",
+      "scryfall_id": "e5eea354-2d92-4b57-aec7-25260ab7a70f"
+    },
+    {
+      "id": "e4b17c7e-e25d-4610-9a38-e62ac3946224",
+      "set_code": "NEM",
+      "collector_number": "24",
+      "name": "Topple",
+      "scryfall_id": "a7c25c67-4214-4318-a718-7d351e713f80"
+    },
+    {
+      "id": "1d0803e1-4fcd-48a4-b11a-e9c8c9dd746d",
+      "set_code": "NEM",
+      "collector_number": "25",
+      "name": "Voice of Truth",
+      "scryfall_id": "40377e3d-77d9-4d86-ac8c-4e27803e48d8"
+    },
+    {
+      "id": "efb24c51-a10f-45dc-b3b8-f5f5281b68b3",
+      "set_code": "NEM",
+      "collector_number": "26",
+      "name": "Accumulated Knowledge",
+      "scryfall_id": "ab061406-38f4-40e7-a9ea-e3cbcaabc127"
+    },
+    {
+      "id": "2985457e-cfa5-4415-ba5e-ceb6db3fe8f2",
+      "set_code": "NEM",
+      "collector_number": "27",
+      "name": "Aether Barrier",
+      "scryfall_id": "36298f9f-12cc-43bd-adda-ccabd67a9568"
+    },
+    {
+      "id": "fb578db0-bcc0-4327-aaa9-2f28e71b1259",
+      "set_code": "NEM",
+      "collector_number": "28",
+      "name": "Air Bladder",
+      "scryfall_id": "a7363c6f-53a3-4f41-b451-8120bc24f1ee"
+    },
+    {
+      "id": "2f4491b8-7a57-4343-bcad-e6e66d4322df",
+      "set_code": "NEM",
+      "collector_number": "29",
+      "name": "Cloudskate",
+      "scryfall_id": "e7f97e50-3aeb-4c79-81b1-505a2f32d8ac"
+    },
+    {
+      "id": "822a3fa9-3b92-4f15-a928-aff49c24b4d2",
+      "set_code": "NEM",
+      "collector_number": "30",
+      "name": "Daze",
+      "scryfall_id": "d03bff25-0d5e-4dcf-8d75-6df846afea3b"
+    },
+    {
+      "id": "d78f49a1-d904-4133-8d54-f55d7e9a1a34",
+      "set_code": "NEM",
+      "collector_number": "31",
+      "name": "Dominate",
+      "scryfall_id": "63b2dcb1-8c3e-434c-865a-196d4d799706"
+    },
+    {
+      "id": "63d5ea7e-240d-4ef2-aba8-712d2cef31a7",
+      "set_code": "NEM",
+      "collector_number": "32",
+      "name": "Ensnare",
+      "scryfall_id": "055b344a-4eb1-4579-ac50-973b18e12fad"
+    },
+    {
+      "id": "3bd0bf3f-588b-43af-9153-f5a479cda926",
+      "set_code": "NEM",
+      "collector_number": "33",
+      "name": "Infiltrate",
+      "scryfall_id": "c549b817-8ad6-44d0-9761-5e4ff9e62c71"
+    },
+    {
+      "id": "507fd521-acee-4d7e-94c3-cce978399a86",
+      "set_code": "NEM",
+      "collector_number": "34",
+      "name": "Jolting Merfolk",
+      "scryfall_id": "8b4d1c74-8b73-445c-b226-349c57a972f6"
+    },
+    {
+      "id": "dc1f448f-9832-45f6-985b-635ec2617128",
+      "set_code": "NEM",
+      "collector_number": "35",
+      "name": "Oraxid",
+      "scryfall_id": "6c05609a-f32d-4454-af24-a24452997dcb"
+    },
+    {
+      "id": "410cd1b7-43d8-415b-b719-6838b4e04b7e",
+      "set_code": "NEM",
+      "collector_number": "36",
+      "name": "Pale Moon",
+      "scryfall_id": "aeb282bb-d0b8-4822-8197-ff0523549309"
+    },
+    {
+      "id": "d73cab9c-dee0-4bd5-9828-90eba9a50f9d",
+      "set_code": "NEM",
+      "collector_number": "37",
+      "name": "Parallax Tide",
+      "scryfall_id": "7fe593eb-df3c-43e5-97a6-418f91e87cb3"
+    },
+    {
+      "id": "a929ffb8-65e5-4914-bf40-59f39c152b6b",
+      "set_code": "NEM",
+      "collector_number": "38",
+      "name": "Rising Waters",
+      "scryfall_id": "ec9c84db-cf45-43e1-b38f-8bbf53cf088b"
+    },
+    {
+      "id": "ae4231f0-4864-41f5-b321-a7aad9f67a6b",
+      "set_code": "NEM",
+      "collector_number": "39",
+      "name": "Rootwater Commando",
+      "scryfall_id": "8e86f36d-584d-49b2-8c66-19c262408950"
+    },
+    {
+      "id": "3842d5cc-e042-40fa-b0c9-2c6482a53661",
+      "set_code": "NEM",
+      "collector_number": "40",
+      "name": "Rootwater Thief",
+      "scryfall_id": "38addef3-1dd7-41a1-9706-3be5c86a58c9"
+    },
+    {
+      "id": "7f733fc4-e0ff-4b07-bca8-24610a75b32d",
+      "set_code": "NEM",
+      "collector_number": "41",
+      "name": "Seahunter",
+      "scryfall_id": "c375f65a-6d88-4d3c-a7a7-8c7a5cc5807f"
+    },
+    {
+      "id": "1779b951-c56a-4301-8550-6ed3b6c0318e",
+      "set_code": "NEM",
+      "collector_number": "42",
+      "name": "Seal of Removal",
+      "scryfall_id": "487becfe-a9b1-4029-a487-2a32561570cb"
+    },
+    {
+      "id": "53a72aed-9834-4db6-bc57-6f6cf5ed8f12",
+      "set_code": "NEM",
+      "collector_number": "43",
+      "name": "Sliptide Serpent",
+      "scryfall_id": "f8647649-5669-46c4-8840-9ff967fabd99"
+    },
+    {
+      "id": "c9f25981-09e4-45c7-a4d1-65ba80f36706",
+      "set_code": "NEM",
+      "collector_number": "44",
+      "name": "Sneaky Homunculus",
+      "scryfall_id": "e1b2dadb-4ce3-4f7e-9ca7-79757543f04d"
+    },
+    {
+      "id": "8e9c2537-296c-4873-abe2-4c56952e43fd",
+      "set_code": "NEM",
+      "collector_number": "45",
+      "name": "Stronghold Biologist",
+      "scryfall_id": "6215a5d9-d6d2-4f9f-8a0c-a65d1afd956a"
+    },
+    {
+      "id": "b3179cce-fac7-48c8-bce8-1dcafdd03058",
+      "set_code": "NEM",
+      "collector_number": "46",
+      "name": "Stronghold Machinist",
+      "scryfall_id": "d3567b4e-6e31-40b0-83ea-4a2a58bd637c"
+    },
+    {
+      "id": "84817d52-a46f-42c4-9402-93e6d21910a1",
+      "set_code": "NEM",
+      "collector_number": "47",
+      "name": "Stronghold Zeppelin",
+      "scryfall_id": "d672110d-b7c4-4233-9c46-73323be7204d"
+    },
+    {
+      "id": "4e8a086a-e372-4585-aafe-22786320e867",
+      "set_code": "NEM",
+      "collector_number": "48",
+      "name": "Submerge",
+      "scryfall_id": "d2741fe4-37fe-427f-ae85-5107991d4eee"
+    },
+    {
+      "id": "c0688488-5b1f-4323-85f2-774aa5c95691",
+      "set_code": "NEM",
+      "collector_number": "49",
+      "name": "Trickster Mage",
+      "scryfall_id": "b31b2e24-1a70-48bd-8946-ff29e12c6f3d"
+    },
+    {
+      "id": "8958cfb8-85c1-4131-9cae-eb9898b5e6f0",
+      "set_code": "NEM",
+      "collector_number": "50",
+      "name": "Wandering Eye",
+      "scryfall_id": "2869efd2-060f-4af3-b0dc-b7dc5e1143b8"
+    },
+    {
+      "id": "d40e4256-cd70-4d97-b3d5-55b4d44cf241",
+      "set_code": "NEM",
+      "collector_number": "51",
+      "name": "Ascendant Evincar",
+      "scryfall_id": "e5c87c93-8cf4-4d1a-9bb8-349600da55bc"
+    },
+    {
+      "id": "1e9da19c-0da5-4919-98a5-0568c1dd9a39",
+      "set_code": "NEM",
+      "collector_number": "52",
+      "name": "Battlefield Percher",
+      "scryfall_id": "f1ebf021-02a1-4a47-b581-c85a7a76cdec"
+    },
+    {
+      "id": "b98ddd12-d708-4d28-a91b-b380242d4026",
+      "set_code": "NEM",
+      "collector_number": "53",
+      "name": "Belbe's Percher",
+      "scryfall_id": "d95dcb2e-8945-47dd-ad40-b5bdcc3ea742"
+    },
+    {
+      "id": "e7e3555a-6624-49bf-83cf-8148b04cb49e",
+      "set_code": "NEM",
+      "collector_number": "54",
+      "name": "Carrion Wall",
+      "scryfall_id": "61d6fa78-3422-4ace-88ab-e985c558cba7"
+    },
+    {
+      "id": "32c6739a-b5e4-4bc0-8268-dd56833a168a",
+      "set_code": "NEM",
+      "collector_number": "55",
+      "name": "Dark Triumph",
+      "scryfall_id": "794657cd-b292-41d7-a4a6-3f3dd20dc07a"
+    },
+    {
+      "id": "8a030f0e-c4fe-4fe0-8fe8-99ced4ce7d6d",
+      "set_code": "NEM",
+      "collector_number": "56",
+      "name": "Death Pit Offering",
+      "scryfall_id": "6223e583-8ef6-4d93-8ed0-3ccf4488f166"
+    },
+    {
+      "id": "6cf00fe6-46a5-4f49-85ac-62f8d08ad8a6",
+      "set_code": "NEM",
+      "collector_number": "57",
+      "name": "Divining Witch",
+      "scryfall_id": "be981eef-9dd2-4233-82c9-03f9f2e82c59"
+    },
+    {
+      "id": "51c1ba20-4dad-4c75-8d00-0494174865a8",
+      "set_code": "NEM",
+      "collector_number": "58",
+      "name": "Massacre",
+      "scryfall_id": "f05f5d93-50d1-4aa6-af05-383a6808345b"
+    },
+    {
+      "id": "945dc3d5-4665-481a-8a49-4638db58e36b",
+      "set_code": "NEM",
+      "collector_number": "59",
+      "name": "Mind Slash",
+      "scryfall_id": "8bece38b-e09e-4666-95b6-5e5b05867cd5"
+    },
+    {
+      "id": "8409488d-515b-4264-a08b-40827410920b",
+      "set_code": "NEM",
+      "collector_number": "60",
+      "name": "Mind Swords",
+      "scryfall_id": "3d6d91df-008b-48f2-a84f-550702fbcdb3"
+    },
+    {
+      "id": "0e44aded-e7ce-481f-a2ed-13204d6e45cd",
+      "set_code": "NEM",
+      "collector_number": "61",
+      "name": "Murderous Betrayal",
+      "scryfall_id": "f13a3ed0-aa57-4082-b6b0-b1078c93c0b2"
+    },
+    {
+      "id": "e173f0f0-6839-4c6b-8bd8-e06301849e2e",
+      "set_code": "NEM",
+      "collector_number": "62",
+      "name": "Parallax Dementia",
+      "scryfall_id": "154789ac-bbea-467b-9655-76f378a53f40"
+    },
+    {
+      "id": "9afbd341-b485-4a5f-a4f4-dd5b73675608",
+      "set_code": "NEM",
+      "collector_number": "63",
+      "name": "Parallax Nexus",
+      "scryfall_id": "862c50c7-0840-46e0-a653-5b660fdfd4bd"
+    },
+    {
+      "id": "80db914a-e488-48e5-b758-86725b562199",
+      "set_code": "NEM",
+      "collector_number": "64",
+      "name": "Phyrexian Driver",
+      "scryfall_id": "efeef7f3-5b87-440d-a851-95ae2bdb840d"
+    },
+    {
+      "id": "c6d255d2-95e8-4042-b3c1-71fc43749266",
+      "set_code": "NEM",
+      "collector_number": "65",
+      "name": "Phyrexian Prowler",
+      "scryfall_id": "e26f79b5-780a-4cbb-b49d-01673a411d1f"
+    },
+    {
+      "id": "e98a9053-7819-439e-b26e-55a3838932b9",
+      "set_code": "NEM",
+      "collector_number": "66",
+      "name": "Plague Witch",
+      "scryfall_id": "ca3614c2-39b4-4f67-adab-373dcb9e4553"
+    },
+    {
+      "id": "93cb7305-b82a-4dc0-864d-7ab15ad5e571",
+      "set_code": "NEM",
+      "collector_number": "67",
+      "name": "Rathi Assassin",
+      "scryfall_id": "3e3597c3-3053-49f8-ab7e-a774e2fb082f"
+    },
+    {
+      "id": "e85ffcdb-0671-4572-8c68-f55a379b3373",
+      "set_code": "NEM",
+      "collector_number": "68",
+      "name": "Rathi Fiend",
+      "scryfall_id": "07ca1184-ade0-4d6d-87f9-ad17f37679b3"
+    },
+    {
+      "id": "962772e1-2d34-4b27-a1ac-facff8dcf49c",
+      "set_code": "NEM",
+      "collector_number": "69",
+      "name": "Rathi Intimidator",
+      "scryfall_id": "6fc59fa5-144f-49e6-b6bd-2ba6d3f2eff2"
+    },
+    {
+      "id": "a12c8caf-b899-4ad7-a2cc-778c931ec8cb",
+      "set_code": "NEM",
+      "collector_number": "70",
+      "name": "Seal of Doom",
+      "scryfall_id": "396d9f58-a4ca-4197-94be-0f115427224e"
+    },
+    {
+      "id": "56942197-0fa4-4c8f-81f2-35589a4b3ddc",
+      "set_code": "NEM",
+      "collector_number": "71",
+      "name": "Spineless Thug",
+      "scryfall_id": "e4a9bb47-3855-425d-924c-09dbde74735b"
+    },
+    {
+      "id": "0b48b146-525b-452d-b7de-55b2d93e4823",
+      "set_code": "NEM",
+      "collector_number": "72",
+      "name": "Spiteful Bully",
+      "scryfall_id": "5535d14a-7126-4a94-96a0-e17ad5c72070"
+    },
+    {
+      "id": "84bf7b68-4d0f-4b50-b6f9-626ce11d7dc2",
+      "set_code": "NEM",
+      "collector_number": "73",
+      "name": "Stronghold Discipline",
+      "scryfall_id": "46fa5472-5341-47cd-884e-fe2fcca12c0d"
+    },
+    {
+      "id": "d1c1c52b-22b5-4c57-9e2b-654419ebc66c",
+      "set_code": "NEM",
+      "collector_number": "74",
+      "name": "Vicious Hunger",
+      "scryfall_id": "ccaff6a0-7831-45db-a50f-881c6cb7ce49"
+    },
+    {
+      "id": "edc6600f-d608-402c-ab04-42b4b068d8bc",
+      "set_code": "NEM",
+      "collector_number": "75",
+      "name": "Volrath the Fallen",
+      "scryfall_id": "08bdd66e-9ca1-456e-a61c-7c96cf6f7c56"
+    },
+    {
+      "id": "985d5954-f431-4822-b1e9-0c839cdb1b55",
+      "set_code": "NEM",
+      "collector_number": "76",
+      "name": "Ancient Hydra",
+      "scryfall_id": "5de57c84-38b9-4606-b934-0ab270496582"
+    },
+    {
+      "id": "29868423-08ad-47e9-90b5-75733d6cf079",
+      "set_code": "NEM",
+      "collector_number": "77",
+      "name": "Arc Mage",
+      "scryfall_id": "62982dab-4c27-45b3-9740-38fec3df7226"
+    },
+    {
+      "id": "2b6d9e29-51bc-4ffa-a091-3aab4201e126",
+      "set_code": "NEM",
+      "collector_number": "78",
+      "name": "Bola Warrior",
+      "scryfall_id": "dc6e1de6-e7e0-4037-896a-f80c54b8ef5c"
+    },
+    {
+      "id": "df70c141-3fbb-4319-9e99-b8db0366f08c",
+      "set_code": "NEM",
+      "collector_number": "79",
+      "name": "Downhill Charge",
+      "scryfall_id": "2ebfc91c-d764-4e63-a428-82704f8bf1fd"
+    },
+    {
+      "id": "f2f77c1f-b152-4e71-b4c8-4f0533e9331d",
+      "set_code": "NEM",
+      "collector_number": "80",
+      "name": "Flame Rift",
+      "scryfall_id": "7717eeb9-c457-4a65-93a0-e91c7f6a1970"
+    },
+    {
+      "id": "0abc1b97-d022-4ec1-b7be-15b334d514a4",
+      "set_code": "NEM",
+      "collector_number": "81",
+      "name": "Flowstone Crusher",
+      "scryfall_id": "c93f0066-1ff0-4e52-9959-9eb0def60957"
+    },
+    {
+      "id": "585396a1-af52-42e8-a98d-6effc43eb189",
+      "set_code": "NEM",
+      "collector_number": "82",
+      "name": "Flowstone Overseer",
+      "scryfall_id": "3e644ab8-3cc3-413d-a918-44fc636087ae"
+    },
+    {
+      "id": "2abb7415-4ce8-43ce-9116-e2e35ed3db08",
+      "set_code": "NEM",
+      "collector_number": "83",
+      "name": "Flowstone Slide",
+      "scryfall_id": "ec7b02e1-0a20-4247-ae2a-056c5356f168"
+    },
+    {
+      "id": "1a6269ee-8d6b-46fa-a215-d62954627306",
+      "set_code": "NEM",
+      "collector_number": "84",
+      "name": "Flowstone Strike",
+      "scryfall_id": "a1203053-0829-4f46-a361-62cb9cd17280"
+    },
+    {
+      "id": "625aacd9-3d1d-48e1-87c2-9c7d73eb1370",
+      "set_code": "NEM",
+      "collector_number": "85",
+      "name": "Flowstone Surge",
+      "scryfall_id": "bc450922-0bbf-46c4-9955-79f4d41ee488"
+    },
+    {
+      "id": "19db4d9e-4726-4d0c-a923-7543ef79db6f",
+      "set_code": "NEM",
+      "collector_number": "86",
+      "name": "Flowstone Wall",
+      "scryfall_id": "89844c2f-f0a4-41c6-ad8c-d559fcaec85c"
+    },
+    {
+      "id": "bf6329a8-dea8-4875-bde4-0222244fbdd8",
+      "set_code": "NEM",
+      "collector_number": "87",
+      "name": "Laccolith Grunt",
+      "scryfall_id": "f27fd65a-5631-491f-b158-45012832ccf1"
+    },
+    {
+      "id": "0243f414-b688-42ff-a947-31c7fbfec0e0",
+      "set_code": "NEM",
+      "collector_number": "88",
+      "name": "Laccolith Rig",
+      "scryfall_id": "4fb92039-03fd-4aee-be74-96997be629d6"
+    },
+    {
+      "id": "4c0c2db4-6b10-470d-b7ea-460b72a1847b",
+      "set_code": "NEM",
+      "collector_number": "89",
+      "name": "Laccolith Titan",
+      "scryfall_id": "e36bc466-0f74-46fd-add2-c1cf3b3fe46b"
+    },
+    {
+      "id": "7a30e246-617f-4e27-ab9b-55cfde154d27",
+      "set_code": "NEM",
+      "collector_number": "90",
+      "name": "Laccolith Warrior",
+      "scryfall_id": "a13b103f-482b-47d5-84a2-3621ba23bd20"
+    },
+    {
+      "id": "fe759846-75f6-4d76-be72-cef01b5d9927",
+      "set_code": "NEM",
+      "collector_number": "91",
+      "name": "Laccolith Whelp",
+      "scryfall_id": "86eb5b9e-320f-40de-8668-ee0c08f63ec1"
+    },
+    {
+      "id": "aea4eb0c-b979-49f4-b5bc-f5701433ad95",
+      "set_code": "NEM",
+      "collector_number": "92",
+      "name": "Mana Cache",
+      "scryfall_id": "583a33b3-7833-48e5-88c3-849a5771ef6e"
+    },
+    {
+      "id": "dd666f9a-baba-4379-919d-0fa36cfa5cf6",
+      "set_code": "NEM",
+      "collector_number": "93",
+      "name": "Mogg Alarm",
+      "scryfall_id": "f246e128-0a43-478a-a232-51020fab76d5"
+    },
+    {
+      "id": "6979cc8e-2843-47d4-97c9-31b71be68e1b",
+      "set_code": "NEM",
+      "collector_number": "94",
+      "name": "Mogg Salvage",
+      "scryfall_id": "403aa48c-b684-4c54-8863-460958055a1f"
+    },
+    {
+      "id": "9a0dfddc-a3d3-4036-b89b-445f959449af",
+      "set_code": "NEM",
+      "collector_number": "95",
+      "name": "Mogg Toady",
+      "scryfall_id": "ee8edaf6-d46e-4efb-8bc0-ec11e06eb499"
+    },
+    {
+      "id": "8a0b9f09-35c4-478b-a04a-eb97984d2e31",
+      "set_code": "NEM",
+      "collector_number": "96",
+      "name": "Moggcatcher",
+      "scryfall_id": "9ba582d7-1dce-4664-8bd9-6b419596788c"
+    },
+    {
+      "id": "2743a0c0-28b8-4133-a899-4f655ffa4d68",
+      "set_code": "NEM",
+      "collector_number": "97",
+      "name": "Rupture",
+      "scryfall_id": "db53c1fb-3641-44a3-b0b4-b7b2ba993646"
+    },
+    {
+      "id": "cb52fb85-1a8f-4891-81c3-c38e241b1c83",
+      "set_code": "NEM",
+      "collector_number": "98",
+      "name": "Seal of Fire",
+      "scryfall_id": "37eaf1f6-4bdc-4669-9a15-50b65e016ccf"
+    },
+    {
+      "id": "6aca6949-8fe9-4923-af7b-7c9aae0da094",
+      "set_code": "NEM",
+      "collector_number": "99",
+      "name": "Shrieking Mogg",
+      "scryfall_id": "0ce46919-d312-490c-8942-39fbb2d375bf"
+    },
+    {
+      "id": "b4a3700a-ffc1-40b9-bfd5-86a1af2e2268",
+      "set_code": "NEM",
+      "collector_number": "100",
+      "name": "Stronghold Gambit",
+      "scryfall_id": "0d18050e-9aad-471e-a6ae-66e5fa2bbb6f"
+    },
+    {
+      "id": "08388f8b-cb67-4067-af2a-4527edcd6b0d",
+      "set_code": "NEM",
+      "collector_number": "101",
+      "name": "Animate Land",
+      "scryfall_id": "20ff4e7d-fa50-48d2-8ab6-6b86e3a05e86"
+    },
+    {
+      "id": "c0b4da30-9146-4c80-8722-60ca91ffbc23",
+      "set_code": "NEM",
+      "collector_number": "102",
+      "name": "Blastoderm",
+      "scryfall_id": "9db5d6c2-b11f-442a-b172-c0c99c9bec07"
+    },
+    {
+      "id": "0bb5353f-b937-488e-aeef-ff37ec03ac91",
+      "set_code": "NEM",
+      "collector_number": "103",
+      "name": "Coiling Woodworm",
+      "scryfall_id": "341a70be-2dbf-4365-9c7a-e52cb62a74fa"
+    },
+    {
+      "id": "c2f934e7-e34f-4e9b-bfbc-db3f70ec2ccd",
+      "set_code": "NEM",
+      "collector_number": "104",
+      "name": "Fog Patch",
+      "scryfall_id": "133f9e4f-2b1b-4a24-ad19-285a2c5845b5"
+    },
+    {
+      "id": "b0b771ca-a773-41d8-92d3-059300e80ae9",
+      "set_code": "NEM",
+      "collector_number": "105",
+      "name": "Harvest Mage",
+      "scryfall_id": "95b29329-b9a3-4d59-b0f8-2abc67337760"
+    },
+    {
+      "id": "c2293447-9e54-48ca-b21d-d68fe6e827e6",
+      "set_code": "NEM",
+      "collector_number": "106",
+      "name": "Mossdog",
+      "scryfall_id": "2bbe0201-3df3-4d0c-8aa4-8f35f12c322c"
+    },
+    {
+      "id": "3b6edbd8-e055-4533-b9ab-0fb9fb8473e1",
+      "set_code": "NEM",
+      "collector_number": "107",
+      "name": "Nesting Wurm",
+      "scryfall_id": "5da697da-7026-4dea-b494-8314d789160f"
+    },
+    {
+      "id": "6eced0de-67de-4b19-9cdd-3b163d184bd2",
+      "set_code": "NEM",
+      "collector_number": "108",
+      "name": "Overlaid Terrain",
+      "scryfall_id": "230c7926-9a4b-4ead-b4c8-889f84210545"
+    },
+    {
+      "id": "887ae85c-8d2d-4cb6-a174-d19b6881de29",
+      "set_code": "NEM",
+      "collector_number": "109",
+      "name": "Pack Hunt",
+      "scryfall_id": "1c46caa8-efc0-4b72-b122-61e5d86a5b86"
+    },
+    {
+      "id": "567bae56-b57b-4511-9001-09a373ac2e38",
+      "set_code": "NEM",
+      "collector_number": "110",
+      "name": "Refreshing Rain",
+      "scryfall_id": "c5e24850-bd9b-40ab-878f-b8a554da1956"
+    },
+    {
+      "id": "5294b6f7-ae00-4050-b55d-525762ebd98f",
+      "set_code": "NEM",
+      "collector_number": "111",
+      "name": "Reverent Silence",
+      "scryfall_id": "b82d3432-2167-4a65-8221-cb7b338e60d0"
+    },
+    {
+      "id": "61da49f0-087d-4e4d-8391-5163545033ee",
+      "set_code": "NEM",
+      "collector_number": "112",
+      "name": "Rhox",
+      "scryfall_id": "58388a29-b2a6-4d16-b872-f198563721d9"
+    },
+    {
+      "id": "3d71f6fe-7a8d-41a6-a59a-c4444175e95a",
+      "set_code": "NEM",
+      "collector_number": "113",
+      "name": "Saproling Burst",
+      "scryfall_id": "de3a293d-08d8-49e4-b0fa-91afa0a5591d"
+    },
+    {
+      "id": "8ea833a0-9f0f-48c7-a923-d5f270b77e88",
+      "set_code": "NEM",
+      "collector_number": "114",
+      "name": "Saproling Cluster",
+      "scryfall_id": "5f50072b-aedd-4074-b1f7-f9ce477c26c2"
+    },
+    {
+      "id": "5c79abed-72a5-4a23-90a8-d2d273b943c2",
+      "set_code": "NEM",
+      "collector_number": "115",
+      "name": "Seal of Strength",
+      "scryfall_id": "57650f78-3bf0-485a-bba8-7e7e14e47508"
+    },
+    {
+      "id": "1cdf38e4-bf7d-41d0-a8da-15c050e59925",
+      "set_code": "NEM",
+      "collector_number": "116",
+      "name": "Skyshroud Behemoth",
+      "scryfall_id": "1c01d17e-45a2-4b6f-aaa5-2af9c8f26181"
+    },
+    {
+      "id": "c76123f0-7724-4de5-b661-108c9ec7036f",
+      "set_code": "NEM",
+      "collector_number": "117",
+      "name": "Skyshroud Claim",
+      "scryfall_id": "cf3e09ff-c917-4c0c-8ddb-e152b4b0b82c"
+    },
+    {
+      "id": "44d1889b-d1ee-4f86-bb7f-0382c4c71abc",
+      "set_code": "NEM",
+      "collector_number": "118",
+      "name": "Skyshroud Cutter",
+      "scryfall_id": "a558c4f5-a716-4e46-9234-5f84f1bd57aa"
+    },
+    {
+      "id": "650d5da3-c37d-4885-a634-54830d8d96a8",
+      "set_code": "NEM",
+      "collector_number": "119",
+      "name": "Skyshroud Poacher",
+      "scryfall_id": "0fb4e44e-656e-4294-a53b-1f7aa96fab31"
+    },
+    {
+      "id": "a120e7fa-5357-4c6a-88c8-47606da09686",
+      "set_code": "NEM",
+      "collector_number": "120",
+      "name": "Skyshroud Ridgeback",
+      "scryfall_id": "410896ab-d3dc-478c-bfd1-c0cad5b1180a"
+    },
+    {
+      "id": "60e7166f-1aa1-4757-9ba9-574d2c5acc89",
+      "set_code": "NEM",
+      "collector_number": "121",
+      "name": "Skyshroud Sentinel",
+      "scryfall_id": "a35ab55f-f677-45c8-bd32-56788a776b33"
+    },
+    {
+      "id": "48cb0c85-53ba-42b5-bee9-3c92b33b369f",
+      "set_code": "NEM",
+      "collector_number": "122",
+      "name": "Stampede Driver",
+      "scryfall_id": "a295758a-ee46-4ed0-8539-67501a37010d"
+    },
+    {
+      "id": "876a7295-3b92-474e-8dbf-29c08cc84783",
+      "set_code": "NEM",
+      "collector_number": "123",
+      "name": "Treetop Bracers",
+      "scryfall_id": "d6d85032-26e9-44af-ab52-56d9c24e337d"
+    },
+    {
+      "id": "9dc48b1e-2c85-4547-96c3-88caa4e0e890",
+      "set_code": "NEM",
+      "collector_number": "124",
+      "name": "Wild Mammoth",
+      "scryfall_id": "4d927fdb-11c0-42b6-95d4-7af051e45213"
+    },
+    {
+      "id": "48ec9303-bb03-4e46-9f07-34484583dad7",
+      "set_code": "NEM",
+      "collector_number": "125",
+      "name": "Woodripper",
+      "scryfall_id": "5126b782-d74c-40ca-a9b2-a6c78f94d138"
+    },
+    {
+      "id": "02003454-a1ff-412b-ac77-28402451a7a1",
+      "set_code": "NEM",
+      "collector_number": "126",
+      "name": "Belbe's Armor",
+      "scryfall_id": "0052158b-58d1-4416-a7ce-7c6a7595263c"
+    },
+    {
+      "id": "01d4a0ca-f506-42ec-b160-6784ca0e6918",
+      "set_code": "NEM",
+      "collector_number": "127",
+      "name": "Belbe's Portal",
+      "scryfall_id": "fb4eeea1-693e-475c-a209-8a0464df8081"
+    },
+    {
+      "id": "2626ebad-df2b-44ca-ade0-62c22cfe1310",
+      "set_code": "NEM",
+      "collector_number": "128",
+      "name": "Complex Automaton",
+      "scryfall_id": "5fb3c7af-74e1-4072-953b-b3e9ccd8aa03"
+    },
+    {
+      "id": "9fb5ac2e-e9a4-4286-89e1-509569cedc13",
+      "set_code": "NEM",
+      "collector_number": "129",
+      "name": "Eye of Yawgmoth",
+      "scryfall_id": "9c258aa1-cd9f-45e9-b478-d689b78850cd"
+    },
+    {
+      "id": "975ead9c-85ff-4153-9a40-0bd80e1296e3",
+      "set_code": "NEM",
+      "collector_number": "130",
+      "name": "Flint Golem",
+      "scryfall_id": "0e62aa7e-d9f9-42d4-9eed-5f51f88047c6"
+    },
+    {
+      "id": "cb9fe22d-3be1-4759-a9f9-239f475e40e8",
+      "set_code": "NEM",
+      "collector_number": "131",
+      "name": "Flowstone Armor",
+      "scryfall_id": "1160e476-8a2b-4b90-b4db-f386a80ab067"
+    },
+    {
+      "id": "76aaf019-f698-45e0-9d93-5ac9c67aaf6f",
+      "set_code": "NEM",
+      "collector_number": "132",
+      "name": "Flowstone Thopter",
+      "scryfall_id": "5bf016ec-2654-4c3e-8e2e-6c70c4604d28"
+    },
+    {
+      "id": "cdb4155c-2e51-4177-bb0f-c86ca29ee230",
+      "set_code": "NEM",
+      "collector_number": "133",
+      "name": "Kill Switch",
+      "scryfall_id": "a94cfd63-7f2b-4c0a-8dcb-f22cf83e1e27"
+    },
+    {
+      "id": "fabe5273-5243-407e-badf-fee09266db7d",
+      "set_code": "NEM",
+      "collector_number": "134",
+      "name": "Parallax Inhibitor",
+      "scryfall_id": "f758617c-f0e4-43d5-8fb4-e33eb2c5b99f"
+    },
+    {
+      "id": "3f51addf-f70e-420f-b76e-7e608554a562",
+      "set_code": "NEM",
+      "collector_number": "135",
+      "name": "Predator, Flagship",
+      "scryfall_id": "28927927-3974-48c3-81c2-518089a10003"
+    },
+    {
+      "id": "fa447f2c-4539-4b58-8fd9-b6a9893792d6",
+      "set_code": "NEM",
+      "collector_number": "136",
+      "name": "Rackling",
+      "scryfall_id": "10f82f2e-a6db-491b-b253-82c34cd6c940"
+    },
+    {
+      "id": "99cda1d8-bcdc-4e6a-a545-b75abf064669",
+      "set_code": "NEM",
+      "collector_number": "137",
+      "name": "Rejuvenation Chamber",
+      "scryfall_id": "b97f86ce-4758-4ae3-af29-b08a4d771652"
+    },
+    {
+      "id": "b0b0a12f-7544-4d38-b223-bed2af4d2f60",
+      "set_code": "NEM",
+      "collector_number": "138",
+      "name": "Rusting Golem",
+      "scryfall_id": "c2605448-8e0d-492b-a635-468923c64625"
+    },
+    {
+      "id": "fb8b3bf2-2e11-4d9a-95c2-b5029f97f6d7",
+      "set_code": "NEM",
+      "collector_number": "139",
+      "name": "Tangle Wire",
+      "scryfall_id": "ad62f313-8a8a-4ffa-ada2-b12b76288729"
+    },
+    {
+      "id": "8b19618e-34dc-4d8c-a4f4-9459caf4a68e",
+      "set_code": "NEM",
+      "collector_number": "140",
+      "name": "Viseling",
+      "scryfall_id": "a3eb86c5-d6fe-4dde-ad07-c3109b3a1611"
+    },
+    {
+      "id": "6ec24d57-1358-4951-8259-49047de10a4b",
+      "set_code": "NEM",
+      "collector_number": "141",
+      "name": "Kor Haven",
+      "scryfall_id": "3d5529ca-5c20-4dfd-8595-96d6dfa6debe"
+    },
+    {
+      "id": "7c2e5503-ff0e-44f7-a113-2741c5d8f20a",
+      "set_code": "NEM",
+      "collector_number": "142",
+      "name": "Rath's Edge",
+      "scryfall_id": "42681dce-5c63-4e56-955e-39f085ea6ae9"
+    },
+    {
+      "id": "5e174eb7-6065-41a8-a07e-45d763a94ba8",
+      "set_code": "NEM",
+      "collector_number": "143",
+      "name": "Terrain Generator",
+      "scryfall_id": "e6fe66a2-8e70-414f-bedb-8f1f85f1d2d9"
+    }
+  ]
+}

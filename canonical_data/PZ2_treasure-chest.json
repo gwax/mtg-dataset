@@ -1,0 +1,1982 @@
+{
+  "id": "d671f417-a187-42d8-9ad8-c92b13958c91",
+  "code": "PZ2",
+  "name": "Treasure Chest",
+  "scryfall_id": "2661b143-8eac-4c73-9d93-549fe928bd96",
+  "cards": [
+    {
+      "id": "da59a247-8d98-4300-ac4f-1de91bb5cbc0",
+      "set_code": "PZ2",
+      "collector_number": "1",
+      "name": "Throne Warden",
+      "scryfall_id": "2b0e11c0-5347-4241-9a7e-f1a266d058c2"
+    },
+    {
+      "id": "956fe8e8-33f2-4ea4-a8cf-ff55479c5097",
+      "set_code": "PZ2",
+      "collector_number": "2",
+      "name": "Palace Sentinels",
+      "scryfall_id": "acc773ab-bf78-4cef-abab-b1a8ca76e252"
+    },
+    {
+      "id": "9745a413-3938-42e8-bbe9-4090ddacc7b6",
+      "set_code": "PZ2",
+      "collector_number": "3",
+      "name": "Orzhov Advokist",
+      "scryfall_id": "d876a938-26d7-449c-8d3a-92c2985e8b99"
+    },
+    {
+      "id": "b06249e1-abfc-45dc-93ba-d6dbe2cf9f30",
+      "set_code": "PZ2",
+      "collector_number": "4",
+      "name": "Palace Jailer",
+      "scryfall_id": "a96def17-2edd-4953-bb55-29aa2f929a03"
+    },
+    {
+      "id": "bd0b5da7-2051-4da8-ba38-abfcb6a04299",
+      "set_code": "PZ2",
+      "collector_number": "5",
+      "name": "Recruiter of the Guard",
+      "scryfall_id": "8e95c3b3-9aae-43df-9c91-5495c086c548"
+    },
+    {
+      "id": "db82c29c-19e1-4e0c-8079-c41b6020712c",
+      "set_code": "PZ2",
+      "collector_number": "6",
+      "name": "Custodi Soulbinders",
+      "scryfall_id": "09f3ce48-bca7-4bf0-b083-405c4cb1ad22"
+    },
+    {
+      "id": "d3b53eda-9c45-4ab1-9a9c-992bf50fd246",
+      "set_code": "PZ2",
+      "collector_number": "7",
+      "name": "Selfless Squire",
+      "scryfall_id": "45c77d9e-996c-4e2d-83f6-ce25a75c2d5a"
+    },
+    {
+      "id": "154a5433-ea94-40b1-92cb-21b9074fa624",
+      "set_code": "PZ2",
+      "collector_number": "8",
+      "name": "Protector of the Crown",
+      "scryfall_id": "d4ed6d32-abee-42f1-b47f-3c168465bf6b"
+    },
+    {
+      "id": "e882b0fb-58c5-4452-9a04-e325f96efb5a",
+      "set_code": "PZ2",
+      "collector_number": "9",
+      "name": "Duelist's Heritage",
+      "scryfall_id": "e330fd13-8dee-4aaf-9e87-c55ef415556f"
+    },
+    {
+      "id": "d76ad104-a310-4eb3-b46a-d4de5e92935f",
+      "set_code": "PZ2",
+      "collector_number": "10",
+      "name": "Entrapment Maneuver",
+      "scryfall_id": "229c1b67-cb5e-48d1-bc9e-db19126352d1"
+    },
+    {
+      "id": "48bbea14-b901-4c40-857a-1ffe644bb2b7",
+      "set_code": "PZ2",
+      "collector_number": "11",
+      "name": "Sanctum Prelate",
+      "scryfall_id": "0967318e-8117-460a-8262-a3b17fc0232c"
+    },
+    {
+      "id": "ea69ef7c-973d-460d-843a-d22976f4072f",
+      "set_code": "PZ2",
+      "collector_number": "12",
+      "name": "Grip of Phyresis",
+      "scryfall_id": "48fcbb32-f6fa-4722-abaa-9c7411d5bae6"
+    },
+    {
+      "id": "fca92575-361d-4044-840a-99ac8041ae0c",
+      "set_code": "PZ2",
+      "collector_number": "13",
+      "name": "Stunt Double",
+      "scryfall_id": "1ec12744-d359-4656-bece-2e02861e5953"
+    },
+    {
+      "id": "4aea6faf-c61e-4f32-8c50-aa93295a35e4",
+      "set_code": "PZ2",
+      "collector_number": "14",
+      "name": "Faerie Artisans",
+      "scryfall_id": "b81c7149-57a0-4ec0-9721-a225c3ad575f"
+    },
+    {
+      "id": "7f00ffa2-6039-43b8-8d57-ce4d213fee55",
+      "set_code": "PZ2",
+      "collector_number": "15",
+      "name": "Keeper of Keys",
+      "scryfall_id": "0274bd7a-5db7-4676-91bf-f3a5deee27b6"
+    },
+    {
+      "id": "42179176-6c78-44c6-be53-5037a3a9768f",
+      "set_code": "PZ2",
+      "collector_number": "16",
+      "name": "Deepglow Skate",
+      "scryfall_id": "1c970be9-d777-4e05-b12a-80d8b27b8526"
+    },
+    {
+      "id": "f2f4e95d-0682-49ef-b287-1803ea23ce41",
+      "set_code": "PZ2",
+      "collector_number": "17",
+      "name": "Garrulous Sycophant",
+      "scryfall_id": "1e6baaf3-d885-4778-b71a-4197d0e40b8f"
+    },
+    {
+      "id": "a9ce65c6-388f-4c6d-a9a1-9e76bb9c9437",
+      "set_code": "PZ2",
+      "collector_number": "18",
+      "name": "Thorn of the Black Rose",
+      "scryfall_id": "7f147b62-fb17-40f0-ab09-4deac8f5f1d8"
+    },
+    {
+      "id": "f183463f-e65d-4458-a251-fe0d3fe60275",
+      "set_code": "PZ2",
+      "collector_number": "19",
+      "name": "Parting Thoughts",
+      "scryfall_id": "5c6d1240-9d9a-42b2-a0f7-2e9c8f744d5f"
+    },
+    {
+      "id": "8300eacc-e55d-4cbe-8caa-afe225063bbf",
+      "set_code": "PZ2",
+      "collector_number": "20",
+      "name": "Marchesa's Decree",
+      "scryfall_id": "864e7da2-21aa-4de5-be30-8cf1ba8b7822"
+    },
+    {
+      "id": "5c4f1c42-e3e5-4324-980f-05784e3aac34",
+      "set_code": "PZ2",
+      "collector_number": "21",
+      "name": "Magus of the Will",
+      "scryfall_id": "de282bd0-901d-4716-99c8-9c30f7eb30af"
+    },
+    {
+      "id": "a59757ff-713d-460e-ae96-9647173da661",
+      "set_code": "PZ2",
+      "collector_number": "22",
+      "name": "Custodi Lich",
+      "scryfall_id": "a7b7d4d0-8576-4d0f-b486-922d9cd31b24"
+    },
+    {
+      "id": "95f4b6c5-d789-4757-b978-eac16e098f01",
+      "set_code": "PZ2",
+      "collector_number": "23",
+      "name": "Curse of Vengeance",
+      "scryfall_id": "08d14310-11e6-4041-8807-36467e2dde53"
+    },
+    {
+      "id": "2704160c-55ea-43d8-8563-d47903307458",
+      "set_code": "PZ2",
+      "collector_number": "24",
+      "name": "Frenzied Fugue",
+      "scryfall_id": "71a66675-7673-498a-9eb8-f0f58278dcc4"
+    },
+    {
+      "id": "b2f92394-90d4-4d25-964b-9f82fa713793",
+      "set_code": "PZ2",
+      "collector_number": "25",
+      "name": "Goblin Spymaster",
+      "scryfall_id": "79c6d79a-d4da-49cf-9eaa-7ecf5b864d5e"
+    },
+    {
+      "id": "6aeea751-099b-42cd-8ceb-62a3d4384acb",
+      "set_code": "PZ2",
+      "collector_number": "26",
+      "name": "Charging Cinderhorn",
+      "scryfall_id": "471e0240-20fc-4a7d-ba8d-3c432f4f7661"
+    },
+    {
+      "id": "48cacb66-d9a6-491a-8011-5ee118154472",
+      "set_code": "PZ2",
+      "collector_number": "27",
+      "name": "Runehorn Hellkite",
+      "scryfall_id": "077e6a96-87ae-47ad-99a7-ea6d2f6e40ec"
+    },
+    {
+      "id": "01e0f844-da7f-4352-a5dc-08a4b8a035fd",
+      "set_code": "PZ2",
+      "collector_number": "28",
+      "name": "Skyline Despot",
+      "scryfall_id": "40305979-5439-441b-a64a-d71254dbdc04"
+    },
+    {
+      "id": "6976b79b-9824-426b-b0ce-3dc23d5bfaff",
+      "set_code": "PZ2",
+      "collector_number": "29",
+      "name": "Grenzo, Havoc Raiser",
+      "scryfall_id": "619fc399-d45d-431f-8ce4-ba9db2a2e39c"
+    },
+    {
+      "id": "90a60e34-823a-49cc-b0cc-b942669187e7",
+      "set_code": "PZ2",
+      "collector_number": "30",
+      "name": "Subterranean Tremors",
+      "scryfall_id": "0a61707a-9952-4304-ad72-521194e410d8"
+    },
+    {
+      "id": "d0e9bff6-8e60-4ae5-b502-102fe3cf8a87",
+      "set_code": "PZ2",
+      "collector_number": "31",
+      "name": "Domesticated Hydra",
+      "scryfall_id": "5f1b2420-7bf9-436b-afc6-4a26097fe28b"
+    },
+    {
+      "id": "6698530f-227f-476b-9c64-4595f0a251d2",
+      "set_code": "PZ2",
+      "collector_number": "32",
+      "name": "Evolutionary Escalation",
+      "scryfall_id": "48fb0408-dd0d-4a49-a9d6-405b8a28d235"
+    },
+    {
+      "id": "cd75adb2-2f20-4802-87ab-20169f7771ab",
+      "set_code": "PZ2",
+      "collector_number": "33",
+      "name": "Primeval Protector",
+      "scryfall_id": "02a8c6d9-9106-4e34-87fb-6e2dc71418bc"
+    },
+    {
+      "id": "872ff272-bff3-453e-9050-97e0140e45e9",
+      "set_code": "PZ2",
+      "collector_number": "34",
+      "name": "Splitting Slime",
+      "scryfall_id": "6c1ffb14-9d92-4239-8694-61d156c9dba7"
+    },
+    {
+      "id": "2cdd869c-f70d-4dea-8997-921c93d47a0b",
+      "set_code": "PZ2",
+      "collector_number": "35",
+      "name": "Stonehoof Chieftain",
+      "scryfall_id": "9f506d34-616e-46ce-bfd6-ed8ca7244237"
+    },
+    {
+      "id": "98c421d9-c186-41e5-976e-c8cf2a16a4d3",
+      "set_code": "PZ2",
+      "collector_number": "36",
+      "name": "Benefactor's Draught",
+      "scryfall_id": "1241df0c-d5e7-4a49-8bdb-b54e4460ea96"
+    },
+    {
+      "id": "1afded1b-c507-44a5-a613-f26048945f82",
+      "set_code": "PZ2",
+      "collector_number": "37",
+      "name": "Selvala, Heart of the Wilds",
+      "scryfall_id": "05294ec8-96d7-496f-a106-aab19ec9b659"
+    },
+    {
+      "id": "4cd3568e-3994-4f67-b228-d382d093a44f",
+      "set_code": "PZ2",
+      "collector_number": "38",
+      "name": "Ancient Excavation",
+      "scryfall_id": "36cae0db-d56f-4bd1-b897-3ac54e307363"
+    },
+    {
+      "id": "56cbe5aa-b1c3-4947-81ca-14f3b7eedcef",
+      "set_code": "PZ2",
+      "collector_number": "39",
+      "name": "Sylvan Reclamation",
+      "scryfall_id": "db5f62fc-9106-435d-a076-61d59d44ade2"
+    },
+    {
+      "id": "f8dc3e15-8a06-4e85-9869-47e10ef20a70",
+      "set_code": "PZ2",
+      "collector_number": "40",
+      "name": "Migratory Route",
+      "scryfall_id": "dbe53e56-2f91-40be-ba05-d5fc572b43f1"
+    },
+    {
+      "id": "81f51c5c-1289-49b0-bd24-23d5ca344572",
+      "set_code": "PZ2",
+      "collector_number": "41",
+      "name": "Grave Upheaval",
+      "scryfall_id": "812c4b37-ec81-4ab6-b2f1-baca68116b1e"
+    },
+    {
+      "id": "1670d356-4cf2-4d73-80bc-a76261310403",
+      "set_code": "PZ2",
+      "collector_number": "42",
+      "name": "Treacherous Terrain",
+      "scryfall_id": "fda29141-c66b-465c-b46c-dee038e5e59a"
+    },
+    {
+      "id": "c9b93dce-a904-4a2d-a02e-31304671a9ac",
+      "set_code": "PZ2",
+      "collector_number": "43",
+      "name": "Reyhan, Last of the Abzan",
+      "scryfall_id": "24848721-74f5-492c-b157-1ef6488af09f"
+    },
+    {
+      "id": "130ab9e7-9dff-4b69-993b-41dbeb6ad7fb",
+      "set_code": "PZ2",
+      "collector_number": "44",
+      "name": "Tymna the Weaver",
+      "scryfall_id": "d379a8bd-413d-48a0-a4f5-008015a71388"
+    },
+    {
+      "id": "9e406f50-b59a-43e8-a48b-66bc79258be8",
+      "set_code": "PZ2",
+      "collector_number": "45",
+      "name": "Adriana, Captain of the Guard",
+      "scryfall_id": "dc5df5cd-e3b6-4bd1-a8b4-8679a7d14254"
+    },
+    {
+      "id": "aacfb612-0af5-4b4a-a9a0-d0f2ed071746",
+      "set_code": "PZ2",
+      "collector_number": "46",
+      "name": "Kraum, Ludevic's Opus",
+      "scryfall_id": "c48dc814-8a91-4689-b4a4-a09fdcdc58cf"
+    },
+    {
+      "id": "25d97b3c-02a7-441b-a2b0-dc5866acd143",
+      "set_code": "PZ2",
+      "collector_number": "47",
+      "name": "Thrasios, Triton Hero",
+      "scryfall_id": "53778669-2259-4233-9b95-e3e01ff4634c"
+    },
+    {
+      "id": "724d4357-51e5-4545-8429-9215e5f7542a",
+      "set_code": "PZ2",
+      "collector_number": "48",
+      "name": "Akiri, Line-Slinger",
+      "scryfall_id": "3f93f2f1-0cc4-4870-9001-193948e7ea5f"
+    },
+    {
+      "id": "fe76b1b8-abdb-4fdf-9578-f80fc2e67ba7",
+      "set_code": "PZ2",
+      "collector_number": "49",
+      "name": "Vial Smasher the Fierce",
+      "scryfall_id": "39851da3-84d0-420d-8d07-85f81eafc796"
+    },
+    {
+      "id": "8de9778d-9f9f-413e-8ba3-f75aed293365",
+      "set_code": "PZ2",
+      "collector_number": "50",
+      "name": "Queen Marchesa",
+      "scryfall_id": "4d35f19a-6afe-4c99-baa3-39ad7f48d580"
+    },
+    {
+      "id": "8c92bd25-fe0a-40dc-a3db-d326086fcd3c",
+      "set_code": "PZ2",
+      "collector_number": "51",
+      "name": "Silas Renn, Seeker Adept",
+      "scryfall_id": "804711d6-bca2-4740-8608-7e351c77f712"
+    },
+    {
+      "id": "e1128d25-f183-4eb7-865f-ec791616fc35",
+      "set_code": "PZ2",
+      "collector_number": "52",
+      "name": "Ludevic, Necro-Alchemist",
+      "scryfall_id": "fa6932b7-6b38-44ce-ad73-383a6e54ae74"
+    },
+    {
+      "id": "f55b2946-4b9e-4820-ad3a-8b4f58560a6c",
+      "set_code": "PZ2",
+      "collector_number": "53",
+      "name": "Kydele, Chosen of Kruphix",
+      "scryfall_id": "85b276cd-fa3d-479d-a992-959b7dac1c06"
+    },
+    {
+      "id": "2bf57138-33bb-4a93-b18d-a41334311359",
+      "set_code": "PZ2",
+      "collector_number": "54",
+      "name": "Sidar Kondo of Jamuraa",
+      "scryfall_id": "6e8d5e9a-4a69-41d6-82b1-eb90e534d9e6"
+    },
+    {
+      "id": "3a1e626a-097b-4ec4-b8d2-e18e541fb39a",
+      "set_code": "PZ2",
+      "collector_number": "55",
+      "name": "Tana, the Bloodsower",
+      "scryfall_id": "f8b0da6e-f185-4d1d-8ba4-ecc5eca4f230"
+    },
+    {
+      "id": "87b29b42-3e0f-4af3-bdfd-ddb8d693c4a1",
+      "set_code": "PZ2",
+      "collector_number": "56",
+      "name": "Bruse Tarl, Boorish Herder",
+      "scryfall_id": "f988e82c-73a3-45a2-b257-386545f496e2"
+    },
+    {
+      "id": "48e01071-f6a7-45c8-847c-b677732655c4",
+      "set_code": "PZ2",
+      "collector_number": "57",
+      "name": "Ishai, Ojutai Dragonspeaker",
+      "scryfall_id": "3e7b2b70-1a86-4d3d-84e0-e17c73f391ed"
+    },
+    {
+      "id": "7f46bbd6-56a1-4d48-a8a9-79bb719ec9ee",
+      "set_code": "PZ2",
+      "collector_number": "58",
+      "name": "Ikra Shidiqi, the Usurper",
+      "scryfall_id": "8dfe40d8-1f6d-466e-8c9f-1a3893baa366"
+    },
+    {
+      "id": "ca429d7c-bfaf-465a-9afb-63385268ca58",
+      "set_code": "PZ2",
+      "collector_number": "59",
+      "name": "Ravos, Soultender",
+      "scryfall_id": "c059a0f9-c178-4bf9-a169-17452480dc87"
+    },
+    {
+      "id": "a590b100-67e7-4d22-8997-2923cb732b9f",
+      "set_code": "PZ2",
+      "collector_number": "60",
+      "name": "Leovold, Emissary of Trest",
+      "scryfall_id": "978bba3b-c4e9-47da-8c46-bbaf2b247700"
+    },
+    {
+      "id": "e1185b2e-8d03-453d-acf7-135d7ca15b4a",
+      "set_code": "PZ2",
+      "collector_number": "61",
+      "name": "Saskia the Unyielding",
+      "scryfall_id": "aa05ccf1-f295-4939-8bd4-c148779c33a5"
+    },
+    {
+      "id": "6520223d-3ef3-4313-8027-989acd7fa710",
+      "set_code": "PZ2",
+      "collector_number": "62",
+      "name": "Atraxa, Praetors' Voice",
+      "scryfall_id": "d75aacaa-d08d-4752-af37-422a74997457"
+    },
+    {
+      "id": "dccb7f95-ca78-4d66-bdd9-9ad2055d5ff8",
+      "set_code": "PZ2",
+      "collector_number": "63",
+      "name": "Kynaios and Tiro of Meletis",
+      "scryfall_id": "6a17e99c-5232-4e8a-ae56-ff249419a0a3"
+    },
+    {
+      "id": "e2cac05b-e377-403b-9908-e188e6030f83",
+      "set_code": "PZ2",
+      "collector_number": "64",
+      "name": "Yidris, Maelstrom Wielder",
+      "scryfall_id": "51b8d72e-3322-4c74-8edc-a58d77232945"
+    },
+    {
+      "id": "93e571e3-3d35-4fa4-9944-de715090c133",
+      "set_code": "PZ2",
+      "collector_number": "65",
+      "name": "Breya, Etherium Shaper",
+      "scryfall_id": "be18ced5-c78a-43d2-a6ad-9b6935358b7f"
+    },
+    {
+      "id": "de5beb5f-31b5-4dfb-92e3-6f5d5c575e50",
+      "set_code": "PZ2",
+      "collector_number": "66",
+      "name": "Daretti, Ingenious Iconoclast",
+      "scryfall_id": "dcdba056-6d0c-4ed2-bc3f-f690e39d1ef7"
+    },
+    {
+      "id": "9e8faccb-628b-493f-a287-d60832babdf5",
+      "set_code": "PZ2",
+      "collector_number": "67",
+      "name": "Kaya, Ghost Assassin",
+      "scryfall_id": "4797a33f-37a0-41ef-bf66-ca01856afe3b"
+    },
+    {
+      "id": "37fc7349-634b-4e73-8510-f4f7ed4e99f9",
+      "set_code": "PZ2",
+      "collector_number": "68",
+      "name": "Armory Automaton",
+      "scryfall_id": "1115c9e1-0d8e-4873-96a0-e53f4cc82675"
+    },
+    {
+      "id": "98ed0336-2216-44a1-95c6-6412dbaa1430",
+      "set_code": "PZ2",
+      "collector_number": "69",
+      "name": "Crystalline Crawler",
+      "scryfall_id": "34efa6d9-eba9-43e1-8cc8-47c583f536c4"
+    },
+    {
+      "id": "8eb3d861-1934-4f60-8ca3-311cf6fe1c5d",
+      "set_code": "PZ2",
+      "collector_number": "70",
+      "name": "Boompile",
+      "scryfall_id": "d366d233-a6ec-45cf-95ac-f42b5e829824"
+    },
+    {
+      "id": "843e1384-58cc-4537-bbcf-492ece8320a7",
+      "set_code": "PZ2",
+      "collector_number": "71",
+      "name": "Prismatic Geoscope",
+      "scryfall_id": "88f6940a-39cb-4097-977c-849d73b4d387"
+    },
+    {
+      "id": "af5d93cf-1346-4bbe-b57b-649ba7a55639",
+      "set_code": "PZ2",
+      "collector_number": "72",
+      "name": "Ash Barrens",
+      "scryfall_id": "3ef8d765-b799-463b-a003-caee721df354"
+    },
+    {
+      "id": "1ae4a2c7-57af-44d3-bfeb-5a39643158aa",
+      "set_code": "PZ2",
+      "collector_number": "73",
+      "name": "Throne of the High City",
+      "scryfall_id": "a48d0b7f-bc26-4597-bbc5-f374c89b89a1"
+    },
+    {
+      "id": "6cbb8ea4-745c-4c8f-be63-bbe1da476da0",
+      "set_code": "PZ2",
+      "collector_number": "65669",
+      "name": "Hammer of Nazahn",
+      "scryfall_id": "84da73cd-59f1-4e9c-9c60-d03c8b046a47"
+    },
+    {
+      "id": "6eefe13c-ab1c-4bd5-a296-75cc873c859b",
+      "set_code": "PZ2",
+      "collector_number": "65671",
+      "name": "Traverse the Outlands",
+      "scryfall_id": "b543b569-f128-4092-a903-0b20a7eac780"
+    },
+    {
+      "id": "d7738c09-7381-4cff-8c1b-9cb4ab4e0b8c",
+      "set_code": "PZ2",
+      "collector_number": "65673",
+      "name": "Fortunate Few",
+      "scryfall_id": "15b601b1-3071-4cab-b5a8-c62c7b1a318a"
+    },
+    {
+      "id": "e098935b-3bdb-4873-9b72-1d26d3414049",
+      "set_code": "PZ2",
+      "collector_number": "65675",
+      "name": "The Ur-Dragon",
+      "scryfall_id": "51f538ae-0ee3-4726-a888-ed9df521f322"
+    },
+    {
+      "id": "5e31554a-0b34-4915-b2cc-07ad17268743",
+      "set_code": "PZ2",
+      "collector_number": "65677",
+      "name": "Alms Collector",
+      "scryfall_id": "27057e88-fd59-453d-8f3a-136ec6c8c40a"
+    },
+    {
+      "id": "e8cf5f80-98b0-4fe1-8863-c2bfa9d16f5e",
+      "set_code": "PZ2",
+      "collector_number": "65679",
+      "name": "Path of Ancestry",
+      "scryfall_id": "88b9476e-3556-4229-a4fe-84e527894b41"
+    },
+    {
+      "id": "46b2b7c2-72e8-4b53-afa6-17abb94c286d",
+      "set_code": "PZ2",
+      "collector_number": "65681",
+      "name": "Fractured Identity",
+      "scryfall_id": "8b5a11be-59a8-4710-9417-be4f0b6d541a"
+    },
+    {
+      "id": "d9c664b9-f0f3-4c61-aceb-45500ff7a58c",
+      "set_code": "PZ2",
+      "collector_number": "65683",
+      "name": "Heirloom Blade",
+      "scryfall_id": "f956b68f-a1dc-4bc2-8e2f-cf1d2dbb4370"
+    },
+    {
+      "id": "c962c2f5-7eb4-4365-9a16-5bbf4a404c0a",
+      "set_code": "PZ2",
+      "collector_number": "65685",
+      "name": "Magus of the Mind",
+      "scryfall_id": "88fa538a-f44a-484a-897a-f089548b0b30"
+    },
+    {
+      "id": "6fe862bf-4317-4447-9db1-bce30f3f7301",
+      "set_code": "PZ2",
+      "collector_number": "65687",
+      "name": "Boneyard Scourge",
+      "scryfall_id": "31acbf9f-f33c-4f3a-b5e7-bff41f4b5b26"
+    },
+    {
+      "id": "1f37cd53-e6d2-48f4-b9e0-f2a58aacf688",
+      "set_code": "PZ2",
+      "collector_number": "65689",
+      "name": "Scalelord Reckoner",
+      "scryfall_id": "4ce3aff9-0d67-48e8-a319-68fc084a8493"
+    },
+    {
+      "id": "e76c7fb8-ac41-4ea1-ba66-b554ed36a775",
+      "set_code": "PZ2",
+      "collector_number": "65691",
+      "name": "Territorial Hellkite",
+      "scryfall_id": "fa2c1779-145f-4315-91ec-726ed43daa07"
+    },
+    {
+      "id": "ffd19700-bb4b-4e0e-b4a7-e7dc6e0d9409",
+      "set_code": "PZ2",
+      "collector_number": "65693",
+      "name": "Edgar Markov",
+      "scryfall_id": "a365937a-a2c8-4522-aa2e-4b471af5ab93"
+    },
+    {
+      "id": "72bde3d8-6348-49bf-8ae1-8b7725d814b4",
+      "set_code": "PZ2",
+      "collector_number": "65695",
+      "name": "Disrupt Decorum",
+      "scryfall_id": "5c907e23-c637-4984-84f7-b06db90d26df"
+    },
+    {
+      "id": "f28c3927-1242-45c3-9681-60de418138ab",
+      "set_code": "PZ2",
+      "collector_number": "65697",
+      "name": "Crimson Honor Guard",
+      "scryfall_id": "fd337666-8bbb-41f8-aabe-87743b7b3973"
+    },
+    {
+      "id": "4a8acbb4-7a4c-42df-9b67-442edbe63257",
+      "set_code": "PZ2",
+      "collector_number": "65699",
+      "name": "Bloodsworn Steward",
+      "scryfall_id": "92282279-075f-4169-8f2f-af7bc2d388f0"
+    },
+    {
+      "id": "ac3122e1-182b-4800-8368-d49e4f7cbcec",
+      "set_code": "PZ2",
+      "collector_number": "65701",
+      "name": "Teferi's Protection",
+      "scryfall_id": "38bf26ad-8031-41e3-902f-675682807d71"
+    },
+    {
+      "id": "86195163-727c-4221-98ba-1a9813720ca9",
+      "set_code": "PZ2",
+      "collector_number": "65703",
+      "name": "Shifting Shadow",
+      "scryfall_id": "802211eb-f9d5-484c-952f-be73ba0b9191"
+    },
+    {
+      "id": "65a2e4c0-2fbf-40b5-9130-9d35f3583677",
+      "set_code": "PZ2",
+      "collector_number": "65705",
+      "name": "Wasitora, Nekoru Queen",
+      "scryfall_id": "0f680395-8e4f-49e9-8259-1c3ae56c8c2e"
+    },
+    {
+      "id": "d8983927-9f7f-4560-80e1-70bb10fa2d7f",
+      "set_code": "PZ2",
+      "collector_number": "65707",
+      "name": "Mirri, Weatherlight Duelist",
+      "scryfall_id": "045c222d-bcd8-46dd-b854-080deb266f7c"
+    },
+    {
+      "id": "75182a5e-37e1-4a70-bcb5-1dfd0a0112e4",
+      "set_code": "PZ2",
+      "collector_number": "65709",
+      "name": "Qasali Slingers",
+      "scryfall_id": "5a7d0d6c-9e8a-4695-8759-6c0ff056aef4"
+    },
+    {
+      "id": "3fa93aac-7667-44ee-9acb-b08c6c1588ee",
+      "set_code": "PZ2",
+      "collector_number": "65711",
+      "name": "Hungry Lynx",
+      "scryfall_id": "22e3d351-62b3-4c89-bbcf-b50684d977a4"
+    },
+    {
+      "id": "55a60ac9-0437-464e-ab75-2408820df303",
+      "set_code": "PZ2",
+      "collector_number": "65713",
+      "name": "Bloodforged Battle-Axe",
+      "scryfall_id": "d9a5219e-f0f3-4fbe-b162-9a03c7019056"
+    },
+    {
+      "id": "68f051a3-b2dd-494d-93f4-2adb4ab587f3",
+      "set_code": "PZ2",
+      "collector_number": "65715",
+      "name": "Taigam, Sidisi's Hand",
+      "scryfall_id": "6d378caf-93e9-45ff-95ea-8d105d034021"
+    },
+    {
+      "id": "88319ba1-25af-44c3-8c3f-4b5ef7cc41de",
+      "set_code": "PZ2",
+      "collector_number": "65717",
+      "name": "Kindred Boon",
+      "scryfall_id": "1ac66bf6-2958-4879-937a-37c241d98e16"
+    },
+    {
+      "id": "6c5a94dc-f274-47be-8569-152b37685147",
+      "set_code": "PZ2",
+      "collector_number": "65719",
+      "name": "Kindred Summons",
+      "scryfall_id": "602dce20-f8eb-4817-b532-1c5b1192aec4"
+    },
+    {
+      "id": "62c037ee-5914-4768-a048-85d2bf2f917a",
+      "set_code": "PZ2",
+      "collector_number": "65721",
+      "name": "Kindred Charge",
+      "scryfall_id": "67cd1c43-a85d-44f9-9e25-cf4aeb0367af"
+    },
+    {
+      "id": "8d6acc08-00ff-49dc-9b27-43a4608cf6a4",
+      "set_code": "PZ2",
+      "collector_number": "65723",
+      "name": "Kindred Dominance",
+      "scryfall_id": "439f368c-44d7-4e44-bc4f-3944077ee594"
+    },
+    {
+      "id": "fd9ef29c-6f4c-4fc5-86ff-7b9c4d7f20ca",
+      "set_code": "PZ2",
+      "collector_number": "65725",
+      "name": "Kindred Discovery",
+      "scryfall_id": "e0d80c4e-ab81-4aa4-9b89-791675afd615"
+    },
+    {
+      "id": "0173258b-8c46-404a-a1a6-11fd802ee4e2",
+      "set_code": "PZ2",
+      "collector_number": "65727",
+      "name": "Patron of the Vein",
+      "scryfall_id": "9b83c81d-b10e-47a3-a1b9-4582f3205fca"
+    },
+    {
+      "id": "732de833-2499-4878-b3c0-9708110f923c",
+      "set_code": "PZ2",
+      "collector_number": "65729",
+      "name": "Licia, Sanguine Tribune",
+      "scryfall_id": "f53f595f-7fca-41f3-b932-38f85c6db223"
+    },
+    {
+      "id": "617220a2-db00-407d-8023-666274d479f5",
+      "set_code": "PZ2",
+      "collector_number": "65731",
+      "name": "Herald's Horn",
+      "scryfall_id": "fe32b849-2ec4-43ef-b79f-8a46c4d12f29"
+    },
+    {
+      "id": "8c949f97-17db-4af9-93ad-9669b93f0967",
+      "set_code": "PZ2",
+      "collector_number": "65733",
+      "name": "O-Kagachi, Vengeful Kami",
+      "scryfall_id": "a2344ff3-554c-406a-9f86-c040729f6c8e"
+    },
+    {
+      "id": "2492ac5e-7fa1-4522-8e34-07b2f437c3db",
+      "set_code": "PZ2",
+      "collector_number": "65735",
+      "name": "Arahbo, Roar of the World",
+      "scryfall_id": "a0a41876-5f70-48e8-b311-e171bba11c74"
+    },
+    {
+      "id": "1189ecb6-9057-49ea-b52a-43d21f8925bf",
+      "set_code": "PZ2",
+      "collector_number": "65737",
+      "name": "Inalla, Archmage Ritualist",
+      "scryfall_id": "a402ca8d-d4ef-45ce-be02-8b675928ff47"
+    },
+    {
+      "id": "dc6dfe16-91f3-4761-a164-96d4129a6747",
+      "set_code": "PZ2",
+      "collector_number": "65739",
+      "name": "Taigam, Ojutai Master",
+      "scryfall_id": "6c6490a2-006e-4c1a-8896-6b5733a3feaa"
+    },
+    {
+      "id": "8d8a0604-070d-4dbd-87bd-1ef4e4720ab2",
+      "set_code": "PZ2",
+      "collector_number": "65741",
+      "name": "Izzet Chemister",
+      "scryfall_id": "881a3ee1-a559-44c8-ae0e-656a2710d040"
+    },
+    {
+      "id": "b9258992-28a7-4a0e-a0b0-c38ace889561",
+      "set_code": "PZ2",
+      "collector_number": "65743",
+      "name": "Curse of Disturbance",
+      "scryfall_id": "8d75f383-08cf-440d-b46f-6a6e4d69d09d"
+    },
+    {
+      "id": "94cfffe7-bdba-4c55-bcae-e9e7cc0764f3",
+      "set_code": "PZ2",
+      "collector_number": "65745",
+      "name": "Curse of Opulence",
+      "scryfall_id": "c422baca-909f-4fc4-a4ee-c305e9778f4d"
+    },
+    {
+      "id": "72134f86-ee7e-46cb-97af-bd78f8aff484",
+      "set_code": "PZ2",
+      "collector_number": "65747",
+      "name": "Curse of Bounty",
+      "scryfall_id": "f38fd4a3-f098-4dfc-80a3-251e25324ce7"
+    },
+    {
+      "id": "bfcdcf44-c660-4c03-b4ea-85b7c87afb24",
+      "set_code": "PZ2",
+      "collector_number": "65749",
+      "name": "Ramos, Dragon Engine",
+      "scryfall_id": "cba697aa-9f33-4048-98a6-45175c4ed95d"
+    },
+    {
+      "id": "bd6b3055-d987-4f01-9813-81547f82a837",
+      "set_code": "PZ2",
+      "collector_number": "65751",
+      "name": "Mirror of the Forebears",
+      "scryfall_id": "7af172c3-03ed-4586-9fb4-490a069d9d3f"
+    },
+    {
+      "id": "e8cd2620-2abb-4c90-b661-167bf1b8b5d8",
+      "set_code": "PZ2",
+      "collector_number": "65753",
+      "name": "Bloodline Necromancer",
+      "scryfall_id": "bdebe386-d297-4911-ac9c-1b53dad33acf"
+    },
+    {
+      "id": "7ce3c32a-8c6a-4c1d-980f-2c51166211b0",
+      "set_code": "PZ2",
+      "collector_number": "65755",
+      "name": "Galecaster Colossus",
+      "scryfall_id": "fcf52748-a7cc-467a-ad7c-a049dd401397"
+    },
+    {
+      "id": "4b332f3d-67b3-4894-877d-e5b2d397c3a7",
+      "set_code": "PZ2",
+      "collector_number": "65757",
+      "name": "Balan, Wandering Knight",
+      "scryfall_id": "70b202fc-3846-4585-a68a-74492e2ce9fb"
+    },
+    {
+      "id": "eb55ec7c-512c-4f90-8aef-2574c578a6aa",
+      "set_code": "PZ2",
+      "collector_number": "65759",
+      "name": "Mathas, Fiend Seeker",
+      "scryfall_id": "09f688cd-9315-4d70-ae90-309f3e552c1f"
+    },
+    {
+      "id": "348ab564-e462-4168-917b-c6c9d0dc841d",
+      "set_code": "PZ2",
+      "collector_number": "65761",
+      "name": "Kheru Mind-Eater",
+      "scryfall_id": "a7fafa31-d366-4001-9180-deff7e2b7128"
+    },
+    {
+      "id": "74e373be-b223-4e30-9ace-d704bc10cd42",
+      "set_code": "PZ2",
+      "collector_number": "65763",
+      "name": "Kess, Dissident Mage",
+      "scryfall_id": "04aa8c35-18d5-4973-b373-b4d3b8286bba"
+    },
+    {
+      "id": "a7b19a48-192b-4266-8de2-667192903e10",
+      "set_code": "PZ2",
+      "collector_number": "65765",
+      "name": "Curse of Vitality",
+      "scryfall_id": "30ff281f-c567-44e9-8156-4e803787864d"
+    },
+    {
+      "id": "a003a95a-0e0a-46cb-84fa-a02c3d3890ea",
+      "set_code": "PZ2",
+      "collector_number": "65767",
+      "name": "Curse of Verbosity",
+      "scryfall_id": "97d8c559-f32b-4870-963e-8233e7ffa4a0"
+    },
+    {
+      "id": "f17234dd-8b21-4544-80d0-1d068309ad8f",
+      "set_code": "PZ2",
+      "collector_number": "65769",
+      "name": "Stalking Leonin",
+      "scryfall_id": "9194919e-0876-4824-9ea7-de9b97f0e75d"
+    },
+    {
+      "id": "45a64314-eb6f-414d-8c1f-b3a868851839",
+      "set_code": "PZ2",
+      "collector_number": "65771",
+      "name": "Nazahn, Revered Bladesmith",
+      "scryfall_id": "31ad9cef-ff0b-4d06-ada3-04c3e4f331ab"
+    },
+    {
+      "id": "8fc82cb7-717d-4a0b-a584-82b625a29220",
+      "set_code": "PZ2",
+      "collector_number": "65773",
+      "name": "Sinuous Vermin",
+      "scryfall_id": "c1b3a12b-45d1-4fb4-8162-416827fd83ee"
+    },
+    {
+      "id": "e8660887-575a-4bc7-bca6-29de86cc784b",
+      "set_code": "PZ2",
+      "collector_number": "65775",
+      "name": "Borderland Explorer",
+      "scryfall_id": "50dc9da3-9384-4e98-b00c-b3841ecd564d"
+    },
+    {
+      "id": "cedfba2d-5647-40c3-bd6e-2ea49d5586f8",
+      "set_code": "PZ2",
+      "collector_number": "65777",
+      "name": "Skittering Crustacean",
+      "scryfall_id": "61195835-2375-420c-b693-dc11653c4864"
+    },
+    {
+      "id": "81994166-7a09-41ed-a3a4-7239c631353c",
+      "set_code": "PZ2",
+      "collector_number": "65779",
+      "name": "Treasonous Ogre",
+      "scryfall_id": "de65864b-ed0f-46ee-9ce7-d509ebdd0ad9"
+    },
+    {
+      "id": "73ec5751-acb6-4e7d-8bd2-f93aa8ae5233",
+      "set_code": "PZ2",
+      "collector_number": "65781",
+      "name": "Custodi Squire",
+      "scryfall_id": "9200f283-f516-466c-a5bf-6092ffa14727"
+    },
+    {
+      "id": "53b89395-b974-4ec1-a803-21de7a022c69",
+      "set_code": "PZ2",
+      "collector_number": "65783",
+      "name": "Entourage of Trest",
+      "scryfall_id": "cfd254a1-7d77-4e16-a4c9-7788693edcf0"
+    },
+    {
+      "id": "a78a40be-6458-46cb-953c-45c522b43ca2",
+      "set_code": "PZ2",
+      "collector_number": "65785",
+      "name": "Expropriate",
+      "scryfall_id": "263599f5-87a3-4a61-90d5-82b2b44e306d"
+    },
+    {
+      "id": "8396aea2-903e-4a0f-9499-9417326d9c35",
+      "set_code": "PZ2",
+      "collector_number": "65787",
+      "name": "Selvala's Stampede",
+      "scryfall_id": "2344d20d-542a-4fd6-9876-0f35beb1cd5c"
+    },
+    {
+      "id": "f7434dfb-231d-414b-9729-4c542a2c3520",
+      "set_code": "PZ2",
+      "collector_number": "65789",
+      "name": "Salvage",
+      "scryfall_id": "f135a2a0-d496-45c4-b89c-52e2506a28a9"
+    },
+    {
+      "id": "264442f3-02e7-4b8a-8235-065b1bf58114",
+      "set_code": "PZ2",
+      "collector_number": "65791",
+      "name": "Conqueror's Flail",
+      "scryfall_id": "f0bcf6fc-a6bb-4b4c-bc0b-866bdfdf38db"
+    },
+    {
+      "id": "81fb3667-5f5a-4e1e-bfe8-4b2c836ba01d",
+      "set_code": "PZ2",
+      "collector_number": "65793",
+      "name": "Stream of Acid",
+      "scryfall_id": "0365ba64-f78d-4efc-b00c-8155d01971a6"
+    },
+    {
+      "id": "41d8b599-57a8-43ff-a55d-728f063e21bb",
+      "set_code": "PZ2",
+      "collector_number": "65795",
+      "name": "Brainwash",
+      "scryfall_id": "11ad9568-9c06-4c15-81ea-dad7ef640a15"
+    },
+    {
+      "id": "c418e0df-7db6-4832-ac2f-84012d4a410e",
+      "set_code": "PZ2",
+      "collector_number": "65797",
+      "name": "Cruel Tutor",
+      "scryfall_id": "44919938-3db0-4b5e-83f3-6b4d96c10517"
+    },
+    {
+      "id": "6195375a-8bad-4015-88bb-f47893c34cb1",
+      "set_code": "PZ2",
+      "collector_number": "65799",
+      "name": "Xun Yu, Wei Advisor",
+      "scryfall_id": "3156d253-e38f-4d2b-b899-6119d9e1cb31"
+    },
+    {
+      "id": "8e2d3b6e-a88d-477a-95b7-73e7c60915ca",
+      "set_code": "PZ2",
+      "collector_number": "65801",
+      "name": "Huang Zhong, Shu General",
+      "scryfall_id": "1ebf9dea-b4f8-4955-9824-7da5bbba91e9"
+    },
+    {
+      "id": "d97d6ed8-8c4d-4ac0-a545-22b7e6b6bf28",
+      "set_code": "PZ2",
+      "collector_number": "65803",
+      "name": "Lady Sun",
+      "scryfall_id": "ee88b35c-97be-4bfb-83c0-52b075c60e36"
+    },
+    {
+      "id": "659051a0-ecea-4522-8eca-92c7587bc753",
+      "set_code": "PZ2",
+      "collector_number": "65805",
+      "name": "Zuo Ci, the Mocking Sage",
+      "scryfall_id": "5c4c2944-30f0-4928-87fb-4b4ccad9e72f"
+    },
+    {
+      "id": "d16ef21c-d982-45c5-a31a-b94ac310d364",
+      "set_code": "PZ2",
+      "collector_number": "65807",
+      "name": "Ma Chao, Western Warrior",
+      "scryfall_id": "4b0fc563-46c8-4bd6-8e9b-bb0f08d9464d"
+    },
+    {
+      "id": "d556258a-aebe-424b-ac56-8f5d1e147440",
+      "set_code": "PZ2",
+      "collector_number": "65809",
+      "name": "Lu Su, Wu Advisor",
+      "scryfall_id": "d132e6c8-293f-4f7b-94c9-c97cc01cdda9"
+    },
+    {
+      "id": "8a272bde-636d-4bee-b55f-09700ec270cf",
+      "set_code": "PZ2",
+      "collector_number": "65811",
+      "name": "Lady Zhurong, Warrior Queen",
+      "scryfall_id": "307858f0-f8db-40b3-870b-b7e6d6833d01"
+    },
+    {
+      "id": "dce1f39c-1d5b-4bad-a4e2-2a1e9593254c",
+      "set_code": "PZ2",
+      "collector_number": "65813",
+      "name": "Pang Tong, \"Young Phoenix\"",
+      "scryfall_id": "dd0d76db-0521-440f-94e5-db1544a8c7ea"
+    },
+    {
+      "id": "f934b348-3b8b-444e-8b83-977a1d1618b5",
+      "set_code": "PZ2",
+      "collector_number": "65815",
+      "name": "Sima Yi, Wei Field Marshal",
+      "scryfall_id": "0fa7239c-a833-4a8f-8010-d55386c1b057"
+    },
+    {
+      "id": "fbcaa869-7090-402c-ae6c-c6dd35992d60",
+      "set_code": "PZ2",
+      "collector_number": "65817",
+      "name": "Cao Ren, Wei Commander",
+      "scryfall_id": "3fb72119-4b7c-4008-ac09-dfdcc6d5f5be"
+    },
+    {
+      "id": "c55408e9-574f-4d9b-83fc-01aca03a8d61",
+      "set_code": "PZ2",
+      "collector_number": "65819",
+      "name": "Aspect of Wolf",
+      "scryfall_id": "72480910-77f5-4423-a543-979828a5be19"
+    },
+    {
+      "id": "f79a79a9-db2d-44c7-b3ac-bce2e9eb5fc0",
+      "set_code": "PZ2",
+      "collector_number": "65821",
+      "name": "Game of Chaos",
+      "scryfall_id": "0e756495-7375-4a7f-bd1f-0ad2ee4fb08e"
+    },
+    {
+      "id": "81700902-3119-4374-abc6-87cb4f7e2e04",
+      "set_code": "PZ2",
+      "collector_number": "65823",
+      "name": "Pit Scorpion",
+      "scryfall_id": "bcd96de9-1b46-4923-a694-888a2d1ff180"
+    },
+    {
+      "id": "044579c5-d62b-4b6f-85e4-d2db0b240fc0",
+      "set_code": "PZ2",
+      "collector_number": "65825",
+      "name": "Plant Elemental",
+      "scryfall_id": "8dbd5eeb-6571-4b78-9f4a-32d58a23a4f9"
+    },
+    {
+      "id": "e001a5e3-681f-4ce0-937f-fa4e49a6e822",
+      "set_code": "PZ2",
+      "collector_number": "65827",
+      "name": "Drafna's Restoration",
+      "scryfall_id": "a0cfc6ca-c025-4be5-a1bc-11ed0ca9694f"
+    },
+    {
+      "id": "36f84b6a-056d-4999-bf2e-094098216437",
+      "set_code": "PZ2",
+      "collector_number": "65829",
+      "name": "Flood",
+      "scryfall_id": "941de0f9-7500-45e5-a6aa-40b7531a2b25"
+    },
+    {
+      "id": "8d86d4fd-564d-4418-be6a-2ffe90097c55",
+      "set_code": "PZ2",
+      "collector_number": "65831",
+      "name": "Field of Dreams",
+      "scryfall_id": "d3caab9b-5f14-4207-a57d-55e87920479b"
+    },
+    {
+      "id": "25bff7a7-f27a-4f17-9b39-4bec2d3d11fc",
+      "set_code": "PZ2",
+      "collector_number": "65833",
+      "name": "Burnt Offering",
+      "scryfall_id": "2f301e60-0d7d-4662-8049-ad10a2518db2"
+    },
+    {
+      "id": "b013156b-e7d3-4385-98d0-a2da59c60084",
+      "set_code": "PZ2",
+      "collector_number": "65835",
+      "name": "Cemetery Gate",
+      "scryfall_id": "d1346836-0f9f-40b1-b445-1b95af748c4f"
+    },
+    {
+      "id": "57ff798e-e4d7-4331-9069-11a68c3ef447",
+      "set_code": "PZ2",
+      "collector_number": "65837",
+      "name": "Energy Tap",
+      "scryfall_id": "70700ce5-8ba0-478e-b2ee-4ae98b0023e5"
+    },
+    {
+      "id": "1cbf7873-13ad-47d9-a48c-c571a91b6e07",
+      "set_code": "PZ2",
+      "collector_number": "65839",
+      "name": "Metamorphosis",
+      "scryfall_id": "4d0776db-ebb3-472d-8a90-5bd149b97346"
+    },
+    {
+      "id": "415fb2f6-a992-4d6c-be07-f1149c069bbc",
+      "set_code": "PZ2",
+      "collector_number": "65841",
+      "name": "The Unspeakable",
+      "scryfall_id": "060372c9-1d84-4fb5-97c2-b9fdafe46b11"
+    },
+    {
+      "id": "72d06916-a05d-4d90-b380-5e2c0b42b9aa",
+      "set_code": "PZ2",
+      "collector_number": "65843",
+      "name": "Zo-Zu the Punisher",
+      "scryfall_id": "c4d85598-5ec5-4084-8e30-07053b939dba"
+    },
+    {
+      "id": "16ffe8fb-4795-46ed-8c04-a82061c084b6",
+      "set_code": "PZ2",
+      "collector_number": "65845",
+      "name": "Guttural Response",
+      "scryfall_id": "8520ec8e-077d-41af-a7f0-b77ac6bf0001"
+    },
+    {
+      "id": "7ba7d947-cb45-4673-9ab5-18f8e3566359",
+      "set_code": "PZ2",
+      "collector_number": "65847",
+      "name": "Jhoira of the Ghitu",
+      "scryfall_id": "658de394-9302-4476-8f61-23d813e1c06c"
+    },
+    {
+      "id": "2fc9b0c4-2ff2-40ec-bd81-eb892dfb9346",
+      "set_code": "PZ2",
+      "collector_number": "65849",
+      "name": "Lovisa Coldeyes",
+      "scryfall_id": "fb3f52eb-9027-4201-998c-807d52abe7be"
+    },
+    {
+      "id": "35808f85-db92-497e-a51f-28ca21841331",
+      "set_code": "PZ2",
+      "collector_number": "65851",
+      "name": "Desperate Ritual",
+      "scryfall_id": "88c8d50d-738c-4044-b65b-e6cb4a251ad0"
+    },
+    {
+      "id": "732414d2-9182-4ef5-b187-344f10f98d13",
+      "set_code": "PZ2",
+      "collector_number": "65853",
+      "name": "Warren Instigator",
+      "scryfall_id": "50042add-23ca-4306-8b40-aee075751d47"
+    },
+    {
+      "id": "8064c851-ca3b-44b8-a0e4-04de71230edd",
+      "set_code": "PZ2",
+      "collector_number": "65855",
+      "name": "Gempalm Incinerator",
+      "scryfall_id": "1e42d4e3-f25f-4456-b6e1-72aa03381f36"
+    },
+    {
+      "id": "d30e90f2-c87b-4089-b490-4af42dbdd195",
+      "set_code": "PZ2",
+      "collector_number": "65857",
+      "name": "Goblin Goon",
+      "scryfall_id": "bac0da38-da15-45b8-9f28-6b50e488e3be"
+    },
+    {
+      "id": "8549522d-4f78-47bb-9cab-db45f51224cf",
+      "set_code": "PZ2",
+      "collector_number": "65859",
+      "name": "Master of Waves",
+      "scryfall_id": "5d34a2c6-703f-4af5-9342-04705763567a"
+    },
+    {
+      "id": "7170c76d-f6e8-4098-8c08-2a40da87c320",
+      "set_code": "PZ2",
+      "collector_number": "65861",
+      "name": "Tidal Courier",
+      "scryfall_id": "e876c45a-74a8-4997-901d-3b9b3b961933"
+    },
+    {
+      "id": "f75108af-3a83-4aa9-b3c0-48050d2ecd49",
+      "set_code": "PZ2",
+      "collector_number": "65863",
+      "name": "Lonely Sandbar",
+      "scryfall_id": "a8c0a495-bdd5-4ae5-97ff-bcb3ef1ebcff"
+    },
+    {
+      "id": "d51ca7a8-2029-410e-b34f-5077d870eb97",
+      "set_code": "PZ2",
+      "collector_number": "65865",
+      "name": "Aquitect's Will",
+      "scryfall_id": "f42f5188-6e8b-492f-8357-e1d1c654c58b"
+    },
+    {
+      "id": "bfaa2254-57f2-482a-858c-a16290c12980",
+      "set_code": "PZ2",
+      "collector_number": "68076",
+      "name": "Firesong and Sunspeaker",
+      "scryfall_id": "649256e0-22ed-4a04-b770-47c18bd9de05"
+    },
+    {
+      "id": "cc922f0a-ac5f-45c8-9d3c-87bcc3380a0f",
+      "set_code": "PZ2",
+      "collector_number": "70649",
+      "name": "Nesting Dragon",
+      "scryfall_id": "ed49cc64-34fc-489f-8d9a-fe1333b69c94"
+    },
+    {
+      "id": "69d3ef00-014a-48fc-acd8-7ff5f5047eb9",
+      "set_code": "PZ2",
+      "collector_number": "70651",
+      "name": "Yuriko, the Tiger's Shadow",
+      "scryfall_id": "e1ed95a7-23b7-4384-8395-5649c9a2fec9"
+    },
+    {
+      "id": "30119353-2880-4f71-b9d6-020272be6c48",
+      "set_code": "PZ2",
+      "collector_number": "70653",
+      "name": "Treasure Nabber",
+      "scryfall_id": "673d980e-a5eb-4869-beb4-9a03c18d447a"
+    },
+    {
+      "id": "05360eb7-b079-4dd7-96c9-cf25b29d79f6",
+      "set_code": "PZ2",
+      "collector_number": "70655",
+      "name": "Nylea's Colossus",
+      "scryfall_id": "4fab15ca-954e-4b55-a0d7-94367f01a61b"
+    },
+    {
+      "id": "71d18905-be19-446f-a4c6-bdefe04dbfb5",
+      "set_code": "PZ2",
+      "collector_number": "70657",
+      "name": "Whiptongue Hydra",
+      "scryfall_id": "9c007d0b-1100-404a-beb2-f484aeae2e22"
+    },
+    {
+      "id": "71a9319c-8180-422a-8df9-57f63d3ad76d",
+      "set_code": "PZ2",
+      "collector_number": "70659",
+      "name": "Sower of Discord",
+      "scryfall_id": "0bf36e46-824d-4146-8804-69bfdd4fd3fa"
+    },
+    {
+      "id": "f83f814b-0594-43d8-8421-c2da1a53ff8c",
+      "set_code": "PZ2",
+      "collector_number": "70661",
+      "name": "Gyrus, Waker of Corpses",
+      "scryfall_id": "9278b339-8700-4b25-8c89-8f3888a73290"
+    },
+    {
+      "id": "f5673b0a-45a7-45ff-bf26-dac1028d123c",
+      "set_code": "PZ2",
+      "collector_number": "70663",
+      "name": "Myth Unbound",
+      "scryfall_id": "df0a0719-defc-4a28-af8e-173340b41b33"
+    },
+    {
+      "id": "f4618d7f-e7f6-42b2-a869-447110250f03",
+      "set_code": "PZ2",
+      "collector_number": "70665",
+      "name": "Ever-Watching Threshold",
+      "scryfall_id": "1f01b731-4632-4f27-9237-498ef1df36fb"
+    },
+    {
+      "id": "a00a5124-f3e5-4176-abd3-d9f585001670",
+      "set_code": "PZ2",
+      "collector_number": "70667",
+      "name": "Lord Windgrace",
+      "scryfall_id": "b49ae623-c7ae-4643-9bec-3cb505911309"
+    },
+    {
+      "id": "ff86bd2b-910d-4f5a-ac15-7fbf01017893",
+      "set_code": "PZ2",
+      "collector_number": "70669",
+      "name": "Windgrace's Judgment",
+      "scryfall_id": "54c97512-ddf2-4c90-a372-aa49aaf96207"
+    },
+    {
+      "id": "83ea9a7c-1b85-46e3-85a7-f195147c4c08",
+      "set_code": "PZ2",
+      "collector_number": "70671",
+      "name": "Thantis, the Warweaver",
+      "scryfall_id": "7d98a29c-2d51-4204-9296-d3f2bbc9d28d"
+    },
+    {
+      "id": "245a7a78-fe89-426c-a03b-b4eb93d2f167",
+      "set_code": "PZ2",
+      "collector_number": "70673",
+      "name": "Coveted Jewel",
+      "scryfall_id": "e7deb649-bc15-4a60-9f04-1007ea5720a7"
+    },
+    {
+      "id": "f305f6da-7ca1-42b5-a69c-d5739c097adb",
+      "set_code": "PZ2",
+      "collector_number": "70675",
+      "name": "Saheeli's Directive",
+      "scryfall_id": "0042d67c-2466-4c20-816e-92e476e545cc"
+    },
+    {
+      "id": "9ee572d2-4a87-4844-8a7a-b0618967526e",
+      "set_code": "PZ2",
+      "collector_number": "70677",
+      "name": "Magus of the Balance",
+      "scryfall_id": "87dd1dba-2dda-4c04-bdbd-06aa838cacd3"
+    },
+    {
+      "id": "1aef576e-3fa0-4d0a-a3f9-659f6e8cd6ed",
+      "set_code": "PZ2",
+      "collector_number": "70679",
+      "name": "Forge of Heroes",
+      "scryfall_id": "4c01c015-bdbf-4d6e-9c6e-0f764f6ef3bd"
+    },
+    {
+      "id": "ffa8f98f-7ba4-4929-810f-7d851d8ba468",
+      "set_code": "PZ2",
+      "collector_number": "70681",
+      "name": "Genesis Storm",
+      "scryfall_id": "767ee81f-d357-49ea-b389-2f6dac0f8e97"
+    },
+    {
+      "id": "8879de61-b8a7-4555-96de-41159afe3122",
+      "set_code": "PZ2",
+      "collector_number": "70683",
+      "name": "Endless Atlas",
+      "scryfall_id": "fdab7afb-08d2-477c-99fb-7846e8bd2fcd"
+    },
+    {
+      "id": "844179e3-d47f-442b-be0f-9a56ccad18ba",
+      "set_code": "PZ2",
+      "collector_number": "70685",
+      "name": "Saheeli, the Gifted",
+      "scryfall_id": "101149de-b291-46d7-a91e-2c9fa860bee8"
+    },
+    {
+      "id": "51e3116f-daa3-475d-b601-5ea2c979a148",
+      "set_code": "PZ2",
+      "collector_number": "70687",
+      "name": "Tawnos, Urza's Apprentice",
+      "scryfall_id": "8891e521-8c96-4fed-8c20-1db44c1ad3cb"
+    },
+    {
+      "id": "5c494e85-38ea-40ec-953c-5a06977f1d6f",
+      "set_code": "PZ2",
+      "collector_number": "70689",
+      "name": "Bloodtracker",
+      "scryfall_id": "8320481b-6300-437c-86c4-b98c7010863f"
+    },
+    {
+      "id": "fc7e09a7-1766-4799-a3fd-df4232a6003a",
+      "set_code": "PZ2",
+      "collector_number": "70691",
+      "name": "Tuvasa the Sunlit",
+      "scryfall_id": "87a66020-f670-4650-86c0-56ac6c7dfca0"
+    },
+    {
+      "id": "e153288b-5c06-4b91-9754-4329fba0a5e6",
+      "set_code": "PZ2",
+      "collector_number": "70693",
+      "name": "Crash of Rhino Beetles",
+      "scryfall_id": "7d18265b-f84f-483a-9c80-591bd93deeb4"
+    },
+    {
+      "id": "626e689e-a50a-41d1-b248-32969eb14aeb",
+      "set_code": "PZ2",
+      "collector_number": "70695",
+      "name": "Echo Storm",
+      "scryfall_id": "34c5cf93-e321-4f28-a860-c2256d9ee788"
+    },
+    {
+      "id": "56be30bb-308a-45be-b2fd-70edaa88bd0d",
+      "set_code": "PZ2",
+      "collector_number": "70697",
+      "name": "Retrofitter Foundry",
+      "scryfall_id": "775fd8e8-80bb-4818-9277-b9d211c3a00e"
+    },
+    {
+      "id": "addf2adc-1639-456f-a063-6c94f1951858",
+      "set_code": "PZ2",
+      "collector_number": "70699",
+      "name": "Kestia, the Cultivator",
+      "scryfall_id": "530bddd1-80b0-403a-b3ab-40ace802c565"
+    },
+    {
+      "id": "0d15ffa4-20d7-4e42-86e3-3d1c0403cacc",
+      "set_code": "PZ2",
+      "collector_number": "70701",
+      "name": "Empyrial Storm",
+      "scryfall_id": "17604107-8f0d-4b52-943e-7720638a362c"
+    },
+    {
+      "id": "c603e2b7-67c3-4810-a0ab-5a74f0e10bda",
+      "set_code": "PZ2",
+      "collector_number": "70703",
+      "name": "Enchanter's Bane",
+      "scryfall_id": "70378910-bd4a-4116-b71c-4d6d185973ab"
+    },
+    {
+      "id": "37329eb9-faf8-4a54-8b8e-5c48958dd9e5",
+      "set_code": "PZ2",
+      "collector_number": "70705",
+      "name": "Heavenly Blademaster",
+      "scryfall_id": "3778915b-a081-4d1e-acfb-2c1c068bd9bd"
+    },
+    {
+      "id": "181a4edb-933a-4f7d-8ac9-e5c1e85f75a9",
+      "set_code": "PZ2",
+      "collector_number": "70707",
+      "name": "Isolated Watchtower",
+      "scryfall_id": "c86c22bf-8c20-4d9e-85ed-f6870b104984"
+    },
+    {
+      "id": "587710f7-6df3-4066-8b09-160bb3b6565b",
+      "set_code": "PZ2",
+      "collector_number": "70709",
+      "name": "Brudiclad, Telchor Engineer",
+      "scryfall_id": "2c7c646f-8295-4ced-a262-dd76ce5c0456"
+    },
+    {
+      "id": "da3c4827-eae2-4781-843a-97d78946b123",
+      "set_code": "PZ2",
+      "collector_number": "70711",
+      "name": "Turntimber Sower",
+      "scryfall_id": "29ec64f8-31e0-4b19-a4ab-cd962d6cdf03"
+    },
+    {
+      "id": "2e3d32d1-1e59-49bf-86eb-8528e76499da",
+      "set_code": "PZ2",
+      "collector_number": "70713",
+      "name": "Skull Storm",
+      "scryfall_id": "abba6778-5f78-4716-b149-e12dbda2c771"
+    },
+    {
+      "id": "7c3f817d-c61a-4bd2-8471-78c150aee5b9",
+      "set_code": "PZ2",
+      "collector_number": "70715",
+      "name": "Arixmethes, Slumbering Isle",
+      "scryfall_id": "06f632e1-2eb8-4a13-9b0f-c5f4aac5b9c0"
+    },
+    {
+      "id": "b61230da-e02a-48b2-a683-dcd7ceffdea6",
+      "set_code": "PZ2",
+      "collector_number": "70717",
+      "name": "Boreas Charger",
+      "scryfall_id": "ade7747e-4177-476f-9339-0189e14b87cd"
+    },
+    {
+      "id": "251b162f-7279-4b68-a529-4486942d1207",
+      "set_code": "PZ2",
+      "collector_number": "70719",
+      "name": "Xantcha, Sleeper Agent",
+      "scryfall_id": "6ecc38c2-ebe8-4394-a049-77d4233f60a8"
+    },
+    {
+      "id": "5b87cf2d-0c1d-468a-9ffa-273f48ceaea7",
+      "set_code": "PZ2",
+      "collector_number": "70721",
+      "name": "Loyal Guardian",
+      "scryfall_id": "bfb11023-3ebb-4501-83e5-68ee112e00c2"
+    },
+    {
+      "id": "dea1d158-f7d3-43dd-bf9b-a36bb8fd4761",
+      "set_code": "PZ2",
+      "collector_number": "70723",
+      "name": "Reality Scramble",
+      "scryfall_id": "36d42d68-58f5-4618-9c83-e1eedc09437a"
+    },
+    {
+      "id": "4c2f1a8e-0d32-4e13-aa33-3c441b361d12",
+      "set_code": "PZ2",
+      "collector_number": "70725",
+      "name": "Octopus Umbra",
+      "scryfall_id": "e6f75cb5-507e-4ebf-9d3e-2f9a2009c71a"
+    },
+    {
+      "id": "f3e9a430-4e5d-4a79-b5b2-e379c0f9da3d",
+      "set_code": "PZ2",
+      "collector_number": "70727",
+      "name": "Geode Golem",
+      "scryfall_id": "bb640095-92f2-4fc7-b3f4-11d5c4629d10"
+    },
+    {
+      "id": "acee03ad-9e40-405d-a352-746ef280bbe3",
+      "set_code": "PZ2",
+      "collector_number": "70729",
+      "name": "Loyal Unicorn",
+      "scryfall_id": "f5b3b058-b090-45ca-a853-4e8e2d842c4b"
+    },
+    {
+      "id": "f32d1e74-e239-4419-a874-c51258d42a9a",
+      "set_code": "PZ2",
+      "collector_number": "70731",
+      "name": "Vedalken Humiliator",
+      "scryfall_id": "edcce058-f628-42d7-b5c7-726df0de3e32"
+    },
+    {
+      "id": "6946aaba-d6bc-4863-abb4-2d0535851b07",
+      "set_code": "PZ2",
+      "collector_number": "70733",
+      "name": "Primordial Mist",
+      "scryfall_id": "ebf1d150-f453-42e9-ac8c-99911d8eb498"
+    },
+    {
+      "id": "bbda912a-82b2-442a-aa8a-f8f2f2cd0186",
+      "set_code": "PZ2",
+      "collector_number": "70735",
+      "name": "Loyal Subordinate",
+      "scryfall_id": "3d62f207-a10e-4908-97ae-fb2377208fb1"
+    },
+    {
+      "id": "30cea7b4-36d7-421a-ad8a-d93f12b44d5a",
+      "set_code": "PZ2",
+      "collector_number": "70737",
+      "name": "Ravenous Slime",
+      "scryfall_id": "091c030f-7603-419d-b341-fee0bf109f95"
+    },
+    {
+      "id": "4b26ef71-5498-4f0a-bb6a-2cb1d6fd73a7",
+      "set_code": "PZ2",
+      "collector_number": "70739",
+      "name": "Estrid, the Masked",
+      "scryfall_id": "fab1667b-f8ca-424c-8e6a-275fc2522f7d"
+    },
+    {
+      "id": "542947da-ea69-4b0b-8fb8-6d5a8d7aeef4",
+      "set_code": "PZ2",
+      "collector_number": "70741",
+      "name": "Varina, Lich Queen",
+      "scryfall_id": "7f0c9fbe-0307-44f7-8b67-f436cb6e378c"
+    },
+    {
+      "id": "cf404449-1b5e-4312-8707-53a25bf4d689",
+      "set_code": "PZ2",
+      "collector_number": "70743",
+      "name": "Entreat the Dead",
+      "scryfall_id": "1b95f579-aa5f-44a7-b23a-9fefdc10260e"
+    },
+    {
+      "id": "a52941b0-5ad1-4d7e-8c62-ca1381aa238f",
+      "set_code": "PZ2",
+      "collector_number": "70745",
+      "name": "Aminatou's Augury",
+      "scryfall_id": "488a7bbd-b2e3-43d8-8f37-d8c2ddd320f3"
+    },
+    {
+      "id": "22e7dea4-e7c2-4ca8-9d7f-03857016816f",
+      "set_code": "PZ2",
+      "collector_number": "70747",
+      "name": "Yennett, Cryptic Sovereign",
+      "scryfall_id": "870fc68d-f61b-4c05-8ddb-077415c7dda7"
+    },
+    {
+      "id": "d9de6183-92a2-4145-aace-6de800733070",
+      "set_code": "PZ2",
+      "collector_number": "70749",
+      "name": "Night Incarnate",
+      "scryfall_id": "35a5956b-8ea4-4149-83dc-ed4f70d12d34"
+    },
+    {
+      "id": "de0ae0cc-1cf6-48d2-b190-b0dcd6c151b6",
+      "set_code": "PZ2",
+      "collector_number": "70751",
+      "name": "Fury Storm",
+      "scryfall_id": "32de270e-14f5-4ae9-91af-beee20e600d3"
+    },
+    {
+      "id": "57de70ac-a208-4236-9bf2-c64615154be9",
+      "set_code": "PZ2",
+      "collector_number": "70753",
+      "name": "Loyal Apprentice",
+      "scryfall_id": "0aa8253f-d542-4553-b446-789616ee0fd7"
+    },
+    {
+      "id": "932dd31f-6ed2-4d72-9bab-ba3d30ea4506",
+      "set_code": "PZ2",
+      "collector_number": "70755",
+      "name": "Ancient Stone Idol",
+      "scryfall_id": "15a29d3d-7868-4a28-ba78-aa9d3c258767"
+    },
+    {
+      "id": "b5b7c961-fd63-4a56-8f2e-fe29ba58d1be",
+      "set_code": "PZ2",
+      "collector_number": "70757",
+      "name": "Loyal Drake",
+      "scryfall_id": "1197e710-278f-4942-87b0-f6363d329e65"
+    },
+    {
+      "id": "82a6e515-5276-4ce4-ae5c-4b3f0188e672",
+      "set_code": "PZ2",
+      "collector_number": "70759",
+      "name": "Varchild, Betrayer of Kjeldor",
+      "scryfall_id": "da2d8ab2-1f5f-4923-a09c-4081d97d3951"
+    },
+    {
+      "id": "7a00fafa-dd20-4a74-834e-a875e6f28d29",
+      "set_code": "PZ2",
+      "collector_number": "70761",
+      "name": "Emissary of Grudges",
+      "scryfall_id": "a1ec9200-3006-41d7-9bb8-aba1d880ce57"
+    },
+    {
+      "id": "4749dc6b-4464-4881-b451-218cfa007ec4",
+      "set_code": "PZ2",
+      "collector_number": "70763",
+      "name": "Aminatou, the Fateshifter",
+      "scryfall_id": "73ab23e2-457d-4726-89fa-5112109c2204"
+    },
+    {
+      "id": "d3338450-0cab-4db6-ba83-78129ef21ef3",
+      "set_code": "PZ2",
+      "collector_number": "70765",
+      "name": "Estrid's Invocation",
+      "scryfall_id": "7b32a8f5-9883-4507-9403-c8abfd51870f"
+    },
+    {
+      "id": "5145c3da-f046-48b3-b624-293a5cd4c205",
+      "set_code": "PZ2",
+      "collector_number": "70767",
+      "name": "Angelic Guardian",
+      "scryfall_id": "c6cb2bba-a745-492c-948f-9f8af05a68a4"
+    },
+    {
+      "id": "cbf4d46a-325f-426a-872f-9b6bdf1a8733",
+      "set_code": "PZ2",
+      "collector_number": "70769",
+      "name": "Angler Turtle",
+      "scryfall_id": "f23899be-5551-4690-ac29-8f382484c227"
+    },
+    {
+      "id": "e963c3ee-a33c-48b5-95cc-b8b018d82160",
+      "set_code": "PZ2",
+      "collector_number": "70771",
+      "name": "Vengeant Vampire",
+      "scryfall_id": "ffbc33a9-ccca-45c4-a81f-c4805bf3de15"
+    },
+    {
+      "id": "21750e92-67e4-485e-a1c7-ce1be2580dff",
+      "set_code": "PZ2",
+      "collector_number": "70773",
+      "name": "Immortal Phoenix",
+      "scryfall_id": "3836560e-a64b-42af-93fa-3cf830c15845"
+    },
+    {
+      "id": "6b4fd9bc-0c24-43b9-935d-2d7d31655129",
+      "set_code": "PZ2",
+      "collector_number": "70775",
+      "name": "Rampaging Brontodon",
+      "scryfall_id": "8331fe9f-751e-4947-88de-d0aaae2895d6"
+    },
+    {
+      "id": "c7f569ee-f434-404e-9cf1-49aad2b597a7",
+      "set_code": "PZ2",
+      "collector_number": "70777",
+      "name": "Militant Angel",
+      "scryfall_id": "cb67bd17-b24c-4c6f-917c-6fb4fe4f8a7e"
+    },
+    {
+      "id": "d716298a-cadb-48ce-8de4-8cf24bd1b20b",
+      "set_code": "PZ2",
+      "collector_number": "70779",
+      "name": "Inspired Sphinx",
+      "scryfall_id": "03056f18-96a4-49d6-bc94-147f11ad6ae7"
+    },
+    {
+      "id": "4cb5c133-f0a9-4fa8-ab01-c8640cbf9dc8",
+      "set_code": "PZ2",
+      "collector_number": "70781",
+      "name": "Rot Hulk",
+      "scryfall_id": "959dfb38-c584-402f-9e92-87745b0683e6"
+    },
+    {
+      "id": "49f16f6b-cb26-4a70-bda4-806ce5e25f49",
+      "set_code": "PZ2",
+      "collector_number": "70783",
+      "name": "Goblin Goliath",
+      "scryfall_id": "fcaf7d1e-9ebf-497e-9d0e-bd23d3bf2b12"
+    },
+    {
+      "id": "d8587788-64d3-4636-99a8-150ce02289a9",
+      "set_code": "PZ2",
+      "collector_number": "70785",
+      "name": "Avatar of Growth",
+      "scryfall_id": "2371143a-2c73-48d0-9ff2-95ff3d8888da"
+    },
+    {
+      "id": "2ad27173-0373-4d77-9879-fa71273f0b64",
+      "set_code": "PZ2",
+      "collector_number": "70787",
+      "name": "Hardened-Scale Armor",
+      "scryfall_id": "54c4cb29-3eb9-4a24-a91a-896802c78aef"
+    },
+    {
+      "id": "8c42b622-187c-465e-973f-5b0a5a1ebd55",
+      "set_code": "PZ2",
+      "collector_number": "70789",
+      "name": "Leopard-Spotted Jiao",
+      "scryfall_id": "c7761133-59df-4a5e-8c28-deb2ad213986"
+    },
+    {
+      "id": "1b3e130b-e56c-4ca0-9afc-8419d2e5ac24",
+      "set_code": "PZ2",
+      "collector_number": "70791",
+      "name": "Feiyi Snake",
+      "scryfall_id": "099d92e3-d77a-4307-8c2f-9587abd20998"
+    },
+    {
+      "id": "caeb276a-f54e-4c47-8d85-c2b164cbaea0",
+      "set_code": "PZ2",
+      "collector_number": "70793",
+      "name": "Jiang Yanggu",
+      "scryfall_id": "2e3008a4-6d43-499a-94ea-51e97b574f62"
+    },
+    {
+      "id": "536fd9bd-0044-4d23-ab5b-d680c6c6a86a",
+      "set_code": "PZ2",
+      "collector_number": "70795",
+      "name": "Mu Yanling",
+      "scryfall_id": "06918f9a-e0fa-4a3d-aed9-3bee98f7a2b9"
+    },
+    {
+      "id": "320fa232-24b7-47f9-aa60-bebe3efc1fc2",
+      "set_code": "PZ2",
+      "collector_number": "70797",
+      "name": "Timber Gorge",
+      "scryfall_id": "c5ac9935-ffe7-4280-8b0b-d5913dbf9e6b"
+    },
+    {
+      "id": "12e1464e-3b5c-4aa9-85d2-c89329612824",
+      "set_code": "PZ2",
+      "collector_number": "70799",
+      "name": "Meandering River",
+      "scryfall_id": "b4f2d2c8-7fea-4012-9f15-fbf37cd89a3c"
+    },
+    {
+      "id": "c545332f-658c-4d05-9380-93bbd4031971",
+      "set_code": "PZ2",
+      "collector_number": "70801",
+      "name": "Plains",
+      "scryfall_id": "5d972751-5823-4878-8c68-b9acaa1985bb"
+    },
+    {
+      "id": "d4188161-96af-421b-81bf-95ab2d98d649",
+      "set_code": "PZ2",
+      "collector_number": "70803",
+      "name": "Island",
+      "scryfall_id": "5a75f1b9-1f3e-461e-9674-f92f2d56d42e"
+    },
+    {
+      "id": "c0f2a998-0e24-42ef-9206-034ba8a45168",
+      "set_code": "PZ2",
+      "collector_number": "70805",
+      "name": "Mountain",
+      "scryfall_id": "4e509218-1d02-468c-9951-b1f26c8f3270"
+    },
+    {
+      "id": "a03c066f-57d7-4083-8594-1e52cf6d745e",
+      "set_code": "PZ2",
+      "collector_number": "70807",
+      "name": "Forest",
+      "scryfall_id": "aea9d891-ad24-49a2-9c54-0e6f14090cf0"
+    },
+    {
+      "id": "10da1574-76dd-411f-9d70-1212ea3dd2f4",
+      "set_code": "PZ2",
+      "collector_number": "70809",
+      "name": "Armored Whirl Turtle",
+      "scryfall_id": "ca7c3c99-cebf-4b2e-882f-3bd60aaef840"
+    },
+    {
+      "id": "0b88147a-4ef6-4821-9b3e-f39817a74ab7",
+      "set_code": "PZ2",
+      "collector_number": "70811",
+      "name": "Colorful Feiyi Sparrow",
+      "scryfall_id": "f05d9ff6-5f52-441a-a952-1693717d6995"
+    },
+    {
+      "id": "58ff1726-4026-4a94-8a81-0f072c336429",
+      "set_code": "PZ2",
+      "collector_number": "70813",
+      "name": "Purple-Crystal Crab",
+      "scryfall_id": "3406e55a-b311-4bc6-9c01-1e196cba3d36"
+    },
+    {
+      "id": "1d6866b3-4c54-4e61-860d-e6448b538e9d",
+      "set_code": "PZ2",
+      "collector_number": "70815",
+      "name": "Welkin Tern",
+      "scryfall_id": "a188ee69-4615-4dec-8046-5e68f0dbefbb"
+    },
+    {
+      "id": "7c5e156f-965c-4ee4-9a8e-40fa4e63b27b",
+      "set_code": "PZ2",
+      "collector_number": "70817",
+      "name": "Vivid Flying Fish",
+      "scryfall_id": "50334cea-de2d-449e-ac6c-77de8ca87620"
+    },
+    {
+      "id": "cd6cdbc4-05f1-4403-bd98-b9849b1bcc9f",
+      "set_code": "PZ2",
+      "collector_number": "70819",
+      "name": "Nine-Tail White Fox",
+      "scryfall_id": "a1597fa7-049e-47d9-b8e8-cf8c4c733561"
+    },
+    {
+      "id": "b66391dd-8c62-49a0-aa58-426ed776d1a4",
+      "set_code": "PZ2",
+      "collector_number": "70821",
+      "name": "Earth-Origin Yak",
+      "scryfall_id": "2b955515-f1c9-4ced-adfa-ed8c0390b5fe"
+    },
+    {
+      "id": "1cd95720-b58b-4722-84d8-d744627cf973",
+      "set_code": "PZ2",
+      "collector_number": "70823",
+      "name": "Moon-Eating Dog",
+      "scryfall_id": "9f93a143-eaf6-41bc-8bb9-4c7c7dc9df96"
+    },
+    {
+      "id": "eb9c04d9-c264-485c-9083-0ed534cd2fd1",
+      "set_code": "PZ2",
+      "collector_number": "70825",
+      "name": "Stormcloud Spirit",
+      "scryfall_id": "1b596f7b-cd23-486d-8e8e-97358947c275"
+    },
+    {
+      "id": "b84e6f55-f14c-43a1-b635-ebd92fe8280c",
+      "set_code": "PZ2",
+      "collector_number": "70827",
+      "name": "Heavenly Qilin",
+      "scryfall_id": "1f53c4a9-3084-470a-b1f2-0940dae46ba9"
+    },
+    {
+      "id": "8b3f3ce2-dd75-4dbd-9faa-7f4fb7c2446e",
+      "set_code": "PZ2",
+      "collector_number": "70829",
+      "name": "Ancestor Dragon",
+      "scryfall_id": "423e005b-965a-4a3f-8a55-6d4371982a6e"
+    },
+    {
+      "id": "b8dab6d5-6ce5-4c43-8be2-d0be7d700b76",
+      "set_code": "PZ2",
+      "collector_number": "70831",
+      "name": "Dragon's Presence",
+      "scryfall_id": "6d5ec69a-01a4-48cc-9013-fa70a654e57e"
+    },
+    {
+      "id": "fa5c20fe-bc6d-4ef1-8682-8de763d6729e",
+      "set_code": "PZ2",
+      "collector_number": "70833",
+      "name": "Brilliant Plan",
+      "scryfall_id": "e9d45984-47c7-4d45-b3fa-a3aa951349ba"
+    },
+    {
+      "id": "fc3f1c9c-74a5-45d6-acfe-e4b8da629ee5",
+      "set_code": "PZ2",
+      "collector_number": "70835",
+      "name": "Cloak of Mists",
+      "scryfall_id": "5b66239c-2369-48b4-9cd7-70d4b3f974f6"
+    },
+    {
+      "id": "c648fc85-1aac-4b96-a5a2-0d67ae9d5e6e",
+      "set_code": "PZ2",
+      "collector_number": "70837",
+      "name": "Drown in Shapelessness",
+      "scryfall_id": "04471528-496b-4c67-ae3f-5373ddf7487d"
+    },
+    {
+      "id": "409fd019-ff0d-4d16-8874-7f0055ff9b63",
+      "set_code": "PZ2",
+      "collector_number": "70839",
+      "name": "Rhythmic Water Vortex",
+      "scryfall_id": "db235338-1ac8-4535-af62-297d1ebe9c27"
+    },
+    {
+      "id": "9ad904bc-8e8c-4aae-84f4-892162ab8a90",
+      "set_code": "PZ2",
+      "collector_number": "70841",
+      "name": "Qilin's Blessing",
+      "scryfall_id": "429f63a0-9696-47db-9e68-cb34f3e338cc"
+    },
+    {
+      "id": "62550b12-774f-43fe-8179-09584b759492",
+      "set_code": "PZ2",
+      "collector_number": "70843",
+      "name": "Sacred White Deer",
+      "scryfall_id": "018e66db-0f79-493f-a8c7-0e005f7c5eba"
+    },
+    {
+      "id": "ac98df39-1ce8-4432-a4c5-3695f45c8c12",
+      "set_code": "PZ2",
+      "collector_number": "70845",
+      "name": "Reckless Pangolin",
+      "scryfall_id": "c4ed22f1-37da-4375-a873-59e361d142e9"
+    },
+    {
+      "id": "b4fe0106-a213-4ffa-a6ca-26b3b18c6bd4",
+      "set_code": "PZ2",
+      "collector_number": "70847",
+      "name": "Ferocious Zheng",
+      "scryfall_id": "012e05ec-e429-45ba-814c-3789673fe311"
+    },
+    {
+      "id": "e9649b00-d49e-42f1-8162-9edb80675204",
+      "set_code": "PZ2",
+      "collector_number": "70849",
+      "name": "Giant Spider",
+      "scryfall_id": "cb6facef-2011-41b4-a56f-1932c167ebde"
+    },
+    {
+      "id": "bbe54056-33e8-4c22-997b-cb0d86bdb2d7",
+      "set_code": "PZ2",
+      "collector_number": "70851",
+      "name": "Fire-Omen Crane",
+      "scryfall_id": "5ea4142d-bcc1-4716-ab1c-4d7f70a2fc5a"
+    },
+    {
+      "id": "65273854-8383-480a-9a92-87756d231ae1",
+      "set_code": "PZ2",
+      "collector_number": "70853",
+      "name": "Earthshaking Si",
+      "scryfall_id": "b0f3c2f3-b5b1-43b6-b6ac-8ffb7cbca86f"
+    },
+    {
+      "id": "50351705-4c2e-498b-ad6c-e9df62c9dfa1",
+      "set_code": "PZ2",
+      "collector_number": "70855",
+      "name": "Aggressive Instinct",
+      "scryfall_id": "5168caa9-2b2e-4ac9-896f-f937c3987d52"
+    },
+    {
+      "id": "934e5b10-42da-48a2-8585-e7094d5d7b12",
+      "set_code": "PZ2",
+      "collector_number": "70857",
+      "name": "Confidence from Strength",
+      "scryfall_id": "f005a3b4-5fe3-4b4d-a8a5-2a62938d4ae8"
+    },
+    {
+      "id": "910ea076-c12f-4eed-b1fc-2e456a5d7b0c",
+      "set_code": "PZ2",
+      "collector_number": "70859",
+      "name": "Breath of Fire",
+      "scryfall_id": "4c7c39a5-76aa-439f-a280-811d5c21b8c2"
+    },
+    {
+      "id": "6b951c16-9d06-41fa-a139-7042c8b803a9",
+      "set_code": "PZ2",
+      "collector_number": "70861",
+      "name": "Journey for the Elixir",
+      "scryfall_id": "51a9c264-c614-4872-87a4-fc740fd5f2f7"
+    },
+    {
+      "id": "a1903bfd-d8cb-499f-8fc4-9e800ac97f2c",
+      "set_code": "PZ2",
+      "collector_number": "70863",
+      "name": "Screeching Phoenix",
+      "scryfall_id": "2d7a3735-47a2-48af-be2f-7795d8157028"
+    },
+    {
+      "id": "768e3ac1-776c-4d7f-ab73-04441b38500c",
+      "set_code": "PZ2",
+      "collector_number": "70865",
+      "name": "Cleansing Screech",
+      "scryfall_id": "8d86191f-01b0-488d-8c5f-e639ca9b6fae"
+    }
+  ]
+}

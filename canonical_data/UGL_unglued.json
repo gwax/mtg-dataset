@@ -1,0 +1,624 @@
+{
+  "id": "f3060655-3cc7-4dee-99e3-46a84bb49b57",
+  "code": "UGL",
+  "name": "Unglued",
+  "scryfall_id": "3404fc78-6678-4cf4-bd39-4c0be3bb7baf",
+  "cards": [
+    {
+      "id": "eb7d5984-305d-4317-b3c2-7eb59fa8ebb4",
+      "set_code": "UGL",
+      "collector_number": "1",
+      "name": "Charm School",
+      "scryfall_id": "93b690ef-9fcb-42be-bbee-6aad516534a5"
+    },
+    {
+      "id": "56b87d7f-5194-40cd-ad39-e4eb41f5d274",
+      "set_code": "UGL",
+      "collector_number": "2",
+      "name": "The Cheese Stands Alone",
+      "scryfall_id": "d01a114f-3349-4a62-bfad-0dc33b78a53f"
+    },
+    {
+      "id": "57d1b8a0-69b7-4cbe-b879-282454f43f79",
+      "set_code": "UGL",
+      "collector_number": "3",
+      "name": "Double Dip",
+      "scryfall_id": "ebbdbd92-ec36-4fe9-b75d-13f55574db5e"
+    },
+    {
+      "id": "15a88483-f229-4e8b-a458-c0fac498243e",
+      "set_code": "UGL",
+      "collector_number": "4",
+      "name": "Get a Life",
+      "scryfall_id": "2757b582-d995-45f9-9482-0792b0f0784d"
+    },
+    {
+      "id": "959b4b65-8a2d-41bc-9bc4-5c125e4e8b1c",
+      "set_code": "UGL",
+      "collector_number": "5",
+      "name": "I'm Rubber, You're Glue",
+      "scryfall_id": "5979237f-ff41-4e87-b2e4-d09b81eca2dc"
+    },
+    {
+      "id": "d43dd89b-9c38-469b-be14-d22222a02fbb",
+      "set_code": "UGL",
+      "collector_number": "6",
+      "name": "Knight of the Hokey Pokey",
+      "scryfall_id": "bd53daa7-9130-4187-9e53-1075c6ab67d0"
+    },
+    {
+      "id": "ba5fa6ee-2ecb-4721-9bc7-f564de7cb758",
+      "set_code": "UGL",
+      "collector_number": "7",
+      "name": "Lexivore",
+      "scryfall_id": "b39db7a3-028e-4c01-8ff9-64d2a1397379"
+    },
+    {
+      "id": "651a9e20-9c44-415d-97f0-2726acae4c61",
+      "set_code": "UGL",
+      "collector_number": "8",
+      "name": "Look at Me, I'm the DCI",
+      "scryfall_id": "14fb0d87-b086-4546-8f7f-786cb0b7b2f5"
+    },
+    {
+      "id": "c005f55d-0a65-4c97-a854-d060fbe0aa42",
+      "set_code": "UGL",
+      "collector_number": "9",
+      "name": "Mesa Chicken",
+      "scryfall_id": "cfd1edbc-ea37-42c4-8fb9-deac011372b5"
+    },
+    {
+      "id": "34261c14-6b85-44e3-9132-1136e6889563",
+      "set_code": "UGL",
+      "collector_number": "10",
+      "name": "Miss Demeanor",
+      "scryfall_id": "747ff5d4-69cd-447e-a18d-edcf583d0539"
+    },
+    {
+      "id": "05a75eec-cde2-4fe2-889b-0b7f1232770b",
+      "set_code": "UGL",
+      "collector_number": "11",
+      "name": "Once More with Feeling",
+      "scryfall_id": "ba42881b-9275-4b54-a17f-dec87d21a270"
+    },
+    {
+      "id": "c07f517d-824f-4ac8-8bda-2d67bfdc8b4e",
+      "set_code": "UGL",
+      "collector_number": "12",
+      "name": "Prismatic Wardrobe",
+      "scryfall_id": "79624ebe-7110-486d-82ff-b64c662dc6de"
+    },
+    {
+      "id": "1b324b6a-9c62-4b64-be6b-6478323a1694",
+      "set_code": "UGL",
+      "collector_number": "13",
+      "name": "Sex Appeal",
+      "scryfall_id": "97cfc18c-ed01-4016-86a2-162d7bc1bf33"
+    },
+    {
+      "id": "eb64f439-75b1-477c-b83a-743e1f924d30",
+      "set_code": "UGL",
+      "collector_number": "14",
+      "name": "Bureaucracy",
+      "scryfall_id": "43417d07-725e-4c3d-99d2-bbbfbdeee770"
+    },
+    {
+      "id": "692edddd-c8d0-4a7d-97ad-0f64693c38a0",
+      "set_code": "UGL",
+      "collector_number": "15",
+      "name": "Censorship",
+      "scryfall_id": "e24d4fba-cf12-4ad3-bca3-6824dbc639af"
+    },
+    {
+      "id": "d1ea9250-3124-4648-896c-1480e34a8759",
+      "set_code": "UGL",
+      "collector_number": "16",
+      "name": "Checks and Balances",
+      "scryfall_id": "cc70457a-34dc-48a1-8643-4a78c1e6f2d3"
+    },
+    {
+      "id": "391d522c-3e58-4926-bfff-de461ad8fa5a",
+      "set_code": "UGL",
+      "collector_number": "17",
+      "name": "Chicken \u00e0 la King",
+      "scryfall_id": "3fcefcab-8988-47e8-89bb-9b76f14c9d8b"
+    },
+    {
+      "id": "e774bd45-aaa4-4444-9e28-8912b1d3a836",
+      "set_code": "UGL",
+      "collector_number": "18",
+      "name": "Clambassadors",
+      "scryfall_id": "349ba052-10f7-4612-91b7-a1528c188ec3"
+    },
+    {
+      "id": "70952247-6ff2-4a4a-9ff2-dbffce473ccf",
+      "set_code": "UGL",
+      "collector_number": "19",
+      "name": "Clam-I-Am",
+      "scryfall_id": "b57e1b62-df2b-48dc-9cb1-d86c9d3ab986"
+    },
+    {
+      "id": "1c393d77-9dfb-4051-bc96-22925a148ca2",
+      "set_code": "UGL",
+      "collector_number": "20",
+      "name": "Clam Session",
+      "scryfall_id": "1c2953cd-1b7e-41aa-959f-fb7ba2964bfb"
+    },
+    {
+      "id": "50ecfc16-68e1-40fd-a3c8-9c3b44860f6a",
+      "set_code": "UGL",
+      "collector_number": "21",
+      "name": "Common Courtesy",
+      "scryfall_id": "9ad6b646-a2b2-4817-856c-580a5953d87e"
+    },
+    {
+      "id": "0032f3e3-5814-4fab-80ba-f8969df3ab9e",
+      "set_code": "UGL",
+      "collector_number": "22",
+      "name": "Denied!",
+      "scryfall_id": "1285c125-e145-4565-a029-352ac6adf688"
+    },
+    {
+      "id": "5cd830ca-fc89-47cc-8be8-c94fe078b76b",
+      "set_code": "UGL",
+      "collector_number": "23",
+      "name": "Double Take",
+      "scryfall_id": "71941f1f-b41e-4ec9-a7c6-61eccaa47b0e"
+    },
+    {
+      "id": "1e57913b-b580-4214-accb-8feb9a411420",
+      "set_code": "UGL",
+      "collector_number": "24",
+      "name": "Fowl Play",
+      "scryfall_id": "2303a4e0-b8eb-4e8b-bc62-507eee52e7bc"
+    },
+    {
+      "id": "1ee9c778-f955-4b57-a18c-ecf87471b568",
+      "set_code": "UGL",
+      "collector_number": "25",
+      "name": "Free-for-All",
+      "scryfall_id": "630efac8-3033-4c2d-9127-b3b2f78bb136"
+    },
+    {
+      "id": "93dc3778-431c-4bb4-968a-0d9600427569",
+      "set_code": "UGL",
+      "collector_number": "26",
+      "name": "Psychic Network",
+      "scryfall_id": "60dfba09-9e75-4fb9-a163-40e3149f7785"
+    },
+    {
+      "id": "a07d1bad-ea2c-49c8-9dd7-e1ba9e01c741",
+      "set_code": "UGL",
+      "collector_number": "27",
+      "name": "Sorry",
+      "scryfall_id": "14606012-d57b-4fe7-908b-b5cfc272994b"
+    },
+    {
+      "id": "98d7a1a2-23e1-4552-abfe-64413856911f",
+      "set_code": "UGL",
+      "collector_number": "28",
+      "name": "B.F.M. (Big Furry Monster)",
+      "scryfall_id": "a9f9c279-e382-4feb-9575-196e7cf5d7dc"
+    },
+    {
+      "id": "250d0aaa-555f-41f2-b484-57089dae8c1a",
+      "set_code": "UGL",
+      "collector_number": "29",
+      "name": "B.F.M. (Big Furry Monster)",
+      "scryfall_id": "d15c6375-2e4e-47f7-88e1-d90794e7f724"
+    },
+    {
+      "id": "309db53e-7cd5-4042-9109-53e6d3c57747",
+      "set_code": "UGL",
+      "collector_number": "30",
+      "name": "Deadhead",
+      "scryfall_id": "cdb3998e-b4a1-4dd1-8e12-24579ec8938b"
+    },
+    {
+      "id": "9bd3f68a-007a-4c2d-9143-5675ebb4fdc4",
+      "set_code": "UGL",
+      "collector_number": "31",
+      "name": "Double Cross",
+      "scryfall_id": "e8f90e34-3736-42ed-aade-e31247b3472d"
+    },
+    {
+      "id": "6cff4ad3-528e-462e-ad29-9ad1e9ac4123",
+      "set_code": "UGL",
+      "collector_number": "32",
+      "name": "Handcuffs",
+      "scryfall_id": "08ae92f5-4219-4194-b152-c2b2653aef3f"
+    },
+    {
+      "id": "2c0507fc-73ae-45a3-8ee1-2728ad334b09",
+      "set_code": "UGL",
+      "collector_number": "33",
+      "name": "Infernal Spawn of Evil",
+      "scryfall_id": "99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9"
+    },
+    {
+      "id": "32e1f7b3-6da0-4226-8a68-fe36436b25e2",
+      "set_code": "UGL",
+      "collector_number": "34",
+      "name": "Jumbo Imp",
+      "scryfall_id": "a135b61b-eb8c-44d7-8227-bd268c3ca463"
+    },
+    {
+      "id": "fcb0be5e-c57c-4e9f-a397-1c0cb0c3f17f",
+      "set_code": "UGL",
+      "collector_number": "35",
+      "name": "Organ Harvest",
+      "scryfall_id": "05213eec-322f-4bc7-b607-217290447f40"
+    },
+    {
+      "id": "8363c60e-ea90-4d6c-af14-53662ebcff49",
+      "set_code": "UGL",
+      "collector_number": "36",
+      "name": "Ow",
+      "scryfall_id": "dd26c2a6-7b08-4de6-afbf-e34d321995ab"
+    },
+    {
+      "id": "c6277676-358b-497c-a0aa-df41c3af34ab",
+      "set_code": "UGL",
+      "collector_number": "37",
+      "name": "Poultrygeist",
+      "scryfall_id": "c6bec883-a2e0-49a5-8cdd-2755c0963a2d"
+    },
+    {
+      "id": "e91df38a-1a89-4e63-8199-3d2907e675d3",
+      "set_code": "UGL",
+      "collector_number": "38",
+      "name": "Temp of the Damned",
+      "scryfall_id": "b7105d13-798e-472b-bb00-d419886e9cc7"
+    },
+    {
+      "id": "9d306f15-6e89-4a23-bd82-ce3ff0066849",
+      "set_code": "UGL",
+      "collector_number": "39",
+      "name": "Volrath's Motion Sensor",
+      "scryfall_id": "b2b915b6-4436-4007-a014-415694117c7e"
+    },
+    {
+      "id": "034882d4-ae17-48ee-b8f1-ef3e847c7704",
+      "set_code": "UGL",
+      "collector_number": "40",
+      "name": "Burning Cinder Fury of Crimson Chaos Fire",
+      "scryfall_id": "17ed4800-dc0f-4681-9ae6-74bd0018e8dc"
+    },
+    {
+      "id": "26f776f1-2a78-463d-8047-4b7c358f7292",
+      "set_code": "UGL",
+      "collector_number": "41",
+      "name": "Chicken Egg",
+      "scryfall_id": "640ac565-331b-47e2-b2af-a8a94a96488a"
+    },
+    {
+      "id": "0f341930-6826-49c5-ab9f-40d73c9e6a5f",
+      "set_code": "UGL",
+      "collector_number": "42",
+      "name": "Double Deal",
+      "scryfall_id": "ed8b3def-30ee-4dd2-9a25-ecf7d5663f96"
+    },
+    {
+      "id": "4840785c-5c55-4205-bd2e-a107345273cb",
+      "set_code": "UGL",
+      "collector_number": "43",
+      "name": "Goblin Bookie",
+      "scryfall_id": "dc880e76-1e92-4af1-b89f-b5a2b60b86f0"
+    },
+    {
+      "id": "92bf2fdc-a13f-4c7f-9c95-f6a1efcdf7c4",
+      "set_code": "UGL",
+      "collector_number": "44",
+      "name": "Goblin Bowling Team",
+      "scryfall_id": "00325992-ec1c-469a-8df0-ffb9a197d221"
+    },
+    {
+      "id": "efbf38a0-6285-4f57-89bb-a2e21257383f",
+      "set_code": "UGL",
+      "collector_number": "45",
+      "name": "Goblin Tutor",
+      "scryfall_id": "23bc822d-a028-4162-bf23-6ff4b9f43688"
+    },
+    {
+      "id": "e0e09ffc-65b1-440b-9a43-087740df0394",
+      "set_code": "UGL",
+      "collector_number": "46",
+      "name": "Hurloon Wrangler",
+      "scryfall_id": "d957abcb-ba56-42b4-9316-f30ac821ecf9"
+    },
+    {
+      "id": "2123ef16-24ba-4412-b3d0-e1a8768bdda2",
+      "set_code": "UGL",
+      "collector_number": "47",
+      "name": "Jalum Grifter",
+      "scryfall_id": "9b5d0ead-7798-49a2-8106-418db1d4fd69"
+    },
+    {
+      "id": "45b5b66e-a221-413f-aefd-8b8f427b3222",
+      "set_code": "UGL",
+      "collector_number": "48",
+      "name": "Krazy Kow",
+      "scryfall_id": "e978fdf7-2243-49d0-b265-a3287f19b17d"
+    },
+    {
+      "id": "0922edf2-2dc9-436a-9cc2-00061a9453ad",
+      "set_code": "UGL",
+      "collector_number": "49",
+      "name": "Landfill",
+      "scryfall_id": "3ef5452d-b5cb-4772-a5ac-1b4c976e03a5"
+    },
+    {
+      "id": "a9d2aa47-9eee-4777-b9b9-8cb93493b38b",
+      "set_code": "UGL",
+      "collector_number": "50",
+      "name": "Ricochet",
+      "scryfall_id": "ea993e57-b72f-48f8-9132-0693f2e78ce4"
+    },
+    {
+      "id": "0c1e7785-2205-4c15-8af0-e96b7d787bee",
+      "set_code": "UGL",
+      "collector_number": "51",
+      "name": "Spark Fiend",
+      "scryfall_id": "ea73a7ef-e9da-4d5b-aa4d-a953cbacd6c2"
+    },
+    {
+      "id": "3e108c46-91fd-4e73-a508-0f8494fa6a13",
+      "set_code": "UGL",
+      "collector_number": "52",
+      "name": "Strategy, Schmategy",
+      "scryfall_id": "a2996a63-9fb6-4455-906d-13f917a8bb29"
+    },
+    {
+      "id": "b5ae21f9-169d-4003-97b3-6fe9ed533605",
+      "set_code": "UGL",
+      "collector_number": "53",
+      "name": "The Ultimate Nightmare of Wizards of the Coast\u00ae Customer Service",
+      "scryfall_id": "616abc97-4276-4e96-bbe8-e47ba7cac075"
+    },
+    {
+      "id": "339703d2-e30c-41bf-8c08-4443bca6b51c",
+      "set_code": "UGL",
+      "collector_number": "54",
+      "name": "Cardboard Carapace",
+      "scryfall_id": "059fc73f-7a00-4014-9e92-75765798cf2d"
+    },
+    {
+      "id": "c466ee33-9eec-4405-a911-cc89295f9b2e",
+      "set_code": "UGL",
+      "collector_number": "55",
+      "name": "Double Play",
+      "scryfall_id": "e35c66e0-0ca8-447f-b8d9-b03ce7ffaf7f"
+    },
+    {
+      "id": "2eff2fec-205b-4fde-a18e-fca71fb6c008",
+      "set_code": "UGL",
+      "collector_number": "56",
+      "name": "Elvish Impersonators",
+      "scryfall_id": "922663f0-f444-4364-a706-eb6b91ac36ef"
+    },
+    {
+      "id": "5f23f820-701e-4548-a268-21dea9df7db8",
+      "set_code": "UGL",
+      "collector_number": "57",
+      "name": "Flock of Rabid Sheep",
+      "scryfall_id": "1ce65cbd-e2cf-4fbf-8424-287cd87c97f1"
+    },
+    {
+      "id": "4d853b51-6c70-423a-95df-d455817d925a",
+      "set_code": "UGL",
+      "collector_number": "58",
+      "name": "Free-Range Chicken",
+      "scryfall_id": "e59e6414-62ac-427e-8e37-690ed401b4dd"
+    },
+    {
+      "id": "acbc8871-1268-45fa-a1f6-f68f721bc7dc",
+      "set_code": "UGL",
+      "collector_number": "59",
+      "name": "Gerrymandering",
+      "scryfall_id": "aea8ab0f-6898-4312-9989-915d6357515f"
+    },
+    {
+      "id": "aa7e9306-430d-41b6-ab84-6f4ee7af9da0",
+      "set_code": "UGL",
+      "collector_number": "60",
+      "name": "Ghazb\u00e1n Ogress",
+      "scryfall_id": "17c18690-cf8c-4006-a981-6258d18ba538"
+    },
+    {
+      "id": "a07a7373-d334-42f5-a918-7cdf1803281f",
+      "set_code": "UGL",
+      "collector_number": "61",
+      "name": "Growth Spurt",
+      "scryfall_id": "2905accf-ea94-48fa-8dbe-b4a7dd57a277"
+    },
+    {
+      "id": "fe2bab11-d650-4d29-b5b4-1034bdbe5d16",
+      "set_code": "UGL",
+      "collector_number": "62",
+      "name": "Gus",
+      "scryfall_id": "d9b05428-d9f3-42ec-bef4-286f1ad06901"
+    },
+    {
+      "id": "877a8b32-f5bb-4e9c-aec9-797397825405",
+      "set_code": "UGL",
+      "collector_number": "63",
+      "name": "Hungry Hungry Heifer",
+      "scryfall_id": "3a17ecb8-cf64-420a-9038-609bfdb4c669"
+    },
+    {
+      "id": "8e3b5dd8-e259-4346-9ebf-c445b76af737",
+      "set_code": "UGL",
+      "collector_number": "64",
+      "name": "Incoming!",
+      "scryfall_id": "573cf5e6-35ee-4eb6-990a-524ba7335797"
+    },
+    {
+      "id": "1557c639-df96-4fc9-9c18-8ab520031b32",
+      "set_code": "UGL",
+      "collector_number": "65",
+      "name": "Mine, Mine, Mine!",
+      "scryfall_id": "a91f28e0-867a-4713-955d-582201af63ae"
+    },
+    {
+      "id": "3880fb42-b96e-44e6-a1bb-618654830e46",
+      "set_code": "UGL",
+      "collector_number": "66",
+      "name": "Squirrel Farm",
+      "scryfall_id": "987ddd67-305a-4c95-9f1a-17eeeb058aaa"
+    },
+    {
+      "id": "3a03842d-8e98-434e-9ddd-0526cc9449ff",
+      "set_code": "UGL",
+      "collector_number": "67",
+      "name": "Team Spirit",
+      "scryfall_id": "b8369211-e7e1-45e1-a142-274f4236e230"
+    },
+    {
+      "id": "ff97931e-7400-40a1-be49-1a2401c7826f",
+      "set_code": "UGL",
+      "collector_number": "68",
+      "name": "Timmy, Power Gamer",
+      "scryfall_id": "e43ce658-12be-4eb2-b679-0aefea348de2"
+    },
+    {
+      "id": "c2fe6566-65b7-43b1-bbe5-1195798954d6",
+      "set_code": "UGL",
+      "collector_number": "69",
+      "name": "Ashnod's Coupon",
+      "scryfall_id": "d420010f-5389-4aa2-a5f8-d9631249679a"
+    },
+    {
+      "id": "c75595da-d020-44a4-98b6-86009237ddf4",
+      "set_code": "UGL",
+      "collector_number": "70",
+      "name": "Blacker Lotus",
+      "scryfall_id": "4c85d097-e87b-41ee-93c6-0e54ec41b174"
+    },
+    {
+      "id": "2262050a-4034-4666-b782-4dfa4266710e",
+      "set_code": "UGL",
+      "collector_number": "71",
+      "name": "Bronze Calendar",
+      "scryfall_id": "21943fe2-3eeb-441a-a3ae-99866c6e76bd"
+    },
+    {
+      "id": "c5f5c476-412e-4e99-a1fb-9d0b0899d4c8",
+      "set_code": "UGL",
+      "collector_number": "72",
+      "name": "Chaos Confetti",
+      "scryfall_id": "a5cee00a-5ab5-43c3-8017-db20d37e69c4"
+    },
+    {
+      "id": "55c8d9c2-74b2-4026-8b2b-332f6c4fd0f5",
+      "set_code": "UGL",
+      "collector_number": "73",
+      "name": "Clay Pigeon",
+      "scryfall_id": "4dfacc30-0acc-4b2d-bc7b-6ff72afc1077"
+    },
+    {
+      "id": "8854a14c-ef47-426d-a9eb-a0dc280321e6",
+      "set_code": "UGL",
+      "collector_number": "74",
+      "name": "Giant Fan",
+      "scryfall_id": "1cdb8678-3c0c-4ee3-aeff-52a4db4e09c4"
+    },
+    {
+      "id": "32e1ebb3-5ddc-46ca-9f62-fe61dbee7d4d",
+      "set_code": "UGL",
+      "collector_number": "75",
+      "name": "Jack-in-the-Mox",
+      "scryfall_id": "1834ac92-8b4e-4442-a834-acd580e1ef99"
+    },
+    {
+      "id": "b1c6717f-0aa9-4b61-8a77-3c8411f1c0d4",
+      "set_code": "UGL",
+      "collector_number": "76",
+      "name": "Jester's Sombrero",
+      "scryfall_id": "6e68f012-307f-4ffb-909e-1284fb39e64f"
+    },
+    {
+      "id": "eac8c3f7-4eec-475d-8043-877801a85432",
+      "set_code": "UGL",
+      "collector_number": "77",
+      "name": "Mirror Mirror",
+      "scryfall_id": "2abf208d-5fe6-4030-a19d-7505832dab3b"
+    },
+    {
+      "id": "463245fd-a8b4-4bc7-a321-dc8a7be67d9e",
+      "set_code": "UGL",
+      "collector_number": "78",
+      "name": "Paper Tiger",
+      "scryfall_id": "6d1cb9ab-512e-4bb1-8d77-37a0b2d3e7f8"
+    },
+    {
+      "id": "2aebbbb6-3268-45dd-8328-2933d884015e",
+      "set_code": "UGL",
+      "collector_number": "79",
+      "name": "Rock Lobster",
+      "scryfall_id": "5ba96c2a-9ccf-4b28-8af5-f8c221fc6823"
+    },
+    {
+      "id": "19ed535d-9492-4a8b-8631-2a950862519a",
+      "set_code": "UGL",
+      "collector_number": "80",
+      "name": "Scissors Lizard",
+      "scryfall_id": "c7b3502d-5519-4254-b946-226edc3bd7e4"
+    },
+    {
+      "id": "edf3d210-b26f-490b-9d0e-ba5c030c3dec",
+      "set_code": "UGL",
+      "collector_number": "81",
+      "name": "Spatula of the Ages",
+      "scryfall_id": "777d1435-bde3-46f7-a35d-2a663e05fb97"
+    },
+    {
+      "id": "ded1da86-4e79-4d08-9ac4-a9a111da2a4a",
+      "set_code": "UGL",
+      "collector_number": "82",
+      "name": "Urza's Contact Lenses",
+      "scryfall_id": "f386c088-fa37-4134-96bb-9fb784719101"
+    },
+    {
+      "id": "079abc36-ab0e-4f4d-ab6e-8f52ec1a33b0",
+      "set_code": "UGL",
+      "collector_number": "83",
+      "name": "Urza's Science Fair Project",
+      "scryfall_id": "8bfe56d0-c15f-4a68-a0b8-911e13b1bc9a"
+    },
+    {
+      "id": "d57b0f53-b886-4bba-8a03-21874e876b85",
+      "set_code": "UGL",
+      "collector_number": "84",
+      "name": "Plains",
+      "scryfall_id": "cb382733-ff3d-43e2-9b1e-efa2f7c28173"
+    },
+    {
+      "id": "7d338365-2e98-400f-9fde-1363d30d7188",
+      "set_code": "UGL",
+      "collector_number": "85",
+      "name": "Island",
+      "scryfall_id": "547f89f2-30a0-493a-914e-6251d2574099"
+    },
+    {
+      "id": "bd18e7ab-dcb0-4558-9400-2c72df6876b4",
+      "set_code": "UGL",
+      "collector_number": "86",
+      "name": "Swamp",
+      "scryfall_id": "69384f97-3333-4aa7-bc4f-928ba49a2c80"
+    },
+    {
+      "id": "22b681be-7dcd-4b7f-a15c-6e0fddf26784",
+      "set_code": "UGL",
+      "collector_number": "87",
+      "name": "Mountain",
+      "scryfall_id": "8e3c2e1a-181e-4275-ad09-51c9de039d32"
+    },
+    {
+      "id": "62d53650-9c46-4923-87f8-2f895e6f447c",
+      "set_code": "UGL",
+      "collector_number": "88",
+      "name": "Forest",
+      "scryfall_id": "b3ed8a17-ce32-4100-8ffc-fb8af1c35142"
+    }
+  ]
+}

@@ -1,0 +1,1163 @@
+{
+  "id": "3955a337-d054-43bf-9363-1c5526cbc5bd",
+  "code": "GPT",
+  "name": "Guildpact",
+  "scryfall_id": "594b4d09-8ce1-494d-bdb2-842c124bd087",
+  "cards": [
+    {
+      "id": "b3e42f28-da11-4b27-ae4d-a6b1dfbc164e",
+      "set_code": "GPT",
+      "collector_number": "1",
+      "name": "Absolver Thrull",
+      "scryfall_id": "711979c3-e70b-4973-a4f1-020db534fc73"
+    },
+    {
+      "id": "378e99dd-b04f-44c4-8813-83a0dc61fcfd",
+      "set_code": "GPT",
+      "collector_number": "2",
+      "name": "Belfry Spirit",
+      "scryfall_id": "556e4e71-b149-49c8-8a22-83660bef57bb"
+    },
+    {
+      "id": "5f4192db-db10-4805-8671-ce0063af71df",
+      "set_code": "GPT",
+      "collector_number": "3",
+      "name": "Benediction of Moons",
+      "scryfall_id": "d8ea99d1-9e88-4b14-b0b3-39bcd8191eab"
+    },
+    {
+      "id": "d134bc1f-566b-406f-b353-21cbab04762b",
+      "set_code": "GPT",
+      "collector_number": "4",
+      "name": "Droning Bureaucrats",
+      "scryfall_id": "756eb23a-c6de-439a-b83d-e694cfae7ccb"
+    },
+    {
+      "id": "dd35cff2-b7f6-4095-88b4-6c457d4ed595",
+      "set_code": "GPT",
+      "collector_number": "5",
+      "name": "Ghost Warden",
+      "scryfall_id": "4304abfe-3c81-4053-a398-574cfac613a7"
+    },
+    {
+      "id": "5a682217-fdc7-4597-9acd-f2d30c78fd7e",
+      "set_code": "GPT",
+      "collector_number": "6",
+      "name": "Ghostway",
+      "scryfall_id": "8b83d750-16d9-41e4-b823-3295c5f6b319"
+    },
+    {
+      "id": "d156d09e-f421-4ccd-b16e-7b2a8df0845d",
+      "set_code": "GPT",
+      "collector_number": "7",
+      "name": "Graven Dominator",
+      "scryfall_id": "b6dc44f8-ff1d-4c5a-971d-c3ce9a65f35d"
+    },
+    {
+      "id": "ea05d23d-1d0e-42cc-bd1b-a397635b030d",
+      "set_code": "GPT",
+      "collector_number": "8",
+      "name": "Guardian's Magemark",
+      "scryfall_id": "86a688e9-28ec-4604-8705-46549402a6f8"
+    },
+    {
+      "id": "7deee4d1-a27d-45e1-bfb0-af86202106f8",
+      "set_code": "GPT",
+      "collector_number": "9",
+      "name": "Harrier Griffin",
+      "scryfall_id": "2781696e-e70c-4c96-b3aa-75be51cdc68e"
+    },
+    {
+      "id": "ebd9af38-8ec7-4964-b5dd-a4d024f4dc33",
+      "set_code": "GPT",
+      "collector_number": "10",
+      "name": "Leyline of the Meek",
+      "scryfall_id": "efc58757-abcc-41c9-b4d2-e70e9f387cbb"
+    },
+    {
+      "id": "58cb5cdd-d033-48d8-a0d9-d2a50bfb0e87",
+      "set_code": "GPT",
+      "collector_number": "11",
+      "name": "Lionheart Maverick",
+      "scryfall_id": "704ba6ce-5d28-417b-8574-d3c097e6e39f"
+    },
+    {
+      "id": "e2177b94-df1a-40c7-abd2-cd165777dca9",
+      "set_code": "GPT",
+      "collector_number": "12",
+      "name": "Martyred Rusalka",
+      "scryfall_id": "81d7ad75-1fa9-4683-b0d0-737368de3796"
+    },
+    {
+      "id": "a8f8ef43-aecd-4280-b674-14c7174a0476",
+      "set_code": "GPT",
+      "collector_number": "13",
+      "name": "Order of the Stars",
+      "scryfall_id": "41981edd-df29-4ded-85d6-0d1a2a3a7a59"
+    },
+    {
+      "id": "7d3f16d4-ac98-43ac-861b-79ce68848780",
+      "set_code": "GPT",
+      "collector_number": "14",
+      "name": "Shadow Lance",
+      "scryfall_id": "02b5590f-d964-49cb-8e2e-94b067112c8e"
+    },
+    {
+      "id": "50f5e17e-3cf7-42dc-aac8-c19b36c06c3c",
+      "set_code": "GPT",
+      "collector_number": "15",
+      "name": "Shrieking Grotesque",
+      "scryfall_id": "3c221f01-b094-41c7-bb5f-eef97cbf584e"
+    },
+    {
+      "id": "428fcd03-1068-4084-85f9-a586e5049afa",
+      "set_code": "GPT",
+      "collector_number": "16",
+      "name": "Sinstriker's Will",
+      "scryfall_id": "a6889030-f4cd-41a3-8596-b552a9539873"
+    },
+    {
+      "id": "156cbe13-eb1b-4d27-89d2-8ed7c15e956e",
+      "set_code": "GPT",
+      "collector_number": "17",
+      "name": "Skyrider Trainee",
+      "scryfall_id": "5d760a01-d6c4-462b-b66c-cfd0f594e13a"
+    },
+    {
+      "id": "45bb221b-cf72-416e-9561-de94b478775a",
+      "set_code": "GPT",
+      "collector_number": "18",
+      "name": "Spelltithe Enforcer",
+      "scryfall_id": "0dd5682a-ca93-4b5f-af21-e1ff4439361b"
+    },
+    {
+      "id": "9ab2f0f5-f80b-4123-a33e-088762226960",
+      "set_code": "GPT",
+      "collector_number": "19",
+      "name": "Storm Herd",
+      "scryfall_id": "c8c86398-2cbc-4ad7-a231-6802e3b4d1c0"
+    },
+    {
+      "id": "097639e1-649a-44af-8dd4-b94e7311f19f",
+      "set_code": "GPT",
+      "collector_number": "20",
+      "name": "To Arms!",
+      "scryfall_id": "2f72d4b7-3b65-411b-a072-8218a0202974"
+    },
+    {
+      "id": "d323d290-08f7-4a59-8c06-b92497fbcd20",
+      "set_code": "GPT",
+      "collector_number": "21",
+      "name": "Withstand",
+      "scryfall_id": "bb458f79-13dd-4446-be75-463f19548867"
+    },
+    {
+      "id": "82f69ea5-5759-44fb-b6a0-cddb4e93b624",
+      "set_code": "GPT",
+      "collector_number": "22",
+      "name": "Aetherplasm",
+      "scryfall_id": "95bee334-c56e-4221-97ed-bea73a61b812"
+    },
+    {
+      "id": "4581bdf5-d0ac-4675-acf5-c36c607fc59e",
+      "set_code": "GPT",
+      "collector_number": "23",
+      "name": "Crystal Seer",
+      "scryfall_id": "549ed5bd-da29-4cd4-893e-9e53e33a8557"
+    },
+    {
+      "id": "2b13e593-f65c-4304-8ec4-a28683397227",
+      "set_code": "GPT",
+      "collector_number": "24",
+      "name": "Drowned Rusalka",
+      "scryfall_id": "68864836-799e-467d-97cc-38c89f71afcf"
+    },
+    {
+      "id": "dd0ce2da-b45f-4f71-9657-aad7ea11ddfe",
+      "set_code": "GPT",
+      "collector_number": "25",
+      "name": "Frazzle",
+      "scryfall_id": "68b7f705-4d64-4551-8d76-826d91324e9e"
+    },
+    {
+      "id": "c366c6d6-5510-403f-92ec-ee60f2557246",
+      "set_code": "GPT",
+      "collector_number": "26",
+      "name": "Gigadrowse",
+      "scryfall_id": "bf9f85b3-eb8c-43de-aaac-8a887e9c58da"
+    },
+    {
+      "id": "614f99b1-f14b-4436-a715-1d399b8414f4",
+      "set_code": "GPT",
+      "collector_number": "27",
+      "name": "Hatching Plans",
+      "scryfall_id": "ef327629-9831-4a0c-bd61-7542b0713ea8"
+    },
+    {
+      "id": "b644b219-b14e-4d43-9f10-fb01b986ba0b",
+      "set_code": "GPT",
+      "collector_number": "28",
+      "name": "Infiltrator's Magemark",
+      "scryfall_id": "e63a62b7-7c66-422d-8588-d48ec49de127"
+    },
+    {
+      "id": "66ff52a3-207d-481f-9513-f6fb631c2a35",
+      "set_code": "GPT",
+      "collector_number": "29",
+      "name": "Leyline of Singularity",
+      "scryfall_id": "d40d7e5c-3b6d-4e42-b495-b3cd7ae0d808"
+    },
+    {
+      "id": "2d395940-3eb0-4183-b57c-f4a68f9ca524",
+      "set_code": "GPT",
+      "collector_number": "30",
+      "name": "Mimeofacture",
+      "scryfall_id": "f4ada33a-5b7c-426a-8416-4ce01bccaa5c"
+    },
+    {
+      "id": "f25f3db6-b2f5-43c9-a9d9-7299bc85a629",
+      "set_code": "GPT",
+      "collector_number": "31",
+      "name": "Quicken",
+      "scryfall_id": "7a276b12-4647-4223-b89e-f55d72feb2d0"
+    },
+    {
+      "id": "a1be447b-a734-4ab9-8547-555abca8a96f",
+      "set_code": "GPT",
+      "collector_number": "32",
+      "name": "Repeal",
+      "scryfall_id": "9e7dd929-4bba-46a6-86c9-b8ed853eb721"
+    },
+    {
+      "id": "57cf2446-fd17-4601-9afa-c70b7533f512",
+      "set_code": "GPT",
+      "collector_number": "33",
+      "name": "Runeboggle",
+      "scryfall_id": "37b2fb23-f8b5-4f83-9b29-b18507acaa1a"
+    },
+    {
+      "id": "fa07c102-7b5e-4ba4-bd8f-34383c638c4e",
+      "set_code": "GPT",
+      "collector_number": "34",
+      "name": "Sky Swallower",
+      "scryfall_id": "05189964-5ad0-48b7-a3af-67c7f46fe89e"
+    },
+    {
+      "id": "558616e2-08ba-4841-8959-815e049bca46",
+      "set_code": "GPT",
+      "collector_number": "35",
+      "name": "Steamcore Weird",
+      "scryfall_id": "f8b3992f-f874-448f-8aa4-ade71d6b3168"
+    },
+    {
+      "id": "b4c8e99d-538d-42a3-83e1-8b693cb18284",
+      "set_code": "GPT",
+      "collector_number": "36",
+      "name": "Stratozeppelid",
+      "scryfall_id": "7ccfc49d-2a07-4088-a288-ba7be4da7bc2"
+    },
+    {
+      "id": "5e86cd2f-df77-4ca6-9575-cb46d9a16ad7",
+      "set_code": "GPT",
+      "collector_number": "37",
+      "name": "Thunderheads",
+      "scryfall_id": "56de9727-021e-4b37-b80b-08dcd898aec0"
+    },
+    {
+      "id": "7278c9e6-4b67-4205-819e-84ff50e53bc6",
+      "set_code": "GPT",
+      "collector_number": "38",
+      "name": "Torch Drake",
+      "scryfall_id": "0beff896-df7a-42b3-aaca-0b9ca1b8cf0c"
+    },
+    {
+      "id": "822d2f21-f13b-4463-895e-eeec6f717279",
+      "set_code": "GPT",
+      "collector_number": "39",
+      "name": "Train of Thought",
+      "scryfall_id": "e98f5890-a494-4609-acae-f9e9bacd991d"
+    },
+    {
+      "id": "8dfae169-e665-4075-b489-88f9e72f27aa",
+      "set_code": "GPT",
+      "collector_number": "40",
+      "name": "Vacuumelt",
+      "scryfall_id": "870cdf0b-f707-47b9-b977-f06dad8c345a"
+    },
+    {
+      "id": "8d48e21c-9b01-45fd-bf8f-5191285a7294",
+      "set_code": "GPT",
+      "collector_number": "41",
+      "name": "Vedalken Plotter",
+      "scryfall_id": "a886154e-1b49-471c-9432-cf44a3b3c9f4"
+    },
+    {
+      "id": "00a00cab-4251-481e-9bf6-38f09f39b9d4",
+      "set_code": "GPT",
+      "collector_number": "42",
+      "name": "Vertigo Spawn",
+      "scryfall_id": "a1bdfb7d-029d-4a70-8ae3-ef9a27e729c3"
+    },
+    {
+      "id": "12e78f64-51ac-4f5a-a20b-088dbdf93ad7",
+      "set_code": "GPT",
+      "collector_number": "43",
+      "name": "Abyssal Nocturnus",
+      "scryfall_id": "fe094903-45a6-4b11-b80e-aabe915c4b7c"
+    },
+    {
+      "id": "d451adb2-4376-4505-b4f3-b04d980d69aa",
+      "set_code": "GPT",
+      "collector_number": "44",
+      "name": "Caustic Rain",
+      "scryfall_id": "71fde21d-ce4e-41b7-97d5-c982f90b84a0"
+    },
+    {
+      "id": "ce48c840-4628-4125-8a07-a7e6ace29231",
+      "set_code": "GPT",
+      "collector_number": "45",
+      "name": "Cremate",
+      "scryfall_id": "39a9ce8f-df8a-44bc-8d34-9f42135a3a23"
+    },
+    {
+      "id": "6a19c69f-6a33-4185-afaa-c9db2fc64a96",
+      "set_code": "GPT",
+      "collector_number": "46",
+      "name": "Cry of Contrition",
+      "scryfall_id": "62016f24-3f40-406b-8e29-30a6545d0fc1"
+    },
+    {
+      "id": "925b280a-1957-42ae-bf8f-15dcb8268c21",
+      "set_code": "GPT",
+      "collector_number": "47",
+      "name": "Cryptwailing",
+      "scryfall_id": "13337c99-7d9e-4464-905b-87e8deb072ac"
+    },
+    {
+      "id": "e827b3ad-ac2c-425d-a5c1-80793b0f6d6f",
+      "set_code": "GPT",
+      "collector_number": "48",
+      "name": "Daggerclaw Imp",
+      "scryfall_id": "2d285981-f342-4679-a199-cf5d003407e8"
+    },
+    {
+      "id": "9f9a143c-5a40-4916-a78b-9eddee0f15ea",
+      "set_code": "GPT",
+      "collector_number": "49",
+      "name": "Douse in Gloom",
+      "scryfall_id": "50a4fe4d-460d-4143-9a8e-14e16b211722"
+    },
+    {
+      "id": "e325d4f8-5d1f-428a-94d1-70159423dfa6",
+      "set_code": "GPT",
+      "collector_number": "50",
+      "name": "Exhumer Thrull",
+      "scryfall_id": "c8c53fda-3768-4cc5-8ca3-a60805c340ba"
+    },
+    {
+      "id": "e003020d-9f62-437c-91a4-ebd0dbe841d0",
+      "set_code": "GPT",
+      "collector_number": "51",
+      "name": "Hissing Miasma",
+      "scryfall_id": "f394fd39-842f-4c98-b857-bdad3fd09758"
+    },
+    {
+      "id": "ec1336d3-c55e-429e-b7a2-7c86c3dc7fb9",
+      "set_code": "GPT",
+      "collector_number": "52",
+      "name": "Leyline of the Void",
+      "scryfall_id": "37dfe8b8-b39e-4e70-9e5b-be42c93b4f70"
+    },
+    {
+      "id": "4272b17b-cd74-4acf-901d-76f91f387614",
+      "set_code": "GPT",
+      "collector_number": "53",
+      "name": "Necromancer's Magemark",
+      "scryfall_id": "3b045121-7742-41ee-be27-591692f42331"
+    },
+    {
+      "id": "3a51f32c-31f5-4095-824e-7fc2638a41c9",
+      "set_code": "GPT",
+      "collector_number": "54",
+      "name": "Orzhov Euthanist",
+      "scryfall_id": "104adc35-69fb-4b63-9b03-a71097e15652"
+    },
+    {
+      "id": "d39549b1-4eaf-4298-b49b-b013507b929f",
+      "set_code": "GPT",
+      "collector_number": "55",
+      "name": "Ostiary Thrull",
+      "scryfall_id": "26407330-d7a1-4915-b7c6-e08e166cf638"
+    },
+    {
+      "id": "24823dbd-82ae-433b-b146-1b55a4866517",
+      "set_code": "GPT",
+      "collector_number": "56",
+      "name": "Plagued Rusalka",
+      "scryfall_id": "cd84bbb3-8b99-4e6d-b514-b094ec93eaa0"
+    },
+    {
+      "id": "8ef736ab-e4f6-4c35-9886-d9edebd35967",
+      "set_code": "GPT",
+      "collector_number": "57",
+      "name": "Poisonbelly Ogre",
+      "scryfall_id": "a168b953-eac4-472e-ac74-598febb05f83"
+    },
+    {
+      "id": "320bd51f-5d26-4b13-b388-19a52ab78cd4",
+      "set_code": "GPT",
+      "collector_number": "58",
+      "name": "Restless Bones",
+      "scryfall_id": "4d11a4f2-376e-42ae-9693-9dc754bd2282"
+    },
+    {
+      "id": "722cf442-4766-41ee-9621-b3326210a857",
+      "set_code": "GPT",
+      "collector_number": "59",
+      "name": "Revenant Patriarch",
+      "scryfall_id": "c71b7b73-567a-4291-bf60-f17c1fe55de6"
+    },
+    {
+      "id": "bd866652-4964-4628-ae56-687fcce9f0b5",
+      "set_code": "GPT",
+      "collector_number": "60",
+      "name": "Sanguine Praetor",
+      "scryfall_id": "8291b1a9-2d04-4dd7-b8c5-3b1018aa0d2f"
+    },
+    {
+      "id": "1c32346b-48f5-4d98-9041-b548b889eb86",
+      "set_code": "GPT",
+      "collector_number": "61",
+      "name": "Seize the Soul",
+      "scryfall_id": "29bf245f-e8e0-4d32-8cd7-06d832609910"
+    },
+    {
+      "id": "f66813ef-bde3-40cd-8cfc-35ae4769bd53",
+      "set_code": "GPT",
+      "collector_number": "62",
+      "name": "Skeletal Vampire",
+      "scryfall_id": "69251d44-3038-4b64-ab78-fc87f0406ba2"
+    },
+    {
+      "id": "c0330f52-d6b2-4701-9ae5-d5c3f6539bf2",
+      "set_code": "GPT",
+      "collector_number": "63",
+      "name": "Smogsteed Rider",
+      "scryfall_id": "04d2b2bf-92bc-4362-b232-8a403b9a7ade"
+    },
+    {
+      "id": "8dc45c57-e822-4f81-ac8f-a84adef13fd8",
+      "set_code": "GPT",
+      "collector_number": "64",
+      "name": "Bloodscale Prowler",
+      "scryfall_id": "8197cc43-c787-4372-81dc-759a9fe24708"
+    },
+    {
+      "id": "94148658-ca0f-451d-bbcd-6ba823d59cf2",
+      "set_code": "GPT",
+      "collector_number": "65",
+      "name": "Fencer's Magemark",
+      "scryfall_id": "318a33fb-8b36-4dad-9eef-e0e601723f78"
+    },
+    {
+      "id": "155faa13-49f0-4246-9f9b-3ed31770be52",
+      "set_code": "GPT",
+      "collector_number": "66",
+      "name": "Ghor-Clan Bloodscale",
+      "scryfall_id": "00cab68b-ee26-46eb-a18b-9b42bf2d10e5"
+    },
+    {
+      "id": "b915bff8-3139-4921-b956-64b58eead96d",
+      "set_code": "GPT",
+      "collector_number": "67",
+      "name": "Hypervolt Grasp",
+      "scryfall_id": "fdaa3c6e-1f8a-4580-8e03-e670f50ab958"
+    },
+    {
+      "id": "7cc18b08-25ed-4f11-a8c2-6d027dd0e055",
+      "set_code": "GPT",
+      "collector_number": "68",
+      "name": "Leyline of Lightning",
+      "scryfall_id": "23d09839-b41e-4aab-8913-40d63052dbf3"
+    },
+    {
+      "id": "59f887f9-ae1b-446b-976e-b5a8dc5388bd",
+      "set_code": "GPT",
+      "collector_number": "69",
+      "name": "Living Inferno",
+      "scryfall_id": "1c4b8143-2742-4262-b18f-2825bf8cea6f"
+    },
+    {
+      "id": "3dbee2a2-d7a3-409a-9f96-24c908f46c54",
+      "set_code": "GPT",
+      "collector_number": "70",
+      "name": "Ogre Savant",
+      "scryfall_id": "f7448ed3-8720-4098-a3dd-9151ba10bb49"
+    },
+    {
+      "id": "18eb265c-02e1-4d83-a19b-f5e226cce02a",
+      "set_code": "GPT",
+      "collector_number": "71",
+      "name": "Parallectric Feedback",
+      "scryfall_id": "891f1d29-377a-4f71-917f-ff10e785caee"
+    },
+    {
+      "id": "da469a71-b99d-47b9-b0f7-f84db613c337",
+      "set_code": "GPT",
+      "collector_number": "72",
+      "name": "Pyromatics",
+      "scryfall_id": "c22c9dab-e8d5-48b3-8fd2-9f4138ee0c7c"
+    },
+    {
+      "id": "4a03df0f-65f0-4139-bd19-9a817991b746",
+      "set_code": "GPT",
+      "collector_number": "73",
+      "name": "Rabble-Rouser",
+      "scryfall_id": "c6877862-f7c5-493d-baaf-41a91d4c7982"
+    },
+    {
+      "id": "28c4c235-10b3-4fc6-be12-1dea8eb8ecaf",
+      "set_code": "GPT",
+      "collector_number": "74",
+      "name": "Scorched Rusalka",
+      "scryfall_id": "9f955164-ddb8-484c-a063-967621abce87"
+    },
+    {
+      "id": "555c7505-852c-488d-bb6c-77c04422e7c5",
+      "set_code": "GPT",
+      "collector_number": "75",
+      "name": "Shattering Spree",
+      "scryfall_id": "d6dcff21-5900-43c4-a38b-cdc19c704ce4"
+    },
+    {
+      "id": "e218ad5a-9b29-4857-b223-a645a9aec11a",
+      "set_code": "GPT",
+      "collector_number": "76",
+      "name": "Siege of Towers",
+      "scryfall_id": "4db24da9-8901-4e2d-9565-39ce1b7639c9"
+    },
+    {
+      "id": "48dcfb3e-c174-423f-91be-6bdf2f89096c",
+      "set_code": "GPT",
+      "collector_number": "77",
+      "name": "Skarrgan Firebird",
+      "scryfall_id": "61c51e46-3236-41ee-913e-f253f218067c"
+    },
+    {
+      "id": "dd8c6158-94b0-4180-a856-fb717032e190",
+      "set_code": "GPT",
+      "collector_number": "78",
+      "name": "Tin Street Hooligan",
+      "scryfall_id": "ad525bb3-15fd-4887-a3e7-0a036258dcc7"
+    },
+    {
+      "id": "f226bb47-da1d-4b4d-936f-af2a788dde0b",
+      "set_code": "GPT",
+      "collector_number": "79",
+      "name": "Battering Wurm",
+      "scryfall_id": "5a0fb683-2e9b-465c-9fb5-2eb334c2739a"
+    },
+    {
+      "id": "b0fd30e7-9f42-4081-94e0-3149f34f5219",
+      "set_code": "GPT",
+      "collector_number": "80",
+      "name": "Beastmaster's Magemark",
+      "scryfall_id": "7b5eea61-373a-4bca-a793-d6be7f6214e2"
+    },
+    {
+      "id": "b23ee47d-b84b-4140-9cdc-f2be874fcb7d",
+      "set_code": "GPT",
+      "collector_number": "81",
+      "name": "Bioplasm",
+      "scryfall_id": "7170a1db-3502-4caf-a54b-bd0df0d93f2d"
+    },
+    {
+      "id": "23f8a497-6777-4c23-94ad-5da2a832eb42",
+      "set_code": "GPT",
+      "collector_number": "82",
+      "name": "Crash Landing",
+      "scryfall_id": "f8683546-85b7-4658-91be-91ef65fb3fc3"
+    },
+    {
+      "id": "cf989fc8-3900-49cd-971e-cd1a455c2d73",
+      "set_code": "GPT",
+      "collector_number": "83",
+      "name": "Dryad Sophisticate",
+      "scryfall_id": "0b5bf5ce-f7f8-47cb-abb8-f14ce5f1af67"
+    },
+    {
+      "id": "5e063d75-d39f-4b43-b568-4f5eda13dd6a",
+      "set_code": "GPT",
+      "collector_number": "84",
+      "name": "Earth Surge",
+      "scryfall_id": "325503ee-ea62-459b-a58a-53fb3c1ef027"
+    },
+    {
+      "id": "b481c886-71b4-4086-9080-a975dabd90f5",
+      "set_code": "GPT",
+      "collector_number": "85",
+      "name": "Gatherer of Graces",
+      "scryfall_id": "68d75367-88e7-44e6-9234-590dc143fd1d"
+    },
+    {
+      "id": "f55fd947-ac7d-429d-9ae3-64efb9260f5b",
+      "set_code": "GPT",
+      "collector_number": "86",
+      "name": "Ghor-Clan Savage",
+      "scryfall_id": "d77ad353-7543-4d65-bf02-33f66abaf14b"
+    },
+    {
+      "id": "7192b7e6-eb86-4a02-bde3-fa106ac9f003",
+      "set_code": "GPT",
+      "collector_number": "87",
+      "name": "Gristleback",
+      "scryfall_id": "b82f763a-c960-4b59-8c77-f3bea7bd8c8b"
+    },
+    {
+      "id": "c586a4c6-dd08-497d-9536-74d7535abdd6",
+      "set_code": "GPT",
+      "collector_number": "88",
+      "name": "Gruul Nodorog",
+      "scryfall_id": "9855ce83-ae26-4b1d-ab7f-637cde09d679"
+    },
+    {
+      "id": "e04bb8b6-6f37-4476-b8f2-76be0665c78a",
+      "set_code": "GPT",
+      "collector_number": "89",
+      "name": "Gruul Scrapper",
+      "scryfall_id": "f7f3fdc0-3fd1-47da-b3ed-e4a462179e75"
+    },
+    {
+      "id": "8e61e613-65e4-40b2-9914-e5cb2aca4330",
+      "set_code": "GPT",
+      "collector_number": "90",
+      "name": "Leyline of Lifeforce",
+      "scryfall_id": "f7caffa7-29bd-455c-9770-94a0ad7ef5e3"
+    },
+    {
+      "id": "2f272697-f989-4eb3-a634-d38c0874f27f",
+      "set_code": "GPT",
+      "collector_number": "91",
+      "name": "Petrified Wood-Kin",
+      "scryfall_id": "a56fbf32-f08f-4882-b8d4-41ccb60cba63"
+    },
+    {
+      "id": "539207ca-ca7c-4f07-bbd1-188de94defb7",
+      "set_code": "GPT",
+      "collector_number": "92",
+      "name": "Predatory Focus",
+      "scryfall_id": "98fc1314-4bf2-44f2-a016-58765eb04607"
+    },
+    {
+      "id": "bfef8ba9-b643-48e4-bb9a-b7a33981d7b7",
+      "set_code": "GPT",
+      "collector_number": "93",
+      "name": "Primeval Light",
+      "scryfall_id": "293ce819-c228-4ff1-827c-3d0cbed703ea"
+    },
+    {
+      "id": "4174c8bb-6ca9-4f59-9279-5d9f3337e914",
+      "set_code": "GPT",
+      "collector_number": "94",
+      "name": "Silhana Ledgewalker",
+      "scryfall_id": "c921343a-4496-4e21-a0ff-e04a1fb407bf"
+    },
+    {
+      "id": "309b8de1-e03f-471e-ba04-cc2fd24126c6",
+      "set_code": "GPT",
+      "collector_number": "95",
+      "name": "Silhana Starfletcher",
+      "scryfall_id": "fa9c7e09-8384-4866-af92-ba56bd307d9c"
+    },
+    {
+      "id": "58ecd091-0c6e-4678-a0da-b3ea9aafb486",
+      "set_code": "GPT",
+      "collector_number": "96",
+      "name": "Skarrgan Pit-Skulk",
+      "scryfall_id": "cc65d7ea-e8f4-4be9-94e4-2fa2e4d83177"
+    },
+    {
+      "id": "865a47a5-fc20-4d34-9f96-9dfceef81eb2",
+      "set_code": "GPT",
+      "collector_number": "97",
+      "name": "Starved Rusalka",
+      "scryfall_id": "25b4aec5-0a7d-4b1c-8819-ea675d415eac"
+    },
+    {
+      "id": "f4813e30-0b73-4af9-a2d9-6d839fe03a3b",
+      "set_code": "GPT",
+      "collector_number": "98",
+      "name": "Wildsize",
+      "scryfall_id": "eef061ed-736c-41ba-b692-d1fbfaca242e"
+    },
+    {
+      "id": "f2232fb9-9ce0-4994-b04c-3f4fcdb364ca",
+      "set_code": "GPT",
+      "collector_number": "99",
+      "name": "Wurmweaver Coil",
+      "scryfall_id": "661580bc-b5e5-48ce-b855-c177f1c61742"
+    },
+    {
+      "id": "5e497260-ed31-4ac1-9039-e21f6c861da1",
+      "set_code": "GPT",
+      "collector_number": "100",
+      "name": "Agent of Masks",
+      "scryfall_id": "7e9b0ab4-5c6b-494d-926d-daa38a3ac640"
+    },
+    {
+      "id": "128b1591-c60d-4ea3-bda1-5b9afb82b5a0",
+      "set_code": "GPT",
+      "collector_number": "101",
+      "name": "Angel of Despair",
+      "scryfall_id": "9ae71424-df9c-481c-9305-a0c30adcfda2"
+    },
+    {
+      "id": "bf6daa84-d3fd-4067-b760-3eaf684f3382",
+      "set_code": "GPT",
+      "collector_number": "102",
+      "name": "Blind Hunter",
+      "scryfall_id": "be1c8995-be36-43f6-9bd7-7b8712894331"
+    },
+    {
+      "id": "bc741136-efca-4d93-bd85-9a1177bf1ae2",
+      "set_code": "GPT",
+      "collector_number": "103",
+      "name": "Borborygmos",
+      "scryfall_id": "7c4a08e9-06c7-43e9-a855-4f507a35ae8b"
+    },
+    {
+      "id": "5b1bd327-6115-4fe6-925b-48aa61f9927f",
+      "set_code": "GPT",
+      "collector_number": "104",
+      "name": "Burning-Tree Bloodscale",
+      "scryfall_id": "c6492648-8115-41ff-a184-08efebae28b1"
+    },
+    {
+      "id": "a86357bd-9c1b-45a7-9017-676f827b373a",
+      "set_code": "GPT",
+      "collector_number": "105",
+      "name": "Burning-Tree Shaman",
+      "scryfall_id": "133863fc-e820-4be6-a354-a02e7fe25eae"
+    },
+    {
+      "id": "d7bf2cfd-5c35-4982-9ab6-fa679db2df90",
+      "set_code": "GPT",
+      "collector_number": "106",
+      "name": "Castigate",
+      "scryfall_id": "112c47e4-5ff8-4ea0-ac14-956e4b94119a"
+    },
+    {
+      "id": "ce090f96-1fda-4b04-9097-39c880427879",
+      "set_code": "GPT",
+      "collector_number": "107",
+      "name": "Cerebral Vortex",
+      "scryfall_id": "779cdad3-9d90-4de1-8071-f772fb85142b"
+    },
+    {
+      "id": "db3bef5d-7d51-4240-8581-d304b1a6130a",
+      "set_code": "GPT",
+      "collector_number": "108",
+      "name": "Conjurer's Ban",
+      "scryfall_id": "39849576-b58f-45f0-ad33-a9bf2135d9b7"
+    },
+    {
+      "id": "25bbdae0-34a2-45fe-99d6-098b7abe0760",
+      "set_code": "GPT",
+      "collector_number": "109",
+      "name": "Culling Sun",
+      "scryfall_id": "5ec5a956-c846-46b6-91bd-37e4db542280"
+    },
+    {
+      "id": "1c03c976-5fd3-4fc3-8842-cb84f0c5441c",
+      "set_code": "GPT",
+      "collector_number": "110",
+      "name": "Dune-Brood Nephilim",
+      "scryfall_id": "15b4ee44-28c4-4a39-9c06-aca43787954f"
+    },
+    {
+      "id": "baf0bdaa-ac9c-4a22-b9b6-82d6b450d469",
+      "set_code": "GPT",
+      "collector_number": "111",
+      "name": "Electrolyze",
+      "scryfall_id": "ef42b5b2-6504-486c-aaa0-9d5e4769ba1d"
+    },
+    {
+      "id": "9760a124-59b4-4d08-856d-185c3b798f33",
+      "set_code": "GPT",
+      "collector_number": "112",
+      "name": "Feral Animist",
+      "scryfall_id": "ad65c721-b601-46f9-ba0b-ac4d96567cee"
+    },
+    {
+      "id": "ce661a69-6cd6-44d5-94c2-e5bbaa1fc903",
+      "set_code": "GPT",
+      "collector_number": "113",
+      "name": "Gelectrode",
+      "scryfall_id": "83fa9c4a-7027-4ddd-93e0-3c5dcaa8e48b"
+    },
+    {
+      "id": "577cc105-6ffe-4f48-bdc1-07a02112c8ac",
+      "set_code": "GPT",
+      "collector_number": "114",
+      "name": "Ghost Council of Orzhova",
+      "scryfall_id": "d83a5785-a9a9-4a07-82c7-97dc5b9a2475"
+    },
+    {
+      "id": "e7a96542-dc1d-4769-97cd-4a610c0de206",
+      "set_code": "GPT",
+      "collector_number": "115",
+      "name": "Glint-Eye Nephilim",
+      "scryfall_id": "08fc68fa-d6cf-4f6d-8f44-4d62c9cdd5c3"
+    },
+    {
+      "id": "60155975-9831-4268-b514-570575c5061d",
+      "set_code": "GPT",
+      "collector_number": "116",
+      "name": "Goblin Flectomancer",
+      "scryfall_id": "8170c05b-826c-4879-b202-29eec6f955ea"
+    },
+    {
+      "id": "28e9495f-e29f-4071-a7db-0962803150fa",
+      "set_code": "GPT",
+      "collector_number": "117",
+      "name": "Ink-Treader Nephilim",
+      "scryfall_id": "d29bb432-1ca6-4305-b6d3-d7afe06c6c69"
+    },
+    {
+      "id": "d3776e3f-ca7a-44c0-9dce-e003e27383ab",
+      "set_code": "GPT",
+      "collector_number": "118",
+      "name": "Invoke the Firemind",
+      "scryfall_id": "58d8e41a-5990-4ceb-9d41-76632faa7883"
+    },
+    {
+      "id": "c7360a82-c635-4b63-b818-2f98875eb4e8",
+      "set_code": "GPT",
+      "collector_number": "119",
+      "name": "Izzet Chronarch",
+      "scryfall_id": "6c82dc47-38db-4ee1-9031-f8ea68d05389"
+    },
+    {
+      "id": "0a48ae01-1a9f-4536-ba10-382bb2b66395",
+      "set_code": "GPT",
+      "collector_number": "120",
+      "name": "Killer Instinct",
+      "scryfall_id": "c808a8ec-895c-4777-9e11-e83ce34eddef"
+    },
+    {
+      "id": "82e0b47b-726a-483c-be3c-4e5bb4736976",
+      "set_code": "GPT",
+      "collector_number": "121",
+      "name": "Leap of Flame",
+      "scryfall_id": "c011b432-ec39-44c8-bf2a-1c3fec32a576"
+    },
+    {
+      "id": "2b82e660-90f3-4ff2-bfa0-ec550d5e7495",
+      "set_code": "GPT",
+      "collector_number": "122",
+      "name": "Mortify",
+      "scryfall_id": "3b2c5187-71c7-4801-8a76-339c67322d35"
+    },
+    {
+      "id": "b1917a63-c890-497e-aed2-57297b036d5c",
+      "set_code": "GPT",
+      "collector_number": "123",
+      "name": "Niv-Mizzet, the Firemind",
+      "scryfall_id": "5994d98a-090b-4203-b44f-b6517b6a83ea"
+    },
+    {
+      "id": "d9dbf1ba-7739-4459-8570-dedfea8111ea",
+      "set_code": "GPT",
+      "collector_number": "124",
+      "name": "Orzhov Pontiff",
+      "scryfall_id": "f2b5813b-955b-469a-b287-65325c589b59"
+    },
+    {
+      "id": "5f749c1f-d4fa-4d94-89e4-82a01cb3ab00",
+      "set_code": "GPT",
+      "collector_number": "125",
+      "name": "Pillory of the Sleepless",
+      "scryfall_id": "36964bbd-f068-4a69-8d6b-7e4e97938b98"
+    },
+    {
+      "id": "7859029d-85f3-4b2b-b458-df00b1db961a",
+      "set_code": "GPT",
+      "collector_number": "126",
+      "name": "Rumbling Slum",
+      "scryfall_id": "d891c5c2-55d4-43a9-a56b-a92166fd41b8"
+    },
+    {
+      "id": "45925232-ec2b-47ef-8633-2eb9ef59055d",
+      "set_code": "GPT",
+      "collector_number": "127",
+      "name": "Savage Twister",
+      "scryfall_id": "682ee5a9-2995-4868-b7ea-8735b2aee77e"
+    },
+    {
+      "id": "15e5ea08-04f9-41ef-b4c2-0afe2a2be984",
+      "set_code": "GPT",
+      "collector_number": "128",
+      "name": "Scab-Clan Mauler",
+      "scryfall_id": "93e040a6-9e10-4528-8ee1-ef3a00e93cbc"
+    },
+    {
+      "id": "6900c167-6f52-4f21-9110-a5c6a99b34f8",
+      "set_code": "GPT",
+      "collector_number": "129",
+      "name": "Schismotivate",
+      "scryfall_id": "98510af3-a884-417a-8cd9-991890d42919"
+    },
+    {
+      "id": "26c377cd-00ae-427c-b156-54e29f288cc9",
+      "set_code": "GPT",
+      "collector_number": "130",
+      "name": "Skarrgan Skybreaker",
+      "scryfall_id": "2d24d84e-09ec-4300-914b-1a540e300692"
+    },
+    {
+      "id": "ff1544db-197a-45a4-8598-74c56735d499",
+      "set_code": "GPT",
+      "collector_number": "131",
+      "name": "Souls of the Faultless",
+      "scryfall_id": "24f02a09-e959-438c-ab48-abd34b10d07c"
+    },
+    {
+      "id": "acfa6c6e-be4b-4d28-971a-2fe8e6a14644",
+      "set_code": "GPT",
+      "collector_number": "132",
+      "name": "Stitch in Time",
+      "scryfall_id": "80ee9c0d-c0ac-4c75-b254-77329dc42366"
+    },
+    {
+      "id": "329788e1-e1ad-4680-b31a-bfa2c201a9b3",
+      "set_code": "GPT",
+      "collector_number": "133",
+      "name": "Streetbreaker Wurm",
+      "scryfall_id": "d5313054-91a5-401c-84d1-03a2cd265060"
+    },
+    {
+      "id": "0566720f-1af0-4b93-bd42-074ae0072f9c",
+      "set_code": "GPT",
+      "collector_number": "134",
+      "name": "Teysa, Orzhov Scion",
+      "scryfall_id": "9eb856e6-8f63-4048-9818-cc3e65748855"
+    },
+    {
+      "id": "2a3cac9d-debe-4fcd-af9b-4538c2005513",
+      "set_code": "GPT",
+      "collector_number": "135",
+      "name": "Tibor and Lumia",
+      "scryfall_id": "149ce3cc-5df6-4158-b732-5bd2c1b3007f"
+    },
+    {
+      "id": "9cddb269-6549-45d6-aa1c-9968ce195540",
+      "set_code": "GPT",
+      "collector_number": "136",
+      "name": "Ulasht, the Hate Seed",
+      "scryfall_id": "a0ba043a-d508-49dd-9bf3-a7ae8d26ac9b"
+    },
+    {
+      "id": "73b5fb49-2a17-4b3b-8f24-2e88596f6115",
+      "set_code": "GPT",
+      "collector_number": "137",
+      "name": "Wee Dragonauts",
+      "scryfall_id": "14fd3734-8c28-4bd0-b202-eee1ab98c328"
+    },
+    {
+      "id": "a981f177-8967-4d61-a864-3aae204211c8",
+      "set_code": "GPT",
+      "collector_number": "138",
+      "name": "Witch-Maw Nephilim",
+      "scryfall_id": "185d56ab-b7f2-4eb2-9540-db8f2dc9b436"
+    },
+    {
+      "id": "3c06526d-67f5-4948-9683-3a99cfcdec07",
+      "set_code": "GPT",
+      "collector_number": "139",
+      "name": "Wreak Havoc",
+      "scryfall_id": "0c3b44e5-0ad8-4487-a6e2-d43b123086ab"
+    },
+    {
+      "id": "165b9971-21f9-4bd1-9def-7d12567bf9be",
+      "set_code": "GPT",
+      "collector_number": "140",
+      "name": "Yore-Tiller Nephilim",
+      "scryfall_id": "0247d76c-dee4-4d1b-9c25-faa56171541e"
+    },
+    {
+      "id": "37b690d9-de8d-410a-ba6a-3eff0c768566",
+      "set_code": "GPT",
+      "collector_number": "141",
+      "name": "Debtors' Knell",
+      "scryfall_id": "63a76c61-fd84-458d-9bc0-583768f4275a"
+    },
+    {
+      "id": "8c2fa62a-c770-4581-829e-86bbe60922e2",
+      "set_code": "GPT",
+      "collector_number": "142",
+      "name": "Djinn Illuminatus",
+      "scryfall_id": "eafc3bb4-657c-46fa-9ad5-c924fdaefc83"
+    },
+    {
+      "id": "c107c960-90c0-4343-a0e1-967f66b13745",
+      "set_code": "GPT",
+      "collector_number": "143",
+      "name": "Giant Solifuge",
+      "scryfall_id": "8a83dbc9-802f-4ebf-93de-b2bf4844cc9e"
+    },
+    {
+      "id": "d618963f-e61d-4fd0-bd89-eee121274158",
+      "set_code": "GPT",
+      "collector_number": "144",
+      "name": "Gruul Guildmage",
+      "scryfall_id": "cb5a61f8-aab1-48d7-aebb-cf500ac5cb0e"
+    },
+    {
+      "id": "0e960d64-64ee-4514-bed5-ab9166b3f4f5",
+      "set_code": "GPT",
+      "collector_number": "145",
+      "name": "Izzet Guildmage",
+      "scryfall_id": "ecce6ade-8741-4567-8ed3-3e03becc6f1b"
+    },
+    {
+      "id": "5a4054d6-45a0-4004-a505-fc944d2ac22c",
+      "set_code": "GPT",
+      "collector_number": "146",
+      "name": "Mourning Thrull",
+      "scryfall_id": "1e2a217a-e47b-4874-9861-bb57c7b1f06a"
+    },
+    {
+      "id": "0a0d7f4b-f180-4e9b-a9af-07bda4a97388",
+      "set_code": "GPT",
+      "collector_number": "147",
+      "name": "Orzhov Guildmage",
+      "scryfall_id": "8e2ae5b4-2caf-4992-b2c2-64f00e9e567a"
+    },
+    {
+      "id": "89864e09-aa82-47fe-8fa8-18bbfed1445b",
+      "set_code": "GPT",
+      "collector_number": "148",
+      "name": "Petrahydrox",
+      "scryfall_id": "6b876fa0-4018-43a2-8911-e1525f95f09f"
+    },
+    {
+      "id": "0c77567b-2558-49f5-a048-2c188678de2b",
+      "set_code": "GPT",
+      "collector_number": "149",
+      "name": "Wild Cantor",
+      "scryfall_id": "242dc29e-d8f5-4207-abbf-cf5425f08551"
+    },
+    {
+      "id": "46e25db7-93c7-47d0-9d4a-a0869d0a364f",
+      "set_code": "GPT",
+      "collector_number": "150",
+      "name": "Gruul Signet",
+      "scryfall_id": "1bb30340-96a4-49d8-838b-8788900401a0"
+    },
+    {
+      "id": "f739d954-bf9b-42d6-856a-2d01127257e2",
+      "set_code": "GPT",
+      "collector_number": "151",
+      "name": "Gruul War Plow",
+      "scryfall_id": "92efc66e-4112-413b-ae7c-85f270abc4ff"
+    },
+    {
+      "id": "de4b9101-108d-4db2-88b4-cd4e39d63121",
+      "set_code": "GPT",
+      "collector_number": "152",
+      "name": "Izzet Signet",
+      "scryfall_id": "f823be95-bef4-4e86-a924-239be62394bf"
+    },
+    {
+      "id": "64209fc2-de35-4bf3-8831-7f8eb65b003c",
+      "set_code": "GPT",
+      "collector_number": "153",
+      "name": "Mizzium Transreliquat",
+      "scryfall_id": "d29c3bf9-d37c-4e0a-ac44-15d47770ed44"
+    },
+    {
+      "id": "160c4437-0801-4076-af1b-0478c5aea399",
+      "set_code": "GPT",
+      "collector_number": "154",
+      "name": "Moratorium Stone",
+      "scryfall_id": "5529edfc-22bd-43dc-878b-6ec9fba74795"
+    },
+    {
+      "id": "e487bacb-5d76-40df-b7f0-5a13bae9542a",
+      "set_code": "GPT",
+      "collector_number": "155",
+      "name": "Orzhov Signet",
+      "scryfall_id": "f9298a1d-5b41-46d8-929c-b6980d1e6eb7"
+    },
+    {
+      "id": "9a707c73-e99e-41a7-bde3-7c50460ae594",
+      "set_code": "GPT",
+      "collector_number": "156",
+      "name": "Sword of the Paruns",
+      "scryfall_id": "a2225d05-d85c-4304-8226-b056e7dedad7"
+    },
+    {
+      "id": "c43f0eec-60a8-4fae-9ef5-5566ce0abeb5",
+      "set_code": "GPT",
+      "collector_number": "157",
+      "name": "Godless Shrine",
+      "scryfall_id": "be010c2f-06db-47e3-80bd-df3f2a21ca34"
+    },
+    {
+      "id": "0a9b78dd-b918-4f54-8ee2-35f00cc4d25e",
+      "set_code": "GPT",
+      "collector_number": "158",
+      "name": "Gruul Turf",
+      "scryfall_id": "550b70e0-ebd5-49de-b62c-5224b8bf8e98"
+    },
+    {
+      "id": "157b14ff-92a2-4fce-a3a1-5aadea41f2a5",
+      "set_code": "GPT",
+      "collector_number": "159",
+      "name": "Izzet Boilerworks",
+      "scryfall_id": "666f455e-3a3d-475d-b67a-a1fdd74820eb"
+    },
+    {
+      "id": "f8ae8f7a-a393-4798-ac8c-2bf882ec89de",
+      "set_code": "GPT",
+      "collector_number": "160",
+      "name": "Nivix, Aerie of the Firemind",
+      "scryfall_id": "3849ddda-400b-4543-8c31-941e65aa5ad1"
+    },
+    {
+      "id": "26a13882-5e86-4334-aa1f-57e788dc8567",
+      "set_code": "GPT",
+      "collector_number": "161",
+      "name": "Orzhov Basilica",
+      "scryfall_id": "f9154d2a-3fc5-4fd6-9885-a810cb6b542a"
+    },
+    {
+      "id": "cf19f838-b946-4102-88df-2a1cfc3eb982",
+      "set_code": "GPT",
+      "collector_number": "162",
+      "name": "Orzhova, the Church of Deals",
+      "scryfall_id": "9015cc09-56c9-4d8f-b241-a0cfaec7e1f1"
+    },
+    {
+      "id": "70c6ac4a-c57c-4249-b561-70009c4d4bab",
+      "set_code": "GPT",
+      "collector_number": "163",
+      "name": "Skarrg, the Rage Pits",
+      "scryfall_id": "342dcdde-e4cc-4a49-a818-9283002aba1a"
+    },
+    {
+      "id": "e9342b85-7f42-4394-acf7-9a14e669b9a4",
+      "set_code": "GPT",
+      "collector_number": "164",
+      "name": "Steam Vents",
+      "scryfall_id": "054f2276-2dd5-43da-bb26-c57c560861fe"
+    },
+    {
+      "id": "7d38a15b-1a1d-41a7-bec0-ef3597d0d2bd",
+      "set_code": "GPT",
+      "collector_number": "165",
+      "name": "Stomping Ground",
+      "scryfall_id": "a2773d8f-f906-475d-aaff-b7ca3b01f188"
+    }
+  ]
+}

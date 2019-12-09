@@ -3,13 +3,16 @@ include ../config.mk
 # Options
 .SECONDEXPANSION:
 
+# Config
+canonical_sink = json_nested
+
 # Input paths
 input_tables = $(warehouse_dir)/stg_mtg
 sets_table_dir = $(warehouse_dir)/stg_mtg/sets
 cards_table_dir = $(warehouse_dir)/stg_mtg/cards
 
 # Output paths
-canonical_data_dir = $(root_dir)/canonical_json
+canonical_data_dir = $(root_dir)/canonical_data
 sunk_data_dir = $(build_dir)/sunk_data
 
 $(sunk_data_dir):
@@ -22,7 +25,6 @@ $(sunk_data_dir)/%: sink_%.py $(input_tables) | $(sunk_data_dir)
 	$(spark_submit) $< $@
 
 # Canonical json
-canonical_sink = json_split
 $(sunk_data_dir)/canonical.txt: FORCE | $(sunk_data_dir)
 	if [ "$$(cat $@ 2>/dev/null)" != "$(canonical_sink)" ]; then \
 		echo "$(canonical_sink)" > $@; \

@@ -1,0 +1,1009 @@
+{
+  "id": "6d617f51-b090-46f2-8d86-961638b7eea4",
+  "code": "TOR",
+  "name": "Torment",
+  "scryfall_id": "e0b3fda1-a6ca-4996-849b-08b463d39484",
+  "cards": [
+    {
+      "id": "8caaf2b3-559c-425b-9a8a-9ff7bf81f778",
+      "set_code": "TOR",
+      "collector_number": "1",
+      "name": "Angel of Retribution",
+      "scryfall_id": "7f3215ba-e492-4cfd-aa16-0da4818eed1b"
+    },
+    {
+      "id": "066a6894-ddd5-4555-89c3-9b6d67696092",
+      "set_code": "TOR",
+      "collector_number": "2",
+      "name": "Aven Trooper",
+      "scryfall_id": "79c8f774-6d4f-4fd0-85c0-26ef713e6b89"
+    },
+    {
+      "id": "1ebdef8f-360a-4355-8ce0-09c6a1da12fc",
+      "set_code": "TOR",
+      "collector_number": "3",
+      "name": "Cleansing Meditation",
+      "scryfall_id": "fd6609ef-71af-4775-affc-34153700c556"
+    },
+    {
+      "id": "b78a758b-9c21-41bb-a05e-a60eb80392f0",
+      "set_code": "TOR",
+      "collector_number": "4",
+      "name": "Equal Treatment",
+      "scryfall_id": "310cb525-9299-471e-b310-392353b25472"
+    },
+    {
+      "id": "c7d5bc46-bb05-4e72-82ce-1f5c1c57e115",
+      "set_code": "TOR",
+      "collector_number": "5",
+      "name": "Floating Shield",
+      "scryfall_id": "4dbda39b-a998-4ad9-95df-72ed9556c390"
+    },
+    {
+      "id": "df586a48-cce1-4ddd-abe5-e6cbb67fd4e6",
+      "set_code": "TOR",
+      "collector_number": "6",
+      "name": "Frantic Purification",
+      "scryfall_id": "04f156d1-2655-42aa-a785-d8eb15cb5422"
+    },
+    {
+      "id": "3887d4fc-318c-4a29-93ef-62663fe9b416",
+      "set_code": "TOR",
+      "collector_number": "7",
+      "name": "Hypochondria",
+      "scryfall_id": "3467c940-dae4-4667-bec8-524dbce13283"
+    },
+    {
+      "id": "cd41a737-3812-4e58-8e06-de245f498031",
+      "set_code": "TOR",
+      "collector_number": "8",
+      "name": "Major Teroh",
+      "scryfall_id": "3229ca5a-5340-48b8-bd46-b0b924c8faf7"
+    },
+    {
+      "id": "234833e8-3a66-44eb-97a1-2ff9a8562090",
+      "set_code": "TOR",
+      "collector_number": "9",
+      "name": "Militant Monk",
+      "scryfall_id": "886a3cfd-7f83-480a-bb22-eec67ad35e4f"
+    },
+    {
+      "id": "e46c4f80-5a48-42e3-bb9f-fd288ae97751",
+      "set_code": "TOR",
+      "collector_number": "10",
+      "name": "Morningtide",
+      "scryfall_id": "a62e17a7-3602-45af-bdb6-fa5f2a9f1155"
+    },
+    {
+      "id": "a4dfbab2-6007-44c6-b5ab-9ac75eb2802f",
+      "set_code": "TOR",
+      "collector_number": "11",
+      "name": "Mystic Familiar",
+      "scryfall_id": "b235567a-424e-48da-a94b-c6674a73b3fa"
+    },
+    {
+      "id": "7ad398f6-6270-4cb1-8df4-120cd2de332e",
+      "set_code": "TOR",
+      "collector_number": "12",
+      "name": "Pay No Heed",
+      "scryfall_id": "9520a1be-db77-4f31-a67d-6309a3ddc566"
+    },
+    {
+      "id": "1e24df81-6748-4658-a3f4-330ef13979d0",
+      "set_code": "TOR",
+      "collector_number": "13",
+      "name": "Possessed Nomad",
+      "scryfall_id": "5d9dfae5-63f6-401a-9dec-afe838190824"
+    },
+    {
+      "id": "5071da63-a927-4be4-a738-cdfc9bd85d91",
+      "set_code": "TOR",
+      "collector_number": "14",
+      "name": "Reborn Hero",
+      "scryfall_id": "b4acbc7f-c86e-4285-a66d-d7b03fe44377"
+    },
+    {
+      "id": "4b682515-cae8-4c80-93ef-e6ebb94337c3",
+      "set_code": "TOR",
+      "collector_number": "15",
+      "name": "Spirit Flare",
+      "scryfall_id": "efdbe7c6-99ad-4c73-bffe-7bbdc6965854"
+    },
+    {
+      "id": "ce90321d-54bc-4d60-b412-c0f7ec8af4c9",
+      "set_code": "TOR",
+      "collector_number": "16",
+      "name": "Stern Judge",
+      "scryfall_id": "436044d7-981c-4273-a0b4-6dd455608c47"
+    },
+    {
+      "id": "a33e5ecb-40b7-48ea-8605-945811ed39f9",
+      "set_code": "TOR",
+      "collector_number": "17",
+      "name": "Strength of Isolation",
+      "scryfall_id": "7676e6fb-030d-40aa-a914-27ab6d7d5fc5"
+    },
+    {
+      "id": "88e60004-e200-4565-b800-915e89afed68",
+      "set_code": "TOR",
+      "collector_number": "18",
+      "name": "Teroh's Faithful",
+      "scryfall_id": "bff8cf45-c84f-49d7-ad3d-b5e046286cb3"
+    },
+    {
+      "id": "d023bdb6-f3f6-4739-ab0e-05ffb102962b",
+      "set_code": "TOR",
+      "collector_number": "19",
+      "name": "Teroh's Vanguard",
+      "scryfall_id": "1a39f909-7114-4482-8302-b2a56ca9f556"
+    },
+    {
+      "id": "5904e9ab-e56a-4488-8658-00cd70266964",
+      "set_code": "TOR",
+      "collector_number": "20",
+      "name": "Transcendence",
+      "scryfall_id": "84e8bee2-9e3d-493c-a937-645bf3dcf0db"
+    },
+    {
+      "id": "c90af618-101f-497e-8548-93a67a5a7ff4",
+      "set_code": "TOR",
+      "collector_number": "21",
+      "name": "Vengeful Dreams",
+      "scryfall_id": "48bfe8b2-cc98-4430-b576-085163bdf0b6"
+    },
+    {
+      "id": "71990ce8-0f7c-4171-a9fe-008646db17b0",
+      "set_code": "TOR",
+      "collector_number": "22",
+      "name": "Alter Reality",
+      "scryfall_id": "64cd68be-6e6a-4577-8465-a892463b6d6c"
+    },
+    {
+      "id": "eca0fee9-1720-4987-88be-aa07da68b6a7",
+      "set_code": "TOR",
+      "collector_number": "23",
+      "name": "Ambassador Laquatus",
+      "scryfall_id": "887cac61-2001-4bd1-aeeb-20149ebc5856"
+    },
+    {
+      "id": "b65a8287-f08b-4fbe-83bd-b018513a0bc1",
+      "set_code": "TOR",
+      "collector_number": "24",
+      "name": "Aquamoeba",
+      "scryfall_id": "1243552a-ca57-42ce-817e-d6268fc673e0"
+    },
+    {
+      "id": "bca3581d-f131-4eb1-9f3d-7cd24ece0adf",
+      "set_code": "TOR",
+      "collector_number": "25",
+      "name": "Balshan Collaborator",
+      "scryfall_id": "e23ebd3b-59bf-4f3d-b320-9283871c4540"
+    },
+    {
+      "id": "783fa0d8-fffb-4176-8a48-c489b47679c7",
+      "set_code": "TOR",
+      "collector_number": "26",
+      "name": "Breakthrough",
+      "scryfall_id": "a59a2cea-3b65-43da-bc6e-0e3c82f25b3c"
+    },
+    {
+      "id": "49057b35-f4ca-4e13-baa3-72089aad8bbd",
+      "set_code": "TOR",
+      "collector_number": "27",
+      "name": "Cephalid Aristocrat",
+      "scryfall_id": "bd9ca63d-7e77-48f3-abdc-2d2f9cb3a0d9"
+    },
+    {
+      "id": "10d5ed93-72a4-42ac-9f65-edf13c7015bf",
+      "set_code": "TOR",
+      "collector_number": "28",
+      "name": "Cephalid Illusionist",
+      "scryfall_id": "dceb8cf5-b31a-400e-aea5-ad0c3552d697"
+    },
+    {
+      "id": "17f9c1cb-2edd-43f0-be75-0e47831127bd",
+      "set_code": "TOR",
+      "collector_number": "29",
+      "name": "Cephalid Sage",
+      "scryfall_id": "434e2ece-7b00-4ad1-9c35-cca16fbb002b"
+    },
+    {
+      "id": "ec54c662-1840-4c79-8e0b-da501feb2752",
+      "set_code": "TOR",
+      "collector_number": "30",
+      "name": "Cephalid Snitch",
+      "scryfall_id": "33d989b2-0198-4e5b-8aad-ee939191dd28"
+    },
+    {
+      "id": "7cc092aa-97a0-43c0-a35f-c20cf8085808",
+      "set_code": "TOR",
+      "collector_number": "31",
+      "name": "Cephalid Vandal",
+      "scryfall_id": "2500976f-a329-4a51-bcc1-cafe39bc3ccf"
+    },
+    {
+      "id": "b0d9098b-616c-4198-9671-85bf0e965090",
+      "set_code": "TOR",
+      "collector_number": "32",
+      "name": "Churning Eddy",
+      "scryfall_id": "bd28bc8e-842f-4788-92a0-3019e3c2385f"
+    },
+    {
+      "id": "5294a728-d7c7-47e6-8dea-99dbaff0e633",
+      "set_code": "TOR",
+      "collector_number": "33",
+      "name": "Circular Logic",
+      "scryfall_id": "cd9198d6-201d-4175-8f70-eef92d7d5bb5"
+    },
+    {
+      "id": "a1ffdab7-6940-4a7e-887a-b07bd51038e7",
+      "set_code": "TOR",
+      "collector_number": "34",
+      "name": "Compulsion",
+      "scryfall_id": "2d1f56e8-55cb-4b81-9946-9f0f813e3d4a"
+    },
+    {
+      "id": "2255d0a9-1bc6-4b79-a244-bebe15f33169",
+      "set_code": "TOR",
+      "collector_number": "35",
+      "name": "Coral Net",
+      "scryfall_id": "abe9cf1e-d398-41e0-8b11-afe1015e4fd9"
+    },
+    {
+      "id": "747f55b5-557e-486c-ba68-da676753d91c",
+      "set_code": "TOR",
+      "collector_number": "36",
+      "name": "Deep Analysis",
+      "scryfall_id": "01e3c2e9-d8df-4a7a-be86-7be8c6254fa2"
+    },
+    {
+      "id": "6a63345b-8f95-4b04-9eca-ca532c7e546b",
+      "set_code": "TOR",
+      "collector_number": "37",
+      "name": "False Memories",
+      "scryfall_id": "3a45ea90-03af-446e-9df3-ef64e9613f2c"
+    },
+    {
+      "id": "1262e58c-e44b-49f4-9485-b264e2947d7e",
+      "set_code": "TOR",
+      "collector_number": "38",
+      "name": "Ghostly Wings",
+      "scryfall_id": "58fb2705-82e7-49d9-b8cc-f98f652dd6c1"
+    },
+    {
+      "id": "4f8ff4a1-8069-47b4-817f-e14dd5d94513",
+      "set_code": "TOR",
+      "collector_number": "39",
+      "name": "Hydromorph Guardian",
+      "scryfall_id": "40e4ace0-421d-4e8e-ab85-8f74757e99c7"
+    },
+    {
+      "id": "e6509084-5004-4d03-828f-b103bb978d9f",
+      "set_code": "TOR",
+      "collector_number": "40",
+      "name": "Hydromorph Gull",
+      "scryfall_id": "06b1c8fc-e09b-479b-ac15-f659acb2f50f"
+    },
+    {
+      "id": "a7b8171e-54dd-4d27-9ecf-5df93869c576",
+      "set_code": "TOR",
+      "collector_number": "41",
+      "name": "Liquify",
+      "scryfall_id": "12fadf25-0995-440d-a3e6-7964ed86cff6"
+    },
+    {
+      "id": "15ab8a5f-4f8a-4f17-aa3a-ae58d6efbfff",
+      "set_code": "TOR",
+      "collector_number": "42",
+      "name": "Llawan, Cephalid Empress",
+      "scryfall_id": "a9821970-a5da-4045-93d8-f58c9e5797c1"
+    },
+    {
+      "id": "f9211df2-4385-42dd-9291-f6785a9b5fee",
+      "set_code": "TOR",
+      "collector_number": "43",
+      "name": "Obsessive Search",
+      "scryfall_id": "79977d84-7a20-47ef-930f-0ce7a5eff88e"
+    },
+    {
+      "id": "5d98056f-064f-4a76-b010-55dfa32d8715",
+      "set_code": "TOR",
+      "collector_number": "44",
+      "name": "Plagiarize",
+      "scryfall_id": "333bbcba-19a7-4307-abe7-7cffa3569e4d"
+    },
+    {
+      "id": "969b17f8-0a95-43a7-b653-3eb13d4c53db",
+      "set_code": "TOR",
+      "collector_number": "45",
+      "name": "Possessed Aven",
+      "scryfall_id": "997c56c7-c625-4209-b4b6-d274dee2db48"
+    },
+    {
+      "id": "54f4702a-7f3f-42b9-8e9d-2c1e07cc2f46",
+      "set_code": "TOR",
+      "collector_number": "46",
+      "name": "Retraced Image",
+      "scryfall_id": "c62fa778-ce44-4a3e-958a-91dfe5398944"
+    },
+    {
+      "id": "d6e0b5fd-ccaf-4d61-95ab-77d96e96404e",
+      "set_code": "TOR",
+      "collector_number": "47",
+      "name": "Skywing Aven",
+      "scryfall_id": "91a20b6b-43e6-4feb-9792-909332e1a846"
+    },
+    {
+      "id": "94dc5be2-1e88-4c8d-9d62-f9d1679b1eac",
+      "set_code": "TOR",
+      "collector_number": "48",
+      "name": "Stupefying Touch",
+      "scryfall_id": "7f817379-9c0b-4e43-a345-492516ccb6e1"
+    },
+    {
+      "id": "31008284-f462-49b3-8706-0e01a0b5ecdd",
+      "set_code": "TOR",
+      "collector_number": "49",
+      "name": "Turbulent Dreams",
+      "scryfall_id": "d879226b-8ee3-4a48-b03a-d183594dc586"
+    },
+    {
+      "id": "4e0f4f0c-4368-4b3d-92f6-16b9d3385ce6",
+      "set_code": "TOR",
+      "collector_number": "50",
+      "name": "Boneshard Slasher",
+      "scryfall_id": "27201370-32cc-4b90-890d-8c3f5362ad70"
+    },
+    {
+      "id": "14aba1d4-d0bf-4ddb-a87e-2457b2f74f92",
+      "set_code": "TOR",
+      "collector_number": "51",
+      "name": "Cabal Ritual",
+      "scryfall_id": "5403b49d-03a7-4cc3-af3c-df098c1c9c2e"
+    },
+    {
+      "id": "f876b171-2fb1-4bec-bc9c-66f0a4943ee5",
+      "set_code": "TOR",
+      "collector_number": "52",
+      "name": "Cabal Surgeon",
+      "scryfall_id": "29ce55a2-d838-48ab-862e-d419b0cda3c9"
+    },
+    {
+      "id": "5c33418d-08c8-4f67-9ede-e5b317f7b350",
+      "set_code": "TOR",
+      "collector_number": "53",
+      "name": "Cabal Torturer",
+      "scryfall_id": "ebcf8dd7-f45c-4ac2-9507-fa175fe89887"
+    },
+    {
+      "id": "3cc24593-bb67-45c7-81cb-4beb636ae831",
+      "set_code": "TOR",
+      "collector_number": "54",
+      "name": "Carrion Rats",
+      "scryfall_id": "2efa2579-c048-4506-babc-ec1c29bb99a8"
+    },
+    {
+      "id": "8334da8a-5a4e-4bca-acc0-0518fc083831",
+      "set_code": "TOR",
+      "collector_number": "55",
+      "name": "Carrion Wurm",
+      "scryfall_id": "37c2b228-94c0-4e84-ad6d-80b170bb6c0c"
+    },
+    {
+      "id": "dd5a19f5-b794-49b8-92ce-3fbb2085973f",
+      "set_code": "TOR",
+      "collector_number": "56",
+      "name": "Chainer, Dementia Master",
+      "scryfall_id": "40342b11-1005-4ccc-bef4-9ea4c640b048"
+    },
+    {
+      "id": "ab76b544-9b3a-42cd-9e76-042d71bd444d",
+      "set_code": "TOR",
+      "collector_number": "57",
+      "name": "Chainer's Edict",
+      "scryfall_id": "014af391-3b4a-4aab-a3e9-f60e61016985"
+    },
+    {
+      "id": "4ddf0fc5-2d6b-4d1b-bd3b-336adef7689a",
+      "set_code": "TOR",
+      "collector_number": "58",
+      "name": "Crippling Fatigue",
+      "scryfall_id": "0bb53a87-ba48-4c77-b284-3be321c8836e"
+    },
+    {
+      "id": "9e4688f4-1ea5-423b-bd4d-5a800d27d1ed",
+      "set_code": "TOR",
+      "collector_number": "59",
+      "name": "Dawn of the Dead",
+      "scryfall_id": "baabadd3-3fc1-4c9a-ad3b-c79d60fb3390"
+    },
+    {
+      "id": "312d1c4a-b256-43d5-ad84-07b3bff49acc",
+      "set_code": "TOR",
+      "collector_number": "60",
+      "name": "Faceless Butcher",
+      "scryfall_id": "4073be21-c54a-4eee-9109-f3adfe757c4e"
+    },
+    {
+      "id": "374593dd-dff2-4999-900b-2782acb801ad",
+      "set_code": "TOR",
+      "collector_number": "61",
+      "name": "Gloomdrifter",
+      "scryfall_id": "baaf8c24-3f5e-4ea5-941b-40ad1299af39"
+    },
+    {
+      "id": "8870e047-79c0-4098-b3d4-5f8ed8e334f7",
+      "set_code": "TOR",
+      "collector_number": "62",
+      "name": "Gravegouger",
+      "scryfall_id": "acfcd559-374e-4e6f-9333-2e5c855abff5"
+    },
+    {
+      "id": "cc4f4f55-6743-4cb6-b35c-8bd6e572a2a6",
+      "set_code": "TOR",
+      "collector_number": "63",
+      "name": "Grotesque Hybrid",
+      "scryfall_id": "6b063c3a-267f-4f22-be51-0a14880afc24"
+    },
+    {
+      "id": "6c858cae-3ef8-44b3-b8e0-dfd731f00b96",
+      "set_code": "TOR",
+      "collector_number": "64",
+      "name": "Hypnox",
+      "scryfall_id": "0e0e53a1-11d5-4975-b698-8b5d72d241f0"
+    },
+    {
+      "id": "0fcd7d20-2043-4458-b53a-6f25ede21204",
+      "set_code": "TOR",
+      "collector_number": "65",
+      "name": "Ichorid",
+      "scryfall_id": "97431dca-54ca-47ef-ab00-943140e8e758"
+    },
+    {
+      "id": "f8ec5fa6-4934-42ee-a2fd-1231786990b9",
+      "set_code": "TOR",
+      "collector_number": "66",
+      "name": "Insidious Dreams",
+      "scryfall_id": "e8a29622-23a6-42c7-8e56-690613572c94"
+    },
+    {
+      "id": "cab5a045-be5d-4a84-9924-e4457bcd8e6c",
+      "set_code": "TOR",
+      "collector_number": "67",
+      "name": "Laquatus's Champion",
+      "scryfall_id": "74a397bb-6910-4724-833d-7f2d92723e3b"
+    },
+    {
+      "id": "8553675f-9b94-4cb9-8c3d-5ee87e074a06",
+      "set_code": "TOR",
+      "collector_number": "68",
+      "name": "Last Laugh",
+      "scryfall_id": "d4c05f2a-b844-42b3-af91-65694b4211dd"
+    },
+    {
+      "id": "425243c8-def7-4f4a-a232-13f1d2c6f218",
+      "set_code": "TOR",
+      "collector_number": "69",
+      "name": "Mesmeric Fiend",
+      "scryfall_id": "b6edd4ea-c587-4d93-a675-4cdec3e0b1ca"
+    },
+    {
+      "id": "fa59d6f4-767d-4cd0-8ef7-13316a819270",
+      "set_code": "TOR",
+      "collector_number": "70",
+      "name": "Mind Sludge",
+      "scryfall_id": "34bf3c19-f148-4542-8505-604191fd5a02"
+    },
+    {
+      "id": "cf3116af-9c99-451e-8105-29a783470ce7",
+      "set_code": "TOR",
+      "collector_number": "71",
+      "name": "Mortal Combat",
+      "scryfall_id": "21146226-ff05-40d5-bc4e-42f2263104b1"
+    },
+    {
+      "id": "6efd4a01-be86-47e3-8704-34529b5fc196",
+      "set_code": "TOR",
+      "collector_number": "72",
+      "name": "Mortiphobia",
+      "scryfall_id": "c7b93caa-0f43-43ac-84e9-99f6bcbf9e81"
+    },
+    {
+      "id": "e0201606-c610-4b5a-9183-c7b35fadc614",
+      "set_code": "TOR",
+      "collector_number": "73",
+      "name": "Mutilate",
+      "scryfall_id": "6189cab3-1963-4590-9cbc-7ab4a693d7c6"
+    },
+    {
+      "id": "a65c75d7-5a11-4170-8ae6-7b79b79b1495",
+      "set_code": "TOR",
+      "collector_number": "74",
+      "name": "Nantuko Shade",
+      "scryfall_id": "2ed9dc9c-b92b-4305-8c54-1a63f750f8d1"
+    },
+    {
+      "id": "1599e29b-b2d8-43d4-817c-c2ee77964eeb",
+      "set_code": "TOR",
+      "collector_number": "75",
+      "name": "Organ Grinder",
+      "scryfall_id": "6233d4c3-9407-41b0-92a9-5f90dfd6a584"
+    },
+    {
+      "id": "da0c350c-4bf2-4ccd-a48d-b91e1f7599fe",
+      "set_code": "TOR",
+      "collector_number": "76",
+      "name": "Psychotic Haze",
+      "scryfall_id": "8d3f6cd2-0138-40e7-a975-3f7c68db0d93"
+    },
+    {
+      "id": "87ed068c-5dad-4beb-84be-1762d8ce5438",
+      "set_code": "TOR",
+      "collector_number": "77",
+      "name": "Putrid Imp",
+      "scryfall_id": "1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5"
+    },
+    {
+      "id": "d6f36941-0556-434d-9a50-45d6c1b103cb",
+      "set_code": "TOR",
+      "collector_number": "78",
+      "name": "Rancid Earth",
+      "scryfall_id": "23d07a96-85ba-4714-94a5-4a8125954f58"
+    },
+    {
+      "id": "58d9c0fb-d757-4187-a7e4-a2040a31947c",
+      "set_code": "TOR",
+      "collector_number": "79",
+      "name": "Restless Dreams",
+      "scryfall_id": "63795680-5310-4c99-92c1-70e453391de9"
+    },
+    {
+      "id": "552d1545-46a7-42ea-98e7-504bc4ec5283",
+      "set_code": "TOR",
+      "collector_number": "80",
+      "name": "Sengir Vampire",
+      "scryfall_id": "2308c0c4-7a78-4da8-8dd8-5b35b49a1896"
+    },
+    {
+      "id": "82c9265f-c274-48e8-b921-21ffc934858f",
+      "set_code": "TOR",
+      "collector_number": "81",
+      "name": "Shade's Form",
+      "scryfall_id": "449baad3-9a4a-4f5f-9e9f-02cc97ab71e6"
+    },
+    {
+      "id": "b4820889-dcd7-4464-876a-1a78ffb68de7",
+      "set_code": "TOR",
+      "collector_number": "82",
+      "name": "Shambling Swarm",
+      "scryfall_id": "b5b93715-985f-4719-a3c3-044c2a150e96"
+    },
+    {
+      "id": "9e1a350a-bc8c-408c-853e-41312801aa6e",
+      "set_code": "TOR",
+      "collector_number": "83",
+      "name": "Sickening Dreams",
+      "scryfall_id": "9396ac77-9f53-46bd-b126-02441a0f5594"
+    },
+    {
+      "id": "6f0e4223-a3ee-4049-b149-54e17b3b34f9",
+      "set_code": "TOR",
+      "collector_number": "84",
+      "name": "Slithery Stalker",
+      "scryfall_id": "0c875bb6-55bb-41cc-8825-8011581ff001"
+    },
+    {
+      "id": "3be2e78e-87f9-4fb0-baa0-02e5f0f66a84",
+      "set_code": "TOR",
+      "collector_number": "85",
+      "name": "Soul Scourge",
+      "scryfall_id": "4aa7d91b-cfbb-4da0-97fa-3c0a15f1dbb9"
+    },
+    {
+      "id": "a1518155-1c74-442a-8c01-55d4c0dca6dc",
+      "set_code": "TOR",
+      "collector_number": "86",
+      "name": "Strength of Lunacy",
+      "scryfall_id": "afda26e7-4fdd-45e1-bcd1-f0abf91979aa"
+    },
+    {
+      "id": "92bede1f-3635-4659-9166-53592466ba4e",
+      "set_code": "TOR",
+      "collector_number": "87",
+      "name": "Unhinge",
+      "scryfall_id": "b89deafd-cb7c-4da7-ab9b-8f795554a705"
+    },
+    {
+      "id": "42540d38-3c39-4435-9d03-eb7cd2105ba1",
+      "set_code": "TOR",
+      "collector_number": "88",
+      "name": "Waste Away",
+      "scryfall_id": "78e859c2-3457-4c4c-9b1c-0db647dcf259"
+    },
+    {
+      "id": "e7868273-6826-44d8-8097-3be18658d481",
+      "set_code": "TOR",
+      "collector_number": "89",
+      "name": "Zombie Trailblazer",
+      "scryfall_id": "82e4675f-ebec-483f-a111-b505629760fd"
+    },
+    {
+      "id": "ae5ffa05-aca3-4d9a-9dcc-68049b0f5700",
+      "set_code": "TOR",
+      "collector_number": "90",
+      "name": "Accelerate",
+      "scryfall_id": "6a28dd88-db90-4f02-8aa9-39051d2c4763"
+    },
+    {
+      "id": "3ce6632f-cf73-464a-a389-cf9ef49894d1",
+      "set_code": "TOR",
+      "collector_number": "91",
+      "name": "Balthor the Stout",
+      "scryfall_id": "e81ecdc5-d2c7-4292-9b59-fd6bf3ba29d5"
+    },
+    {
+      "id": "cd8a2cd7-2b89-47ac-bcb2-05bc6cf5c33a",
+      "set_code": "TOR",
+      "collector_number": "92",
+      "name": "Barbarian Outcast",
+      "scryfall_id": "b9d67b5c-ab20-456e-8ff5-7521be8273b2"
+    },
+    {
+      "id": "6f80902e-1237-422b-be2a-6232c95432db",
+      "set_code": "TOR",
+      "collector_number": "93",
+      "name": "Crackling Club",
+      "scryfall_id": "0810f7e3-03ff-4c46-a88f-2f8144540780"
+    },
+    {
+      "id": "62ba1ca3-adcb-4a37-a35c-8c4cd7612d29",
+      "set_code": "TOR",
+      "collector_number": "94",
+      "name": "Crazed Firecat",
+      "scryfall_id": "5ef809de-ff64-4832-95dd-2ebda5942df8"
+    },
+    {
+      "id": "cc185107-1114-4118-ba04-a24ba8606aba",
+      "set_code": "TOR",
+      "collector_number": "95",
+      "name": "Devastating Dreams",
+      "scryfall_id": "9fffeed0-a5ea-47ac-a7a4-0cc3bb1d408a"
+    },
+    {
+      "id": "f7ba239d-36a6-4e14-a9fb-506f5a8c2731",
+      "set_code": "TOR",
+      "collector_number": "96",
+      "name": "Enslaved Dwarf",
+      "scryfall_id": "da5003a6-211e-43d3-9a3c-756496357163"
+    },
+    {
+      "id": "da02fdeb-35e0-479e-9c90-a91c9e5b9965",
+      "set_code": "TOR",
+      "collector_number": "97",
+      "name": "Fiery Temper",
+      "scryfall_id": "918e46b7-cbca-4acf-8e83-94b5fcadcc49"
+    },
+    {
+      "id": "5e0da5b0-2300-46cd-84ea-416dbc500aab",
+      "set_code": "TOR",
+      "collector_number": "98",
+      "name": "Flaming Gambit",
+      "scryfall_id": "fb7fd9b7-c394-4ab3-b945-b4aab694eb6a"
+    },
+    {
+      "id": "96e0c4d9-6b26-4a20-9dbb-a3398fad6aa6",
+      "set_code": "TOR",
+      "collector_number": "99",
+      "name": "Flash of Defiance",
+      "scryfall_id": "3e550776-b806-4f66-8aab-e6a5dac6d5cc"
+    },
+    {
+      "id": "79911d66-66fb-4024-88f9-71c8963ffa13",
+      "set_code": "TOR",
+      "collector_number": "100",
+      "name": "Grim Lavamancer",
+      "scryfall_id": "5dd72697-24be-42c7-a6d9-a837bdbd4662"
+    },
+    {
+      "id": "3a8e235b-108b-4bf1-a860-2e15073aa656",
+      "set_code": "TOR",
+      "collector_number": "101",
+      "name": "Hell-Bent Raider",
+      "scryfall_id": "7f41ac1c-2603-4234-8963-cd47bb894024"
+    },
+    {
+      "id": "7479ad85-e13d-4546-a9a2-22df596eb67d",
+      "set_code": "TOR",
+      "collector_number": "102",
+      "name": "Kamahl's Sledge",
+      "scryfall_id": "38c55518-7bdf-4a42-ae30-cd6525557a59"
+    },
+    {
+      "id": "7104f386-bed0-4913-819f-7aeafa7c7086",
+      "set_code": "TOR",
+      "collector_number": "103",
+      "name": "Longhorn Firebeast",
+      "scryfall_id": "bf0dcf33-8d3f-429c-8ad8-a65d07d7c790"
+    },
+    {
+      "id": "ad963347-83af-4c34-b0f5-c71ae057121c",
+      "set_code": "TOR",
+      "collector_number": "104",
+      "name": "Overmaster",
+      "scryfall_id": "afd2e0f0-8a8e-4021-bd24-aff1a3212345"
+    },
+    {
+      "id": "27cee8ae-4c75-4139-87f0-08b705f118ff",
+      "set_code": "TOR",
+      "collector_number": "105",
+      "name": "Pardic Arsonist",
+      "scryfall_id": "1c2538fa-2eb7-47ca-a1cf-e5546e26e584"
+    },
+    {
+      "id": "ba1931c5-8cd9-4775-bcdd-f49b16d33cfd",
+      "set_code": "TOR",
+      "collector_number": "106",
+      "name": "Pardic Collaborator",
+      "scryfall_id": "a9a60f33-1d1a-4c7c-9eb2-d9fc0d56b127"
+    },
+    {
+      "id": "b9281a19-f4d0-4e4c-b866-1296ba8c1c08",
+      "set_code": "TOR",
+      "collector_number": "107",
+      "name": "Pardic Lancer",
+      "scryfall_id": "f487a6a7-066a-49bb-ab76-d79fc4300c29"
+    },
+    {
+      "id": "ae27555e-9a12-473a-a393-5608e4f82d16",
+      "set_code": "TOR",
+      "collector_number": "108",
+      "name": "Petradon",
+      "scryfall_id": "75ac6311-8516-4db2-8c1f-626f0db0d36f"
+    },
+    {
+      "id": "54de93f4-b1b5-4957-a2bd-9a1838a3303c",
+      "set_code": "TOR",
+      "collector_number": "109",
+      "name": "Petravark",
+      "scryfall_id": "ffc98d09-439e-426b-8403-4a3e12167336"
+    },
+    {
+      "id": "7c59ad09-3025-46c5-a6b3-6922ccd3874d",
+      "set_code": "TOR",
+      "collector_number": "110",
+      "name": "Pitchstone Wall",
+      "scryfall_id": "9bfea263-6ff0-41be-9755-03bcdebfb255"
+    },
+    {
+      "id": "1d8c7c86-a6a2-4506-9f6d-c2da0123cdfa",
+      "set_code": "TOR",
+      "collector_number": "111",
+      "name": "Possessed Barbarian",
+      "scryfall_id": "57e79610-8cfe-4711-bc71-8c25d68036da"
+    },
+    {
+      "id": "87aa9bdc-f3f8-4e74-a890-8e82cf61f34e",
+      "set_code": "TOR",
+      "collector_number": "112",
+      "name": "Pyromania",
+      "scryfall_id": "6a5af4e9-a2b6-43c7-8ff4-e761fbf693a7"
+    },
+    {
+      "id": "d0068397-89f0-44a9-9c4b-b3be9ec6662b",
+      "set_code": "TOR",
+      "collector_number": "113",
+      "name": "Radiate",
+      "scryfall_id": "2562c25a-999e-4fb5-a595-f376c8abf1ff"
+    },
+    {
+      "id": "56813436-f5dc-436c-8788-799aeca76f65",
+      "set_code": "TOR",
+      "collector_number": "114",
+      "name": "Skullscorch",
+      "scryfall_id": "88f1343c-77bf-4f44-8226-fdfb2c2c7015"
+    },
+    {
+      "id": "8b0cb0cd-fecf-4a92-b7b7-a24467ee2aff",
+      "set_code": "TOR",
+      "collector_number": "115",
+      "name": "Sonic Seizure",
+      "scryfall_id": "98eb9371-aa20-4790-baf8-a1ad95de39de"
+    },
+    {
+      "id": "cab575aa-d874-4941-9f61-99579fafda7c",
+      "set_code": "TOR",
+      "collector_number": "116",
+      "name": "Temporary Insanity",
+      "scryfall_id": "415d0678-539f-4c19-8a6e-b43e747a97de"
+    },
+    {
+      "id": "30b72332-ec33-4f86-bdfb-f85408e2348c",
+      "set_code": "TOR",
+      "collector_number": "117",
+      "name": "Violent Eruption",
+      "scryfall_id": "ff19c870-331d-4703-a92d-c5b1d4289338"
+    },
+    {
+      "id": "94890f00-d45a-4a66-9222-d9783daae49f",
+      "set_code": "TOR",
+      "collector_number": "118",
+      "name": "Acorn Harvest",
+      "scryfall_id": "32987720-cc0c-416b-b79b-217d3b37542d"
+    },
+    {
+      "id": "ba6bff4c-c6c0-4fd6-9302-090a89439f24",
+      "set_code": "TOR",
+      "collector_number": "119",
+      "name": "Anurid Scavenger",
+      "scryfall_id": "21a21190-3c05-40fe-9310-493ed0f9e42e"
+    },
+    {
+      "id": "c0e89fa9-a69f-496a-a6d8-1da3abfbb0bc",
+      "set_code": "TOR",
+      "collector_number": "120",
+      "name": "Arrogant Wurm",
+      "scryfall_id": "11b849c7-c91d-4c67-a357-f7d17f9b187a"
+    },
+    {
+      "id": "c3db67da-6644-4c77-bacb-854943ce1958",
+      "set_code": "TOR",
+      "collector_number": "121",
+      "name": "Basking Rootwalla",
+      "scryfall_id": "1a67768a-6cd9-4163-b941-752f29c87a8d"
+    },
+    {
+      "id": "6e32d749-b780-49c0-86fa-4624eeb89ecd",
+      "set_code": "TOR",
+      "collector_number": "122",
+      "name": "Centaur Chieftain",
+      "scryfall_id": "a8fa0a57-e7eb-454e-9527-3db702b54935"
+    },
+    {
+      "id": "850b5692-8135-4b0c-b55f-ed29ccdb06fb",
+      "set_code": "TOR",
+      "collector_number": "123",
+      "name": "Centaur Veteran",
+      "scryfall_id": "a83903c1-40fe-47a5-8bcc-2f0877c58225"
+    },
+    {
+      "id": "2adeb8f7-8339-48b4-b6f3-9f3230fc05b5",
+      "set_code": "TOR",
+      "collector_number": "124",
+      "name": "Dwell on the Past",
+      "scryfall_id": "77ac905a-839b-4fb5-8c17-7fd6c2c0c492"
+    },
+    {
+      "id": "81c52026-cc3a-466b-aad1-5762ecdd91a9",
+      "set_code": "TOR",
+      "collector_number": "125",
+      "name": "Far Wanderings",
+      "scryfall_id": "bd3a735a-5f51-41af-99d1-92296cec7b22"
+    },
+    {
+      "id": "e763c021-3454-4bc9-be93-1caf46ca5d99",
+      "set_code": "TOR",
+      "collector_number": "126",
+      "name": "Gurzigost",
+      "scryfall_id": "f4e672c6-6ddc-4dd2-b4c7-5083d7566e87"
+    },
+    {
+      "id": "e4d72275-20ed-4bc5-88cb-9091e3728b0e",
+      "set_code": "TOR",
+      "collector_number": "127",
+      "name": "Insist",
+      "scryfall_id": "48e1f72d-ef5e-4cea-a0ee-645570a36104"
+    },
+    {
+      "id": "4f5baed5-5c3a-4fa9-aed2-66497bf89578",
+      "set_code": "TOR",
+      "collector_number": "128",
+      "name": "Invigorating Falls",
+      "scryfall_id": "ec74e797-390e-4ebd-a53b-098ef3edd7d1"
+    },
+    {
+      "id": "37c59c7b-405e-465e-b97a-3ff428b8fc44",
+      "set_code": "TOR",
+      "collector_number": "129",
+      "name": "Krosan Constrictor",
+      "scryfall_id": "f24b3479-18c3-4c43-b8d1-8b4a25d271a7"
+    },
+    {
+      "id": "d3b30c40-f653-45a8-b8a9-cabf54d4c869",
+      "set_code": "TOR",
+      "collector_number": "130",
+      "name": "Krosan Restorer",
+      "scryfall_id": "06f9f54d-b8c7-407d-bc25-dad4db833208"
+    },
+    {
+      "id": "fb4517ec-df5a-4b43-a623-c17f950f01eb",
+      "set_code": "TOR",
+      "collector_number": "131",
+      "name": "Nantuko Blightcutter",
+      "scryfall_id": "42a6f1b6-e1ed-497a-b50e-1bfa257c18c0"
+    },
+    {
+      "id": "a9cff0f6-0ed6-49db-9592-2b7562e5ae4b",
+      "set_code": "TOR",
+      "collector_number": "132",
+      "name": "Nantuko Calmer",
+      "scryfall_id": "c76b1198-feff-437c-9d4c-94785144c98f"
+    },
+    {
+      "id": "d2252799-e241-439b-802b-edb6f39b210e",
+      "set_code": "TOR",
+      "collector_number": "133",
+      "name": "Nantuko Cultivator",
+      "scryfall_id": "9d258fe7-7906-43ca-8ebd-344aa81cb85b"
+    },
+    {
+      "id": "e4356e4d-c165-408b-894b-879247ea5c46",
+      "set_code": "TOR",
+      "collector_number": "134",
+      "name": "Narcissism",
+      "scryfall_id": "eea658dd-7567-4b93-88a4-08b4ffb3dad7"
+    },
+    {
+      "id": "519d331f-6c86-45f1-9d67-4fb0645ef363",
+      "set_code": "TOR",
+      "collector_number": "135",
+      "name": "Nostalgic Dreams",
+      "scryfall_id": "70f1e794-a32e-4f91-acbb-7e60dad4cf53"
+    },
+    {
+      "id": "ebdf902f-c03e-46b7-bf42-2a79c54d982a",
+      "set_code": "TOR",
+      "collector_number": "136",
+      "name": "Parallel Evolution",
+      "scryfall_id": "73cce010-a8e7-477b-9179-bbad38aa6438"
+    },
+    {
+      "id": "dd325443-0cd8-4461-8580-ed36c754843a",
+      "set_code": "TOR",
+      "collector_number": "137",
+      "name": "Possessed Centaur",
+      "scryfall_id": "608e11b2-9636-48a0-8705-f5ce3bc98117"
+    },
+    {
+      "id": "e3b2c7a9-f100-4fc5-a23f-f9b23507e6e9",
+      "set_code": "TOR",
+      "collector_number": "138",
+      "name": "Seton's Scout",
+      "scryfall_id": "732bf7bb-5326-4742-8311-96ddbfe14b38"
+    },
+    {
+      "id": "72ec125b-7e3b-4bca-a70f-f52ea4529094",
+      "set_code": "TOR",
+      "collector_number": "139",
+      "name": "Cabal Coffers",
+      "scryfall_id": "2b934c78-258e-4b1e-9783-ec9f734e8776"
+    },
+    {
+      "id": "6dd0a6a0-4d69-40ac-b146-c9d4935f3a1d",
+      "set_code": "TOR",
+      "collector_number": "140",
+      "name": "Tainted Field",
+      "scryfall_id": "75b5f0aa-1570-4064-ad20-aac7be8b2c9c"
+    },
+    {
+      "id": "a35e7557-d0da-4462-9b60-6ad3278280f4",
+      "set_code": "TOR",
+      "collector_number": "141",
+      "name": "Tainted Isle",
+      "scryfall_id": "b462e121-015c-49c4-838a-ab788f213322"
+    },
+    {
+      "id": "4927216a-4201-4d75-b13e-cc025d0e1ebc",
+      "set_code": "TOR",
+      "collector_number": "142",
+      "name": "Tainted Peak",
+      "scryfall_id": "4dcaaabe-e1d7-4047-9960-79178af3d903"
+    },
+    {
+      "id": "4fa1f84b-f66d-4416-a77f-2e63b5b980fc",
+      "set_code": "TOR",
+      "collector_number": "143",
+      "name": "Tainted Wood",
+      "scryfall_id": "a20a35cc-69e5-42b8-b28c-ae5147451150"
+    }
+  ]
+}

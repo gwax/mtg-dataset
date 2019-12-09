@@ -1,0 +1,1191 @@
+{
+  "id": "e100034e-579c-4606-95d6-3cd180289fe3",
+  "code": "HOP",
+  "name": "Planechase",
+  "scryfall_id": "7137ffeb-eb1d-466c-a0d3-3157f52b1b10",
+  "cards": [
+    {
+      "id": "e3b70a10-2cb3-4fbf-a5f3-2064d44ecef4",
+      "set_code": "HOP",
+      "collector_number": "1",
+      "name": "Akroma's Vengeance",
+      "scryfall_id": "b8f5e276-d7c3-4b4b-ac5b-9bb1aeeca8d0"
+    },
+    {
+      "id": "7f0bc719-9940-4d4f-9615-e9482e3b8e37",
+      "set_code": "HOP",
+      "collector_number": "2",
+      "name": "Congregate",
+      "scryfall_id": "6390abbc-a28f-4db5-a4bf-ed9f6e464c9a"
+    },
+    {
+      "id": "95d36f88-846e-46f4-a3b4-5f324ed9ef10",
+      "set_code": "HOP",
+      "collector_number": "3",
+      "name": "Kor Sanctifiers",
+      "scryfall_id": "2c1544bf-d4f4-4e3a-9b93-8ea50bc86922"
+    },
+    {
+      "id": "77de88eb-3b92-42c8-a43d-2de17d3e0c44",
+      "set_code": "HOP",
+      "collector_number": "4",
+      "name": "Oblivion Ring",
+      "scryfall_id": "fbb74aec-2cf1-431d-ae28-ed1e6bae4f5e"
+    },
+    {
+      "id": "87fc4bca-3967-4b3e-86ba-80f38c43e51a",
+      "set_code": "HOP",
+      "collector_number": "5",
+      "name": "Orim's Thunder",
+      "scryfall_id": "dc77e7a2-87cf-46c9-b983-9917310cde64"
+    },
+    {
+      "id": "f87c0ab0-654c-489e-9090-0dd34ece3cca",
+      "set_code": "HOP",
+      "collector_number": "6",
+      "name": "Prison Term",
+      "scryfall_id": "f07cc03d-8a72-4f0c-a3d4-c33a6428fd0f"
+    },
+    {
+      "id": "af0a551f-205c-46cf-b2fd-f4b0a38bf5ca",
+      "set_code": "HOP",
+      "collector_number": "7",
+      "name": "Soul Warden",
+      "scryfall_id": "ad97b973-0d3a-4d30-b9f2-771912840d8a"
+    },
+    {
+      "id": "6b93a289-3185-4c08-925d-d695304cd7b6",
+      "set_code": "HOP",
+      "collector_number": "8",
+      "name": "Broodstar",
+      "scryfall_id": "28309edb-f255-4b29-b7b6-e36e23ba0690"
+    },
+    {
+      "id": "8ef61b97-be93-4bc1-b441-e07b35668833",
+      "set_code": "HOP",
+      "collector_number": "9",
+      "name": "Fabricate",
+      "scryfall_id": "44e49332-b1e1-4b88-b508-516b55c67a1d"
+    },
+    {
+      "id": "c0311163-e6e9-4c9c-8242-827ef1e2d556",
+      "set_code": "HOP",
+      "collector_number": "10",
+      "name": "Keep Watch",
+      "scryfall_id": "e98489bc-b5fd-43f2-9afb-198e34e70723"
+    },
+    {
+      "id": "2ae9e180-56be-4825-9f5c-8be34a2ba3db",
+      "set_code": "HOP",
+      "collector_number": "11",
+      "name": "Master of Etherium",
+      "scryfall_id": "cf2a6c7c-ad50-4650-96a3-cd78a802bf01"
+    },
+    {
+      "id": "5c1b2fd1-8691-4004-ad5d-663cb0d8dee5",
+      "set_code": "HOP",
+      "collector_number": "12",
+      "name": "Qumulox",
+      "scryfall_id": "90c61861-079d-481c-b976-593ba88afe85"
+    },
+    {
+      "id": "fed66220-d69f-4fe2-965f-7d025f813429",
+      "set_code": "HOP",
+      "collector_number": "13",
+      "name": "Sarcomite Myr",
+      "scryfall_id": "e5a767a3-d165-485b-a8c7-fca7e8f1719a"
+    },
+    {
+      "id": "2685c217-91ba-46f3-828f-13162429a294",
+      "set_code": "HOP",
+      "collector_number": "14",
+      "name": "Thirst for Knowledge",
+      "scryfall_id": "b8c8073d-c939-4f43-98d9-dc09a03482e8"
+    },
+    {
+      "id": "6461a646-f5e8-4d74-94c7-78f670bcb200",
+      "set_code": "HOP",
+      "collector_number": "15",
+      "name": "Vedalken Engineer",
+      "scryfall_id": "fe9302ff-6102-434d-8164-d878d2d9707e"
+    },
+    {
+      "id": "9c4676b2-2fef-45bd-8842-9351cc8f61cf",
+      "set_code": "HOP",
+      "collector_number": "16",
+      "name": "Whiplash Trap",
+      "scryfall_id": "49ad0d5f-0245-4430-9803-281b1732cb64"
+    },
+    {
+      "id": "3448d788-133b-472f-a92c-6467830603ae",
+      "set_code": "HOP",
+      "collector_number": "17",
+      "name": "Ascendant Evincar",
+      "scryfall_id": "213ad4ba-5a36-4a90-bd0a-8f5fddca9c9b"
+    },
+    {
+      "id": "9553e720-1455-4659-84b2-762409f019ed",
+      "set_code": "HOP",
+      "collector_number": "18",
+      "name": "Beacon of Unrest",
+      "scryfall_id": "ac5533ba-b532-497f-b0ff-c36d1b3f2756"
+    },
+    {
+      "id": "3748692a-2cf0-446c-b9a3-3baac8b21e0f",
+      "set_code": "HOP",
+      "collector_number": "19",
+      "name": "Beseech the Queen",
+      "scryfall_id": "f7d6a020-8843-4a97-9d00-86f3928e8acd"
+    },
+    {
+      "id": "c24e094d-f8fe-4cf2-90b3-8a128da101b8",
+      "set_code": "HOP",
+      "collector_number": "20",
+      "name": "Cadaverous Knight",
+      "scryfall_id": "6c658ea3-6fb3-4ce4-a6c5-3ed504102f15"
+    },
+    {
+      "id": "7611138d-4a89-4caa-bd33-c07cf69fdf18",
+      "set_code": "HOP",
+      "collector_number": "21",
+      "name": "Consume Spirit",
+      "scryfall_id": "3a9f44de-b275-4460-9381-fcde28982b79"
+    },
+    {
+      "id": "9303ce1b-cfd8-463c-a83f-c9355a890165",
+      "set_code": "HOP",
+      "collector_number": "22",
+      "name": "Corpse Harvester",
+      "scryfall_id": "39cc7fbb-010f-4e7c-b3bf-8853e54bc1b1"
+    },
+    {
+      "id": "5ddd2b1f-713a-4cc4-a173-122335fda28e",
+      "set_code": "HOP",
+      "collector_number": "23",
+      "name": "Cruel Revival",
+      "scryfall_id": "89813b16-053d-4b33-98e1-397934db84cc"
+    },
+    {
+      "id": "ad4b1642-09ce-42b1-8a7d-331cab5f6c3e",
+      "set_code": "HOP",
+      "collector_number": "24",
+      "name": "Dark Ritual",
+      "scryfall_id": "c8c774f2-110e-476c-a4ff-cc86d31c6ae7"
+    },
+    {
+      "id": "9c1ba864-b0fb-4f7a-b665-9dfd65e5e22d",
+      "set_code": "HOP",
+      "collector_number": "25",
+      "name": "Death Baron",
+      "scryfall_id": "ea07f8e7-97ea-4c22-aff4-0e57b683313e"
+    },
+    {
+      "id": "ea1691d8-deb1-4b46-bb97-6dbac5ab10ca",
+      "set_code": "HOP",
+      "collector_number": "26",
+      "name": "Dregscape Zombie",
+      "scryfall_id": "8d4b550b-bb30-4582-9170-4c83305b88d5"
+    },
+    {
+      "id": "02ee19c7-6135-48c3-a874-12bdbee08de5",
+      "set_code": "HOP",
+      "collector_number": "27",
+      "name": "Festering Goblin",
+      "scryfall_id": "8a2b7ff8-6ec0-4d6e-98dd-0a657ab41945"
+    },
+    {
+      "id": "458b7a00-e3cd-4f4a-85ba-89a5e1388629",
+      "set_code": "HOP",
+      "collector_number": "28",
+      "name": "Grave Pact",
+      "scryfall_id": "7cd58bb6-dba2-4ab6-a03e-150aa7f5c216"
+    },
+    {
+      "id": "5a30ac14-0380-49b5-a4a1-dff2e7a2f042",
+      "set_code": "HOP",
+      "collector_number": "29",
+      "name": "Gravedigger",
+      "scryfall_id": "e5e3c5e6-fee7-4150-abe4-2b38fd660d7e"
+    },
+    {
+      "id": "e8c7fea6-ec49-485b-be3a-cf7256ff16b0",
+      "set_code": "HOP",
+      "collector_number": "30",
+      "name": "Helldozer",
+      "scryfall_id": "4dd086af-ee93-4124-a023-f3fc99457dc5"
+    },
+    {
+      "id": "08f387a4-582b-4b8f-8265-f8d41e5f9123",
+      "set_code": "HOP",
+      "collector_number": "31",
+      "name": "Hideous End",
+      "scryfall_id": "b33e6056-00c9-4731-b364-b0214398848d"
+    },
+    {
+      "id": "a5cac378-bf59-4003-9585-f722008376fe",
+      "set_code": "HOP",
+      "collector_number": "32",
+      "name": "Incremental Blight",
+      "scryfall_id": "bc224856-1d4b-4d7e-9c64-213acdda081a"
+    },
+    {
+      "id": "c2f14bac-5bc9-4e99-83f9-04c788db890e",
+      "set_code": "HOP",
+      "collector_number": "33",
+      "name": "Innocent Blood",
+      "scryfall_id": "9499f72b-c1b7-4e03-a91b-2cd1e374b50a"
+    },
+    {
+      "id": "f0afa699-d847-40ee-9dfb-585b0b9ac5dd",
+      "set_code": "HOP",
+      "collector_number": "34",
+      "name": "Nefashu",
+      "scryfall_id": "29b206a3-829f-421e-b8bf-0bcc0d9845c1"
+    },
+    {
+      "id": "a6036ca9-ce50-4b63-a3aa-387cb5dc5a65",
+      "set_code": "HOP",
+      "collector_number": "35",
+      "name": "Noxious Ghoul",
+      "scryfall_id": "7d67511b-c130-44d5-8536-4278a695627c"
+    },
+    {
+      "id": "b8a99572-4a2f-45eb-b9ab-43e1ffa6b4dc",
+      "set_code": "HOP",
+      "collector_number": "36",
+      "name": "Phyrexian Arena",
+      "scryfall_id": "3d9aac97-21d6-441b-8772-e27c07af6f87"
+    },
+    {
+      "id": "df10ec67-fb8c-420a-abb5-cfb22da2915a",
+      "set_code": "HOP",
+      "collector_number": "37",
+      "name": "Phyrexian Ghoul",
+      "scryfall_id": "03838868-1e5b-418f-b56e-302d30905905"
+    },
+    {
+      "id": "0989a452-24ff-4c17-8819-80c789ad3e8b",
+      "set_code": "HOP",
+      "collector_number": "38",
+      "name": "Profane Command",
+      "scryfall_id": "9b2d2119-8e7b-4994-bdca-04f63de5c7dc"
+    },
+    {
+      "id": "f8c120ac-2ea9-4166-a3e1-18ffedce10ce",
+      "set_code": "HOP",
+      "collector_number": "39",
+      "name": "Rotting Rats",
+      "scryfall_id": "3895f0ce-ef97-4188-8b86-d0cc7067aacd"
+    },
+    {
+      "id": "9322acbe-cfdf-4245-a7ff-74793375bf61",
+      "set_code": "HOP",
+      "collector_number": "40",
+      "name": "Shepherd of Rot",
+      "scryfall_id": "6ee5a529-3223-4982-83d1-eb517c2a258c"
+    },
+    {
+      "id": "c43f26dc-436b-4988-86d4-940e06e48f1b",
+      "set_code": "HOP",
+      "collector_number": "41",
+      "name": "Soulless One",
+      "scryfall_id": "410a214b-09c4-49bd-a461-3330d0249ae5"
+    },
+    {
+      "id": "2bc48347-5b63-4985-afeb-82d1a8a3a62e",
+      "set_code": "HOP",
+      "collector_number": "42",
+      "name": "Syphon Mind",
+      "scryfall_id": "4f8b024b-8016-4424-85b1-4a648362bc28"
+    },
+    {
+      "id": "362fc0fd-f8a0-4f73-8965-2d59ceb1e4f8",
+      "set_code": "HOP",
+      "collector_number": "43",
+      "name": "Syphon Soul",
+      "scryfall_id": "c2f96e07-ba3e-43b9-a0fb-23816083aa16"
+    },
+    {
+      "id": "2c6dfa98-2fb8-42e5-b099-a1a6e38f1baa",
+      "set_code": "HOP",
+      "collector_number": "44",
+      "name": "Undead Warchief",
+      "scryfall_id": "01482b0c-d05b-4356-9144-e044159f4dcb"
+    },
+    {
+      "id": "5e2c9f9b-2cca-460d-88c7-526f388cec44",
+      "set_code": "HOP",
+      "collector_number": "45",
+      "name": "Withered Wretch",
+      "scryfall_id": "235f15f5-1a5a-4eff-b0db-262f777e2b66"
+    },
+    {
+      "id": "e8f3eaf7-6c74-447f-8b28-627976eb3d55",
+      "set_code": "HOP",
+      "collector_number": "46",
+      "name": "Arc Lightning",
+      "scryfall_id": "d7427bb2-d09a-4eb5-bdb8-d2dcb8781098"
+    },
+    {
+      "id": "7ce575af-9c8b-48b9-94b0-1ff6aa1e8faa",
+      "set_code": "HOP",
+      "collector_number": "47",
+      "name": "Blaze",
+      "scryfall_id": "69299b71-68ae-4c3d-bb4c-78a63d6e87e4"
+    },
+    {
+      "id": "3a2154c2-19be-4c3c-a8f9-ad1496f4333e",
+      "set_code": "HOP",
+      "collector_number": "48",
+      "name": "Bogardan Firefiend",
+      "scryfall_id": "6517a2ed-adbc-4f73-9bd9-dde739f3a3bd"
+    },
+    {
+      "id": "f55fe311-c818-4cd1-b64d-870a4b72d7a7",
+      "set_code": "HOP",
+      "collector_number": "49",
+      "name": "Bogardan Rager",
+      "scryfall_id": "73daab08-4787-4840-a851-fe3ce6613ced"
+    },
+    {
+      "id": "9e6401d6-2bd3-4d77-8dfb-c43a8d996e6d",
+      "set_code": "HOP",
+      "collector_number": "50",
+      "name": "Browbeat",
+      "scryfall_id": "cb8d13f7-f061-4834-b58a-69a3f550dc13"
+    },
+    {
+      "id": "c85facf5-204d-4427-8d91-ced5c45afb5d",
+      "set_code": "HOP",
+      "collector_number": "51",
+      "name": "Cinder Elemental",
+      "scryfall_id": "56f54f22-f5c6-4ce6-9316-be3bdac2ae5e"
+    },
+    {
+      "id": "40376d95-6049-4473-8c94-de659301a261",
+      "set_code": "HOP",
+      "collector_number": "52",
+      "name": "Cone of Flame",
+      "scryfall_id": "cf042dfb-9cf4-469f-9a12-94c212e43500"
+    },
+    {
+      "id": "55b9c906-6fbf-40d7-81a1-d290222c7bd5",
+      "set_code": "HOP",
+      "collector_number": "53",
+      "name": "Flamekin Harbinger",
+      "scryfall_id": "2796424c-f6c5-4851-87fb-145a58fe1f60"
+    },
+    {
+      "id": "e79f3ce3-1e72-4dff-a738-c90b9b7877da",
+      "set_code": "HOP",
+      "collector_number": "54",
+      "name": "Flametongue Kavu",
+      "scryfall_id": "b6dab138-b96c-4610-9d28-1117fcdb9ef2"
+    },
+    {
+      "id": "e26348e3-bfa8-452e-a1cc-183ddcc56cae",
+      "set_code": "HOP",
+      "collector_number": "55",
+      "name": "Furnace of Rath",
+      "scryfall_id": "d7f0e720-3c32-4040-b663-7f99ad5bc810"
+    },
+    {
+      "id": "7f763c26-227f-4bad-9c26-4e5e20169a39",
+      "set_code": "HOP",
+      "collector_number": "56",
+      "name": "Goblin Offensive",
+      "scryfall_id": "b4c4d642-c3fb-47d1-b57a-266eb269d5ea"
+    },
+    {
+      "id": "020b5a59-6f63-4175-b3cd-6bb4374c262e",
+      "set_code": "HOP",
+      "collector_number": "57",
+      "name": "Insurrection",
+      "scryfall_id": "555d2687-01cd-4e7b-b031-cd4cd44fcb76"
+    },
+    {
+      "id": "1d21f36d-6966-4a4d-a95b-83a6f3c43b2e",
+      "set_code": "HOP",
+      "collector_number": "58",
+      "name": "Keldon Champion",
+      "scryfall_id": "fd8f05ef-2f1c-4fd8-ab18-91589828ff79"
+    },
+    {
+      "id": "5506026f-3944-4358-bab3-d70a57822912",
+      "set_code": "HOP",
+      "collector_number": "59",
+      "name": "Menacing Ogre",
+      "scryfall_id": "8de4b5cc-748c-45d1-852b-0f522b8838ba"
+    },
+    {
+      "id": "17cbcbdd-1ed5-4ba3-b873-ecb28490e84b",
+      "set_code": "HOP",
+      "collector_number": "60",
+      "name": "Pyrotechnics",
+      "scryfall_id": "45ed4d9b-9153-4a60-8801-7e3cbbe29cf4"
+    },
+    {
+      "id": "3e1eab1f-14da-419b-8c4f-81a9424b4a10",
+      "set_code": "HOP",
+      "collector_number": "61",
+      "name": "Reckless Charge",
+      "scryfall_id": "0ea6800e-c7fd-4bcf-aea0-25a4ebef1fdf"
+    },
+    {
+      "id": "85ae06fa-f871-4b90-a757-7faff12f1d6c",
+      "set_code": "HOP",
+      "collector_number": "62",
+      "name": "Relentless Assault",
+      "scryfall_id": "00fde52c-c764-433f-af24-fbb54504b243"
+    },
+    {
+      "id": "918be50f-0e56-4d64-a812-e9924c7c1470",
+      "set_code": "HOP",
+      "collector_number": "63",
+      "name": "Rockslide Elemental",
+      "scryfall_id": "d698604b-86cc-4dba-a1be-7b5bb46c5c5a"
+    },
+    {
+      "id": "ad2ebece-74dd-4df0-bf40-2b1fa545ecd9",
+      "set_code": "HOP",
+      "collector_number": "64",
+      "name": "Rolling Thunder",
+      "scryfall_id": "abd29ae8-06d3-492d-b1da-b02ad8efb2a2"
+    },
+    {
+      "id": "c3e24849-8d62-45c4-abba-0a4ac169ce71",
+      "set_code": "HOP",
+      "collector_number": "65",
+      "name": "Rorix Bladewing",
+      "scryfall_id": "0998e036-ff46-42e7-aca3-46ce9836b68a"
+    },
+    {
+      "id": "0127b335-789e-46b5-ab7c-fe3ea6606f11",
+      "set_code": "HOP",
+      "collector_number": "66",
+      "name": "Smokebraider",
+      "scryfall_id": "d026cc47-9045-4f5b-b940-a6ea794d6fb9"
+    },
+    {
+      "id": "6799b13b-7333-4c40-9fa1-26a8c4bdcd52",
+      "set_code": "HOP",
+      "collector_number": "67",
+      "name": "Taurean Mauler",
+      "scryfall_id": "e20db4c8-26bd-403e-8d23-7498b2d97108"
+    },
+    {
+      "id": "62958495-c3b7-459e-9e9e-cbdc3b31816c",
+      "set_code": "HOP",
+      "collector_number": "68",
+      "name": "Beast Hunt",
+      "scryfall_id": "db385ec5-a33a-45df-a1db-e99dd3f62f6d"
+    },
+    {
+      "id": "fdaddde4-4693-4905-a9be-d8ed8ffbaca9",
+      "set_code": "HOP",
+      "collector_number": "69",
+      "name": "Briarhorn",
+      "scryfall_id": "40ecdeac-3454-40e4-ad9b-68310299004b"
+    },
+    {
+      "id": "590d5787-d44d-40a5-8126-a0ab03ad4190",
+      "set_code": "HOP",
+      "collector_number": "70",
+      "name": "Explosive Vegetation",
+      "scryfall_id": "054a2e26-30e7-4666-92a6-7837f1853cac"
+    },
+    {
+      "id": "4e1cc696-1127-4431-8fc0-c3b08e2ad10a",
+      "set_code": "HOP",
+      "collector_number": "71",
+      "name": "Fertile Ground",
+      "scryfall_id": "338114b1-d83c-4c75-b492-c2d76e291ee4"
+    },
+    {
+      "id": "4741417c-f529-44f5-94c7-dd7007b8a8d7",
+      "set_code": "HOP",
+      "collector_number": "72",
+      "name": "Fertilid",
+      "scryfall_id": "21304ad4-57ff-4ae6-8e1b-00b9a5b43be6"
+    },
+    {
+      "id": "d5b4bb48-5bc6-49e2-934c-2bc14a91c828",
+      "set_code": "HOP",
+      "collector_number": "73",
+      "name": "Forgotten Ancient",
+      "scryfall_id": "5c162488-e45f-4aa3-b9b1-0b557c809cb3"
+    },
+    {
+      "id": "4c7db135-78b8-464b-b154-ac39f7ef27d1",
+      "set_code": "HOP",
+      "collector_number": "74",
+      "name": "Ivy Elemental",
+      "scryfall_id": "ec93afed-b75b-4ee3-97f4-2ceda78f679b"
+    },
+    {
+      "id": "b41b4b4d-0142-4914-9ed9-ac6ecb19d71b",
+      "set_code": "HOP",
+      "collector_number": "75",
+      "name": "Living Hive",
+      "scryfall_id": "54e4017b-51b1-47b0-90a6-47d680bac963"
+    },
+    {
+      "id": "870e8d0a-32c4-425a-ab71-921b58e45bcb",
+      "set_code": "HOP",
+      "collector_number": "76",
+      "name": "Rampant Growth",
+      "scryfall_id": "5ca83110-d583-417d-b9e3-a253aca3fb20"
+    },
+    {
+      "id": "53aa3da4-e67f-46a0-a4e7-928534be15a5",
+      "set_code": "HOP",
+      "collector_number": "77",
+      "name": "Search for Tomorrow",
+      "scryfall_id": "b9e38e49-b165-41cb-9a6b-b4c0ea6c5223"
+    },
+    {
+      "id": "14b25e8a-c86a-47ae-a35f-5c979e814561",
+      "set_code": "HOP",
+      "collector_number": "78",
+      "name": "Silverglade Elemental",
+      "scryfall_id": "ef0f6574-9035-4020-90ec-22a1e3816d00"
+    },
+    {
+      "id": "3ef16e8d-3b8e-49ad-b00d-08f179b3f218",
+      "set_code": "HOP",
+      "collector_number": "79",
+      "name": "Tornado Elemental",
+      "scryfall_id": "a361963e-897f-4fe6-9499-4b48de6080a6"
+    },
+    {
+      "id": "748a5c3b-2aa4-45e9-b3c6-61d77e23ed63",
+      "set_code": "HOP",
+      "collector_number": "80",
+      "name": "Tribal Unity",
+      "scryfall_id": "f1379753-0a37-4e33-ac46-8ef33cb98b06"
+    },
+    {
+      "id": "ebadee35-1af0-45a8-bb4b-43c44d1895e8",
+      "set_code": "HOP",
+      "collector_number": "81",
+      "name": "Verdant Force",
+      "scryfall_id": "b931e18f-279b-4e12-9f3b-1489a148a525"
+    },
+    {
+      "id": "f68cce3f-a3a3-453e-8ecb-4a1f32d05b79",
+      "set_code": "HOP",
+      "collector_number": "82",
+      "name": "Boros Swiftblade",
+      "scryfall_id": "0279d460-5ade-4017-9635-ece28a5ba79d"
+    },
+    {
+      "id": "c93bfb2e-0fde-4246-aeae-7854a47b6c42",
+      "set_code": "HOP",
+      "collector_number": "83",
+      "name": "Branching Bolt",
+      "scryfall_id": "575104cf-ad41-404d-985e-76acde7b0cb3"
+    },
+    {
+      "id": "ab8ef68f-9f13-401b-b6f6-a4c5fd3a0f9d",
+      "set_code": "HOP",
+      "collector_number": "84",
+      "name": "Bull Cerodon",
+      "scryfall_id": "1d375f2c-8d43-4e25-a0fb-9e936a03d5f7"
+    },
+    {
+      "id": "1274b96f-d8e9-4cfb-95e9-9d242f21b084",
+      "set_code": "HOP",
+      "collector_number": "85",
+      "name": "Captain's Maneuver",
+      "scryfall_id": "1ad535b8-7846-41a6-a981-fe97eaf588a6"
+    },
+    {
+      "id": "0e368457-469a-4bef-bd64-f86d37c43e60",
+      "set_code": "HOP",
+      "collector_number": "86",
+      "name": "Cerodon Yearling",
+      "scryfall_id": "116abc15-d79b-4dfe-8f9f-f38bcf429da8"
+    },
+    {
+      "id": "306722df-80a1-43d9-865c-05434ecd0142",
+      "set_code": "HOP",
+      "collector_number": "87",
+      "name": "Fires of Yavimaya",
+      "scryfall_id": "3befc75b-7a3b-4859-8761-f8281cc0ba43"
+    },
+    {
+      "id": "2b51180e-91c8-4668-a7f1-50a8e01ef70f",
+      "set_code": "HOP",
+      "collector_number": "88",
+      "name": "Glory of Warfare",
+      "scryfall_id": "ed9150c4-4f02-4c42-9bad-1dcf13530854"
+    },
+    {
+      "id": "579304d4-8e8e-4971-af48-382a86130602",
+      "set_code": "HOP",
+      "collector_number": "89",
+      "name": "Hull Breach",
+      "scryfall_id": "139387c9-358e-42c6-84e4-30fc6f534e6b"
+    },
+    {
+      "id": "3aab963c-0f76-4dcb-9e2a-90cee4a14847",
+      "set_code": "HOP",
+      "collector_number": "90",
+      "name": "Lightning Helix",
+      "scryfall_id": "ea880f94-4692-4922-b140-ff673f6a4035"
+    },
+    {
+      "id": "4f09fb2f-4bb1-4e98-b607-64b45c0c420b",
+      "set_code": "HOP",
+      "collector_number": "91",
+      "name": "Mage Slayer",
+      "scryfall_id": "413aef14-ae85-40e5-958f-8d9d4c035271"
+    },
+    {
+      "id": "6dd89858-029c-4ad7-99f0-2a65df1b674e",
+      "set_code": "HOP",
+      "collector_number": "92",
+      "name": "Razia, Boros Archangel",
+      "scryfall_id": "87e80447-9572-43a7-8487-3249cd9ce596"
+    },
+    {
+      "id": "abf2c803-04ab-455e-8817-4baf693d397a",
+      "set_code": "HOP",
+      "collector_number": "93",
+      "name": "Rumbling Slum",
+      "scryfall_id": "9d8fd566-0460-4f2f-99c2-8999ce6f2c61"
+    },
+    {
+      "id": "62870a8a-55fa-4b04-a5de-ca8f4bdd0fb7",
+      "set_code": "HOP",
+      "collector_number": "94",
+      "name": "Savage Twister",
+      "scryfall_id": "19c278ea-9613-4d80-b622-1f318f361c67"
+    },
+    {
+      "id": "1a784c5a-4ac2-491c-b0c1-d0a5c27ef0cb",
+      "set_code": "HOP",
+      "collector_number": "95",
+      "name": "Sludge Strider",
+      "scryfall_id": "8d6025a1-2da0-48d0-b7c4-65c85ba51ceb"
+    },
+    {
+      "id": "6ba2fe2d-1668-4a91-91ff-cd4e440f9c67",
+      "set_code": "HOP",
+      "collector_number": "96",
+      "name": "Arsenal Thresher",
+      "scryfall_id": "166fd2e7-8330-447b-889f-8d457d0128aa"
+    },
+    {
+      "id": "b0a1faca-8d8a-4454-be4b-5af50c0534b2",
+      "set_code": "HOP",
+      "collector_number": "97",
+      "name": "Balefire Liege",
+      "scryfall_id": "79151363-78ec-4424-8bbf-1f41297de8de"
+    },
+    {
+      "id": "2f71fb86-220a-45f0-a64b-361be8ee0860",
+      "set_code": "HOP",
+      "collector_number": "98",
+      "name": "Battlegate Mimic",
+      "scryfall_id": "c330f44c-0479-472d-81ed-16445d182c37"
+    },
+    {
+      "id": "07898572-a5c0-41dc-b8cf-aa1aba29209f",
+      "set_code": "HOP",
+      "collector_number": "99",
+      "name": "Boros Guildmage",
+      "scryfall_id": "b5c9db79-ed2a-4e16-a314-49960fb269da"
+    },
+    {
+      "id": "dd3f5659-8e05-4a56-984e-2c02a4cb92e6",
+      "set_code": "HOP",
+      "collector_number": "100",
+      "name": "Double Cleave",
+      "scryfall_id": "47638058-7061-4dd7-8208-40980aec5fcb"
+    },
+    {
+      "id": "40a437e3-2ab4-4fbf-a271-c357188a0bab",
+      "set_code": "HOP",
+      "collector_number": "101",
+      "name": "Duergar Hedge-Mage",
+      "scryfall_id": "a70f7332-34bb-4a12-a699-b22f4b98c84c"
+    },
+    {
+      "id": "b38df218-6ccb-42c7-b9ad-b1ae520b93b4",
+      "set_code": "HOP",
+      "collector_number": "102",
+      "name": "Hearthfire Hobgoblin",
+      "scryfall_id": "a3944eb0-dcd2-4235-97c2-198f31af65aa"
+    },
+    {
+      "id": "4511e8f0-fac6-4627-9c80-fcb86be9d175",
+      "set_code": "HOP",
+      "collector_number": "103",
+      "name": "Assault // Battery",
+      "scryfall_id": "fe26ff4c-7811-442f-8225-026048920d3f"
+    },
+    {
+      "id": "3a63eadf-b8f9-4afa-9106-3a915db1a7b7",
+      "set_code": "HOP",
+      "collector_number": "104",
+      "name": "Order // Chaos",
+      "scryfall_id": "5644483e-c66c-49da-aae1-fa3b885e4b30"
+    },
+    {
+      "id": "3c0d6e59-ca49-4716-97a3-9d10c483685f",
+      "set_code": "HOP",
+      "collector_number": "105",
+      "name": "Arcbound Crusher",
+      "scryfall_id": "03c67a1b-32d7-4f66-bc6c-aaf09275a779"
+    },
+    {
+      "id": "f0e4eb69-a882-40b4-9a7d-2196e40f3780",
+      "set_code": "HOP",
+      "collector_number": "106",
+      "name": "Arcbound Slith",
+      "scryfall_id": "46b468b4-ceb7-4bbd-9d77-046df3b5ba61"
+    },
+    {
+      "id": "a5933def-882a-4a6d-9a6f-4a4969a2b897",
+      "set_code": "HOP",
+      "collector_number": "107",
+      "name": "Boros Signet",
+      "scryfall_id": "43879b79-4c82-4ac0-ba57-9835cecb09f4"
+    },
+    {
+      "id": "cd768303-7e7c-4f73-a3c0-d0cc1f7193f4",
+      "set_code": "HOP",
+      "collector_number": "108",
+      "name": "Bosh, Iron Golem",
+      "scryfall_id": "698fe2eb-e2ed-4598-86c0-de458928afec"
+    },
+    {
+      "id": "e5b02123-487a-40fc-9517-6cc22ba4cea9",
+      "set_code": "HOP",
+      "collector_number": "109",
+      "name": "Copper Myr",
+      "scryfall_id": "0cecd069-638b-489f-9e2d-a0a4d9a8906a"
+    },
+    {
+      "id": "d79e470d-e165-40dd-8df2-efd2426ed53f",
+      "set_code": "HOP",
+      "collector_number": "110",
+      "name": "Cranial Plating",
+      "scryfall_id": "71186d82-6c31-4cab-85fa-944bedc79329"
+    },
+    {
+      "id": "b00fc4d3-7831-4de7-bb8d-675b2ff7d424",
+      "set_code": "HOP",
+      "collector_number": "111",
+      "name": "Darksteel Forge",
+      "scryfall_id": "5dbceca6-74ac-4811-b879-bec6ae957d0e"
+    },
+    {
+      "id": "ca68e38e-8424-4442-babd-0562a5b0fb60",
+      "set_code": "HOP",
+      "collector_number": "112",
+      "name": "Door to Nothingness",
+      "scryfall_id": "151e0e5d-656e-4bec-8110-f31a3bb5f014"
+    },
+    {
+      "id": "2a0b999c-e6d8-4534-8852-247bdb695961",
+      "set_code": "HOP",
+      "collector_number": "113",
+      "name": "Etched Oracle",
+      "scryfall_id": "bf062351-5b0e-43e3-a325-83e2b0676eac"
+    },
+    {
+      "id": "36d19958-1e02-4dce-b868-5a840f2f7e36",
+      "set_code": "HOP",
+      "collector_number": "114",
+      "name": "Gold Myr",
+      "scryfall_id": "2096d85a-ba5f-4fcc-b896-52d34b943a56"
+    },
+    {
+      "id": "49efb860-8059-4524-8eab-359d31badaa5",
+      "set_code": "HOP",
+      "collector_number": "115",
+      "name": "Iron Myr",
+      "scryfall_id": "af2e2732-a354-4e5d-a11d-ef9c363b6563"
+    },
+    {
+      "id": "c056590d-8999-4447-bc4b-717b3af5de51",
+      "set_code": "HOP",
+      "collector_number": "116",
+      "name": "Leaden Myr",
+      "scryfall_id": "ec221d0f-1a3a-47ab-9bd2-5dc240a29154"
+    },
+    {
+      "id": "451c3cf0-b1cc-483f-a9e5-66652042a8c1",
+      "set_code": "HOP",
+      "collector_number": "117",
+      "name": "Lodestone Myr",
+      "scryfall_id": "5439778b-3460-423d-a1b9-8d31b75202b0"
+    },
+    {
+      "id": "32a42b1b-2c62-4f3e-906f-69ec906ab79f",
+      "set_code": "HOP",
+      "collector_number": "118",
+      "name": "Loxodon Warhammer",
+      "scryfall_id": "b01e505e-bc0d-43ef-a311-3da698c35166"
+    },
+    {
+      "id": "2b9f2793-5e63-410a-a344-c2278a70e2fb",
+      "set_code": "HOP",
+      "collector_number": "119",
+      "name": "Mask of Memory",
+      "scryfall_id": "644a88e3-2f5f-40ee-b94b-e550dd2bb3dc"
+    },
+    {
+      "id": "9aa53557-1d86-45c0-b8ea-ded2bcdb1687",
+      "set_code": "HOP",
+      "collector_number": "120",
+      "name": "Myr Enforcer",
+      "scryfall_id": "9c19ae1a-3c4b-4272-9dc0-869eb4a14ca4"
+    },
+    {
+      "id": "80a3b7b2-8e1e-4389-8ce1-acfbadaa682e",
+      "set_code": "HOP",
+      "collector_number": "121",
+      "name": "Nuisance Engine",
+      "scryfall_id": "ba455e40-274a-4de7-bf9d-9b55b1896eda"
+    },
+    {
+      "id": "81b58268-901e-4319-9f9e-2558ed31b549",
+      "set_code": "HOP",
+      "collector_number": "122",
+      "name": "Pentad Prism",
+      "scryfall_id": "8d6a94a8-33cc-4f9b-bdd2-5fb6ddb1f4ad"
+    },
+    {
+      "id": "9813b9e0-b4ea-42df-9e04-ba672afd68f7",
+      "set_code": "HOP",
+      "collector_number": "123",
+      "name": "Pentavus",
+      "scryfall_id": "e69e6fc9-0e14-4718-adc5-46bf7c242184"
+    },
+    {
+      "id": "a5c2b9eb-9ffc-40ad-ace5-6f7a4fa97052",
+      "set_code": "HOP",
+      "collector_number": "124",
+      "name": "Relic of Progenitus",
+      "scryfall_id": "0f794639-8472-40dc-953b-68b98f0ac72f"
+    },
+    {
+      "id": "526c06d9-a6fd-4987-9640-97b4854f140a",
+      "set_code": "HOP",
+      "collector_number": "125",
+      "name": "Serum Tank",
+      "scryfall_id": "0a2ad5c8-0dca-4082-97b9-3d788f553cdf"
+    },
+    {
+      "id": "f8face3e-f41a-47c6-89cf-ed90ad16ddbf",
+      "set_code": "HOP",
+      "collector_number": "126",
+      "name": "Silver Myr",
+      "scryfall_id": "e58ddc4e-ffc3-418f-a7dd-90fe3163bac9"
+    },
+    {
+      "id": "e7cc487f-2eb5-48f1-8598-6561e65f557c",
+      "set_code": "HOP",
+      "collector_number": "127",
+      "name": "Skeleton Shard",
+      "scryfall_id": "ee0d0da7-70de-4174-8f71-3e8861270dfb"
+    },
+    {
+      "id": "4bcf0af8-b3d4-4a51-acf5-1d5a71ad1723",
+      "set_code": "HOP",
+      "collector_number": "128",
+      "name": "Suntouched Myr",
+      "scryfall_id": "4c5d4ae3-bc7e-4e60-a5e6-c3ae349fe6fc"
+    },
+    {
+      "id": "f94de732-757c-408b-b201-226ff8c563f9",
+      "set_code": "HOP",
+      "collector_number": "129",
+      "name": "Wizard Replica",
+      "scryfall_id": "ed9b6a66-2ec4-44e6-b29b-f08768dca9cc"
+    },
+    {
+      "id": "5a587acb-9e38-4b19-a14e-daaa85c8db23",
+      "set_code": "HOP",
+      "collector_number": "130",
+      "name": "Ancient Den",
+      "scryfall_id": "6bcb504c-d066-496b-9556-b2e75a1eff91"
+    },
+    {
+      "id": "6f7608ca-13f0-4584-a720-8d9309656673",
+      "set_code": "HOP",
+      "collector_number": "131",
+      "name": "Boros Garrison",
+      "scryfall_id": "aa80eb15-e702-4810-bf76-dda64b6ed673"
+    },
+    {
+      "id": "ae4b8eb8-a9ce-4d3a-89df-dc67c1b37c6c",
+      "set_code": "HOP",
+      "collector_number": "132",
+      "name": "Cabal Coffers",
+      "scryfall_id": "17f91d5f-b717-4ff4-a598-6d57c22dd802"
+    },
+    {
+      "id": "dedece6c-d635-44f6-962f-07754a6fc4eb",
+      "set_code": "HOP",
+      "collector_number": "133",
+      "name": "Great Furnace",
+      "scryfall_id": "1a666f1b-f62f-45f5-b5d1-33317578601a"
+    },
+    {
+      "id": "99d83ade-c8dd-440e-b354-f04dfb957c2f",
+      "set_code": "HOP",
+      "collector_number": "134",
+      "name": "Gruul Turf",
+      "scryfall_id": "f9b84486-447d-4a1c-af09-85388582bc47"
+    },
+    {
+      "id": "c121b26e-a999-4234-8cb0-5a092580629d",
+      "set_code": "HOP",
+      "collector_number": "135",
+      "name": "Leechridden Swamp",
+      "scryfall_id": "3bc4c0e9-3869-45c7-8335-7276606edef0"
+    },
+    {
+      "id": "e3bc03af-b179-43dc-a344-37a3e3b60875",
+      "set_code": "HOP",
+      "collector_number": "136",
+      "name": "Seat of the Synod",
+      "scryfall_id": "12ad9074-3f5b-412c-b55d-4b0eedaf32f2"
+    },
+    {
+      "id": "a4627639-0322-4517-b506-0da1eb05c8a1",
+      "set_code": "HOP",
+      "collector_number": "137",
+      "name": "Shivan Oasis",
+      "scryfall_id": "f19560c4-b4a4-428b-87be-24525007b973"
+    },
+    {
+      "id": "ac6ec2d6-0f79-46fd-970b-a6b2b67d07e5",
+      "set_code": "HOP",
+      "collector_number": "138",
+      "name": "Sunhome, Fortress of the Legion",
+      "scryfall_id": "12fc2aff-35e0-44e9-a976-70810d43634c"
+    },
+    {
+      "id": "c7876849-d4d4-4c7d-a2ac-d8ceafc9cb93",
+      "set_code": "HOP",
+      "collector_number": "139",
+      "name": "Terramorphic Expanse",
+      "scryfall_id": "9afff504-6356-424e-97a4-bb28d8a2dbad"
+    },
+    {
+      "id": "151fb248-0711-4aef-af1f-f8ace78bd117",
+      "set_code": "HOP",
+      "collector_number": "140",
+      "name": "Tree of Tales",
+      "scryfall_id": "a8f69425-c530-4752-95b5-06e99b74c8b7"
+    },
+    {
+      "id": "f242a8de-7162-4035-a1a7-6fb3a1179b88",
+      "set_code": "HOP",
+      "collector_number": "141",
+      "name": "Vault of Whispers",
+      "scryfall_id": "69e50871-bde7-4109-8811-a1c1bf70d3ae"
+    },
+    {
+      "id": "6db4580b-2f83-4438-9858-3fa74d0cb297",
+      "set_code": "HOP",
+      "collector_number": "142",
+      "name": "Plains",
+      "scryfall_id": "d6615ef8-e121-4ee5-8804-aee80513f356"
+    },
+    {
+      "id": "a7c9fd5a-7167-437e-b0b6-61d1ed495372",
+      "set_code": "HOP",
+      "collector_number": "143",
+      "name": "Plains",
+      "scryfall_id": "d27e25f1-282d-4564-aec3-28a4d6985fc3"
+    },
+    {
+      "id": "67ed8168-363a-4605-80cb-31ca6edd80b5",
+      "set_code": "HOP",
+      "collector_number": "144",
+      "name": "Plains",
+      "scryfall_id": "30d18881-1a76-41d3-b5f5-fa3e8e603a45"
+    },
+    {
+      "id": "96b1d72b-c845-45b3-8c29-9d0507111abf",
+      "set_code": "HOP",
+      "collector_number": "145",
+      "name": "Plains",
+      "scryfall_id": "fd454856-9cd4-4228-8709-6123310bcb65"
+    },
+    {
+      "id": "ae658f23-b093-4570-b95e-534e33d61526",
+      "set_code": "HOP",
+      "collector_number": "146",
+      "name": "Plains",
+      "scryfall_id": "95d5c595-5ff4-4c82-a12c-14dfed2b218e"
+    },
+    {
+      "id": "4a8c4910-acd1-404c-b3c8-451df0a2bee4",
+      "set_code": "HOP",
+      "collector_number": "147",
+      "name": "Island",
+      "scryfall_id": "9ad1b14c-8aeb-43e5-a36b-bd01c13e881f"
+    },
+    {
+      "id": "efc77d9d-82ab-4425-9953-07e8b43650e0",
+      "set_code": "HOP",
+      "collector_number": "148",
+      "name": "Island",
+      "scryfall_id": "88f21987-932a-454c-b9fc-442ff176f8c8"
+    },
+    {
+      "id": "18284bd3-fd95-479c-a72f-9784bce31143",
+      "set_code": "HOP",
+      "collector_number": "149",
+      "name": "Island",
+      "scryfall_id": "cbc8db00-76c6-4bbf-8c0f-9f4613c3166b"
+    },
+    {
+      "id": "b5ef1990-a20f-4462-8903-f09427d312f4",
+      "set_code": "HOP",
+      "collector_number": "150",
+      "name": "Island",
+      "scryfall_id": "9dacdb3d-1195-4a7a-a374-f3829f1a74b8"
+    },
+    {
+      "id": "9d51d6e4-19a3-4e66-b28d-8fa965162eb5",
+      "set_code": "HOP",
+      "collector_number": "151",
+      "name": "Swamp",
+      "scryfall_id": "09e222f9-b7fc-49f0-8cef-9899aa333ecf"
+    },
+    {
+      "id": "40f4ac64-e6ca-4672-bdec-664ddf22ecac",
+      "set_code": "HOP",
+      "collector_number": "152",
+      "name": "Swamp",
+      "scryfall_id": "b3b6ad3d-a4d6-4ce9-bc0d-58fd83f83094"
+    },
+    {
+      "id": "6a670713-b7c6-4b8f-b334-5b0b1e15bf88",
+      "set_code": "HOP",
+      "collector_number": "153",
+      "name": "Swamp",
+      "scryfall_id": "e9956850-0674-44e1-80e8-3875ef76d512"
+    },
+    {
+      "id": "da588c09-9d7a-425b-82f2-490641589d7f",
+      "set_code": "HOP",
+      "collector_number": "154",
+      "name": "Swamp",
+      "scryfall_id": "e3b5964a-78d8-453f-8cba-6ab01804054e"
+    },
+    {
+      "id": "4858c8e6-e52b-4312-93fb-d776d0388b1f",
+      "set_code": "HOP",
+      "collector_number": "155",
+      "name": "Swamp",
+      "scryfall_id": "a262d93b-f95c-406c-9e54-cbd3ad14282f"
+    },
+    {
+      "id": "015019be-e3b4-48b2-b42f-d9e6170d7c38",
+      "set_code": "HOP",
+      "collector_number": "156",
+      "name": "Mountain",
+      "scryfall_id": "791f71b6-6d1a-4b11-9e6d-86f455f9c491"
+    },
+    {
+      "id": "9cef3f91-b698-42e6-8ca1-09fd8e2f5e16",
+      "set_code": "HOP",
+      "collector_number": "157",
+      "name": "Mountain",
+      "scryfall_id": "c159ca68-034b-4c25-a120-f35786bdc71b"
+    },
+    {
+      "id": "dcc368a1-ea89-4387-b6fd-825fed7623b1",
+      "set_code": "HOP",
+      "collector_number": "158",
+      "name": "Mountain",
+      "scryfall_id": "83395047-8dc8-4ec7-b9e4-79d689a1861d"
+    },
+    {
+      "id": "4eff8976-4167-478d-bf39-67de84faefcc",
+      "set_code": "HOP",
+      "collector_number": "159",
+      "name": "Mountain",
+      "scryfall_id": "cf9e2d02-4588-48e1-aa63-dc7e72132f38"
+    },
+    {
+      "id": "0a3f36b8-e00f-4972-9f7a-0b60de63c053",
+      "set_code": "HOP",
+      "collector_number": "160",
+      "name": "Mountain",
+      "scryfall_id": "5e40c180-c4d6-4880-b28c-ff8b5cf261e2"
+    },
+    {
+      "id": "f29cc5f6-6c05-4ee1-a6fc-a6045b354cb8",
+      "set_code": "HOP",
+      "collector_number": "161",
+      "name": "Mountain",
+      "scryfall_id": "24bb1832-9937-47c4-aa93-3de40a78461f"
+    },
+    {
+      "id": "30339695-f12a-4277-8f95-8f40fb27d8ea",
+      "set_code": "HOP",
+      "collector_number": "162",
+      "name": "Mountain",
+      "scryfall_id": "0327ec0e-b6c7-4898-8c6b-28684ade45af"
+    },
+    {
+      "id": "3cd0b3f5-8702-4466-9dab-90c500e61837",
+      "set_code": "HOP",
+      "collector_number": "163",
+      "name": "Mountain",
+      "scryfall_id": "32de9c2f-f251-4fb3-b197-3dabbfe49aea"
+    },
+    {
+      "id": "5e44d4b5-fab0-415d-9315-afcd4e80e2f2",
+      "set_code": "HOP",
+      "collector_number": "164",
+      "name": "Mountain",
+      "scryfall_id": "a48f0d3e-58bd-438f-b0da-503762636e89"
+    },
+    {
+      "id": "7b7f9be9-2e7a-417c-8c19-911de2d6ee62",
+      "set_code": "HOP",
+      "collector_number": "165",
+      "name": "Forest",
+      "scryfall_id": "5ee893d8-4648-4237-8c62-c0a6f3f01816"
+    },
+    {
+      "id": "0ddfdbfd-4f60-400d-bb30-b7133748e375",
+      "set_code": "HOP",
+      "collector_number": "166",
+      "name": "Forest",
+      "scryfall_id": "fd68bcbf-345f-4e12-8383-6da5a04158e1"
+    },
+    {
+      "id": "0e9bde73-9054-4187-a256-79e5152dd170",
+      "set_code": "HOP",
+      "collector_number": "167",
+      "name": "Forest",
+      "scryfall_id": "52941e6f-b0f6-4e72-bebe-5c38eaf87a01"
+    },
+    {
+      "id": "6b4bda5e-9cc5-464f-8abb-f5f95be6e913",
+      "set_code": "HOP",
+      "collector_number": "168",
+      "name": "Forest",
+      "scryfall_id": "0c60309b-158a-47a1-8769-767a73adf828"
+    },
+    {
+      "id": "7b3790f8-0ba5-41af-ab27-3f15cebacaf3",
+      "set_code": "HOP",
+      "collector_number": "169",
+      "name": "Forest",
+      "scryfall_id": "c086ec85-82c0-4416-8d32-f576f7ed159f"
+    }
+  ]
+}

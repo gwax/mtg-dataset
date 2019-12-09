@@ -1,0 +1,960 @@
+{
+  "id": "1361e846-b073-4565-b7bd-8b7f454b363e",
+  "code": "BRB",
+  "name": "Battle Royale Box Set",
+  "scryfall_id": "81118b2a-b5c8-4fdc-830a-ce5b74eb60b9",
+  "cards": [
+    {
+      "id": "b7424efe-0c06-4458-8063-257d320230a2",
+      "set_code": "BRB",
+      "collector_number": "1",
+      "name": "Abyssal Specter",
+      "scryfall_id": "2feea189-d55d-4368-9ffa-7910949587f3"
+    },
+    {
+      "id": "bb577159-4b53-4c1f-be35-fb527aa497ad",
+      "set_code": "BRB",
+      "collector_number": "2",
+      "name": "Advance Scout",
+      "scryfall_id": "d586407a-d260-48c6-8c05-50612d109221"
+    },
+    {
+      "id": "33ae226f-37eb-4613-b781-5779c801cee4",
+      "set_code": "BRB",
+      "collector_number": "3",
+      "name": "Air Elemental",
+      "scryfall_id": "b7b4796a-df1d-42ec-bbd8-7b5f1d874881"
+    },
+    {
+      "id": "b3ae5e76-6b62-49e9-b6c2-6c75e2558f66",
+      "set_code": "BRB",
+      "collector_number": "4",
+      "name": "Angelic Page",
+      "scryfall_id": "3a5c2eb7-e019-4923-b182-ff66b5c15a49"
+    },
+    {
+      "id": "0b58bc28-670d-43e2-8728-b1f2bc8aa4c0",
+      "set_code": "BRB",
+      "collector_number": "5",
+      "name": "Arc Lightning",
+      "scryfall_id": "f03573c4-e682-4252-abcb-7d2d42894801"
+    },
+    {
+      "id": "1abdcd9d-b296-4e68-97e1-cfb66a133ef2",
+      "set_code": "BRB",
+      "collector_number": "6",
+      "name": "Argothian Elder",
+      "scryfall_id": "49216e44-5fa2-4140-b0c5-8b5a647f54e9"
+    },
+    {
+      "id": "260d3e30-f729-441c-9ab2-e26569b124ed",
+      "set_code": "BRB",
+      "collector_number": "7",
+      "name": "Armored Pegasus",
+      "scryfall_id": "93158f56-707b-4251-9e42-df6eb0bf6cf9"
+    },
+    {
+      "id": "202fcd8a-0b49-4262-bc03-cfca9a5b351d",
+      "set_code": "BRB",
+      "collector_number": "8",
+      "name": "Azure Drake",
+      "scryfall_id": "e6bda49a-7f0c-4cf8-8df0-92bfb1f0a75d"
+    },
+    {
+      "id": "15f7419a-d091-4ce4-b094-83fcdc846d59",
+      "set_code": "BRB",
+      "collector_number": "9",
+      "name": "Blinking Spirit",
+      "scryfall_id": "ed65a0d3-5121-4f41-b85d-f0be16b292d8"
+    },
+    {
+      "id": "c35c2eb4-58da-486b-a0ab-942cb25cba67",
+      "set_code": "BRB",
+      "collector_number": "10",
+      "name": "Broken Fall",
+      "scryfall_id": "5e0d799a-457b-46a3-a112-719ec2e4fffa"
+    },
+    {
+      "id": "1b756ae5-0692-4df2-bdaf-c786b6f4c002",
+      "set_code": "BRB",
+      "collector_number": "11",
+      "name": "Cackling Fiend",
+      "scryfall_id": "6719cfb6-af52-4920-a3d7-87d22a7ea194"
+    },
+    {
+      "id": "e334d26a-3ac0-4c84-a6fd-00da42f5713f",
+      "set_code": "BRB",
+      "collector_number": "12",
+      "name": "Catastrophe",
+      "scryfall_id": "00574054-7fac-4d77-a955-06e49fb01ae1"
+    },
+    {
+      "id": "d5a2e576-2209-4d99-9c9c-e80c1c0a034e",
+      "set_code": "BRB",
+      "collector_number": "13",
+      "name": "Cinder Marsh",
+      "scryfall_id": "2c85f028-01af-4a82-89dc-0792ce43a4d6"
+    },
+    {
+      "id": "4eefafef-f616-419b-8a0b-f7042fb0af3f",
+      "set_code": "BRB",
+      "collector_number": "14",
+      "name": "Control Magic",
+      "scryfall_id": "56e72fec-76eb-445d-854d-a269872ba05a"
+    },
+    {
+      "id": "92f2ef63-3404-45fa-90d5-733d5caf6b4f",
+      "set_code": "BRB",
+      "collector_number": "15",
+      "name": "Counterspell",
+      "scryfall_id": "9a765377-bc8c-480a-9903-bd942c20fc47"
+    },
+    {
+      "id": "9379e873-03a7-42ad-b0aa-3b46327de603",
+      "set_code": "BRB",
+      "collector_number": "16",
+      "name": "Crazed Skirge",
+      "scryfall_id": "c9992409-1b5f-4700-bb90-153b2698a3bb"
+    },
+    {
+      "id": "89684577-0a61-43fe-afc6-3ba83d109257",
+      "set_code": "BRB",
+      "collector_number": "17",
+      "name": "Curfew",
+      "scryfall_id": "044e36d6-0967-4a66-8269-2224777bbb6c"
+    },
+    {
+      "id": "b856bfa8-ae38-4069-9036-37d7e60fd8a2",
+      "set_code": "BRB",
+      "collector_number": "18",
+      "name": "Dark Ritual",
+      "scryfall_id": "efa86572-d654-4810-9ecd-3574a4598f8b"
+    },
+    {
+      "id": "29bd216b-0218-4b52-b676-9681cc141c87",
+      "set_code": "BRB",
+      "collector_number": "19",
+      "name": "Dirtcowl Wurm",
+      "scryfall_id": "eafbc345-7f8a-4173-9168-fbaefdd42f2e"
+    },
+    {
+      "id": "06a8b85c-aed5-4123-b70e-dd401f749acc",
+      "set_code": "BRB",
+      "collector_number": "20",
+      "name": "Disenchant",
+      "scryfall_id": "8bb682d3-d9f3-4534-bd52-3f6edbf35dc0"
+    },
+    {
+      "id": "b3587dae-2189-4c5d-9af4-91da91bde4f9",
+      "set_code": "BRB",
+      "collector_number": "21",
+      "name": "Disruptive Student",
+      "scryfall_id": "6a50779d-f5c8-4df1-8625-7edc8bb0251c"
+    },
+    {
+      "id": "9d0c3379-d0ef-43e7-8454-f162dd35a67e",
+      "set_code": "BRB",
+      "collector_number": "22",
+      "name": "Drifting Meadow",
+      "scryfall_id": "90082cde-3442-4c7b-846a-71ddfa2d0ee8"
+    },
+    {
+      "id": "1749dd12-5b03-4ec0-955b-cbffcdbcca60",
+      "set_code": "BRB",
+      "collector_number": "23",
+      "name": "Elvish Lyrist",
+      "scryfall_id": "9fdedbb1-8762-4ca7-aa2f-19a474705779"
+    },
+    {
+      "id": "e5154435-e52d-41e3-a60b-55e2e05ba886",
+      "set_code": "BRB",
+      "collector_number": "24",
+      "name": "Exhume",
+      "scryfall_id": "41c79afa-8f88-48bd-9122-984327d3e54d"
+    },
+    {
+      "id": "05f2e5c7-a9a3-4ebc-9d71-45183f77d19a",
+      "set_code": "BRB",
+      "collector_number": "25",
+      "name": "Fecundity",
+      "scryfall_id": "26c69966-d413-49e5-bfe4-d8ad3447962f"
+    },
+    {
+      "id": "94b5849e-f295-48f1-bf65-8e591ee6a545",
+      "set_code": "BRB",
+      "collector_number": "26",
+      "name": "Fertile Ground",
+      "scryfall_id": "1be17dee-b0cf-4202-bd3d-0ca1682de4cb"
+    },
+    {
+      "id": "dc8485dc-8ca0-4eb6-90e1-a8941f4dcf72",
+      "set_code": "BRB",
+      "collector_number": "27",
+      "name": "Fire Ants",
+      "scryfall_id": "22452304-6c27-42e3-8dd8-3bbcc8bcd0df"
+    },
+    {
+      "id": "e1c4a5ea-f735-485d-862e-b3bdc11de655",
+      "set_code": "BRB",
+      "collector_number": "28",
+      "name": "Flood",
+      "scryfall_id": "e4eac8f2-98a6-4ab1-9e06-76b4736730af"
+    },
+    {
+      "id": "65fffe07-b264-4f44-9384-0d815605aae3",
+      "set_code": "BRB",
+      "collector_number": "29",
+      "name": "Giant Growth",
+      "scryfall_id": "7337318f-6d04-41c4-a319-543cfd34754f"
+    },
+    {
+      "id": "4a6af1d9-3452-41fc-8dbb-07f3da138dce",
+      "set_code": "BRB",
+      "collector_number": "30",
+      "name": "Gorilla Warrior",
+      "scryfall_id": "cacd84b9-43ad-4a52-a438-b6c2e8d125d4"
+    },
+    {
+      "id": "8038e0de-84b0-416b-ada0-f90550fd6545",
+      "set_code": "BRB",
+      "collector_number": "31",
+      "name": "Healing Salve",
+      "scryfall_id": "ba626b05-ef94-4ce5-b28b-e4b68d425f9b"
+    },
+    {
+      "id": "07836493-9c24-46f0-a002-26b4e90815ec",
+      "set_code": "BRB",
+      "collector_number": "32",
+      "name": "Heat Ray",
+      "scryfall_id": "32d91705-de45-41a1-b7e8-f40d3dcf1520"
+    },
+    {
+      "id": "c6a9e15b-3582-49d7-99c0-079c74397bd7",
+      "set_code": "BRB",
+      "collector_number": "33",
+      "name": "Hurricane",
+      "scryfall_id": "7f194f4b-baed-4c4a-b70c-d5ad266b5ad1"
+    },
+    {
+      "id": "1d46ca4a-9505-47e9-b817-5c52803975b3",
+      "set_code": "BRB",
+      "collector_number": "34",
+      "name": "Infantry Veteran",
+      "scryfall_id": "622b9f02-d031-475c-8381-99cf0d82a4b5"
+    },
+    {
+      "id": "a38466bd-a494-4010-8e54-55e59529ad31",
+      "set_code": "BRB",
+      "collector_number": "35",
+      "name": "Land Tax",
+      "scryfall_id": "4e614027-4587-476f-a5a9-87bc1a6bd30b"
+    },
+    {
+      "id": "c55996ea-542d-4a54-989b-b62b7852b92a",
+      "set_code": "BRB",
+      "collector_number": "36",
+      "name": "Lhurgoyf",
+      "scryfall_id": "770afb99-e80e-4214-9422-27c94d688af9"
+    },
+    {
+      "id": "7449cfdd-d0f6-45e4-b39e-574cbe525ed3",
+      "set_code": "BRB",
+      "collector_number": "37",
+      "name": "Lightning Elemental",
+      "scryfall_id": "ea6c5514-9f5b-4b6c-a7fb-cda5e31bc917"
+    },
+    {
+      "id": "121dfc59-48d7-4ae2-bc9b-3aa31db8ecd8",
+      "set_code": "BRB",
+      "collector_number": "38",
+      "name": "Living Death",
+      "scryfall_id": "73b5a788-961d-4355-97bc-75f153294c9a"
+    },
+    {
+      "id": "bed5d3ee-7952-43f8-9e6c-520bf918af45",
+      "set_code": "BRB",
+      "collector_number": "39",
+      "name": "Llanowar Elves",
+      "scryfall_id": "f177ba7a-fcca-4bbc-9420-387745590498"
+    },
+    {
+      "id": "52380737-a6be-4427-9021-866a084f1e51",
+      "set_code": "BRB",
+      "collector_number": "40",
+      "name": "Man-o'-War",
+      "scryfall_id": "8fca5d18-cd0b-4f13-9326-dd05e219693d"
+    },
+    {
+      "id": "41387785-8859-40e3-8954-a03866f5c60c",
+      "set_code": "BRB",
+      "collector_number": "41",
+      "name": "Mana Leak",
+      "scryfall_id": "7ce2569c-b4e2-4b0b-a5f3-eb7afac72b1a"
+    },
+    {
+      "id": "64e1e802-f052-454d-a883-f40246b934bb",
+      "set_code": "BRB",
+      "collector_number": "42",
+      "name": "Maniacal Rage",
+      "scryfall_id": "8c92200e-6f9a-4602-acbb-b04cb9bd294a"
+    },
+    {
+      "id": "97e3cfb1-00d6-4676-a7c2-47f08e64339f",
+      "set_code": "BRB",
+      "collector_number": "43",
+      "name": "Manta Riders",
+      "scryfall_id": "ec6f7657-0b39-4c2d-8a0e-9fda96abb639"
+    },
+    {
+      "id": "dcf72531-2273-4443-9cbb-2146e5f1b7a9",
+      "set_code": "BRB",
+      "collector_number": "44",
+      "name": "Master Decoy",
+      "scryfall_id": "db19b927-4594-4c6a-b38d-1830555ecedf"
+    },
+    {
+      "id": "44d0fe3e-bfe6-4a15-8445-c946d73f016b",
+      "set_code": "BRB",
+      "collector_number": "45",
+      "name": "Mogg Hollows",
+      "scryfall_id": "7f37fd84-257d-4339-b1e1-1726dc66aaee"
+    },
+    {
+      "id": "7f5b58a4-6dd6-4d5d-a18e-805f1aec5ad7",
+      "set_code": "BRB",
+      "collector_number": "46",
+      "name": "Nekrataal",
+      "scryfall_id": "7c4e4b65-0df2-49c3-a49b-e511c4436841"
+    },
+    {
+      "id": "f9ebc634-b4e6-4d80-8af4-74abb55258b3",
+      "set_code": "BRB",
+      "collector_number": "47",
+      "name": "Opportunity",
+      "scryfall_id": "00f6934f-2dd1-4715-9b7c-3ec59e8d083e"
+    },
+    {
+      "id": "a967613b-631c-4854-8624-f32e43cb0fd0",
+      "set_code": "BRB",
+      "collector_number": "48",
+      "name": "Pacifism",
+      "scryfall_id": "66ff0597-43f5-4d86-98fa-18213aef3348"
+    },
+    {
+      "id": "49d93764-2b13-4722-9495-cfa3cdd27369",
+      "set_code": "BRB",
+      "collector_number": "49",
+      "name": "Pestilence",
+      "scryfall_id": "104d66c2-6cc5-4f99-a3c2-56bc694ca380"
+    },
+    {
+      "id": "fa1103a6-18d6-4108-9fc7-1383cfd96bf6",
+      "set_code": "BRB",
+      "collector_number": "50",
+      "name": "Phyrexian Ghoul",
+      "scryfall_id": "396b9b83-263a-44b0-8609-c4d3df5d4f73"
+    },
+    {
+      "id": "95c0e084-b3ea-4a5f-aa14-7e0c41f460f6",
+      "set_code": "BRB",
+      "collector_number": "51",
+      "name": "Pincher Beetles",
+      "scryfall_id": "74bf9529-43de-4e94-87f4-75546c138b2c"
+    },
+    {
+      "id": "5c7911ab-edc8-487c-ac9c-110b1789d74b",
+      "set_code": "BRB",
+      "collector_number": "52",
+      "name": "Plated Rootwalla",
+      "scryfall_id": "6f5e2cc1-3f16-4984-b1a3-db21c9a38408"
+    },
+    {
+      "id": "eb152d43-c61b-4bac-815e-ee317ee438a4",
+      "set_code": "BRB",
+      "collector_number": "53",
+      "name": "Polluted Mire",
+      "scryfall_id": "707859fe-0fcf-48cb-9eac-70ba3dc6dc4a"
+    },
+    {
+      "id": "5049f688-3e5d-41e6-a08e-aa06a4251311",
+      "set_code": "BRB",
+      "collector_number": "54",
+      "name": "Prodigal Sorcerer",
+      "scryfall_id": "8abea55b-8fec-4e84-9085-01e87c2715cd"
+    },
+    {
+      "id": "9a7f41e3-5858-41e1-8515-29cd260f48d0",
+      "set_code": "BRB",
+      "collector_number": "55",
+      "name": "Raging Goblin",
+      "scryfall_id": "ab3bbe29-7cfc-4174-aea2-235a6e230836"
+    },
+    {
+      "id": "9a1f081f-179e-4eb0-a97e-b0e91643e0e5",
+      "set_code": "BRB",
+      "collector_number": "56",
+      "name": "Ray of Command",
+      "scryfall_id": "9129a278-d3b7-4aba-b35e-488afe778719"
+    },
+    {
+      "id": "6b544f68-b559-4af6-b67d-09bd289bf1e5",
+      "set_code": "BRB",
+      "collector_number": "57",
+      "name": "Reanimate",
+      "scryfall_id": "e6a75ddc-dd9d-4913-88de-2994edf14306"
+    },
+    {
+      "id": "af5f5b23-e31d-4cdb-a121-75793b1d499c",
+      "set_code": "BRB",
+      "collector_number": "58",
+      "name": "Remote Isle",
+      "scryfall_id": "42180254-fcd7-442d-b7f5-9b414fd82dc6"
+    },
+    {
+      "id": "734ade0c-5dfe-4ded-a24d-bd2ef6eb9a7f",
+      "set_code": "BRB",
+      "collector_number": "59",
+      "name": "River Boa",
+      "scryfall_id": "8f9f6f42-65cc-4d26-8bf9-75ffca9ebd53"
+    },
+    {
+      "id": "5220fb81-b9bc-4985-bebc-2c63cc155211",
+      "set_code": "BRB",
+      "collector_number": "60",
+      "name": "Rolling Thunder",
+      "scryfall_id": "d3a5ee29-d0aa-46dc-8236-0d940e941d50"
+    },
+    {
+      "id": "d9d73d98-7515-4a00-9f39-3d3add820af2",
+      "set_code": "BRB",
+      "collector_number": "61",
+      "name": "Sadistic Glee",
+      "scryfall_id": "2772e923-e33a-4968-b766-d80926ec4d4b"
+    },
+    {
+      "id": "43b57ffe-6e7a-4735-bdae-818d44be30e4",
+      "set_code": "BRB",
+      "collector_number": "62",
+      "name": "Sanctum Custodian",
+      "scryfall_id": "578af3dd-ecf4-457e-8c15-eefdc42162e2"
+    },
+    {
+      "id": "eb2e255d-f20b-43be-9056-236d0917dc53",
+      "set_code": "BRB",
+      "collector_number": "63",
+      "name": "Sanctum Guardian",
+      "scryfall_id": "f931c20a-5a66-4e57-87bf-a92b08de5d28"
+    },
+    {
+      "id": "0a480318-17f7-41d9-9fc8-3fb00b4e2111",
+      "set_code": "BRB",
+      "collector_number": "64",
+      "name": "Sandstorm",
+      "scryfall_id": "b239e0d3-a41a-45f7-845e-1e723a4c3e1a"
+    },
+    {
+      "id": "ad6354ec-1db2-4c4a-90f6-fba773d0f069",
+      "set_code": "BRB",
+      "collector_number": "65",
+      "name": "Scaled Wurm",
+      "scryfall_id": "62a00f28-6ac4-41e9-9bea-878b246c3e86"
+    },
+    {
+      "id": "2aec6a39-b89e-42da-bf50-4a3c9aa94a6a",
+      "set_code": "BRB",
+      "collector_number": "66",
+      "name": "Scryb Sprites",
+      "scryfall_id": "5b532522-88ff-426f-b4a4-0d15d18b57f5"
+    },
+    {
+      "id": "9bed0a7b-c40e-455c-af4b-367b653e8baa",
+      "set_code": "BRB",
+      "collector_number": "67",
+      "name": "Seasoned Marshal",
+      "scryfall_id": "84f3aa38-bbbc-4051-86bd-48b5da541de8"
+    },
+    {
+      "id": "599a1001-e8ce-4688-a750-94380dd55e46",
+      "set_code": "BRB",
+      "collector_number": "68",
+      "name": "Seeker of Skybreak",
+      "scryfall_id": "d27b91fb-c2b5-4bc2-b245-40ed87e8ebac"
+    },
+    {
+      "id": "9cfa310f-d9d8-4f4c-9976-fc26d1de88a1",
+      "set_code": "BRB",
+      "collector_number": "69",
+      "name": "Sengir Vampire",
+      "scryfall_id": "e37594ae-da04-4ffb-bd5d-94f719d8b56a"
+    },
+    {
+      "id": "3e2bbd4a-1e32-4d8a-85d3-6aeba5e00137",
+      "set_code": "BRB",
+      "collector_number": "70",
+      "name": "Sewer Rats",
+      "scryfall_id": "ca135937-c450-411a-914b-0bd54b800cea"
+    },
+    {
+      "id": "f822154c-eabb-4349-8e98-6173c1fb06a7",
+      "set_code": "BRB",
+      "collector_number": "71",
+      "name": "Shower of Sparks",
+      "scryfall_id": "490827a4-c2bc-44b3-b48e-993996d04d5c"
+    },
+    {
+      "id": "182dcc2d-3f15-4274-b0cc-b7c2085d7fa3",
+      "set_code": "BRB",
+      "collector_number": "72",
+      "name": "Skyshroud Elite",
+      "scryfall_id": "cbc1c8e7-8712-498e-b1e7-220c70276c5d"
+    },
+    {
+      "id": "58b3e43d-04b1-44f3-87ae-b89c640f3fa4",
+      "set_code": "BRB",
+      "collector_number": "73",
+      "name": "Slippery Karst",
+      "scryfall_id": "6c151ff8-4bc3-4855-acc3-efe698078d93"
+    },
+    {
+      "id": "0e2e46b8-ff84-468a-8c98-c8066957af11",
+      "set_code": "BRB",
+      "collector_number": "74",
+      "name": "Soltari Foot Soldier",
+      "scryfall_id": "3524d78b-d120-46ff-83e3-c502589fd5ba"
+    },
+    {
+      "id": "be418f7f-fc31-4d38-9678-3afafe5b3577",
+      "set_code": "BRB",
+      "collector_number": "75",
+      "name": "Songstitcher",
+      "scryfall_id": "e5488f15-ea0e-447b-8d06-d33565609213"
+    },
+    {
+      "id": "9287e976-2765-4c5d-b976-384b9741a433",
+      "set_code": "BRB",
+      "collector_number": "76",
+      "name": "Soul Warden",
+      "scryfall_id": "e78e31ef-0694-4e33-b7ac-ec2698bc3977"
+    },
+    {
+      "id": "2c59cefc-d0e7-4d25-8895-52a440ea2645",
+      "set_code": "BRB",
+      "collector_number": "77",
+      "name": "Spike Colony",
+      "scryfall_id": "0a6156cc-9dde-4590-bc8b-adfd470cddce"
+    },
+    {
+      "id": "eaf98867-7c23-4330-95ee-bae1f8828bd4",
+      "set_code": "BRB",
+      "collector_number": "78",
+      "name": "Spike Feeder",
+      "scryfall_id": "399de003-fb6f-41ff-88ee-458165d067b2"
+    },
+    {
+      "id": "7e3c493f-d9bf-4d5e-b472-cb492cbaae98",
+      "set_code": "BRB",
+      "collector_number": "79",
+      "name": "Spike Weaver",
+      "scryfall_id": "d2e4e143-b8f4-47f2-959b-fa21d9e78162"
+    },
+    {
+      "id": "040ae4df-57e0-469a-8938-9f4a916b00d4",
+      "set_code": "BRB",
+      "collector_number": "80",
+      "name": "Spike Worker",
+      "scryfall_id": "0775bce7-5464-4212-a0bd-b959fe5f1b21"
+    },
+    {
+      "id": "e764b722-9b8a-4154-9148-3b3892cd3c14",
+      "set_code": "BRB",
+      "collector_number": "81",
+      "name": "Steam Blast",
+      "scryfall_id": "c5ee0888-7c60-44a7-a279-12f08a867d36"
+    },
+    {
+      "id": "bfec9127-0836-472c-9d99-c327af1558dd",
+      "set_code": "BRB",
+      "collector_number": "82",
+      "name": "Subversion",
+      "scryfall_id": "fe87cf30-0fea-4a2c-8f5b-4c40b3c0927b"
+    },
+    {
+      "id": "7760ec04-bfed-4236-94b8-9243efa8429a",
+      "set_code": "BRB",
+      "collector_number": "83",
+      "name": "Sun Clasp",
+      "scryfall_id": "47cadda6-12be-4490-997b-3752e752be18"
+    },
+    {
+      "id": "8f0c8d11-b70a-4ae2-b434-85fd86ea2299",
+      "set_code": "BRB",
+      "collector_number": "84",
+      "name": "Swords to Plowshares",
+      "scryfall_id": "ab4f384f-36e0-4e6b-9307-d0b70f93419c"
+    },
+    {
+      "id": "4dc3ad9d-2039-40c9-a718-2aef2d1f3d87",
+      "set_code": "BRB",
+      "collector_number": "85",
+      "name": "Symbiosis",
+      "scryfall_id": "ffc15aa3-a0cd-43bc-a4e5-89c55766e4da"
+    },
+    {
+      "id": "600e999d-55a0-4c9e-a963-320906170923",
+      "set_code": "BRB",
+      "collector_number": "86",
+      "name": "Syphon Soul",
+      "scryfall_id": "5f5d0eee-03c3-48cb-8536-4f7f1ed45255"
+    },
+    {
+      "id": "c4ccf7ef-4e78-4418-aafc-61105a5751e8",
+      "set_code": "BRB",
+      "collector_number": "87",
+      "name": "Terror",
+      "scryfall_id": "ed6aa75a-f45c-4739-91c9-675f7f0c719f"
+    },
+    {
+      "id": "c3e948b0-d99c-4dd2-b9d8-cf7e3b82a38b",
+      "set_code": "BRB",
+      "collector_number": "88",
+      "name": "Thalakos Lowlands",
+      "scryfall_id": "00536ba7-1865-4895-8314-da8949d261c9"
+    },
+    {
+      "id": "182d614c-233e-4836-8492-f07f398c8f6e",
+      "set_code": "BRB",
+      "collector_number": "89",
+      "name": "Tranquility",
+      "scryfall_id": "393ebf58-47ad-4394-9902-ff82a4b79464"
+    },
+    {
+      "id": "7ae27e8a-6bd3-4703-8186-62d30ea95aeb",
+      "set_code": "BRB",
+      "collector_number": "90",
+      "name": "Trumpeting Armodon",
+      "scryfall_id": "a03f07e0-514f-4698-98b2-90f1613c03b6"
+    },
+    {
+      "id": "433074e7-0ff9-4fcc-966a-a334c091b6b4",
+      "set_code": "BRB",
+      "collector_number": "91",
+      "name": "Unnerve",
+      "scryfall_id": "c201a917-f546-4da7-ba92-3d4e237add9f"
+    },
+    {
+      "id": "3d810cd6-f3f2-4df0-b85e-c7406f4c2d78",
+      "set_code": "BRB",
+      "collector_number": "92",
+      "name": "Uthden Troll",
+      "scryfall_id": "9f6feedf-92f3-40de-bac3-7aee54cc2be7"
+    },
+    {
+      "id": "bdcfacec-4dd1-48ab-90a6-91fe6805f98b",
+      "set_code": "BRB",
+      "collector_number": "93",
+      "name": "Vec Townships",
+      "scryfall_id": "8b4fbb5f-3fa8-41e2-8035-4f0f3ae078e4"
+    },
+    {
+      "id": "62f2e3d4-e501-48ce-80fb-f16074e406e6",
+      "set_code": "BRB",
+      "collector_number": "94",
+      "name": "Village Elder",
+      "scryfall_id": "2933516f-e078-4589-8941-227a797172e1"
+    },
+    {
+      "id": "0c0a6778-ad58-4a6a-ae43-d86d744e3660",
+      "set_code": "BRB",
+      "collector_number": "95",
+      "name": "Wall of Heat",
+      "scryfall_id": "a1ef0e41-2282-4b48-961d-c80b8692db7d"
+    },
+    {
+      "id": "1ac100ad-1dc3-47bd-aa8c-2dd0185623f7",
+      "set_code": "BRB",
+      "collector_number": "96",
+      "name": "Weakness",
+      "scryfall_id": "a7940cd0-1daa-47e6-ab0b-7b1007b2b267"
+    },
+    {
+      "id": "6d92bcc7-be9f-486d-b889-f9b6685fc3e4",
+      "set_code": "BRB",
+      "collector_number": "97",
+      "name": "Wildfire Emissary",
+      "scryfall_id": "d7b902ca-55c2-4d0e-8dbe-e48ba3360566"
+    },
+    {
+      "id": "b628e41f-181f-4b8e-a275-3999154cb79c",
+      "set_code": "BRB",
+      "collector_number": "98",
+      "name": "Wind Drake",
+      "scryfall_id": "722a4337-260d-471b-a850-7a98bd27c488"
+    },
+    {
+      "id": "a41f4162-3f70-4a54-989a-8aef49051784",
+      "set_code": "BRB",
+      "collector_number": "99",
+      "name": "Windfall",
+      "scryfall_id": "bd1f6a7d-2f43-4b15-80da-b536b83a4742"
+    },
+    {
+      "id": "c7c7e532-91e6-4e14-8fda-ceda67712e12",
+      "set_code": "BRB",
+      "collector_number": "100",
+      "name": "Wrath of God",
+      "scryfall_id": "0d4389bf-7cb4-49f3-94a3-7736ee49f665"
+    },
+    {
+      "id": "eb7c2fee-d6fb-48a9-b630-91789953a958",
+      "set_code": "BRB",
+      "collector_number": "101",
+      "name": "Forest",
+      "scryfall_id": "e11690e9-a2b7-4c34-adc7-e58b1f52a211"
+    },
+    {
+      "id": "34e4b560-9071-4423-b2e4-019a9b3f7397",
+      "set_code": "BRB",
+      "collector_number": "102",
+      "name": "Forest",
+      "scryfall_id": "628bfeff-66f6-480c-b705-c08241278005"
+    },
+    {
+      "id": "b558dadd-db49-41f6-b1ea-30442e5f5a4b",
+      "set_code": "BRB",
+      "collector_number": "103",
+      "name": "Forest",
+      "scryfall_id": "49140a0a-ac32-48f7-ac34-3acbdb72785f"
+    },
+    {
+      "id": "d093144d-2016-491f-9331-3030486c78fe",
+      "set_code": "BRB",
+      "collector_number": "104",
+      "name": "Forest",
+      "scryfall_id": "bd59f091-f569-45d9-a6ac-223828ebd566"
+    },
+    {
+      "id": "f0146379-b489-4ea5-87c2-7cab0f36827f",
+      "set_code": "BRB",
+      "collector_number": "105",
+      "name": "Forest",
+      "scryfall_id": "f2d8cd2d-07c7-46af-abcb-bff7043083e0"
+    },
+    {
+      "id": "bc2f73f6-521d-40e6-9a2b-c63d89be5887",
+      "set_code": "BRB",
+      "collector_number": "106",
+      "name": "Forest",
+      "scryfall_id": "72acb29a-b8e4-4d56-8faf-437dbcb9bcfc"
+    },
+    {
+      "id": "89f8a4dc-196c-4dfa-815c-7371f53d101d",
+      "set_code": "BRB",
+      "collector_number": "107",
+      "name": "Forest",
+      "scryfall_id": "5a3e1067-2658-4216-a2bd-1e6550baaaa3"
+    },
+    {
+      "id": "8965fa61-72ee-446d-9831-bea734311b41",
+      "set_code": "BRB",
+      "collector_number": "108",
+      "name": "Forest",
+      "scryfall_id": "17cb5dfa-34f5-4614-aa46-57b081bb615d"
+    },
+    {
+      "id": "62884921-01ae-4898-a07a-0b5df62cbbbd",
+      "set_code": "BRB",
+      "collector_number": "109",
+      "name": "Forest",
+      "scryfall_id": "0db1a70b-bca9-4a4d-90a0-72527d4f8838"
+    },
+    {
+      "id": "c3a0c8bf-c86d-462a-9e94-15df7d6e2363",
+      "set_code": "BRB",
+      "collector_number": "110",
+      "name": "Island",
+      "scryfall_id": "554f2eb8-80a3-4370-9432-926bb2e2f8cb"
+    },
+    {
+      "id": "ee1dda26-a3c9-4cea-a7ee-4082157ba23d",
+      "set_code": "BRB",
+      "collector_number": "111",
+      "name": "Island",
+      "scryfall_id": "3a7d2e9e-d47f-457b-8749-c7080d819a66"
+    },
+    {
+      "id": "62445dd9-2f24-4a97-938a-e3fa9d57f2da",
+      "set_code": "BRB",
+      "collector_number": "112",
+      "name": "Island",
+      "scryfall_id": "dc829929-e3c6-4e35-9202-afabe541fcdf"
+    },
+    {
+      "id": "ce5caf05-e742-4bf0-82c0-71f15f28a051",
+      "set_code": "BRB",
+      "collector_number": "113",
+      "name": "Island",
+      "scryfall_id": "5dfc9d92-6dda-4bf1-b405-a595f3f46d24"
+    },
+    {
+      "id": "3e973316-f6a2-472c-a154-09b8035ba7f4",
+      "set_code": "BRB",
+      "collector_number": "114",
+      "name": "Island",
+      "scryfall_id": "c6f3e4d7-2605-48c6-99db-f791cbe60165"
+    },
+    {
+      "id": "e7c6b2f8-1445-425d-8f2d-26bd067621ab",
+      "set_code": "BRB",
+      "collector_number": "115",
+      "name": "Mountain",
+      "scryfall_id": "6c36dfec-3f86-463c-85b3-2b6bca042aaa"
+    },
+    {
+      "id": "cc228f70-fc9e-4e7f-8ddb-351c6d960032",
+      "set_code": "BRB",
+      "collector_number": "116",
+      "name": "Mountain",
+      "scryfall_id": "8dcf7b87-54db-4c1a-9b5f-78344431f756"
+    },
+    {
+      "id": "69d75fb1-8bfe-4f94-ab4b-95942b2f1e0a",
+      "set_code": "BRB",
+      "collector_number": "117",
+      "name": "Mountain",
+      "scryfall_id": "f95c7b8b-e197-4f35-bad3-877be6825ab1"
+    },
+    {
+      "id": "38862367-98ad-4df2-823f-68270a2dc4a7",
+      "set_code": "BRB",
+      "collector_number": "118",
+      "name": "Mountain",
+      "scryfall_id": "b666bcf7-abd0-4001-99ad-a08026cc9f8c"
+    },
+    {
+      "id": "780308a5-a1f7-4bb1-a804-3c9cd9105f48",
+      "set_code": "BRB",
+      "collector_number": "119",
+      "name": "Mountain",
+      "scryfall_id": "8e49ec32-32d9-4042-abd4-a131d405532c"
+    },
+    {
+      "id": "6aa64282-f0e2-4991-a817-a6094f2e3e00",
+      "set_code": "BRB",
+      "collector_number": "120",
+      "name": "Mountain",
+      "scryfall_id": "a49144e6-47fd-4f5f-abfc-96ed008a7eb9"
+    },
+    {
+      "id": "719fb3ca-ae83-435c-a61f-9672e0164ab9",
+      "set_code": "BRB",
+      "collector_number": "121",
+      "name": "Mountain",
+      "scryfall_id": "cddb5370-68a7-4914-b1c5-34cd3e8412a9"
+    },
+    {
+      "id": "d00a4df2-7950-4116-b7d7-b6ab3edaf3a7",
+      "set_code": "BRB",
+      "collector_number": "122",
+      "name": "Mountain",
+      "scryfall_id": "68ef9c47-b659-4549-b8c2-d920f0a987ad"
+    },
+    {
+      "id": "ff0f6081-24a8-4814-ac20-5f171ead0c6e",
+      "set_code": "BRB",
+      "collector_number": "123",
+      "name": "Mountain",
+      "scryfall_id": "1781ca3f-3b7f-4811-9028-bdf0abfee596"
+    },
+    {
+      "id": "937f38a9-fdb1-4339-b008-cd38c165b928",
+      "set_code": "BRB",
+      "collector_number": "124",
+      "name": "Plains",
+      "scryfall_id": "7b509e84-786c-45b0-8ecd-3799e9849a9b"
+    },
+    {
+      "id": "162166d9-becb-4c38-b915-9cfd2a77b4ee",
+      "set_code": "BRB",
+      "collector_number": "125",
+      "name": "Plains",
+      "scryfall_id": "cbeb33b2-e536-484e-a5a3-6428ea2579e2"
+    },
+    {
+      "id": "3c276c0d-0701-4ba5-ad7f-a619b1b01763",
+      "set_code": "BRB",
+      "collector_number": "126",
+      "name": "Plains",
+      "scryfall_id": "9bbce333-0465-4556-b3bf-b86c846f16c6"
+    },
+    {
+      "id": "91bd7a08-46b4-4d32-aeae-e3235ee97671",
+      "set_code": "BRB",
+      "collector_number": "127",
+      "name": "Plains",
+      "scryfall_id": "c2b81bfa-d34a-4fd3-b183-c56db56dcc8f"
+    },
+    {
+      "id": "e0b0b799-0423-4e11-8aab-299a317db518",
+      "set_code": "BRB",
+      "collector_number": "128",
+      "name": "Plains",
+      "scryfall_id": "00298672-079c-4c92-9916-0bc2893898d0"
+    },
+    {
+      "id": "8de32853-f3d2-41ae-a55d-e19e3827fb6e",
+      "set_code": "BRB",
+      "collector_number": "129",
+      "name": "Plains",
+      "scryfall_id": "36006f55-4ac0-493f-8dec-d041f5f31ef1"
+    },
+    {
+      "id": "4ad6c001-3f53-4dea-82f6-fad89864d1f4",
+      "set_code": "BRB",
+      "collector_number": "130",
+      "name": "Plains",
+      "scryfall_id": "26a3b55a-c810-4244-8461-f10ed14746b2"
+    },
+    {
+      "id": "e1ac4f6e-77b6-4f7b-8e18-374eb051b6a3",
+      "set_code": "BRB",
+      "collector_number": "131",
+      "name": "Plains",
+      "scryfall_id": "be568e2b-01f9-4501-8074-e43dc517e80e"
+    },
+    {
+      "id": "7d29e060-4ef8-45ea-8e82-e246f3e6e4ac",
+      "set_code": "BRB",
+      "collector_number": "132",
+      "name": "Plains",
+      "scryfall_id": "85ea5151-e11a-475a-9788-bdf01cc85827"
+    },
+    {
+      "id": "8a92cee5-807f-4da8-957b-1f0a3b31fdf4",
+      "set_code": "BRB",
+      "collector_number": "133",
+      "name": "Swamp",
+      "scryfall_id": "a1fdcc40-421e-42c1-8152-948b0f2afd4f"
+    },
+    {
+      "id": "db9718b2-969b-47e9-bb90-0651b550afb5",
+      "set_code": "BRB",
+      "collector_number": "134",
+      "name": "Swamp",
+      "scryfall_id": "d7a94ce7-4072-4bda-8095-329309044ec4"
+    },
+    {
+      "id": "931fabe5-509a-428e-8dfe-f3eee66b52a7",
+      "set_code": "BRB",
+      "collector_number": "135",
+      "name": "Swamp",
+      "scryfall_id": "6d8c4624-87f1-437e-a3c1-d2ba19896920"
+    },
+    {
+      "id": "061675ba-c9ea-483f-9ee9-99e853673f5a",
+      "set_code": "BRB",
+      "collector_number": "136",
+      "name": "Swamp",
+      "scryfall_id": "1a85050a-c5f1-47ce-9273-e19fe8401e84"
+    }
+  ]
+}

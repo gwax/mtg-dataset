@@ -1,0 +1,477 @@
+{
+  "id": "05b85103-7048-40d6-914d-21bafdaeb3d8",
+  "code": "DDO",
+  "name": "Duel Decks: Elspeth vs. Kiora",
+  "scryfall_id": "6b350326-34f3-43c6-8df5-2b1d9a61ceff",
+  "cards": [
+    {
+      "id": "809a36d0-9b7c-4dab-8a7b-e74c9acd7e70",
+      "set_code": "DDO",
+      "collector_number": "1",
+      "name": "Elspeth, Sun's Champion",
+      "scryfall_id": "96f1d11a-084d-4de7-9ed4-33158113520c"
+    },
+    {
+      "id": "7ba71723-2aa4-4553-bb77-36a6876cdbf7",
+      "set_code": "DDO",
+      "collector_number": "2",
+      "name": "Banisher Priest",
+      "scryfall_id": "1e764652-b7c7-4a40-a61d-388e9dd2ce0b"
+    },
+    {
+      "id": "1c19c329-0959-4b14-98e5-8e23982375b6",
+      "set_code": "DDO",
+      "collector_number": "3",
+      "name": "Captain of the Watch",
+      "scryfall_id": "6e201980-e220-44dc-beab-ad13c20332bd"
+    },
+    {
+      "id": "fb34fbed-6a91-47eb-a37f-dfe936f1c14e",
+      "set_code": "DDO",
+      "collector_number": "4",
+      "name": "Celestial Flare",
+      "scryfall_id": "ea0bf615-b655-4988-bb35-e981d4f30659"
+    },
+    {
+      "id": "d3df5401-fd68-4fea-b762-7c471006f374",
+      "set_code": "DDO",
+      "collector_number": "5",
+      "name": "Court Street Denizen",
+      "scryfall_id": "bae48cc1-d903-48bf-86fa-8a40321026e6"
+    },
+    {
+      "id": "0c502b82-867e-4a72-bacf-363df6ea80e8",
+      "set_code": "DDO",
+      "collector_number": "6",
+      "name": "Dauntless Onslaught",
+      "scryfall_id": "0da57140-ccd3-4729-a892-fe2bb719d410"
+    },
+    {
+      "id": "6a4bb4a7-05a3-4db1-9cd8-f6ce8332103b",
+      "set_code": "DDO",
+      "collector_number": "7",
+      "name": "Decree of Justice",
+      "scryfall_id": "55d084fb-231f-4296-9db3-e4edf7ecfe1f"
+    },
+    {
+      "id": "23cee40c-2e95-4dbc-baa1-0df97ac91e6f",
+      "set_code": "DDO",
+      "collector_number": "8",
+      "name": "Dictate of Heliod",
+      "scryfall_id": "aa103dfb-20a0-4a7b-a34b-99339f0364a7"
+    },
+    {
+      "id": "58d577dc-65a8-4934-9239-cde840190dd4",
+      "set_code": "DDO",
+      "collector_number": "9",
+      "name": "Gempalm Avenger",
+      "scryfall_id": "3267bf08-7585-4e2e-b472-97a357d264dc"
+    },
+    {
+      "id": "73b06e95-3650-4a66-9994-5a409aec7ea2",
+      "set_code": "DDO",
+      "collector_number": "10",
+      "name": "Gustcloak Harrier",
+      "scryfall_id": "46f9c5ab-f793-4cf2-b88a-5af38a7b4616"
+    },
+    {
+      "id": "3eddd0ce-c112-487f-aa00-89eafddabced",
+      "set_code": "DDO",
+      "collector_number": "11",
+      "name": "Gustcloak Savior",
+      "scryfall_id": "5303ce82-e82a-498e-af4f-16a56d8188ff"
+    },
+    {
+      "id": "a222c993-ca30-4a0f-9890-4915fac6c0c9",
+      "set_code": "DDO",
+      "collector_number": "12",
+      "name": "Gustcloak Sentinel",
+      "scryfall_id": "f6aba9c7-7f91-4f06-915b-70ed7db8f95f"
+    },
+    {
+      "id": "8bcc167a-eb5d-4246-b881-711c8f8fdb75",
+      "set_code": "DDO",
+      "collector_number": "13",
+      "name": "Gustcloak Skirmisher",
+      "scryfall_id": "c2ef15f8-4d37-4ea1-a8a2-6383f6be088f"
+    },
+    {
+      "id": "7ac48afb-b874-4c5b-a56a-b0add9387042",
+      "set_code": "DDO",
+      "collector_number": "14",
+      "name": "Icatian Javelineers",
+      "scryfall_id": "1ae589f5-a513-4d3c-b3fa-66eead66faf3"
+    },
+    {
+      "id": "3e12bd3c-8c63-42b9-84be-1c3a1f734370",
+      "set_code": "DDO",
+      "collector_number": "15",
+      "name": "Kinsbaile Skirmisher",
+      "scryfall_id": "257c396c-d8cc-487c-a6cb-2892c7e568a1"
+    },
+    {
+      "id": "613d29ea-81e8-4354-aa97-f300f6bd55a0",
+      "set_code": "DDO",
+      "collector_number": "16",
+      "name": "Kor Skyfisher",
+      "scryfall_id": "a958971e-5678-4858-b08c-81b5b419fa89"
+    },
+    {
+      "id": "20ee5f34-51f9-4719-874a-f4eb8fc29c30",
+      "set_code": "DDO",
+      "collector_number": "17",
+      "name": "Loxodon Partisan",
+      "scryfall_id": "9fc32454-fc44-454e-ba25-7bd0687cf99d"
+    },
+    {
+      "id": "ff4ee96b-ef3f-4bcb-b514-f5841fd39d33",
+      "set_code": "DDO",
+      "collector_number": "18",
+      "name": "Mighty Leap",
+      "scryfall_id": "9d260f22-e2a1-4cdb-a519-c24612d4a9c0"
+    },
+    {
+      "id": "68f2b18e-2435-452e-b87b-066d967d072a",
+      "set_code": "DDO",
+      "collector_number": "19",
+      "name": "Mortal's Ardor",
+      "scryfall_id": "75743f66-fd2d-47e7-b56f-1c95311d09c2"
+    },
+    {
+      "id": "3f1bc0ef-d47f-48f5-bbb4-a4b0d4d90ccb",
+      "set_code": "DDO",
+      "collector_number": "20",
+      "name": "Mother of Runes",
+      "scryfall_id": "cb39d0c3-ba52-4662-b190-929b9ab9911f"
+    },
+    {
+      "id": "dd355d57-724d-4b58-8700-d7bac835a4fa",
+      "set_code": "DDO",
+      "collector_number": "21",
+      "name": "Noble Templar",
+      "scryfall_id": "9afe8b9e-bb14-44d5-b5da-627835ee457f"
+    },
+    {
+      "id": "6b7129df-30f2-429f-be3e-f6928d74dffe",
+      "set_code": "DDO",
+      "collector_number": "22",
+      "name": "Precinct Captain",
+      "scryfall_id": "deb53c15-2662-4831-a9d8-b7aa213d2908"
+    },
+    {
+      "id": "ca28c354-fb2e-4054-bcd7-4c0984350081",
+      "set_code": "DDO",
+      "collector_number": "23",
+      "name": "Raise the Alarm",
+      "scryfall_id": "88de2062-a7f9-49b1-8bc0-0794922ca475"
+    },
+    {
+      "id": "19c47b8e-2ddf-4d58-b6f5-81ed819e0083",
+      "set_code": "DDO",
+      "collector_number": "24",
+      "name": "Soul Parry",
+      "scryfall_id": "0cc10941-25b4-43cb-8689-c96659bd471d"
+    },
+    {
+      "id": "9e9a77f0-d848-41c5-b20f-fcb25862f57f",
+      "set_code": "DDO",
+      "collector_number": "25",
+      "name": "Standing Troops",
+      "scryfall_id": "608851ef-ea3a-4e9d-8923-f34d070a76f5"
+    },
+    {
+      "id": "bb0514ad-22b9-4930-b83b-76a720361b4d",
+      "set_code": "DDO",
+      "collector_number": "26",
+      "name": "Sunlance",
+      "scryfall_id": "6dfa9acd-d526-4378-b055-6feffb53f3b3"
+    },
+    {
+      "id": "2e236ced-2d8e-40df-81b5-8260c95b9910",
+      "set_code": "DDO",
+      "collector_number": "27",
+      "name": "Veteran Armorsmith",
+      "scryfall_id": "565c750e-47f9-4878-abff-ec973ec6d8a4"
+    },
+    {
+      "id": "a137a60e-3c36-4562-b0bb-4a2f09780c5a",
+      "set_code": "DDO",
+      "collector_number": "28",
+      "name": "Veteran Swordsmith",
+      "scryfall_id": "e6ac8dd2-f7af-44b6-841a-f0b6a4961e26"
+    },
+    {
+      "id": "cc5f0057-9b50-435f-bcd4-b0096e525c88",
+      "set_code": "DDO",
+      "collector_number": "29",
+      "name": "Secluded Steppe",
+      "scryfall_id": "dd65f598-c8f5-4e53-a011-9742c66a1698"
+    },
+    {
+      "id": "610f47aa-0494-43be-b2b7-7da6466946ea",
+      "set_code": "DDO",
+      "collector_number": "30",
+      "name": "Plains",
+      "scryfall_id": "27462523-a5b9-440a-8220-68ae46db5f18"
+    },
+    {
+      "id": "d303c4a5-d8ed-48de-8f3d-c6fa28ac5217",
+      "set_code": "DDO",
+      "collector_number": "31",
+      "name": "Plains",
+      "scryfall_id": "36392057-e3a8-433f-949a-f62af913598d"
+    },
+    {
+      "id": "f19d6ad3-0d0c-443d-905c-66ee6c041f22",
+      "set_code": "DDO",
+      "collector_number": "32",
+      "name": "Plains",
+      "scryfall_id": "29d7f240-803a-4c11-8f4c-6a784566ee13"
+    },
+    {
+      "id": "3e4fb8b0-68e8-4afd-95f7-ba3cb002716c",
+      "set_code": "DDO",
+      "collector_number": "33",
+      "name": "Plains",
+      "scryfall_id": "4d879a13-6ec3-44da-b3fd-d9c1545f3822"
+    },
+    {
+      "id": "4234b0be-ed30-456f-a2a8-e1abac37cf84",
+      "set_code": "DDO",
+      "collector_number": "34",
+      "name": "Kiora, the Crashing Wave",
+      "scryfall_id": "0c5c6b15-b72d-4341-92c2-7469210452da"
+    },
+    {
+      "id": "8892e3be-359d-43e6-92ee-d020588dec9f",
+      "set_code": "DDO",
+      "collector_number": "35",
+      "name": "Accumulated Knowledge",
+      "scryfall_id": "6a3bbcf1-d475-4b64-b9e8-14c22643b3e2"
+    },
+    {
+      "id": "5ca66235-f93a-4c2c-ab02-54a4582cff2d",
+      "set_code": "DDO",
+      "collector_number": "36",
+      "name": "Aetherize",
+      "scryfall_id": "7b7283bc-6407-4715-9d0a-19c3cca1dbd0"
+    },
+    {
+      "id": "f9e08a47-9100-427c-b2dc-6e1ef2b4565f",
+      "set_code": "DDO",
+      "collector_number": "37",
+      "name": "Inkwell Leviathan",
+      "scryfall_id": "9e6b085f-92e8-4916-9f2c-0035b2acd5b9"
+    },
+    {
+      "id": "754169d5-df26-4497-aac7-68de3394b762",
+      "set_code": "DDO",
+      "collector_number": "38",
+      "name": "Man-o'-War",
+      "scryfall_id": "2ae00721-4918-4999-bc3e-ff2531b42df3"
+    },
+    {
+      "id": "0128d957-293e-477d-b231-2c137c906a5d",
+      "set_code": "DDO",
+      "collector_number": "39",
+      "name": "Omenspeaker",
+      "scryfall_id": "a2f7a05c-0cc2-4126-a1fe-295421f58f17"
+    },
+    {
+      "id": "65a02d20-8d3b-4d94-a490-b3bb31dd69da",
+      "set_code": "DDO",
+      "collector_number": "40",
+      "name": "Peel from Reality",
+      "scryfall_id": "fb56f097-0878-40bc-83ea-d28bcd91125b"
+    },
+    {
+      "id": "b0fb8dc9-98c2-464d-a605-8caa58fc3bbc",
+      "set_code": "DDO",
+      "collector_number": "41",
+      "name": "Scourge of Fleets",
+      "scryfall_id": "48bf5880-b118-4f09-858b-ac4c369945e8"
+    },
+    {
+      "id": "5782b0be-853e-439f-b4b6-773a8e877dc4",
+      "set_code": "DDO",
+      "collector_number": "42",
+      "name": "Sealock Monster",
+      "scryfall_id": "cdd98556-42d5-497e-90c7-f3255c0a8863"
+    },
+    {
+      "id": "eed76763-85e0-4cc5-aaa0-c587405ee88e",
+      "set_code": "DDO",
+      "collector_number": "43",
+      "name": "Surrakar Banisher",
+      "scryfall_id": "bd577743-43af-4215-8585-52f714694c6e"
+    },
+    {
+      "id": "6ed8d7c1-5086-4a7a-b719-f8162c4868bc",
+      "set_code": "DDO",
+      "collector_number": "44",
+      "name": "Whelming Wave",
+      "scryfall_id": "a0221f1b-90ed-4dd1-9fdd-84791d30659d"
+    },
+    {
+      "id": "f232bb6e-a1e2-4381-94f7-289eeca80a5c",
+      "set_code": "DDO",
+      "collector_number": "45",
+      "name": "Explore",
+      "scryfall_id": "bd15599d-62a0-42e2-acf7-63d7220a4418"
+    },
+    {
+      "id": "0b6b174d-10de-4c26-89bd-f3fd1bf637b0",
+      "set_code": "DDO",
+      "collector_number": "46",
+      "name": "Explosive Vegetation",
+      "scryfall_id": "88355a15-09fc-490c-8df3-e957bcf1702e"
+    },
+    {
+      "id": "aa05faef-eeca-4d84-94eb-7bc1bed6a8fc",
+      "set_code": "DDO",
+      "collector_number": "47",
+      "name": "Grazing Gladehart",
+      "scryfall_id": "b28e631b-c0df-4274-af66-f525342d268e"
+    },
+    {
+      "id": "a4f3d6c0-9ef4-435c-9406-c8449298c7c3",
+      "set_code": "DDO",
+      "collector_number": "48",
+      "name": "Nessian Asp",
+      "scryfall_id": "788c502d-360e-4610-b5a3-c9ed0af01b1d"
+    },
+    {
+      "id": "c33e253f-7e09-4f68-ace3-a9a2a3bc5fce",
+      "set_code": "DDO",
+      "collector_number": "49",
+      "name": "Netcaster Spider",
+      "scryfall_id": "eeb44caf-09b6-430d-99e1-3597f703d5e0"
+    },
+    {
+      "id": "d41ab5cc-a605-4ffe-9b9f-b2410e231dd7",
+      "set_code": "DDO",
+      "collector_number": "50",
+      "name": "Time to Feed",
+      "scryfall_id": "32561f72-bb4d-44b2-9c90-9d1041cf3699"
+    },
+    {
+      "id": "866fd4c4-8bec-412f-8b06-7b39ee68970c",
+      "set_code": "DDO",
+      "collector_number": "51",
+      "name": "Coiling Oracle",
+      "scryfall_id": "41eed468-cd79-4c88-97d5-72b7818c78cb"
+    },
+    {
+      "id": "8455beaa-a377-4df3-9c18-318b49c7f4b3",
+      "set_code": "DDO",
+      "collector_number": "52",
+      "name": "Kiora's Follower",
+      "scryfall_id": "d9704f4f-eb5b-4862-8efd-ff1d8fd4177a"
+    },
+    {
+      "id": "5875fa94-5221-4ea0-bd41-86ac738d58b1",
+      "set_code": "DDO",
+      "collector_number": "53",
+      "name": "Lorescale Coatl",
+      "scryfall_id": "4c188862-8b41-4e68-87dc-6304c8e17032"
+    },
+    {
+      "id": "10c49a76-5f14-446c-966a-8ad471c8dca9",
+      "set_code": "DDO",
+      "collector_number": "54",
+      "name": "Nimbus Swimmer",
+      "scryfall_id": "1efbf7be-bc11-4285-a37d-83790b292b3a"
+    },
+    {
+      "id": "cac68c28-f9c5-4a0d-96b5-f29466f9dac5",
+      "set_code": "DDO",
+      "collector_number": "55",
+      "name": "Plasm Capture",
+      "scryfall_id": "37fa090d-b756-4de3-8dcb-c20c5fcd4c6a"
+    },
+    {
+      "id": "5c7503bd-2722-4173-9e28-f70b7369dce7",
+      "set_code": "DDO",
+      "collector_number": "56",
+      "name": "Simic Sky Swallower",
+      "scryfall_id": "b49187e9-f3c0-4e8a-8d7e-4258a67fa9d4"
+    },
+    {
+      "id": "0f11ce52-1e0c-41b5-b9fe-224d531e287b",
+      "set_code": "DDO",
+      "collector_number": "57",
+      "name": "Urban Evolution",
+      "scryfall_id": "6167aa4f-666d-4908-b2e5-a30a131d2727"
+    },
+    {
+      "id": "8c7a2366-aba8-4cca-bf55-70ab9efc2341",
+      "set_code": "DDO",
+      "collector_number": "58",
+      "name": "Evolving Wilds",
+      "scryfall_id": "107cd283-de27-494f-90b8-0dec55745255"
+    },
+    {
+      "id": "eccddcfc-d3f6-4ec9-b3ed-3e9eb576fa58",
+      "set_code": "DDO",
+      "collector_number": "59",
+      "name": "Temple of the False God",
+      "scryfall_id": "973c2d21-f81a-432e-a4a4-53a764e1a6ff"
+    },
+    {
+      "id": "d19fbc46-7cad-4098-8588-b6dc133d275a",
+      "set_code": "DDO",
+      "collector_number": "60",
+      "name": "Island",
+      "scryfall_id": "f8123a70-0c28-4e8b-9e13-d6b5c7eb54f4"
+    },
+    {
+      "id": "5274a966-43ea-4eda-a3a3-37758e91242b",
+      "set_code": "DDO",
+      "collector_number": "61",
+      "name": "Island",
+      "scryfall_id": "8c1482b0-9792-4c58-a075-26e8f485f78b"
+    },
+    {
+      "id": "5b244ba9-c687-4175-b485-f54d6511196f",
+      "set_code": "DDO",
+      "collector_number": "62",
+      "name": "Island",
+      "scryfall_id": "e91f9c5d-bad6-4c29-b755-d81aa704cf53"
+    },
+    {
+      "id": "f779e7c1-29a6-4e73-968b-2a69a41cb330",
+      "set_code": "DDO",
+      "collector_number": "63",
+      "name": "Forest",
+      "scryfall_id": "3dc61690-30c6-4374-8777-e1802e9e164c"
+    },
+    {
+      "id": "a45f542f-c21c-49d5-934d-e9cf8f8269e6",
+      "set_code": "DDO",
+      "collector_number": "64",
+      "name": "Forest",
+      "scryfall_id": "6a0715a0-dce2-427d-964c-0e179309499d"
+    },
+    {
+      "id": "d2a18f19-b841-45dc-97d6-b0927ff00dad",
+      "set_code": "DDO",
+      "collector_number": "65",
+      "name": "Forest",
+      "scryfall_id": "7272906c-14f2-4e06-bbea-b461369e151a"
+    },
+    {
+      "id": "b68c82d6-7e11-4224-8988-b366a12968f0",
+      "set_code": "DDO",
+      "collector_number": "66",
+      "name": "Soldier",
+      "scryfall_id": "44b4dbfa-2d32-4232-9518-b85df3df708b"
+    },
+    {
+      "id": "e246cb56-e545-4823-80d9-3d127681ff43",
+      "set_code": "DDO",
+      "collector_number": "67",
+      "name": "Kraken",
+      "scryfall_id": "d0cd85cc-ad22-446b-8378-5eb69fee1959"
+    }
+  ]
+}

@@ -1,0 +1,2157 @@
+{
+  "id": "4d13fcb7-218f-4bac-ae15-8a3d8eccc127",
+  "code": "PTC",
+  "name": "Pro Tour Collector Set",
+  "scryfall_id": "d909bcc0-dda6-4802-a5bc-a8e57ddd4dea",
+  "cards": [
+    {
+      "id": "365fa8fd-f43f-4ba1-822b-6454161520c5",
+      "set_code": "PTC",
+      "collector_number": "bl1sb",
+      "name": "Abbey Gargoyles",
+      "scryfall_id": "b1fe1429-d008-4a41-b16f-b823d5979026"
+    },
+    {
+      "id": "982b0fea-f378-45f0-859a-8f76a4f9579e",
+      "set_code": "PTC",
+      "collector_number": "bl5",
+      "name": "Armageddon",
+      "scryfall_id": "7e33e463-4e90-4adf-ad6c-66aa8e8dd0dd"
+    },
+    {
+      "id": "ad8edc54-5c25-418f-ae99-70dc82433768",
+      "set_code": "PTC",
+      "collector_number": "bl6",
+      "name": "Balance",
+      "scryfall_id": "3f4f3c43-11bb-4678-b8fe-11e55a7d7831"
+    },
+    {
+      "id": "dedf663a-38d3-488f-8254-8f17fc587808",
+      "set_code": "PTC",
+      "collector_number": "bl6sb",
+      "name": "Divine Offering",
+      "scryfall_id": "726294f3-c69a-4ea7-ad43-4f3b298e3b93"
+    },
+    {
+      "id": "dbf0f51b-0d80-4cb8-9a14-181acdc061aa",
+      "set_code": "PTC",
+      "collector_number": "bl14sb",
+      "name": "Circle of Protection: Green",
+      "scryfall_id": "96f45b89-4ad4-4737-892b-a7197fa25689"
+    },
+    {
+      "id": "24867946-c412-4021-bfbe-3a13672214c6",
+      "set_code": "PTC",
+      "collector_number": "bl15sb",
+      "name": "Circle of Protection: Red",
+      "scryfall_id": "9000170d-8114-4b7a-88aa-f75150e26334"
+    },
+    {
+      "id": "acfa8d84-372d-4e8e-8ffd-000687d61e63",
+      "set_code": "PTC",
+      "collector_number": "bl16a",
+      "name": "Order of Leitbur",
+      "scryfall_id": "ef37f9bd-25bb-46e6-80a0-60948232a2ac"
+    },
+    {
+      "id": "4855dbbc-673f-4f5f-9264-2d0ab11838a7",
+      "set_code": "PTC",
+      "collector_number": "bl16sb",
+      "name": "Circle of Protection: Green",
+      "scryfall_id": "a485302b-33f8-41d5-9ee2-6af149286212"
+    },
+    {
+      "id": "a5c4ac27-650e-408a-9387-10ef7102a24b",
+      "set_code": "PTC",
+      "collector_number": "bl16b",
+      "name": "Order of Leitbur",
+      "scryfall_id": "9ce57ca9-4f95-421d-9112-7da35130e431"
+    },
+    {
+      "id": "5f826cfe-3060-4f89-b10d-cea1f648070a",
+      "set_code": "PTC",
+      "collector_number": "bl16c",
+      "name": "Order of Leitbur",
+      "scryfall_id": "e70f7a79-295e-49c4-8954-691e0b9c9190"
+    },
+    {
+      "id": "f28fe89d-955b-45ee-b358-1890255a31e7",
+      "set_code": "PTC",
+      "collector_number": "bl17sb",
+      "name": "Circle of Protection: Red",
+      "scryfall_id": "fae98ec1-7bb5-49aa-a7f5-0a6232a366ee"
+    },
+    {
+      "id": "9970d478-52ed-4e36-81f0-7fd9aa50d32d",
+      "set_code": "PTC",
+      "collector_number": "bl22",
+      "name": "Disenchant",
+      "scryfall_id": "c6c83935-113a-43f1-a05c-ba177c835df8"
+    },
+    {
+      "id": "704494cb-ec7f-4cba-b507-8f9886d8e2b3",
+      "set_code": "PTC",
+      "collector_number": "bl32sb",
+      "name": "Karma",
+      "scryfall_id": "51e5d628-8709-4ca8-9919-d249b08bdbbe"
+    },
+    {
+      "id": "7130a443-02b7-4e1a-bc79-1029b5020e5d",
+      "set_code": "PTC",
+      "collector_number": "bl34",
+      "name": "Land Tax",
+      "scryfall_id": "3113a395-dae4-49e2-ab8a-5fdfacd82c57"
+    },
+    {
+      "id": "fa5d7dcc-941f-48fa-a220-c830c534a0a2",
+      "set_code": "PTC",
+      "collector_number": "bl50",
+      "name": "Serra Angel",
+      "scryfall_id": "43d2148d-41d9-4af8-bf00-51213fdeeae5"
+    },
+    {
+      "id": "8de8f7ab-27cf-4007-a13b-3342dbdaa187",
+      "set_code": "PTC",
+      "collector_number": "bl52",
+      "name": "Swords to Plowshares",
+      "scryfall_id": "eadd0f51-703f-4235-af9a-74a1d8aeec50"
+    },
+    {
+      "id": "0adaabcc-3019-4f12-a80b-b07a9aca7c1e",
+      "set_code": "PTC",
+      "collector_number": "bl58",
+      "name": "Wrath of God",
+      "scryfall_id": "eb3f9eac-0fa2-40ed-9ecc-daf6c7c7be2f"
+    },
+    {
+      "id": "317ed1b8-dbb1-4450-8a26-0df1de498ac0",
+      "set_code": "PTC",
+      "collector_number": "bl58sb",
+      "name": "Wrath of God",
+      "scryfall_id": "1461aca9-ebde-4a0a-8795-6eeae1741137"
+    },
+    {
+      "id": "3e1069c2-4ffd-44fb-9c11-0c9c434af3ae",
+      "set_code": "PTC",
+      "collector_number": "bl64",
+      "name": "Erhnam Djinn",
+      "scryfall_id": "b7e0a495-53c8-4c0a-953d-ccb26dd19e84"
+    },
+    {
+      "id": "d3ba32d0-2968-4909-b6d3-cae2922f6907",
+      "set_code": "PTC",
+      "collector_number": "bl83",
+      "name": "Autumn Willow",
+      "scryfall_id": "4fa92866-b5ff-4548-a659-935391987cc9"
+    },
+    {
+      "id": "f5b5ec77-7e25-4bba-9956-884fa73d5618",
+      "set_code": "PTC",
+      "collector_number": "bl96",
+      "name": "Havenwood Battleground",
+      "scryfall_id": "f5dee390-c16e-4b97-afe3-ef16f97a79f2"
+    },
+    {
+      "id": "7dbb833f-9d44-4f2c-8f6f-a62fc4637516",
+      "set_code": "PTC",
+      "collector_number": "bl98",
+      "name": "Spectral Bears",
+      "scryfall_id": "27340558-0a04-4f44-8ac6-9366295fe8b0"
+    },
+    {
+      "id": "6ee1b5b2-3a3a-408c-8dd1-e440c5f59d8e",
+      "set_code": "PTC",
+      "collector_number": "bl100",
+      "name": "Ruins of Trokair",
+      "scryfall_id": "9314d82b-43f1-4588-86ac-3d3b441532d8"
+    },
+    {
+      "id": "53aab852-d590-443f-b556-121bea2343f0",
+      "set_code": "PTC",
+      "collector_number": "bl244",
+      "name": "Fyndhorn Elves",
+      "scryfall_id": "158bf702-61be-483b-864c-e3ef010c10d2"
+    },
+    {
+      "id": "b755fb4f-7ce6-452a-afb7-5b52fc1e4859",
+      "set_code": "PTC",
+      "collector_number": "bl261",
+      "name": "Llanowar Elves",
+      "scryfall_id": "9636bb2a-0d7f-42d7-9757-15508baefb45"
+    },
+    {
+      "id": "7354d73e-2912-4e29-9b79-c83970eaa12b",
+      "set_code": "PTC",
+      "collector_number": "bl273",
+      "name": "Sylvan Library",
+      "scryfall_id": "65186778-f0da-42e4-845a-2032cc4f4c0d"
+    },
+    {
+      "id": "a9dee275-f62a-4f1b-b430-2f518e633c43",
+      "set_code": "PTC",
+      "collector_number": "bl288sb",
+      "name": "Whirling Dervish",
+      "scryfall_id": "a69975b4-f585-4c68-809c-7180991bd33f"
+    },
+    {
+      "id": "f8675011-593d-488d-be7b-13bbab1b4275",
+      "set_code": "PTC",
+      "collector_number": "bl299sb",
+      "name": "Black Vise",
+      "scryfall_id": "5c0cc15b-b5e4-4bee-b8e9-86e01173c6f0"
+    },
+    {
+      "id": "a677daf3-5d47-437a-90d8-55efc68a0da5",
+      "set_code": "PTC",
+      "collector_number": "bl319",
+      "name": "Fellwar Stone",
+      "scryfall_id": "8c455dac-f17e-4d55-8190-68c81281204f"
+    },
+    {
+      "id": "aa8f599e-3b83-48de-8f31-27dbeb05414b",
+      "set_code": "PTC",
+      "collector_number": "bl322",
+      "name": "Icy Manipulator",
+      "scryfall_id": "1a99b138-dd24-4336-b58c-b8d4e5a84997"
+    },
+    {
+      "id": "0fbe9693-5238-43e4-8d4b-ff623f5cbd50",
+      "set_code": "PTC",
+      "collector_number": "bl328",
+      "name": "Ivory Tower",
+      "scryfall_id": "b0366004-6686-47bd-a531-1042a8cce2ed"
+    },
+    {
+      "id": "a28f1186-4c97-4b1f-ab32-c4801d0941ac",
+      "set_code": "PTC",
+      "collector_number": "bl350",
+      "name": "Zuran Orb",
+      "scryfall_id": "4a18a609-2c36-4cc7-a4d6-de54d8608474"
+    },
+    {
+      "id": "0cf1df31-746d-42a1-a6a1-64b5b58ea976",
+      "set_code": "PTC",
+      "collector_number": "bl352",
+      "name": "Brushland",
+      "scryfall_id": "a7b19e1c-b74f-4608-ad8f-9c82292ceea2"
+    },
+    {
+      "id": "40eb1fc5-1225-4a32-bbe0-12d142f060a1",
+      "set_code": "PTC",
+      "collector_number": "bl363",
+      "name": "Strip Mine",
+      "scryfall_id": "db56ca7b-1bdc-49ae-adc4-cb0edba51416"
+    },
+    {
+      "id": "8736c539-1878-4e2d-8c52-2812de9fca2f",
+      "set_code": "PTC",
+      "collector_number": "bl364",
+      "name": "Plains",
+      "scryfall_id": "4528641d-8e3f-4f9f-aff1-94e88cf7eb3a"
+    },
+    {
+      "id": "4ceb5438-df30-461d-943f-0251da4bb380",
+      "set_code": "PTC",
+      "collector_number": "bl365",
+      "name": "Plains",
+      "scryfall_id": "6e3231c3-57d2-47d8-97cd-65dda2bc97e2"
+    },
+    {
+      "id": "660d8392-17e6-485c-a24e-6ea4eab3dde6",
+      "set_code": "PTC",
+      "collector_number": "bl366",
+      "name": "Plains",
+      "scryfall_id": "dd29103a-f34a-4d4e-83a8-93a1a590d3c5"
+    },
+    {
+      "id": "95c8fb93-91de-4bc1-958c-d447440ab959",
+      "set_code": "PTC",
+      "collector_number": "bl376",
+      "name": "Forest",
+      "scryfall_id": "c9a8b574-280b-452a-98c9-cd775650d59c"
+    },
+    {
+      "id": "173f6c75-fc76-49ec-949f-be40980dd568",
+      "set_code": "PTC",
+      "collector_number": "bl377",
+      "name": "Forest",
+      "scryfall_id": "fc141ede-0aec-48af-a24e-237fdc16cb7f"
+    },
+    {
+      "id": "64579c9c-7b8c-4d30-9b47-1124041c33b3",
+      "set_code": "PTC",
+      "collector_number": "bl378",
+      "name": "Forest",
+      "scryfall_id": "3758e2e6-3147-4b4f-82a7-491c963c0fa8"
+    },
+    {
+      "id": "fffefb07-7dd0-4506-9172-bf9033213038",
+      "set_code": "PTC",
+      "collector_number": "et6",
+      "name": "Balance",
+      "scryfall_id": "8745833d-fa67-4af7-9f35-534ad99e7bef"
+    },
+    {
+      "id": "5f4c3791-e15f-4949-af57-58c6210f2c00",
+      "set_code": "PTC",
+      "collector_number": "et6sb",
+      "name": "Divine Offering",
+      "scryfall_id": "7f30b7cb-b93a-450b-96f4-de2e132e65db"
+    },
+    {
+      "id": "f30d4a51-d3fa-4826-8ca1-4b0fa0606db5",
+      "set_code": "PTC",
+      "collector_number": "et8",
+      "name": "Blinking Spirit",
+      "scryfall_id": "bfbab7f8-6fd8-4aaa-bd0f-0a1ecd247547"
+    },
+    {
+      "id": "4e33641e-8241-4393-87a7-09386c93b38b",
+      "set_code": "PTC",
+      "collector_number": "et15",
+      "name": "Icatian Town",
+      "scryfall_id": "fa779cce-f112-4a58-b87d-46445848793b"
+    },
+    {
+      "id": "1288375c-ca77-4038-9751-36a8faf9cee3",
+      "set_code": "PTC",
+      "collector_number": "et15sb",
+      "name": "Icatian Town",
+      "scryfall_id": "e6ebd5ea-df3f-4cea-bdd1-97ff1776630a"
+    },
+    {
+      "id": "53612a31-c905-49f7-af70-29ccdc0e4b7b",
+      "set_code": "PTC",
+      "collector_number": "et17sb",
+      "name": "Circle of Protection: Red",
+      "scryfall_id": "8d6f8946-9a54-4bdd-b6ce-cf49ab7c2323"
+    },
+    {
+      "id": "d957cc4e-65bd-42a3-a0d7-28d138903d81",
+      "set_code": "PTC",
+      "collector_number": "et22",
+      "name": "Disenchant",
+      "scryfall_id": "0bfcd57d-ff58-4782-b526-c03770c8a76e"
+    },
+    {
+      "id": "ee6dcf74-b14e-4a9d-a174-62656ad6dad1",
+      "set_code": "PTC",
+      "collector_number": "et24sb",
+      "name": "Energy Storm",
+      "scryfall_id": "c8e9bfa8-4f74-49f8-8daa-9ee1f481ba99"
+    },
+    {
+      "id": "65c73ec6-1027-4a17-b347-4282b1ea22f2",
+      "set_code": "PTC",
+      "collector_number": "et34",
+      "name": "Land Tax",
+      "scryfall_id": "d227b319-c39a-4e50-84e4-a4b96d919ccd"
+    },
+    {
+      "id": "059902b8-99a9-4dd0-8a14-dd916fdf9f1f",
+      "set_code": "PTC",
+      "collector_number": "et45sb",
+      "name": "Reverse Damage",
+      "scryfall_id": "a63b4cc3-d069-4bfd-97db-b911dfc89061"
+    },
+    {
+      "id": "e86c0e83-1fc9-4736-93c9-fa50cea96617",
+      "set_code": "PTC",
+      "collector_number": "et48sb",
+      "name": "An-Zerrin Ruins",
+      "scryfall_id": "0d10002b-6142-49c7-b507-ad06634a1f3b"
+    },
+    {
+      "id": "414fb7cf-b3a4-43eb-982c-76c969a1d875",
+      "set_code": "PTC",
+      "collector_number": "et50",
+      "name": "Serra Angel",
+      "scryfall_id": "7f9595c6-7de4-4c2e-827e-668dccb0e6fe"
+    },
+    {
+      "id": "d1dc4133-7c53-4235-9497-3312b7e6b019",
+      "set_code": "PTC",
+      "collector_number": "et51sb",
+      "name": "Dwarven Catapult",
+      "scryfall_id": "302fc651-90f7-476d-9197-fa52c9f13923"
+    },
+    {
+      "id": "a644b7f5-e522-4343-a9c9-3d1246c6e674",
+      "set_code": "PTC",
+      "collector_number": "et52",
+      "name": "Swords to Plowshares",
+      "scryfall_id": "5f3fe6b7-3f77-4670-bd26-2914588271c2"
+    },
+    {
+      "id": "13396b66-8ab9-444d-98d3-5f25b06f9219",
+      "set_code": "PTC",
+      "collector_number": "et52sb",
+      "name": "Swords to Plowshares",
+      "scryfall_id": "c9c10b68-7ac5-4c0a-8fe5-f76da619a04b"
+    },
+    {
+      "id": "81fb4e7c-6e27-410f-a30e-8a16e6673714",
+      "set_code": "PTC",
+      "collector_number": "et58",
+      "name": "Wrath of God",
+      "scryfall_id": "96022516-7a20-4e07-ad2f-39f76608c38d"
+    },
+    {
+      "id": "3622ab67-760f-4ff2-b95b-cca1f5299d6c",
+      "set_code": "PTC",
+      "collector_number": "et63",
+      "name": "Orgg",
+      "scryfall_id": "06193130-b6cf-4d8a-af99-a88b1649a898"
+    },
+    {
+      "id": "604a3729-e774-4b1b-a96c-1911b1e36e95",
+      "set_code": "PTC",
+      "collector_number": "et64",
+      "name": "Erhnam Djinn",
+      "scryfall_id": "d3149f05-f466-4994-8546-3774a8beb156"
+    },
+    {
+      "id": "333d450d-5dcc-4818-8475-083a31d7a0e8",
+      "set_code": "PTC",
+      "collector_number": "et83",
+      "name": "Autumn Willow",
+      "scryfall_id": "ad92c3f6-f3e6-4dc8-b7a7-38e4f80dee8a"
+    },
+    {
+      "id": "7f4d4800-0317-470c-af00-acbbd22532b8",
+      "set_code": "PTC",
+      "collector_number": "et83b",
+      "name": "Autumn Willow",
+      "scryfall_id": "3ca8df50-418e-4fd7-a84f-4fddbf6a7986"
+    },
+    {
+      "id": "218fc2c3-10fc-4fbd-acd2-1f4c0c12f721",
+      "set_code": "PTC",
+      "collector_number": "et89sb",
+      "name": "Ring of Renewal",
+      "scryfall_id": "9d44967f-7739-4f63-a93a-e7277d9cc2a9"
+    },
+    {
+      "id": "8a78b04e-91ad-4635-a2ac-94c1f6ae20de",
+      "set_code": "PTC",
+      "collector_number": "et101sb",
+      "name": "Apocalypse Chime",
+      "scryfall_id": "b1ef190d-a116-4c85-9905-95fa427b146d"
+    },
+    {
+      "id": "e3931600-bc13-4e1f-be3a-d25492657c00",
+      "set_code": "PTC",
+      "collector_number": "et110",
+      "name": "Zur's Weirding",
+      "scryfall_id": "f40b592f-325f-47ee-81b2-c1e1bdd3a344"
+    },
+    {
+      "id": "bca9ecfb-686e-4b8f-87ea-02a6c9552419",
+      "set_code": "PTC",
+      "collector_number": "et110sb",
+      "name": "Serrated Arrows",
+      "scryfall_id": "8b498c09-8d71-4b91-a941-1cbe879559d5"
+    },
+    {
+      "id": "e088272d-f6e8-41da-917b-69e50d837ddb",
+      "set_code": "PTC",
+      "collector_number": "et112",
+      "name": "City of Brass",
+      "scryfall_id": "193db964-feea-4b66-bf31-67a92772b792"
+    },
+    {
+      "id": "8fe2e1aa-ca66-4cbf-9f7b-8ad9903c632a",
+      "set_code": "PTC",
+      "collector_number": "et189",
+      "name": "Earthquake",
+      "scryfall_id": "59ceebd2-5772-4bbb-9d70-e9ec98633ed8"
+    },
+    {
+      "id": "67fc76f0-2a7f-4cc9-a95e-e8cfabb0a4e3",
+      "set_code": "PTC",
+      "collector_number": "et192",
+      "name": "Fireball",
+      "scryfall_id": "de31e101-7dd4-4ba1-af95-f722b0ba0ec1"
+    },
+    {
+      "id": "49d022b5-d337-47e0-a8af-f3fceec9af2b",
+      "set_code": "PTC",
+      "collector_number": "et194",
+      "name": "Incinerate",
+      "scryfall_id": "0e92c20c-a2cf-433c-b076-39b1a90fb0ca"
+    },
+    {
+      "id": "74765a86-1987-4dfc-afff-57d9e32eb667",
+      "set_code": "PTC",
+      "collector_number": "et208",
+      "name": "Lightning Bolt",
+      "scryfall_id": "02e20655-321c-4194-ab72-b4a5473238d1"
+    },
+    {
+      "id": "ada365f6-a826-4f81-bcb0-371d7ddfd1a7",
+      "set_code": "PTC",
+      "collector_number": "et234",
+      "name": "Birds of Paradise",
+      "scryfall_id": "c81ba510-634c-42aa-9797-769526114821"
+    },
+    {
+      "id": "372b5901-a979-4f63-8292-82cdfb3afc05",
+      "set_code": "PTC",
+      "collector_number": "et304",
+      "name": "Stormbind",
+      "scryfall_id": "64440639-401d-42b8-8d1a-874929d48947"
+    },
+    {
+      "id": "4aaa7b35-5ffc-4217-8db9-6ff8ad13965a",
+      "set_code": "PTC",
+      "collector_number": "et316sb",
+      "name": "Disrupting Scepter",
+      "scryfall_id": "7895ffbf-1488-4fd7-8e9c-48fe664aa007"
+    },
+    {
+      "id": "eb702391-4dca-4ba5-9cad-6f1f7e5e3d94",
+      "set_code": "PTC",
+      "collector_number": "et319",
+      "name": "Fellwar Stone",
+      "scryfall_id": "5c0b0c96-959b-4bf3-b472-9223e0fa0e34"
+    },
+    {
+      "id": "21d75751-1016-4322-94ca-d0c1053b714a",
+      "set_code": "PTC",
+      "collector_number": "et322",
+      "name": "Icy Manipulator",
+      "scryfall_id": "30624440-4d7f-4626-bf5b-356730ce2b11"
+    },
+    {
+      "id": "3b61d461-356a-4473-a72d-de388766e9e0",
+      "set_code": "PTC",
+      "collector_number": "et331",
+      "name": "Jayemdae Tome",
+      "scryfall_id": "d102fea4-e43d-42df-b5e6-31c8007658ee"
+    },
+    {
+      "id": "46a96cf2-085e-4338-aa4a-066af59b7b37",
+      "set_code": "PTC",
+      "collector_number": "et338sb",
+      "name": "Nevinyrral's Disk",
+      "scryfall_id": "07011574-e1c8-443b-8f74-e4ced09f10ae"
+    },
+    {
+      "id": "7a2561f2-479c-404a-adbd-896e55d6b29e",
+      "set_code": "PTC",
+      "collector_number": "et350",
+      "name": "Zuran Orb",
+      "scryfall_id": "2b574e64-13f2-4295-a46d-56f87d4486ea"
+    },
+    {
+      "id": "5e86dc3d-61e0-460c-b71e-68fee0621a58",
+      "set_code": "PTC",
+      "collector_number": "et352",
+      "name": "Brushland",
+      "scryfall_id": "b6b28a55-23a0-4b5d-b7d3-b9df7e4a7718"
+    },
+    {
+      "id": "9488db8b-633f-48fb-b588-882feab7b02b",
+      "set_code": "PTC",
+      "collector_number": "et356",
+      "name": "Karplusan Forest",
+      "scryfall_id": "0b84d68b-72b5-4fd3-a6f9-80ac26f16583"
+    },
+    {
+      "id": "02f5e1c7-c874-4af8-9f19-8f73a8ae242a",
+      "set_code": "PTC",
+      "collector_number": "et361",
+      "name": "Mishra's Factory",
+      "scryfall_id": "d0dcf152-916e-4603-a688-7a05b57d1b4c"
+    },
+    {
+      "id": "c1e6ac3a-2cbc-410c-bc6f-fc458410d540",
+      "set_code": "PTC",
+      "collector_number": "et364",
+      "name": "Plains",
+      "scryfall_id": "7d39625b-cfc5-439e-b888-fbd7849f47a6"
+    },
+    {
+      "id": "d065c77c-f167-4677-9d7c-67286fc731cf",
+      "set_code": "PTC",
+      "collector_number": "et365",
+      "name": "Plains",
+      "scryfall_id": "2d0ee927-f9f4-48d7-814a-5957ac71aea6"
+    },
+    {
+      "id": "faa358ce-85d2-467c-9e24-e24d20fe28a1",
+      "set_code": "PTC",
+      "collector_number": "et366",
+      "name": "Plains",
+      "scryfall_id": "73d7ccab-4d35-495d-a45f-b6b98d32ba03"
+    },
+    {
+      "id": "47d39333-9ae4-4115-b82f-da86c778b26d",
+      "set_code": "PTC",
+      "collector_number": "et373",
+      "name": "Mountain",
+      "scryfall_id": "3064ff57-b2e4-4152-a91d-a67e0ea71749"
+    },
+    {
+      "id": "66e0651b-3198-452f-ad82-a0a9e92c69c7",
+      "set_code": "PTC",
+      "collector_number": "et374",
+      "name": "Mountain",
+      "scryfall_id": "efc70226-2926-4bc5-a602-c5d56f0cfc52"
+    },
+    {
+      "id": "88a3be08-cb7e-4495-bb05-003b5a338623",
+      "set_code": "PTC",
+      "collector_number": "et375",
+      "name": "Mountain",
+      "scryfall_id": "5e8b3a6c-8a76-4998-9fd1-41d5756e4956"
+    },
+    {
+      "id": "ae8098b4-5c12-45bd-a149-f2089880d709",
+      "set_code": "PTC",
+      "collector_number": "gb38a",
+      "name": "Hymn to Tourach",
+      "scryfall_id": "a69c6efc-8d8c-4dc5-968a-29be6205e195"
+    },
+    {
+      "id": "75b3f42b-9db5-4f80-b857-54c3edb74321",
+      "set_code": "PTC",
+      "collector_number": "gb38b",
+      "name": "Hymn to Tourach",
+      "scryfall_id": "d6b51cfd-bfca-427c-83c2-b35ca7544f83"
+    },
+    {
+      "id": "a098e1cb-3b21-4a66-9d9f-86a93a3b65a5",
+      "set_code": "PTC",
+      "collector_number": "gb38c",
+      "name": "Hymn to Tourach",
+      "scryfall_id": "9b404906-bdfc-4c6c-8daa-d4e7195d2072"
+    },
+    {
+      "id": "49a76016-a2f3-4b9a-9dcd-c4073d04b827",
+      "set_code": "PTC",
+      "collector_number": "gb38d",
+      "name": "Hymn to Tourach",
+      "scryfall_id": "cbf78442-c80c-43d5-8898-20312eb7c9af"
+    },
+    {
+      "id": "d9e82315-9cac-479a-ba3c-9f0c7c0b66af",
+      "set_code": "PTC",
+      "collector_number": "gb42a",
+      "name": "Order of the Ebon Hand",
+      "scryfall_id": "ec7ad4d6-e07c-477b-ba8d-630867a08603"
+    },
+    {
+      "id": "da16eb31-990d-4430-9f4b-33cf6d2e7a8d",
+      "set_code": "PTC",
+      "collector_number": "gb42b",
+      "name": "Order of the Ebon Hand",
+      "scryfall_id": "4e5b869d-26e8-493d-9081-febf3eb919cb"
+    },
+    {
+      "id": "8e605d94-a8d0-4271-9498-06ea9402f6ab",
+      "set_code": "PTC",
+      "collector_number": "gb42c",
+      "name": "Order of the Ebon Hand",
+      "scryfall_id": "0bbb5e60-2a60-4575-b9c0-96a5963f5b20"
+    },
+    {
+      "id": "4444087e-27f9-4411-8dc2-7b15e5d3bcf4",
+      "set_code": "PTC",
+      "collector_number": "gb53",
+      "name": "Ihsan's Shade",
+      "scryfall_id": "68a1c6c8-fb10-400d-8df6-1defbc465a6e"
+    },
+    {
+      "id": "3a6e75ed-6b3b-4844-8f31-06e9362642f4",
+      "set_code": "PTC",
+      "collector_number": "gb53sb",
+      "name": "Ihsan's Shade",
+      "scryfall_id": "7e55cedb-731d-440a-893e-d0aebb59d1c1"
+    },
+    {
+      "id": "e97269e0-86a6-49ae-8524-9fddd9f8c7c2",
+      "set_code": "PTC",
+      "collector_number": "gb64",
+      "name": "Erhnam Djinn",
+      "scryfall_id": "1ada4a51-9f83-4b54-9dbc-67dd3476a309"
+    },
+    {
+      "id": "bf3873f2-6661-41b6-b17a-54932abac169",
+      "set_code": "PTC",
+      "collector_number": "gb110sb",
+      "name": "Serrated Arrows",
+      "scryfall_id": "9061933e-4da7-4111-9a62-773ff3c28c69"
+    },
+    {
+      "id": "5f042c6f-7d57-46ad-8b04-b94ef387178c",
+      "set_code": "PTC",
+      "collector_number": "gb112",
+      "name": "City of Brass",
+      "scryfall_id": "947eefb2-7156-4bd3-9e95-a18f87a951cd"
+    },
+    {
+      "id": "8494ba23-ab4e-4820-8bf2-c797038826e3",
+      "set_code": "PTC",
+      "collector_number": "gb119sb",
+      "name": "Dark Banishing",
+      "scryfall_id": "1b974bcd-f665-4ebc-9480-8c5cdfc5906a"
+    },
+    {
+      "id": "25ebcca5-d460-4c44-9472-e889461b9a6b",
+      "set_code": "PTC",
+      "collector_number": "gb129",
+      "name": "Dark Ritual",
+      "scryfall_id": "16905bf2-7afe-468c-8ffd-d186a1f8819f"
+    },
+    {
+      "id": "fe22d434-1edf-42a2-ad1c-03ca46d71a72",
+      "set_code": "PTC",
+      "collector_number": "gb138",
+      "name": "Knight of Stromgald",
+      "scryfall_id": "a7bf2c9c-f518-42d3-a15a-ef3587a16dcb"
+    },
+    {
+      "id": "aac23028-97f4-464a-ad05-d39a02caba8c",
+      "set_code": "PTC",
+      "collector_number": "gb142",
+      "name": "Hypnotic Specter",
+      "scryfall_id": "4d252b50-d2dd-43ac-95fb-9ccde36d3888"
+    },
+    {
+      "id": "71e56a6e-2794-41ec-b4cc-cb2db3720835",
+      "set_code": "PTC",
+      "collector_number": "gb160",
+      "name": "Sengir Vampire",
+      "scryfall_id": "17e860fd-d84b-421a-9dd2-355376d2f12b"
+    },
+    {
+      "id": "0e090fd6-1a6d-49f7-9cfe-d4e530e8965e",
+      "set_code": "PTC",
+      "collector_number": "gb192",
+      "name": "Fireball",
+      "scryfall_id": "23aecbdf-df85-450c-8645-27219081c90a"
+    },
+    {
+      "id": "9ff453c0-58bb-4061-9852-d51e8a2bec75",
+      "set_code": "PTC",
+      "collector_number": "gb208",
+      "name": "Lightning Bolt",
+      "scryfall_id": "edd88c4f-58bd-4920-b41f-037462b54915"
+    },
+    {
+      "id": "f58fe4f2-f9f5-45a7-9645-6763866aefa9",
+      "set_code": "PTC",
+      "collector_number": "gb218sb",
+      "name": "Red Elemental Blast",
+      "scryfall_id": "5bd3480f-4428-4040-bd01-2d33425814ab"
+    },
+    {
+      "id": "d53c873c-4814-41d1-b08f-e7ee22c9e4fa",
+      "set_code": "PTC",
+      "collector_number": "gb219",
+      "name": "Shatter",
+      "scryfall_id": "56849bf4-0fa5-4a70-bfea-85c3e6ad3802"
+    },
+    {
+      "id": "29d05bef-51a1-4ad6-9050-95019f3c10dc",
+      "set_code": "PTC",
+      "collector_number": "gb277sb",
+      "name": "Tranquility",
+      "scryfall_id": "6e75c4d7-c53b-4855-8f4d-6591a4418264"
+    },
+    {
+      "id": "bdd19222-0d5a-48ff-9fdd-2b79074b5dc8",
+      "set_code": "PTC",
+      "collector_number": "gb312",
+      "name": "Barbed Sextant",
+      "scryfall_id": "f079de04-0393-408d-b420-c4538f2f53fd"
+    },
+    {
+      "id": "1ebf19d6-93ed-43f7-872f-d2dace402650",
+      "set_code": "PTC",
+      "collector_number": "gb338sb",
+      "name": "Nevinyrral's Disk",
+      "scryfall_id": "5597e4ec-e2f9-45e7-9817-b69fcd618d8a"
+    },
+    {
+      "id": "b964fc7a-d33e-4b5d-b277-502193cd6f26",
+      "set_code": "PTC",
+      "collector_number": "gb350",
+      "name": "Zuran Orb",
+      "scryfall_id": "20fa5839-9fbd-43ae-a782-b31676782eaf"
+    },
+    {
+      "id": "2935d9f8-db3a-4a43-b325-381f0abe1aaf",
+      "set_code": "PTC",
+      "collector_number": "gb356",
+      "name": "Karplusan Forest",
+      "scryfall_id": "a7c620cf-4d0e-49dd-92fe-87245940bf6f"
+    },
+    {
+      "id": "a197e25c-2600-4670-bc12-17f2fe6f818b",
+      "set_code": "PTC",
+      "collector_number": "gb358",
+      "name": "Lava Tubes",
+      "scryfall_id": "1f12466f-7474-48ca-b4d1-3463a34f9b00"
+    },
+    {
+      "id": "4444a9fb-0819-499f-b892-0ecc5b00e3f4",
+      "set_code": "PTC",
+      "collector_number": "gb360",
+      "name": "Sulfurous Springs",
+      "scryfall_id": "29880e73-5636-43ec-bcfc-7323d52fec3c"
+    },
+    {
+      "id": "8f8b0f04-1d33-44dc-9c6b-3d3cbd2cf511",
+      "set_code": "PTC",
+      "collector_number": "gb361",
+      "name": "Mishra's Factory",
+      "scryfall_id": "ad1577a3-a350-45e3-af3d-62c85207514f"
+    },
+    {
+      "id": "523efcae-ba7a-4c61-a032-4c67e059e856",
+      "set_code": "PTC",
+      "collector_number": "gb370",
+      "name": "Swamp",
+      "scryfall_id": "103538d1-1b8f-4b18-91ac-17975f353785"
+    },
+    {
+      "id": "06390659-3999-4861-bec4-a3ab52945460",
+      "set_code": "PTC",
+      "collector_number": "gb371",
+      "name": "Swamp",
+      "scryfall_id": "22b2ddff-46df-4c0c-9840-edf3d02586f0"
+    },
+    {
+      "id": "51d610ca-1f32-4bca-9b54-1604cc06abed",
+      "set_code": "PTC",
+      "collector_number": "gb372",
+      "name": "Swamp",
+      "scryfall_id": "9a63a791-ad18-4d96-a0e7-e6b46cc3b4c6"
+    },
+    {
+      "id": "87ae3003-1054-40fd-a668-d8f52578f1de",
+      "set_code": "PTC",
+      "collector_number": "ll33sb",
+      "name": "Ashes to Ashes",
+      "scryfall_id": "07e45b7c-dc29-4c5a-8103-4cdbbd1c346e"
+    },
+    {
+      "id": "83083774-c450-4b95-84a8-56e8ffebfd6e",
+      "set_code": "PTC",
+      "collector_number": "ll38a",
+      "name": "Hymn to Tourach",
+      "scryfall_id": "094cadeb-c9b1-47cb-b4b8-0a85d14b9007"
+    },
+    {
+      "id": "e4e7ff65-221a-4bc1-b1a6-06e5c452681d",
+      "set_code": "PTC",
+      "collector_number": "ll38b",
+      "name": "Hymn to Tourach",
+      "scryfall_id": "d9456bf8-e4eb-4979-b483-e6e9aab84f87"
+    },
+    {
+      "id": "059544ae-74fd-4e14-b267-3f2f8e8ed9ae",
+      "set_code": "PTC",
+      "collector_number": "ll38c",
+      "name": "Hymn to Tourach",
+      "scryfall_id": "744d8398-297c-43e2-873c-ffd1df3ad624"
+    },
+    {
+      "id": "7bfbdbf2-9045-4e1e-b4b8-956a2e048fd5",
+      "set_code": "PTC",
+      "collector_number": "ll38d",
+      "name": "Hymn to Tourach",
+      "scryfall_id": "01b8df75-fe70-4db0-9082-0b04d198f97b"
+    },
+    {
+      "id": "b5377f85-9ae1-40cd-9c98-b5474cdea3bd",
+      "set_code": "PTC",
+      "collector_number": "ll42a",
+      "name": "Order of the Ebon Hand",
+      "scryfall_id": "9094a518-859e-40a2-90cf-48b446ceb9b6"
+    },
+    {
+      "id": "fe2fb258-bd2f-4513-bcb6-d213a302ad8b",
+      "set_code": "PTC",
+      "collector_number": "ll42b",
+      "name": "Order of the Ebon Hand",
+      "scryfall_id": "d75deb74-2322-4179-9467-955eb96ca4a3"
+    },
+    {
+      "id": "425203f5-c734-4aca-a690-f0fef33311bc",
+      "set_code": "PTC",
+      "collector_number": "ll42c",
+      "name": "Order of the Ebon Hand",
+      "scryfall_id": "0c4568da-f47e-431b-8fcb-0dca8494852b"
+    },
+    {
+      "id": "63991c35-65fd-4aa5-a560-61ea33c04e71",
+      "set_code": "PTC",
+      "collector_number": "ll50sb",
+      "name": "Feldon's Cane",
+      "scryfall_id": "311a429e-e561-49b0-91bb-865453d02aca"
+    },
+    {
+      "id": "b59575fb-f72c-46ad-a1f3-e0cd5b9eaf0c",
+      "set_code": "PTC",
+      "collector_number": "ll54",
+      "name": "Jalum Tome",
+      "scryfall_id": "b99b8f26-8150-4d9d-945f-094e6b7522ab"
+    },
+    {
+      "id": "b3380c73-1de2-4331-b18f-8b7f0f12db1c",
+      "set_code": "PTC",
+      "collector_number": "ll54sb",
+      "name": "Jalum Tome",
+      "scryfall_id": "5a9905b3-2838-4be9-882e-8dcf6e456072"
+    },
+    {
+      "id": "3863ebb1-7121-4e5a-8871-6b37b98be7c3",
+      "set_code": "PTC",
+      "collector_number": "ll59b",
+      "name": "Torture",
+      "scryfall_id": "836d5e41-b3f6-46ce-be0c-e54c02623cd6"
+    },
+    {
+      "id": "dbec6ae8-c0e1-45ff-8d2c-36a3b8e0f7b1",
+      "set_code": "PTC",
+      "collector_number": "ll95",
+      "name": "Ebon Stronghold",
+      "scryfall_id": "11a23578-165c-4156-ad0d-102bb1dda2ac"
+    },
+    {
+      "id": "55df8a72-60ea-4fdf-81b9-73a4d0b9b9be",
+      "set_code": "PTC",
+      "collector_number": "ll101sb",
+      "name": "Apocalypse Chime",
+      "scryfall_id": "c52caafd-1212-4da4-8a09-7bf12186559a"
+    },
+    {
+      "id": "17dd094c-2622-4494-a1b8-1499b014a4ad",
+      "set_code": "PTC",
+      "collector_number": "ll110",
+      "name": "Serrated Arrows",
+      "scryfall_id": "bf1bb9b5-5781-487a-9264-a172270ca1ba"
+    },
+    {
+      "id": "11fc689f-be78-4a76-82ba-9e1f5834b41c",
+      "set_code": "PTC",
+      "collector_number": "ll110sb",
+      "name": "Serrated Arrows",
+      "scryfall_id": "c9cf9dc0-9a17-441a-bb99-5d01d568d09d"
+    },
+    {
+      "id": "a6a33ede-2b5d-460b-a876-f4d0797a43ed",
+      "set_code": "PTC",
+      "collector_number": "ll112sb",
+      "name": "City of Brass",
+      "scryfall_id": "0774fd7a-c2c5-4292-8f29-6257b13248d8"
+    },
+    {
+      "id": "aeb8f2fc-dc7a-4785-9335-9a8cdeb459c6",
+      "set_code": "PTC",
+      "collector_number": "ll118",
+      "name": "Dance of the Dead",
+      "scryfall_id": "5b5bc1a2-6903-439b-9ec6-6fdaf48d923a"
+    },
+    {
+      "id": "2acddab8-a2a8-438a-9d85-3f99f1b014ec",
+      "set_code": "PTC",
+      "collector_number": "ll118sb",
+      "name": "Safe Haven",
+      "scryfall_id": "50e7bbf0-d220-42be-9b6b-5a9a1d8dcc29"
+    },
+    {
+      "id": "752e2c8d-1e5c-4172-90ec-032e5a8a560a",
+      "set_code": "PTC",
+      "collector_number": "ll119",
+      "name": "Dark Banishing",
+      "scryfall_id": "0395b5d1-4feb-4b88-b294-427e7803d94e"
+    },
+    {
+      "id": "8645befa-d978-44df-96d7-e2edc4365aec",
+      "set_code": "PTC",
+      "collector_number": "ll129",
+      "name": "Dark Ritual",
+      "scryfall_id": "f688acae-aba5-48fb-b69f-6f93549b4149"
+    },
+    {
+      "id": "9c7dcdd4-de23-4193-9c43-71861e480b5a",
+      "set_code": "PTC",
+      "collector_number": "ll132",
+      "name": "Drain Life",
+      "scryfall_id": "a6832783-8d51-4858-9b7d-bb6c929fb0e7"
+    },
+    {
+      "id": "d2596b82-3df3-4c6b-a0f3-df77e0bf215d",
+      "set_code": "PTC",
+      "collector_number": "ll138",
+      "name": "Knight of Stromgald",
+      "scryfall_id": "e89b4384-6176-463a-ba43-5921d3dc84cb"
+    },
+    {
+      "id": "915833e3-2fde-48d2-9b5c-0b0af31e7056",
+      "set_code": "PTC",
+      "collector_number": "ll142",
+      "name": "Hypnotic Specter",
+      "scryfall_id": "ba265155-3d11-4235-936b-2754ba79a4ab"
+    },
+    {
+      "id": "bab07434-f24d-4d2a-b135-71f8a31c84ae",
+      "set_code": "PTC",
+      "collector_number": "ll154",
+      "name": "Necropotence",
+      "scryfall_id": "115659cd-eb77-4951-aebf-ca36063da699"
+    },
+    {
+      "id": "a886f325-efd2-449e-b7b9-617305bf1457",
+      "set_code": "PTC",
+      "collector_number": "ll161",
+      "name": "Soul Burn",
+      "scryfall_id": "359f6e42-3435-48e5-b1ee-6333c37994fa"
+    },
+    {
+      "id": "ceb59009-8f81-496a-ab4d-d78a4ad93324",
+      "set_code": "PTC",
+      "collector_number": "ll166sb",
+      "name": "Stromgald Cabal",
+      "scryfall_id": "73a3933f-ba7d-42ea-9fb6-1ece4f5a9742"
+    },
+    {
+      "id": "c4bc6915-4df6-4134-b3e9-4d17fbf8fa34",
+      "set_code": "PTC",
+      "collector_number": "ll328",
+      "name": "Ivory Tower",
+      "scryfall_id": "592c6991-2b40-4d8f-97ca-bb74ef3262e5"
+    },
+    {
+      "id": "64781e06-5853-43e2-bc6a-f7adedd465bb",
+      "set_code": "PTC",
+      "collector_number": "ll335sb",
+      "name": "Meekstone",
+      "scryfall_id": "fdd20043-18e0-4e1f-9f9c-b5929ea3c7e7"
+    },
+    {
+      "id": "ad4b0fb4-2758-4e1c-aa65-ee6a5ab61436",
+      "set_code": "PTC",
+      "collector_number": "ll338",
+      "name": "Nevinyrral's Disk",
+      "scryfall_id": "5c4ff41d-334a-4bc2-97d5-700889b4911f"
+    },
+    {
+      "id": "a3e796b3-ac9a-4181-8d8d-c1732db208ba",
+      "set_code": "PTC",
+      "collector_number": "ll338sb",
+      "name": "Nevinyrral's Disk",
+      "scryfall_id": "7612bb9c-092a-47bd-b129-0f493480c2f3"
+    },
+    {
+      "id": "a76980a2-89db-4de6-a4d3-05fe5c943b63",
+      "set_code": "PTC",
+      "collector_number": "ll350",
+      "name": "Zuran Orb",
+      "scryfall_id": "8916bf11-3792-4c6d-bb9c-69ef5839d214"
+    },
+    {
+      "id": "90211dea-855f-41d3-8fbd-bd7c16e107a9",
+      "set_code": "PTC",
+      "collector_number": "ll352sb",
+      "name": "The Rack",
+      "scryfall_id": "e2cc6b86-9094-4f82-a5ea-1d8a06a4e013"
+    },
+    {
+      "id": "e8170cd0-70b4-4c85-b5e9-d2419456f769",
+      "set_code": "PTC",
+      "collector_number": "ll363",
+      "name": "Strip Mine",
+      "scryfall_id": "10338b4e-f801-4066-b879-f9d21b6f9553"
+    },
+    {
+      "id": "ae701310-ce26-4e97-a2c5-f9ec1f5a0333",
+      "set_code": "PTC",
+      "collector_number": "ll370",
+      "name": "Swamp",
+      "scryfall_id": "2931ebfb-ee76-45f1-8b86-ea77775c323e"
+    },
+    {
+      "id": "8ec67a2f-f803-4a01-8c96-8a6bc4ee8438",
+      "set_code": "PTC",
+      "collector_number": "ll371",
+      "name": "Swamp",
+      "scryfall_id": "6d2f6bcd-9360-4be8-b516-f1d0238df00b"
+    },
+    {
+      "id": "20fab22c-457a-4067-83b2-2bcf3fa367a0",
+      "set_code": "PTC",
+      "collector_number": "ll372",
+      "name": "Swamp",
+      "scryfall_id": "4f4f94cc-eb76-4fa6-b7d5-3cca73e8691a"
+    },
+    {
+      "id": "14bd27b3-f275-4a82-8d52-8ab2f4055f2b",
+      "set_code": "PTC",
+      "collector_number": "mj6",
+      "name": "Balance",
+      "scryfall_id": "d2823b1d-39bf-41ee-8e8b-99f12797408e"
+    },
+    {
+      "id": "46c446e4-c2dd-40b6-9d23-f99a0f29f476",
+      "set_code": "PTC",
+      "collector_number": "mj49sb",
+      "name": "Anarchy",
+      "scryfall_id": "7c47c6e5-31f9-4b7c-9c8b-165ce3bd1fbc"
+    },
+    {
+      "id": "2a760d4b-8eb1-498e-a1d3-413023b739f6",
+      "set_code": "PTC",
+      "collector_number": "mj50",
+      "name": "Feldon's Cane",
+      "scryfall_id": "fe3a92db-10be-4e80-8728-dfeecd160b1d"
+    },
+    {
+      "id": "8ca6d631-2dfc-4f23-89c9-9404dac9210c",
+      "set_code": "PTC",
+      "collector_number": "mj52",
+      "name": "Swords to Plowshares",
+      "scryfall_id": "64b295e4-bc12-4c12-9eaf-4df22b84144d"
+    },
+    {
+      "id": "fb6461bb-db41-4d1c-9b3d-44246193dc01",
+      "set_code": "PTC",
+      "collector_number": "mj73sb",
+      "name": "Eron the Relentless",
+      "scryfall_id": "00a52735-fb3b-4e61-a07f-f6d1cd433a75"
+    },
+    {
+      "id": "f04748ae-d445-4a1d-ae60-2c24aa0f56be",
+      "set_code": "PTC",
+      "collector_number": "mj94",
+      "name": "Dwarven Ruins",
+      "scryfall_id": "46ba0554-9ac1-4b2c-aeff-14d3577db4fa"
+    },
+    {
+      "id": "d557a9c7-20a1-435a-a164-dba1d092d3f9",
+      "set_code": "PTC",
+      "collector_number": "mj96",
+      "name": "Havenwood Battleground",
+      "scryfall_id": "b6dc1a4c-f37b-40c5-9178-e4713186591c"
+    },
+    {
+      "id": "393b2bdb-46b7-4316-b1d7-d5ca64dee77f",
+      "set_code": "PTC",
+      "collector_number": "mj98sb",
+      "name": "Fountain of Youth",
+      "scryfall_id": "d4ffa89b-e0ce-4354-bebe-1ffa4d6d6ed0"
+    },
+    {
+      "id": "b4c75646-305b-4cf0-934c-feeca5c31187",
+      "set_code": "PTC",
+      "collector_number": "mj110sb",
+      "name": "Serrated Arrows",
+      "scryfall_id": "a3bcb2d3-b65d-4b64-b78d-0697d7e18386"
+    },
+    {
+      "id": "5e16e44a-bd1d-4c39-8fc0-a5bf3bc1eeff",
+      "set_code": "PTC",
+      "collector_number": "mj112",
+      "name": "City of Brass",
+      "scryfall_id": "41fd8502-52cb-4675-9c5a-cb39e2b10110"
+    },
+    {
+      "id": "f38bb269-4b35-4847-9c99-aa922bea47aa",
+      "set_code": "PTC",
+      "collector_number": "mj184",
+      "name": "Detonate",
+      "scryfall_id": "39218360-83fc-4943-b336-a84738f9eaf7"
+    },
+    {
+      "id": "6c1f2b7e-6ef2-48c4-a097-0b9de24cf2a1",
+      "set_code": "PTC",
+      "collector_number": "mj184sb",
+      "name": "Detonate",
+      "scryfall_id": "ba0eb973-7360-473b-b959-40d54bcfd754"
+    },
+    {
+      "id": "c39bda58-0ffd-475c-8343-6f13c005020c",
+      "set_code": "PTC",
+      "collector_number": "mj189",
+      "name": "Earthquake",
+      "scryfall_id": "eaf14be9-b943-4002-b29d-a5e03bcb89ef"
+    },
+    {
+      "id": "01d7e3ca-c28b-49e6-8bae-6e1abf79f31a",
+      "set_code": "PTC",
+      "collector_number": "mj192",
+      "name": "Fireball",
+      "scryfall_id": "d2446fd4-8287-4f7f-8d60-f8a422aad3b6"
+    },
+    {
+      "id": "8a7c9251-1d5a-4acc-b3f8-93b4b29f7cb3",
+      "set_code": "PTC",
+      "collector_number": "mj194",
+      "name": "Incinerate",
+      "scryfall_id": "0d8bd167-5bb0-4823-b335-1fd84a51d010"
+    },
+    {
+      "id": "8c69a04d-df21-4d98-b180-9ab0a27159c8",
+      "set_code": "PTC",
+      "collector_number": "mj208",
+      "name": "Lightning Bolt",
+      "scryfall_id": "9809473d-f793-476f-ae7e-e535b6725d65"
+    },
+    {
+      "id": "d951cfa6-793b-48a5-a401-b3a3e37a47d5",
+      "set_code": "PTC",
+      "collector_number": "mj213sb",
+      "name": "Pyroblast",
+      "scryfall_id": "93d1d5c9-fcb5-4d43-bc1e-5c7ba5e22046"
+    },
+    {
+      "id": "bec45ddb-169b-4308-abef-1842d57b1994",
+      "set_code": "PTC",
+      "collector_number": "mj219",
+      "name": "Shatter",
+      "scryfall_id": "e46f5d83-ada1-4cff-a1a9-bdf758fc1d7b"
+    },
+    {
+      "id": "0c4a683e-a26c-488d-8748-9131b7b26aba",
+      "set_code": "PTC",
+      "collector_number": "mj219sb",
+      "name": "Shatter",
+      "scryfall_id": "3788643f-a1f9-48ad-854b-a4ea383b8449"
+    },
+    {
+      "id": "8ade03e2-6cda-4934-bdcb-0200ee6c6bf8",
+      "set_code": "PTC",
+      "collector_number": "mj299",
+      "name": "Black Vise",
+      "scryfall_id": "485ee825-7d3c-490f-a092-c6fabd2c704f"
+    },
+    {
+      "id": "0e93fa48-d7e5-4722-8a5c-fc427926bb68",
+      "set_code": "PTC",
+      "collector_number": "mj304",
+      "name": "Stormbind",
+      "scryfall_id": "bb29f007-3321-4807-9e0f-047555301d22"
+    },
+    {
+      "id": "dce6a29d-90b7-4feb-a6f8-19e3752197c3",
+      "set_code": "PTC",
+      "collector_number": "mj317",
+      "name": "Elkin Bottle",
+      "scryfall_id": "4cd40772-bc3a-41de-a5f6-f64c8d945fd4"
+    },
+    {
+      "id": "86749464-5b3d-4f45-ba26-a11e47f6d152",
+      "set_code": "PTC",
+      "collector_number": "mj319",
+      "name": "Fellwar Stone",
+      "scryfall_id": "b6730423-602b-4a45-9644-c6864f031100"
+    },
+    {
+      "id": "2a6db869-58a9-4a14-a255-da87b658d0b7",
+      "set_code": "PTC",
+      "collector_number": "mj322",
+      "name": "Icy Manipulator",
+      "scryfall_id": "df84d2d6-34a1-4d0c-92f4-aba6a788087e"
+    },
+    {
+      "id": "6d9015ba-05c8-4114-b555-d2a8046ae36f",
+      "set_code": "PTC",
+      "collector_number": "mj324",
+      "name": "Jester's Cap",
+      "scryfall_id": "1d113a8c-0cbf-4c48-96f5-ad8c77947a0a"
+    },
+    {
+      "id": "774ba8ae-bc16-40c2-b2b2-406bd305f8c4",
+      "set_code": "PTC",
+      "collector_number": "mj325",
+      "name": "Howling Mine",
+      "scryfall_id": "3c76eaaf-58c9-4ef9-bf0a-7aa66397fa7d"
+    },
+    {
+      "id": "e4ae2031-db5e-4bd7-b7a8-f13290c87c89",
+      "set_code": "PTC",
+      "collector_number": "mj328",
+      "name": "Ivory Tower",
+      "scryfall_id": "fd8a1cb0-d748-45c1-90fb-6cf80c08d56d"
+    },
+    {
+      "id": "8a6cb8ca-c873-47c7-98d4-511b677cee06",
+      "set_code": "PTC",
+      "collector_number": "mj350",
+      "name": "Zuran Orb",
+      "scryfall_id": "5e73c0dc-dd10-416b-8c6c-57870ff0425a"
+    },
+    {
+      "id": "455afc53-2006-414f-b53f-333a569c6ff1",
+      "set_code": "PTC",
+      "collector_number": "mj356",
+      "name": "Karplusan Forest",
+      "scryfall_id": "35a3131e-07ce-470b-b785-dd79511a8b6a"
+    },
+    {
+      "id": "f783b60f-adb8-4f59-90df-53ca87cf273c",
+      "set_code": "PTC",
+      "collector_number": "mj358",
+      "name": "Winter Orb",
+      "scryfall_id": "77b3a82f-ba87-4390-a630-6854f41dd1a7"
+    },
+    {
+      "id": "d51b2e43-9850-4fdc-8a78-3c665796f23f",
+      "set_code": "PTC",
+      "collector_number": "mj361",
+      "name": "Mishra's Factory",
+      "scryfall_id": "de2f8b1a-a29e-4596-8ebe-5fdb6ce15b5a"
+    },
+    {
+      "id": "00d39d69-f11f-499f-b9f8-15313ce19671",
+      "set_code": "PTC",
+      "collector_number": "mj364",
+      "name": "Plains",
+      "scryfall_id": "f2bb7059-588b-4ba6-9ad0-78169e4e4483"
+    },
+    {
+      "id": "6b64c500-7376-4962-a2e3-9901e106e1e5",
+      "set_code": "PTC",
+      "collector_number": "mj365",
+      "name": "Plains",
+      "scryfall_id": "539f0b05-61a2-48da-913a-886bf9d97594"
+    },
+    {
+      "id": "12b52672-1729-44d6-9827-45d6c1563acb",
+      "set_code": "PTC",
+      "collector_number": "mj366",
+      "name": "Plains",
+      "scryfall_id": "cc623027-2b5c-489a-9bfc-763d678832d6"
+    },
+    {
+      "id": "2ad4ca81-63eb-47fb-b3f9-46352140c05c",
+      "set_code": "PTC",
+      "collector_number": "mj373",
+      "name": "Mountain",
+      "scryfall_id": "ed37e1e0-ed21-45c3-8266-c6b11068ceb6"
+    },
+    {
+      "id": "8b747b21-f478-4651-82c8-daf1d4537ce3",
+      "set_code": "PTC",
+      "collector_number": "mj374",
+      "name": "Mountain",
+      "scryfall_id": "970abfee-e888-4635-90a6-2ab88910c428"
+    },
+    {
+      "id": "1844f38a-c4f0-4a58-9630-048657d5749a",
+      "set_code": "PTC",
+      "collector_number": "mj375",
+      "name": "Mountain",
+      "scryfall_id": "a6e00407-8290-4924-afe8-424517867a93"
+    },
+    {
+      "id": "0708970a-b032-4c16-b58f-c80c49dfd99c",
+      "set_code": "PTC",
+      "collector_number": "ml6",
+      "name": "Balance",
+      "scryfall_id": "0caf528a-1a26-4bf2-bb82-2dbbe4681d74"
+    },
+    {
+      "id": "bef376d1-de3d-4274-ad74-bfa3fd11b40c",
+      "set_code": "PTC",
+      "collector_number": "ml6sb",
+      "name": "Divine Offering",
+      "scryfall_id": "e0a2bab3-0096-4010-ba90-146d8f05c444"
+    },
+    {
+      "id": "9855cb4d-7102-4331-8085-59d670a12965",
+      "set_code": "PTC",
+      "collector_number": "ml8",
+      "name": "Blinking Spirit",
+      "scryfall_id": "dca912d1-9123-4b0d-863d-c7ee12bfdbcc"
+    },
+    {
+      "id": "6f997131-4736-4be8-817d-22e7339ae9ab",
+      "set_code": "PTC",
+      "collector_number": "ml15sb",
+      "name": "Circle of Protection: Red",
+      "scryfall_id": "0aefd2af-6b1b-4c37-96c5-4497cadc7c6a"
+    },
+    {
+      "id": "6f77e9fa-564c-4dc9-a17c-8ff33f6558b0",
+      "set_code": "PTC",
+      "collector_number": "ml17sb",
+      "name": "Circle of Protection: Red",
+      "scryfall_id": "96f93b93-905e-4414-8990-a023cf9b6052"
+    },
+    {
+      "id": "f01d1b59-7393-4268-a0f4-c8339cff8076",
+      "set_code": "PTC",
+      "collector_number": "ml22",
+      "name": "Disenchant",
+      "scryfall_id": "58aa10e0-8dfe-4c3f-8c69-82e01f8a6be5"
+    },
+    {
+      "id": "f53b3ddb-ae19-4474-9e8e-6ebc02c8a4e0",
+      "set_code": "PTC",
+      "collector_number": "ml24",
+      "name": "Recall",
+      "scryfall_id": "eeebf5c5-9143-4499-862b-73dab080077a"
+    },
+    {
+      "id": "72059238-3e70-4f52-8d5f-b38009c250dd",
+      "set_code": "PTC",
+      "collector_number": "ml29",
+      "name": "Hallowed Ground",
+      "scryfall_id": "3f4eb320-3080-4343-9112-6e16cc8245b3"
+    },
+    {
+      "id": "811bbc79-c202-4698-94ef-8dd2218069ee",
+      "set_code": "PTC",
+      "collector_number": "ml34",
+      "name": "Land Tax",
+      "scryfall_id": "71bbb4fe-6e3d-4c56-b3c4-7aa10c4ca0a5"
+    },
+    {
+      "id": "a5348bf6-f9d4-43c6-a8e9-ea77d518ad11",
+      "set_code": "PTC",
+      "collector_number": "ml38sb",
+      "name": "Sea Sprite",
+      "scryfall_id": "40af5ba4-aa52-4f84-bc80-bc4f37b6787f"
+    },
+    {
+      "id": "782c63a9-9248-4028-ab8f-034d4382d13b",
+      "set_code": "PTC",
+      "collector_number": "ml50",
+      "name": "Feldon's Cane",
+      "scryfall_id": "6f8ec609-148b-4020-be5f-97fae539d6e3"
+    },
+    {
+      "id": "42511593-2f92-4618-b3be-ee6daea52901",
+      "set_code": "PTC",
+      "collector_number": "ml52",
+      "name": "Swords to Plowshares",
+      "scryfall_id": "04e0738b-b856-401e-8b41-096e2c48cf96"
+    },
+    {
+      "id": "8036dac3-2711-4d43-8efb-397284899eb0",
+      "set_code": "PTC",
+      "collector_number": "ml58",
+      "name": "Wrath of God",
+      "scryfall_id": "5cd099e6-a2c6-4297-a626-12989d9a18cd"
+    },
+    {
+      "id": "124d5855-c53e-4f9f-9fd2-d8b0a63d1b45",
+      "set_code": "PTC",
+      "collector_number": "ml64",
+      "name": "Control Magic",
+      "scryfall_id": "256d5d58-d1d9-42ef-92d2-f3a70b291991"
+    },
+    {
+      "id": "7ee01f77-af3e-4e44-b63d-0c097625ec2a",
+      "set_code": "PTC",
+      "collector_number": "ml64sb",
+      "name": "Control Magic",
+      "scryfall_id": "02c062d8-49c7-4f19-8fba-cadea35ddebe"
+    },
+    {
+      "id": "0db71ad2-4e29-4fa3-8460-100408199e73",
+      "set_code": "PTC",
+      "collector_number": "ml65",
+      "name": "Counterspell",
+      "scryfall_id": "14b62ca7-2147-422e-97dd-573b474ef97f"
+    },
+    {
+      "id": "8539d3a5-79fb-4eb5-9dad-04234c2a7d4b",
+      "set_code": "PTC",
+      "collector_number": "ml72sb",
+      "name": "Hydroblast",
+      "scryfall_id": "b6ea7e24-a8eb-4c09-ae2e-9404716042e1"
+    },
+    {
+      "id": "8bd5d24b-8aaa-4143-8dd8-98ae56b4b20d",
+      "set_code": "PTC",
+      "collector_number": "ml81",
+      "name": "Deflection",
+      "scryfall_id": "97893a10-b6ce-4de9-a678-5302bea9c044"
+    },
+    {
+      "id": "65fd7948-4408-4e82-a167-1b3fcf737cc7",
+      "set_code": "PTC",
+      "collector_number": "ml81sb",
+      "name": "Aeolipile",
+      "scryfall_id": "bce4ea1f-8a00-47ea-b707-f4fa403de6ad"
+    },
+    {
+      "id": "17aaf024-8f4d-4776-b04b-2e335d0233fa",
+      "set_code": "PTC",
+      "collector_number": "ml98",
+      "name": "Fountain of Youth",
+      "scryfall_id": "c111cfb7-4861-47d4-be1e-0d208f044808"
+    },
+    {
+      "id": "fd91a24f-08eb-42d2-8155-18ca39713a61",
+      "set_code": "PTC",
+      "collector_number": "ml100",
+      "name": "Ruins of Trokair",
+      "scryfall_id": "e766c017-6e0a-4e9a-a5a7-36ce51aa3abe"
+    },
+    {
+      "id": "99df60d0-c360-4f5e-8b7a-cab9341771dc",
+      "set_code": "PTC",
+      "collector_number": "ml102",
+      "name": "Svyelunite Temple",
+      "scryfall_id": "30b9d683-1944-4a72-9fc3-320da0ce2832"
+    },
+    {
+      "id": "05bae081-0d02-49f5-8af3-71ef7c6f4b6a",
+      "set_code": "PTC",
+      "collector_number": "ml105sb",
+      "name": "Steal Artifact",
+      "scryfall_id": "ce77348d-4bef-411c-931d-9c3838091323"
+    },
+    {
+      "id": "6171924d-a43b-4169-8e40-1359d907743c",
+      "set_code": "PTC",
+      "collector_number": "ml110sb",
+      "name": "Serrated Arrows",
+      "scryfall_id": "d66c1eca-35fb-47a2-955e-c6677e083c8b"
+    },
+    {
+      "id": "246c7106-8749-4e71-95fc-f5df7836bf42",
+      "set_code": "PTC",
+      "collector_number": "ml115",
+      "name": "Wizards' School",
+      "scryfall_id": "b30d026a-4bb4-4dd8-9786-e60ff8f02e3b"
+    },
+    {
+      "id": "6fad31d2-e414-497b-b2b3-31100813f960",
+      "set_code": "PTC",
+      "collector_number": "ml322",
+      "name": "Icy Manipulator",
+      "scryfall_id": "a2e64c3e-9702-4e81-8a9e-0ffbf0b529eb"
+    },
+    {
+      "id": "09d04f56-2157-46c9-be25-683409d317a7",
+      "set_code": "PTC",
+      "collector_number": "ml324sb",
+      "name": "Jester's Cap",
+      "scryfall_id": "0654d0cd-389f-4e7d-95a0-8763e2597845"
+    },
+    {
+      "id": "b2f74151-e578-4136-b8da-d619fdf2972d",
+      "set_code": "PTC",
+      "collector_number": "ml328",
+      "name": "Ivory Tower",
+      "scryfall_id": "2f018f7f-1150-448e-93fd-2a75a0fcb289"
+    },
+    {
+      "id": "d479025c-bade-4e51-8eb0-6e220ba300e3",
+      "set_code": "PTC",
+      "collector_number": "ml331",
+      "name": "Jayemdae Tome",
+      "scryfall_id": "6be417a3-799f-47be-8499-927f7bbc3759"
+    },
+    {
+      "id": "6fef1f9c-ef6d-4f62-843f-0e435e0be0a4",
+      "set_code": "PTC",
+      "collector_number": "ml336",
+      "name": "Millstone",
+      "scryfall_id": "4d7ed468-a5e1-4c81-a1e6-923080074886"
+    },
+    {
+      "id": "82aee59f-e8d8-4bff-b61f-7330dd4e82aa",
+      "set_code": "PTC",
+      "collector_number": "ml350",
+      "name": "Zuran Orb",
+      "scryfall_id": "9ac48b59-c129-4208-aae3-88fd13203e37"
+    },
+    {
+      "id": "c1c76084-9075-42a1-a444-f527d78e1651",
+      "set_code": "PTC",
+      "collector_number": "ml351",
+      "name": "Adarkar Wastes",
+      "scryfall_id": "db0d0f97-a642-40fe-8674-f12b8e02a63d"
+    },
+    {
+      "id": "21de04be-effe-4bed-bdca-948925be29b8",
+      "set_code": "PTC",
+      "collector_number": "ml361",
+      "name": "Mishra's Factory",
+      "scryfall_id": "14dd21e1-51c4-4811-9547-3a5fb393be66"
+    },
+    {
+      "id": "dfde26dd-6a56-40f1-b86a-0e2dae630c99",
+      "set_code": "PTC",
+      "collector_number": "ml363",
+      "name": "Strip Mine",
+      "scryfall_id": "1a060aea-3812-49da-b681-812fe20c023b"
+    },
+    {
+      "id": "8087adad-8bd5-40d6-9083-532768767057",
+      "set_code": "PTC",
+      "collector_number": "ml364",
+      "name": "Plains",
+      "scryfall_id": "da033f5a-bc5a-4d99-ab25-4055eef56cf7"
+    },
+    {
+      "id": "b4a770f6-9b91-435f-a50f-794766d7f1cc",
+      "set_code": "PTC",
+      "collector_number": "ml365",
+      "name": "Plains",
+      "scryfall_id": "a7394e45-797f-4991-98b2-6570eaf82c81"
+    },
+    {
+      "id": "c16c998e-e8c3-492b-9c2d-94c9cd92c939",
+      "set_code": "PTC",
+      "collector_number": "ml366",
+      "name": "Plains",
+      "scryfall_id": "fb0f2cf5-801d-49b2-b365-3129f53948dc"
+    },
+    {
+      "id": "a9a17b3e-7047-4b8f-b19f-36e60002c718",
+      "set_code": "PTC",
+      "collector_number": "ml367",
+      "name": "Island",
+      "scryfall_id": "d0e6b214-520d-4830-8d73-09fd2fdd8e69"
+    },
+    {
+      "id": "c36141cd-1ee0-4380-84b4-3f1b009101be",
+      "set_code": "PTC",
+      "collector_number": "ml368",
+      "name": "Island",
+      "scryfall_id": "fa2a8e84-2a04-444a-8551-5f2931f4a711"
+    },
+    {
+      "id": "3065f655-ddd5-4dc5-9297-8d1e9236112d",
+      "set_code": "PTC",
+      "collector_number": "ml369",
+      "name": "Island",
+      "scryfall_id": "575a9059-5cdc-41ac-be5c-a6e797c4ffbb"
+    },
+    {
+      "id": "4b295418-64ef-4337-940f-f5abce9fe0c0",
+      "set_code": "PTC",
+      "collector_number": "pp5",
+      "name": "Armageddon",
+      "scryfall_id": "94d78c11-f503-4b0b-b023-7eb24cd32ef0"
+    },
+    {
+      "id": "cc47de39-d7f4-499c-b14b-8fc04086ede4",
+      "set_code": "PTC",
+      "collector_number": "pp5sb",
+      "name": "Armageddon",
+      "scryfall_id": "b0101665-a0ff-4253-acfb-88ed32785dc5"
+    },
+    {
+      "id": "864c0e14-37eb-463c-9854-3ccce6d1487b",
+      "set_code": "PTC",
+      "collector_number": "pp6",
+      "name": "Balance",
+      "scryfall_id": "f48bc615-b40c-4c9d-9eda-a4f1cae6ac75"
+    },
+    {
+      "id": "4617c551-ddab-4d49-bd67-450396394d25",
+      "set_code": "PTC",
+      "collector_number": "pp6sb",
+      "name": "Divine Offering",
+      "scryfall_id": "6d88ecf6-3e94-45fb-a109-cf143fe0f2e3"
+    },
+    {
+      "id": "5b89b632-0c10-49cf-84b2-a728dad049d1",
+      "set_code": "PTC",
+      "collector_number": "pp22",
+      "name": "Disenchant",
+      "scryfall_id": "e163bf1c-448f-4669-812b-f22e53d404f7"
+    },
+    {
+      "id": "e5f0e464-1a4c-470e-89a8-d15e3e981d8c",
+      "set_code": "PTC",
+      "collector_number": "pp22sb",
+      "name": "Disenchant",
+      "scryfall_id": "5f497a7f-e86b-4f1e-a733-4330616b1545"
+    },
+    {
+      "id": "1abaaddf-96ea-446c-804d-9989283ed8f1",
+      "set_code": "PTC",
+      "collector_number": "pp32sb",
+      "name": "Karma",
+      "scryfall_id": "c9b8d4fc-9654-47ac-a7e5-c17d86105796"
+    },
+    {
+      "id": "7dc57edd-38ee-4120-9618-d1773354c64d",
+      "set_code": "PTC",
+      "collector_number": "pp34",
+      "name": "Land Tax",
+      "scryfall_id": "cabbe5b4-3e83-4280-853b-de540e401d1f"
+    },
+    {
+      "id": "06af0dcf-740d-4e15-99c7-8f31fe5c888c",
+      "set_code": "PTC",
+      "collector_number": "pp34sb",
+      "name": "Land Tax",
+      "scryfall_id": "69f988b3-6503-49c1-a001-d4fe8b62f706"
+    },
+    {
+      "id": "09013e4e-533f-424a-87cd-ac6f72a05f1a",
+      "set_code": "PTC",
+      "collector_number": "pp45sb",
+      "name": "Reverse Damage",
+      "scryfall_id": "f1eb6190-0fa9-4e06-b63e-8b52c3a6723b"
+    },
+    {
+      "id": "898e51ca-2e0d-4e45-852d-02155513cf04",
+      "set_code": "PTC",
+      "collector_number": "pp52",
+      "name": "Swords to Plowshares",
+      "scryfall_id": "ddeb2ed7-1dc6-443c-85b3-ba8edaa4a60b"
+    },
+    {
+      "id": "bb045e76-fa9d-4c13-86fe-8fa3e368638b",
+      "set_code": "PTC",
+      "collector_number": "pp58",
+      "name": "Wrath of God",
+      "scryfall_id": "d7eba1b7-cc6c-4624-9a6f-425b717afe87"
+    },
+    {
+      "id": "e07920c1-5e74-4fb4-b59f-e599a196fcc8",
+      "set_code": "PTC",
+      "collector_number": "pp64",
+      "name": "Erhnam Djinn",
+      "scryfall_id": "83ba512b-d1e6-4c8f-beb1-c732855935e3"
+    },
+    {
+      "id": "9c7764d5-d0c4-4701-b491-a6d978fe706d",
+      "set_code": "PTC",
+      "collector_number": "pp81",
+      "name": "Aeolipile",
+      "scryfall_id": "95964406-2c06-49ba-9c26-4c4a26947795"
+    },
+    {
+      "id": "88418774-538e-41d1-94eb-39aaffea7230",
+      "set_code": "PTC",
+      "collector_number": "pp83",
+      "name": "Autumn Willow",
+      "scryfall_id": "469471c7-8403-4565-bffe-bdc6662822e6"
+    },
+    {
+      "id": "2d79345f-7c92-4780-9d6c-1808cdd186ce",
+      "set_code": "PTC",
+      "collector_number": "pp83sb",
+      "name": "Autumn Willow",
+      "scryfall_id": "140efed2-2fba-4603-9ad7-f5f87d1fd6dd"
+    },
+    {
+      "id": "2941a6da-d128-4a65-bbf9-f361eb29fa6f",
+      "set_code": "PTC",
+      "collector_number": "pp96",
+      "name": "Havenwood Battleground",
+      "scryfall_id": "5a412c22-8eec-4501-a44c-190cc559e9ad"
+    },
+    {
+      "id": "52fcaf88-8ab9-4208-a884-0bda6d06e728",
+      "set_code": "PTC",
+      "collector_number": "pp98",
+      "name": "Spectral Bears",
+      "scryfall_id": "7c8b1429-5079-4a43-83b8-ed1d43b90fd5"
+    },
+    {
+      "id": "0df9443f-b33d-46c7-83db-176feac4143f",
+      "set_code": "PTC",
+      "collector_number": "pp100",
+      "name": "Ruins of Trokair",
+      "scryfall_id": "9589bcf5-3dd2-4cdd-a56b-53771fa6c77b"
+    },
+    {
+      "id": "024d4aab-f1ab-43af-a534-3447643ed6c7",
+      "set_code": "PTC",
+      "collector_number": "pp110sb",
+      "name": "Serrated Arrows",
+      "scryfall_id": "783a6bd6-757e-4249-ae44-8f4e74fbaca2"
+    },
+    {
+      "id": "b2b2c894-a6ba-4bb5-9620-4ede83ed4056",
+      "set_code": "PTC",
+      "collector_number": "pp233sb",
+      "name": "Essence Filter",
+      "scryfall_id": "943b890b-5232-43d5-b007-b5ebbc8af133"
+    },
+    {
+      "id": "d6cc89e5-c5db-41f2-8270-ace439e788e5",
+      "set_code": "PTC",
+      "collector_number": "pp243",
+      "name": "Elvish Archers",
+      "scryfall_id": "86024c56-6e0a-405c-a856-be45b7f18b18"
+    },
+    {
+      "id": "045d67e3-7642-48ca-99a1-b6bb42d7bdfd",
+      "set_code": "PTC",
+      "collector_number": "pp251",
+      "name": "Hurricane",
+      "scryfall_id": "512ea719-600a-4eb3-8369-e1f51fddab59"
+    },
+    {
+      "id": "651d132e-7d66-4818-b903-958a082eabfe",
+      "set_code": "PTC",
+      "collector_number": "pp273",
+      "name": "Sylvan Library",
+      "scryfall_id": "2d7bdf71-5413-4841-bdfe-ab53ef55852c"
+    },
+    {
+      "id": "4cf8b10b-3356-4da6-9b8e-14f56d2b3b50",
+      "set_code": "PTC",
+      "collector_number": "pp319",
+      "name": "Fellwar Stone",
+      "scryfall_id": "ab2b620d-7585-47c4-a876-6d9e85ab889e"
+    },
+    {
+      "id": "984af45b-4584-46b0-94bc-4fd50a5c595c",
+      "set_code": "PTC",
+      "collector_number": "pp319sb",
+      "name": "Fellwar Stone",
+      "scryfall_id": "ce186c37-4a8c-48e5-9a24-69eef4d5be27"
+    },
+    {
+      "id": "7cc5147d-b134-4aff-92ec-8af933ca9b78",
+      "set_code": "PTC",
+      "collector_number": "pp322",
+      "name": "Icy Manipulator",
+      "scryfall_id": "9a0503f2-4cb4-4891-a306-d6f7b88e4ac2"
+    },
+    {
+      "id": "9f1fc199-ec6d-45af-880d-2fe2b0f6d8ab",
+      "set_code": "PTC",
+      "collector_number": "pp328sb",
+      "name": "Ivory Tower",
+      "scryfall_id": "1a366864-7441-42b3-81fd-47a0362e1c13"
+    },
+    {
+      "id": "0ec9a569-3b44-4439-9f4e-0de6f79a5270",
+      "set_code": "PTC",
+      "collector_number": "pp338",
+      "name": "Nevinyrral's Disk",
+      "scryfall_id": "4504ddf0-3e81-4655-9191-d816e92f1c26"
+    },
+    {
+      "id": "6f5e33fc-09f6-41aa-b6c1-0a81ab7eb003",
+      "set_code": "PTC",
+      "collector_number": "pp350",
+      "name": "Zuran Orb",
+      "scryfall_id": "4286098f-b308-4af9-97b6-7b766fe03a8f"
+    },
+    {
+      "id": "f155bab5-bfea-4c55-89de-a17a1028aaa5",
+      "set_code": "PTC",
+      "collector_number": "pp352",
+      "name": "Brushland",
+      "scryfall_id": "d147d333-0172-4247-aec3-99c741123005"
+    },
+    {
+      "id": "892074a9-f2de-419b-8a75-09d4c7799dba",
+      "set_code": "PTC",
+      "collector_number": "pp361",
+      "name": "Mishra's Factory",
+      "scryfall_id": "a4d9c106-6aa4-4f5e-9049-741b50ad54b3"
+    },
+    {
+      "id": "1616bf8f-1fea-4f7a-9d78-e3bbbc7f1b1e",
+      "set_code": "PTC",
+      "collector_number": "pp363",
+      "name": "Strip Mine",
+      "scryfall_id": "7bd6a62b-2ea3-4002-b358-8ba42a91f37c"
+    },
+    {
+      "id": "a26ae696-033e-4db0-8854-13b583ee0889",
+      "set_code": "PTC",
+      "collector_number": "pp364",
+      "name": "Plains",
+      "scryfall_id": "4d6f50a8-f210-479b-b7d3-ef01c00ea4c9"
+    },
+    {
+      "id": "44269372-a8ec-468c-9e1f-60315b8e3d68",
+      "set_code": "PTC",
+      "collector_number": "pp365",
+      "name": "Plains",
+      "scryfall_id": "895fcea3-23a0-4442-90a2-26684cbae3b4"
+    },
+    {
+      "id": "68701309-8c1a-470c-b1e2-fa5b5d312e30",
+      "set_code": "PTC",
+      "collector_number": "pp366",
+      "name": "Plains",
+      "scryfall_id": "8a3cedf5-901b-4ea9-882b-d0058c2f9e00"
+    },
+    {
+      "id": "6e3733d6-1454-4e59-af42-44ea60060c91",
+      "set_code": "PTC",
+      "collector_number": "pp376",
+      "name": "Forest",
+      "scryfall_id": "ed4addef-4649-401f-9810-c331ffeb8cf6"
+    },
+    {
+      "id": "a6b52c0d-71cf-4c34-ab37-e117487fbf5a",
+      "set_code": "PTC",
+      "collector_number": "pp377",
+      "name": "Forest",
+      "scryfall_id": "7193cf41-e5c1-4060-a3e3-89f4d71e323b"
+    },
+    {
+      "id": "442fad40-2e8e-4d0e-b175-060efc8b9b25",
+      "set_code": "PTC",
+      "collector_number": "pp378",
+      "name": "Forest",
+      "scryfall_id": "dd5acc74-456a-4299-8316-58c0ced0d628"
+    },
+    {
+      "id": "76ad7668-4a04-4d24-9d63-bb54c4ec7b17",
+      "set_code": "PTC",
+      "collector_number": "sr1sb",
+      "name": "Abbey Gargoyles",
+      "scryfall_id": "c8b9f96f-e5ea-44c3-b608-1634a85d4fff"
+    },
+    {
+      "id": "ad16b527-f1e2-48fd-9e62-d1ef98a99c90",
+      "set_code": "PTC",
+      "collector_number": "sr3sb",
+      "name": "Arenson's Aura",
+      "scryfall_id": "2d5afd37-6fe3-4a7f-b3a2-30dcc5c6a333"
+    },
+    {
+      "id": "27c0efa1-0f45-4b04-954a-ec12a0aed947",
+      "set_code": "PTC",
+      "collector_number": "sr6",
+      "name": "Balance",
+      "scryfall_id": "f5f345ec-d0a5-461f-b78f-5f888c6a828b"
+    },
+    {
+      "id": "89f774de-0c21-43de-b6aa-54e848c256fb",
+      "set_code": "PTC",
+      "collector_number": "sr6sb",
+      "name": "Divine Offering",
+      "scryfall_id": "993f038a-e222-490f-8a8c-dbebd945bf44"
+    },
+    {
+      "id": "2ec0df5a-1c41-4c98-9382-c66fc9c8b1dd",
+      "set_code": "PTC",
+      "collector_number": "sr14sb",
+      "name": "Circle of Protection: Black",
+      "scryfall_id": "abd19089-8795-4ea3-a95a-707edd4d071d"
+    },
+    {
+      "id": "79236998-f72e-446d-8fde-224a2d9a95f4",
+      "set_code": "PTC",
+      "collector_number": "sr15sb",
+      "name": "Circle of Protection: Red",
+      "scryfall_id": "3bbd48d9-dca4-499b-8d0f-d41876814251"
+    },
+    {
+      "id": "a33fc5c8-1e77-42e0-aed8-62eac0a1575b",
+      "set_code": "PTC",
+      "collector_number": "sr20sb",
+      "name": "Truce",
+      "scryfall_id": "97cc05bf-c3d3-4c09-8a4c-a748856b225c"
+    },
+    {
+      "id": "0070391f-2d69-4331-9a52-e87c081cc463",
+      "set_code": "PTC",
+      "collector_number": "sr22",
+      "name": "Disenchant",
+      "scryfall_id": "a7e905ae-9782-4eb0-bd06-8766f0f43718"
+    },
+    {
+      "id": "bd3ea18d-e9d7-44a0-988a-db892e1bdb11",
+      "set_code": "PTC",
+      "collector_number": "sr24",
+      "name": "Recall",
+      "scryfall_id": "eca2b290-a59b-4961-8e06-78d73fcd0b58"
+    },
+    {
+      "id": "d2e8509e-fe61-4b17-a2c4-543d1ce4f3da",
+      "set_code": "PTC",
+      "collector_number": "sr32bsb",
+      "name": "Memory Lapse",
+      "scryfall_id": "bf9c4e40-ff50-4837-ae11-1670d637bcfb"
+    },
+    {
+      "id": "78b324bf-e0eb-4ffd-92e4-043ddd81e86f",
+      "set_code": "PTC",
+      "collector_number": "sr32asb",
+      "name": "Memory Lapse",
+      "scryfall_id": "348233e7-007b-4692-b1bb-9ac97aacec14"
+    },
+    {
+      "id": "41c024ad-7d66-442e-b689-bf27701c5e8d",
+      "set_code": "PTC",
+      "collector_number": "sr34",
+      "name": "Land Tax",
+      "scryfall_id": "e750d05f-cae7-4f06-a9e4-67bac7bdf564"
+    },
+    {
+      "id": "62473815-49c9-46fb-8e6c-e6e99d3122e8",
+      "set_code": "PTC",
+      "collector_number": "sr38sb",
+      "name": "Sea Sprite",
+      "scryfall_id": "c5fe1d28-b628-48dc-823b-7e5843918001"
+    },
+    {
+      "id": "4bd7b48c-ff98-42ce-b776-a52edcd60210",
+      "set_code": "PTC",
+      "collector_number": "sr50sb",
+      "name": "Feldon's Cane",
+      "scryfall_id": "f1907412-b771-4feb-bd3f-13739d812576"
+    },
+    {
+      "id": "a79cc378-621e-4f78-a4b5-cb06e794abbe",
+      "set_code": "PTC",
+      "collector_number": "sr52",
+      "name": "Swords to Plowshares",
+      "scryfall_id": "89005926-9960-49ed-b0f8-4bb202c7973c"
+    },
+    {
+      "id": "1335386f-d7ed-4f2c-b879-e20e48480753",
+      "set_code": "PTC",
+      "collector_number": "sr58",
+      "name": "Wrath of God",
+      "scryfall_id": "a45d5391-14db-4f14-b5c2-28aa5b96cf66"
+    },
+    {
+      "id": "b7c6266a-5855-45b1-adbf-931c65a9ee9d",
+      "set_code": "PTC",
+      "collector_number": "sr65",
+      "name": "Counterspell",
+      "scryfall_id": "703dc932-3f90-47e9-8d13-aad1b65f1651"
+    },
+    {
+      "id": "e6ae75b4-fb70-4f52-b2cf-431800994da1",
+      "set_code": "PTC",
+      "collector_number": "sr93",
+      "name": "Power Sink",
+      "scryfall_id": "a3c0c583-f83b-4990-8958-0331fbd88928"
+    },
+    {
+      "id": "24c1b62f-4164-4892-86f3-7a1bb6639cab",
+      "set_code": "PTC",
+      "collector_number": "sr98sb",
+      "name": "Fountain of Youth",
+      "scryfall_id": "f9d832e9-3a55-497a-9ccd-cc83f862236b"
+    },
+    {
+      "id": "d750d4c0-5fb3-4338-bcf2-a11401d06be3",
+      "set_code": "PTC",
+      "collector_number": "sr100",
+      "name": "Ruins of Trokair",
+      "scryfall_id": "7c58df9c-10b5-4b04-9495-71ce3c595514"
+    },
+    {
+      "id": "a65fd09c-19dc-4601-bee6-99141f2042f0",
+      "set_code": "PTC",
+      "collector_number": "sr102",
+      "name": "Svyelunite Temple",
+      "scryfall_id": "9084cba0-dd0f-44b0-951f-d76f9a487e83"
+    },
+    {
+      "id": "a0fa3456-00d6-4a26-a05b-d7553186488e",
+      "set_code": "PTC",
+      "collector_number": "sr103",
+      "name": "Spell Blast",
+      "scryfall_id": "e73accb6-de56-406c-b88e-43c32a1fa74b"
+    },
+    {
+      "id": "9c9d60a7-be9e-4273-8af0-04addf703c5a",
+      "set_code": "PTC",
+      "collector_number": "sr105sb",
+      "name": "Steal Artifact",
+      "scryfall_id": "f1d9eb2b-d80b-41e2-924f-93d112e0e104"
+    },
+    {
+      "id": "443ddba8-44a4-461e-a16d-deac9f715c54",
+      "set_code": "PTC",
+      "collector_number": "sr112",
+      "name": "City of Brass",
+      "scryfall_id": "45fcd2f3-4273-4161-8762-ce94adcc7db2"
+    },
+    {
+      "id": "5d2bfea0-0948-4a10-8a54-579f2ac7978d",
+      "set_code": "PTC",
+      "collector_number": "sr322",
+      "name": "Icy Manipulator",
+      "scryfall_id": "13678c8e-34cc-4e8d-883c-daac6d1afd6e"
+    },
+    {
+      "id": "96c39d44-9ff0-43fe-a21b-c1409076028b",
+      "set_code": "PTC",
+      "collector_number": "sr328",
+      "name": "Ivory Tower",
+      "scryfall_id": "d0a27482-7b08-4ed8-ae4b-9eaa6bed2019"
+    },
+    {
+      "id": "012f520e-3ab2-4c0e-ad53-eaba5aa6c3ca",
+      "set_code": "PTC",
+      "collector_number": "sr336",
+      "name": "Millstone",
+      "scryfall_id": "ff28368e-9a64-40f3-bb87-029af0137fbd"
+    },
+    {
+      "id": "23ec58ac-affe-45cb-9900-e09e225655e7",
+      "set_code": "PTC",
+      "collector_number": "sr350",
+      "name": "Zuran Orb",
+      "scryfall_id": "7cf68410-6714-4fa7-9e24-1523c30d20ee"
+    },
+    {
+      "id": "f203b108-72a6-49e9-a8ea-792b976011be",
+      "set_code": "PTC",
+      "collector_number": "sr351",
+      "name": "Adarkar Wastes",
+      "scryfall_id": "d8bea7e5-3993-4e7f-a9bb-79a73ea8224e"
+    },
+    {
+      "id": "970d1dac-0d26-4f60-9b99-22e0800be87a",
+      "set_code": "PTC",
+      "collector_number": "sr361",
+      "name": "Mishra's Factory",
+      "scryfall_id": "8d4448f2-2826-461d-890b-31409aef21c1"
+    },
+    {
+      "id": "713a595c-6641-4ac0-a4f7-1759c47e0d7d",
+      "set_code": "PTC",
+      "collector_number": "sr364",
+      "name": "Plains",
+      "scryfall_id": "304717bd-3c97-47d6-b2fd-e94c70655058"
+    },
+    {
+      "id": "fc505f06-e8ad-42aa-9cde-51d1ad3328f8",
+      "set_code": "PTC",
+      "collector_number": "sr365",
+      "name": "Plains",
+      "scryfall_id": "e86b943e-0c07-4b5c-a850-857a86d59c57"
+    },
+    {
+      "id": "aef16781-ed77-4ebd-b6dc-8552523d8c22",
+      "set_code": "PTC",
+      "collector_number": "sr366",
+      "name": "Plains",
+      "scryfall_id": "bc14d179-1833-4364-a2e8-c94851df0b67"
+    },
+    {
+      "id": "9b8b9f68-26b9-4699-a26f-725463d793f7",
+      "set_code": "PTC",
+      "collector_number": "sr367",
+      "name": "Island",
+      "scryfall_id": "77c8ea02-9aff-4007-ab11-99847a1834d3"
+    },
+    {
+      "id": "4dfa9a9b-7d2b-485c-940e-82a2fbcc57e1",
+      "set_code": "PTC",
+      "collector_number": "sr368",
+      "name": "Island",
+      "scryfall_id": "7c029c9c-ff40-467b-98c0-38ac601b98c3"
+    },
+    {
+      "id": "f96b22dc-b06d-4af1-ae18-6ff110dd54e5",
+      "set_code": "PTC",
+      "collector_number": "sr369",
+      "name": "Island",
+      "scryfall_id": "d0561d43-cda2-4497-ae19-b1968db179e0"
+    }
+  ]
+}

@@ -1,0 +1,1387 @@
+{
+  "id": "0364ca76-8fb9-4bef-b1bc-09271d355714",
+  "code": "AER",
+  "name": "Aether Revolt",
+  "scryfall_id": "a4a0db50-8826-4e73-833c-3fd934375f96",
+  "cards": [
+    {
+      "id": "5490903f-36c5-4678-8b45-7093b5b0c50f",
+      "set_code": "AER",
+      "collector_number": "1",
+      "name": "Aerial Modification",
+      "scryfall_id": "b89cab47-25fb-49ea-bb43-90a0089b6b20"
+    },
+    {
+      "id": "14c8a468-94ec-4c70-99bd-387d11d367dc",
+      "set_code": "AER",
+      "collector_number": "2",
+      "name": "Aeronaut Admiral",
+      "scryfall_id": "ff15c06c-160d-4960-92d5-6f8e7b33f051"
+    },
+    {
+      "id": "8721c4c4-9e93-466b-8d62-4161e875cab4",
+      "set_code": "AER",
+      "collector_number": "3",
+      "name": "Aether Inspector",
+      "scryfall_id": "f5dcbe97-d582-464e-98e7-dd06d8652606"
+    },
+    {
+      "id": "272b8c53-73a5-4238-8e39-c61ee0b7155b",
+      "set_code": "AER",
+      "collector_number": "4",
+      "name": "Aethergeode Miner",
+      "scryfall_id": "80bb3abd-ebaf-4dc2-97eb-ed4a2b005177"
+    },
+    {
+      "id": "ea4ab545-0006-4ec1-b6c4-af1949dd4f9b",
+      "set_code": "AER",
+      "collector_number": "5",
+      "name": "Airdrop Aeronauts",
+      "scryfall_id": "49827a57-cf10-4a44-a1fd-ac611da39dc9"
+    },
+    {
+      "id": "657d5007-d32b-4024-8ff3-1bf979805f8c",
+      "set_code": "AER",
+      "collector_number": "6",
+      "name": "Alley Evasion",
+      "scryfall_id": "bc10173d-25ff-4734-b8f2-84f94fe52b17"
+    },
+    {
+      "id": "9f17c8df-ddf9-44a4-bbb1-757554dcbb3f",
+      "set_code": "AER",
+      "collector_number": "7",
+      "name": "Audacious Infiltrator",
+      "scryfall_id": "36a348bb-cdc5-4e2a-933f-21f91faab891"
+    },
+    {
+      "id": "bc515d7b-5554-4b0d-b423-578dee7df13e",
+      "set_code": "AER",
+      "collector_number": "8",
+      "name": "Bastion Enforcer",
+      "scryfall_id": "88b9c0f7-d49b-4d74-9038-44954054ce21"
+    },
+    {
+      "id": "6ed0958a-e98e-49c2-92f0-dc884fc5f14a",
+      "set_code": "AER",
+      "collector_number": "9",
+      "name": "Call for Unity",
+      "scryfall_id": "eeca4557-98aa-433b-a3ee-050e4a3e6d88"
+    },
+    {
+      "id": "de8d7a9a-d82d-4888-9321-f2b194752baa",
+      "set_code": "AER",
+      "collector_number": "10",
+      "name": "Caught in the Brights",
+      "scryfall_id": "4d5bea27-d825-4691-8ae0-c4831574ec53"
+    },
+    {
+      "id": "bf5904b3-6df2-4599-957b-d47123856097",
+      "set_code": "AER",
+      "collector_number": "11",
+      "name": "Consulate Crackdown",
+      "scryfall_id": "02fb7a26-fbf0-4b91-847b-cfc46e01a342"
+    },
+    {
+      "id": "9f2eccd2-5105-438c-886e-9e5c864c3b86",
+      "set_code": "AER",
+      "collector_number": "12",
+      "name": "Conviction",
+      "scryfall_id": "4f805e97-c28b-4780-b204-74514c0c47d2"
+    },
+    {
+      "id": "fab2f4ff-2af4-4b33-b4f1-ba127817a2df",
+      "set_code": "AER",
+      "collector_number": "13",
+      "name": "Countless Gears Renegade",
+      "scryfall_id": "c2d6f334-0040-42b1-9c72-362e4dcaa65e"
+    },
+    {
+      "id": "fb9f7b63-a244-4bb1-89ea-303c596fe2e8",
+      "set_code": "AER",
+      "collector_number": "14",
+      "name": "Dawnfeather Eagle",
+      "scryfall_id": "f7113ddc-cb3c-46da-a6c7-2567bd0affa9"
+    },
+    {
+      "id": "619adf8d-7287-42f1-bdd0-0d50bede4561",
+      "set_code": "AER",
+      "collector_number": "14\u2020",
+      "name": "Dawnfeather Eagle",
+      "scryfall_id": "7ccd6864-1404-43c2-aa59-ccc8b3529a62"
+    },
+    {
+      "id": "e3502039-68c7-4d72-a89d-3b97a0d01e01",
+      "set_code": "AER",
+      "collector_number": "15",
+      "name": "Deadeye Harpooner",
+      "scryfall_id": "a018decf-25e1-45fc-be7d-2523dcfb7a4c"
+    },
+    {
+      "id": "cbd2a1ff-2e55-476d-85ac-90a53be1012e",
+      "set_code": "AER",
+      "collector_number": "16",
+      "name": "Decommission",
+      "scryfall_id": "1cca66e9-be21-4fc7-8951-cd99e9b213dc"
+    },
+    {
+      "id": "883e40c0-b70c-4977-b7db-f963b31a4111",
+      "set_code": "AER",
+      "collector_number": "17",
+      "name": "Deft Dismissal",
+      "scryfall_id": "5cb26d5b-ffeb-4dac-ad61-f85e5e7b1675"
+    },
+    {
+      "id": "60f8d836-1656-416d-ac97-5d52ee502dd9",
+      "set_code": "AER",
+      "collector_number": "18",
+      "name": "Exquisite Archangel",
+      "scryfall_id": "d04018c9-510c-4610-9daa-677434628805"
+    },
+    {
+      "id": "2da1a7d8-935d-4eca-b1a4-4b54dda45221",
+      "set_code": "AER",
+      "collector_number": "19",
+      "name": "Felidar Guardian",
+      "scryfall_id": "44bdbed8-5d21-4bf5-8a32-9623b1139c85"
+    },
+    {
+      "id": "6ed07dd8-a7de-46dc-b209-93547f82e1ed",
+      "set_code": "AER",
+      "collector_number": "20",
+      "name": "Ghirapur Osprey",
+      "scryfall_id": "2186f382-2d68-4191-b490-a072f49eaabf"
+    },
+    {
+      "id": "3bc0c0a1-7145-4d44-bdf4-7d1d0ebbebfd",
+      "set_code": "AER",
+      "collector_number": "21",
+      "name": "Restoration Specialist",
+      "scryfall_id": "63682db3-1a56-4d8e-a9b7-04465a577518"
+    },
+    {
+      "id": "e5c24fb2-a144-4af9-92ae-a955ee7db9f2",
+      "set_code": "AER",
+      "collector_number": "22",
+      "name": "Solemn Recruit",
+      "scryfall_id": "5990c2f1-94d7-4d2e-b1ad-6406c25b91aa"
+    },
+    {
+      "id": "8a5dd2a6-5523-4fa4-8bf6-650a0155841c",
+      "set_code": "AER",
+      "collector_number": "23",
+      "name": "Sram, Senior Edificer",
+      "scryfall_id": "1b323e2c-59dd-4d70-9a48-b10f807bb818"
+    },
+    {
+      "id": "394c9051-80eb-4e15-9167-7cd1e04193df",
+      "set_code": "AER",
+      "collector_number": "24",
+      "name": "Sram's Expertise",
+      "scryfall_id": "7c6d47b0-4c19-4c19-9e21-54cd87a5e34d"
+    },
+    {
+      "id": "e2c6be04-5a77-44c3-a92f-262bac7f4345",
+      "set_code": "AER",
+      "collector_number": "25",
+      "name": "Thopter Arrest",
+      "scryfall_id": "a4e738cb-e4ea-41c2-99a1-55b6167eccb0"
+    },
+    {
+      "id": "5001be45-277d-4297-a02e-9f55e34dac57",
+      "set_code": "AER",
+      "collector_number": "26",
+      "name": "Aether Swooper",
+      "scryfall_id": "8c34dbe3-3a66-40b3-a5c2-c2d6acb47773"
+    },
+    {
+      "id": "02505335-1fb2-449e-bb29-f5bb62fafb05",
+      "set_code": "AER",
+      "collector_number": "27",
+      "name": "Aethertide Whale",
+      "scryfall_id": "38722c25-13a7-47af-a4cd-90722f289499"
+    },
+    {
+      "id": "47f3e576-f13a-4784-bbd8-f7841aa5772f",
+      "set_code": "AER",
+      "collector_number": "28",
+      "name": "Baral, Chief of Compliance",
+      "scryfall_id": "60e16d94-1166-4050-8554-686e153a7f80"
+    },
+    {
+      "id": "f64f2ddf-1c96-4480-b7bf-84e5faa53f4f",
+      "set_code": "AER",
+      "collector_number": "29",
+      "name": "Baral's Expertise",
+      "scryfall_id": "d273f5b7-b3a3-485a-acc8-34e10a504646"
+    },
+    {
+      "id": "b02a2b4f-6c82-4cc3-bd49-5144f881dd4b",
+      "set_code": "AER",
+      "collector_number": "30",
+      "name": "Bastion Inventor",
+      "scryfall_id": "856f804d-0213-4b86-bc6a-6a0a1147c4f9"
+    },
+    {
+      "id": "da1844e5-3083-4522-8618-e599b6617863",
+      "set_code": "AER",
+      "collector_number": "31",
+      "name": "Disallow",
+      "scryfall_id": "25f05814-a5a5-460f-9d29-0ab03efecf4c"
+    },
+    {
+      "id": "947c099a-9c6a-46c3-8d53-c722e6af12eb",
+      "set_code": "AER",
+      "collector_number": "32",
+      "name": "Dispersal Technician",
+      "scryfall_id": "5d93a915-ffea-4f50-88ac-2b3253f7dfdf"
+    },
+    {
+      "id": "2115aae1-7ade-4897-acf3-26e160147233",
+      "set_code": "AER",
+      "collector_number": "33",
+      "name": "Efficient Construction",
+      "scryfall_id": "abfbe1d5-beb7-49b8-a504-f1cc47ee4731"
+    },
+    {
+      "id": "dee84daf-1c0c-4159-98ac-e7b19430de26",
+      "set_code": "AER",
+      "collector_number": "34",
+      "name": "Hinterland Drake",
+      "scryfall_id": "418448d0-3e8d-4581-b598-696165775d23"
+    },
+    {
+      "id": "16f87fd7-0c44-4c74-b232-fa8c2b37737b",
+      "set_code": "AER",
+      "collector_number": "35",
+      "name": "Ice Over",
+      "scryfall_id": "c01d2835-060c-4ac3-b586-84811878a64d"
+    },
+    {
+      "id": "a2c9776f-8159-46d8-b2cb-edd013204ef1",
+      "set_code": "AER",
+      "collector_number": "36",
+      "name": "Illusionist's Stratagem",
+      "scryfall_id": "a7eede83-6f1b-4054-b01c-0da17b197bad"
+    },
+    {
+      "id": "b99086ee-a47c-42a4-bcee-d8151b930159",
+      "set_code": "AER",
+      "collector_number": "37",
+      "name": "Leave in the Dust",
+      "scryfall_id": "3c01bd77-beb0-4a26-858d-022311e550bf"
+    },
+    {
+      "id": "4dd40e3e-5f7d-4256-bbba-c0134d764f2f",
+      "set_code": "AER",
+      "collector_number": "38",
+      "name": "Mechanized Production",
+      "scryfall_id": "235dd8f1-215a-4b0a-9e94-0d0d5a3c730b"
+    },
+    {
+      "id": "eef55c19-d212-41e7-821b-381f6c501762",
+      "set_code": "AER",
+      "collector_number": "39",
+      "name": "Metallic Rebuke",
+      "scryfall_id": "f712ac26-dca4-459b-84c1-010597007f60"
+    },
+    {
+      "id": "ce7dacf1-de03-4de3-98be-3a315cb27938",
+      "set_code": "AER",
+      "collector_number": "40",
+      "name": "Negate",
+      "scryfall_id": "cb142515-0856-441d-84d4-9c9d450a86e9"
+    },
+    {
+      "id": "680da9f6-3f80-47a1-b42c-f5b10abfaa6b",
+      "set_code": "AER",
+      "collector_number": "41",
+      "name": "Quicksmith Spy",
+      "scryfall_id": "0f922e87-1744-4966-9e3a-54917f7f3d9e"
+    },
+    {
+      "id": "c9ddedae-2f4d-4a23-8dad-f4029bc6afbc",
+      "set_code": "AER",
+      "collector_number": "42",
+      "name": "Reverse Engineer",
+      "scryfall_id": "d56f8cca-6b8f-45ea-926f-161938716ee9"
+    },
+    {
+      "id": "489b0093-c4c9-448e-b2ba-b5dd1303670a",
+      "set_code": "AER",
+      "collector_number": "43",
+      "name": "Salvage Scuttler",
+      "scryfall_id": "480be626-cf37-410d-a9c7-e5464345085f"
+    },
+    {
+      "id": "167785cc-5f20-4b15-aa9d-f38a48fca7ef",
+      "set_code": "AER",
+      "collector_number": "44",
+      "name": "Shielded Aether Thief",
+      "scryfall_id": "e34be31b-eeb4-40e5-acf7-6cd0ba6d4bcf"
+    },
+    {
+      "id": "25673ee9-1116-4261-8386-8030f66b1374",
+      "set_code": "AER",
+      "collector_number": "45",
+      "name": "Shipwreck Moray",
+      "scryfall_id": "284c6de3-4e09-40d9-afdb-89ff08e1844b"
+    },
+    {
+      "id": "bb531503-d3c6-490a-b054-698f482107dd",
+      "set_code": "AER",
+      "collector_number": "46",
+      "name": "Skyship Plunderer",
+      "scryfall_id": "1fedbc91-67e4-40d6-b307-7e6197f47c6e"
+    },
+    {
+      "id": "718c1b11-a62b-469a-bfbe-6b999bbe86ac",
+      "set_code": "AER",
+      "collector_number": "47",
+      "name": "Take into Custody",
+      "scryfall_id": "b412718a-7bc7-4b16-af60-1b955c820b0f"
+    },
+    {
+      "id": "76a14e1a-9f61-4076-885c-f0dd13504b55",
+      "set_code": "AER",
+      "collector_number": "48",
+      "name": "Trophy Mage",
+      "scryfall_id": "19754fe4-2f61-42a3-afa2-3a6a8257b81b"
+    },
+    {
+      "id": "7d5fbeb8-57bc-4eb8-87cb-eaafdcfb8478",
+      "set_code": "AER",
+      "collector_number": "49",
+      "name": "Whir of Invention",
+      "scryfall_id": "0279fd3c-9252-4958-9d7a-5f33aa25907e"
+    },
+    {
+      "id": "c9fbfa19-b4ae-4c5b-9135-8c105a7703fa",
+      "set_code": "AER",
+      "collector_number": "50",
+      "name": "Wind-Kin Raiders",
+      "scryfall_id": "fbfaa040-61fd-4705-a7ee-c67b49f740e3"
+    },
+    {
+      "id": "d0d17ada-951f-4291-bfa8-59e188d50874",
+      "set_code": "AER",
+      "collector_number": "51",
+      "name": "Aether Poisoner",
+      "scryfall_id": "c9b217f1-1621-40d1-8a98-24c1f7cba800"
+    },
+    {
+      "id": "23c2e502-825b-4c7e-a41b-af724361d4c3",
+      "set_code": "AER",
+      "collector_number": "52",
+      "name": "Alley Strangler",
+      "scryfall_id": "a131d558-5f6b-448b-a378-1882e2d02bd2"
+    },
+    {
+      "id": "44b3c38f-49fb-4e1b-bfb3-98de0bc837ae",
+      "set_code": "AER",
+      "collector_number": "52\u2020",
+      "name": "Alley Strangler",
+      "scryfall_id": "d0b97fa0-4c5b-4211-9c8d-99197dc20636"
+    },
+    {
+      "id": "7b011885-cf1c-4fe7-a76b-864db30a46ea",
+      "set_code": "AER",
+      "collector_number": "53",
+      "name": "Battle at the Bridge",
+      "scryfall_id": "74d8b644-4cca-451e-a46c-5237c13bf373"
+    },
+    {
+      "id": "de0296c6-b2e3-49c2-80a3-af2170561fa5",
+      "set_code": "AER",
+      "collector_number": "54",
+      "name": "Cruel Finality",
+      "scryfall_id": "5c22e911-cf40-4ed8-b075-186f2b1393db"
+    },
+    {
+      "id": "e0db7d69-079c-484d-a5d1-a7e6e9fa28ee",
+      "set_code": "AER",
+      "collector_number": "55",
+      "name": "Daring Demolition",
+      "scryfall_id": "a6378898-50b7-47c9-8c25-dc660606be9f"
+    },
+    {
+      "id": "ab11b002-0e25-4519-b208-2592fe9d24cc",
+      "set_code": "AER",
+      "collector_number": "56",
+      "name": "Defiant Salvager",
+      "scryfall_id": "0afbfb2c-3f1a-4ef9-9f61-6ca51af853d8"
+    },
+    {
+      "id": "d93ad8ce-31ff-421d-8df9-b348707cc148",
+      "set_code": "AER",
+      "collector_number": "57",
+      "name": "Fatal Push",
+      "scryfall_id": "b5e81649-9954-424c-89d1-f87d73b66047"
+    },
+    {
+      "id": "ed87d807-24e2-443d-81ee-fd963d852162",
+      "set_code": "AER",
+      "collector_number": "58",
+      "name": "Fen Hauler",
+      "scryfall_id": "b5ef4616-e3c2-4448-83b1-f7d439705eaf"
+    },
+    {
+      "id": "5e8f29eb-da1d-424a-b90e-bc72e5c2b943",
+      "set_code": "AER",
+      "collector_number": "59",
+      "name": "Foundry Hornet",
+      "scryfall_id": "f6dc7865-16ed-4d12-bdb4-d40fbdd48a23"
+    },
+    {
+      "id": "380d4800-432d-4e65-ab07-76fa122071c2",
+      "set_code": "AER",
+      "collector_number": "60",
+      "name": "Fourth Bridge Prowler",
+      "scryfall_id": "73aaaa09-c985-42f8-b426-06fd3b8de66d"
+    },
+    {
+      "id": "9a07f42a-79ba-45bc-b32f-e960f27aeb97",
+      "set_code": "AER",
+      "collector_number": "61",
+      "name": "Gifted Aetherborn",
+      "scryfall_id": "abceb4fd-e3c5-400d-af7a-6dd17108a4b4"
+    },
+    {
+      "id": "112afeaa-9007-496e-af10-a57bc2158659",
+      "set_code": "AER",
+      "collector_number": "62",
+      "name": "Glint-Sleeve Siphoner",
+      "scryfall_id": "315976db-4cab-4393-8386-ce3b0ae3f490"
+    },
+    {
+      "id": "bc595b89-ac99-4941-b9a4-c3b46a328e95",
+      "set_code": "AER",
+      "collector_number": "63",
+      "name": "Gonti's Machinations",
+      "scryfall_id": "6c97f5a9-6e04-45c3-aa8d-dcf0fd81d5b9"
+    },
+    {
+      "id": "454d8859-011d-443b-b0e9-7a57966d32f0",
+      "set_code": "AER",
+      "collector_number": "64",
+      "name": "Herald of Anguish",
+      "scryfall_id": "31a69ebe-4229-4067-8414-381b123fe63c"
+    },
+    {
+      "id": "04252c03-f072-40f9-820a-c231cb843df1",
+      "set_code": "AER",
+      "collector_number": "65",
+      "name": "Ironclad Revolutionary",
+      "scryfall_id": "43a5535b-b1d1-4648-aa72-4f64e9fcd95d"
+    },
+    {
+      "id": "4e39b963-4999-4677-98e5-d9b3fc3bcc26",
+      "set_code": "AER",
+      "collector_number": "66",
+      "name": "Midnight Entourage",
+      "scryfall_id": "2838c6dd-d816-4363-a861-f2f8052d1430"
+    },
+    {
+      "id": "8444191c-dce9-4645-8648-ce190b9e845a",
+      "set_code": "AER",
+      "collector_number": "67",
+      "name": "Night Market Aeronaut",
+      "scryfall_id": "2637f860-01dd-4559-97b3-71c2e7cdbca4"
+    },
+    {
+      "id": "51551c71-b0e8-4ce6-9640-9786b1f35053",
+      "set_code": "AER",
+      "collector_number": "68",
+      "name": "Perilous Predicament",
+      "scryfall_id": "f0edc708-0c76-4fcd-a175-d9c6f1ca3ac1"
+    },
+    {
+      "id": "b3773a8c-e484-4bc9-9f1a-f5ff99189f83",
+      "set_code": "AER",
+      "collector_number": "69",
+      "name": "Renegade's Getaway",
+      "scryfall_id": "49b0a5d5-99d7-492b-bd85-77c3cee12c8d"
+    },
+    {
+      "id": "2072920c-d052-4433-927c-79705207bad0",
+      "set_code": "AER",
+      "collector_number": "70",
+      "name": "Resourceful Return",
+      "scryfall_id": "32f57d0b-ab6a-4074-885d-678659729b8a"
+    },
+    {
+      "id": "a1e8c5ab-49b5-4416-a460-a64f66f042a1",
+      "set_code": "AER",
+      "collector_number": "71",
+      "name": "Secret Salvage",
+      "scryfall_id": "d9b9f3e2-b5e8-4234-aaf3-5f1938a20c78"
+    },
+    {
+      "id": "e93c561a-ddd4-4939-89b5-fb838adc11c6",
+      "set_code": "AER",
+      "collector_number": "72",
+      "name": "Sly Requisitioner",
+      "scryfall_id": "c2d05324-6d85-40da-a087-b5822bc8f42e"
+    },
+    {
+      "id": "435bce8e-ec23-49c4-90ff-e6d6591651bd",
+      "set_code": "AER",
+      "collector_number": "73",
+      "name": "Vengeful Rebel",
+      "scryfall_id": "6e34edfc-77fc-43b5-bad6-1c4c2a76c8c3"
+    },
+    {
+      "id": "49a83242-542a-42f0-b308-0d758e99dfd2",
+      "set_code": "AER",
+      "collector_number": "74",
+      "name": "Yahenni, Undying Partisan",
+      "scryfall_id": "c37e2466-57c3-453f-aebe-340995f2eca7"
+    },
+    {
+      "id": "1eacf86b-ee3e-4908-b8bb-a2dc206e651f",
+      "set_code": "AER",
+      "collector_number": "75",
+      "name": "Yahenni's Expertise",
+      "scryfall_id": "f2f28735-122c-45ba-bde5-decfd9b11b32"
+    },
+    {
+      "id": "c5ed5290-683f-4600-8e38-930225399c54",
+      "set_code": "AER",
+      "collector_number": "76",
+      "name": "Aether Chaser",
+      "scryfall_id": "290cde84-d97a-4737-aff2-c443a4e43f7d"
+    },
+    {
+      "id": "7f2b5d63-5326-444a-99a4-c6a7dec4daaa",
+      "set_code": "AER",
+      "collector_number": "77",
+      "name": "Chandra's Revolution",
+      "scryfall_id": "2fcee99c-72a0-4db1-b4c9-65c878284450"
+    },
+    {
+      "id": "3e5eee47-bd70-4669-a1bf-59ec586fb540",
+      "set_code": "AER",
+      "collector_number": "78",
+      "name": "Destructive Tampering",
+      "scryfall_id": "00154b70-57d2-4c32-860f-1c36fc49b10c"
+    },
+    {
+      "id": "acebb91d-25f4-4264-8449-cae2042775b6",
+      "set_code": "AER",
+      "collector_number": "79",
+      "name": "Embraal Gear-Smasher",
+      "scryfall_id": "3ad5c175-581c-4fdd-b008-e7d10b0928c7"
+    },
+    {
+      "id": "4cbbd010-fcdf-468f-8f30-300cb84a0197",
+      "set_code": "AER",
+      "collector_number": "80",
+      "name": "Enraged Giant",
+      "scryfall_id": "40dc3b59-baae-4bf0-b5ce-fa9a915af066"
+    },
+    {
+      "id": "48781168-9f3c-4817-968a-52647372ecf0",
+      "set_code": "AER",
+      "collector_number": "81",
+      "name": "Freejam Regent",
+      "scryfall_id": "d6b5147f-b422-47d3-98a0-dcc2d6f4e17a"
+    },
+    {
+      "id": "56f7a083-5620-4e86-a4e0-8b5f058304f9",
+      "set_code": "AER",
+      "collector_number": "82",
+      "name": "Frontline Rebel",
+      "scryfall_id": "b742738a-2663-474d-b75a-28f1f67dc335"
+    },
+    {
+      "id": "d95bf6d6-3823-460b-995e-c30f1f59c4a3",
+      "set_code": "AER",
+      "collector_number": "83",
+      "name": "Gremlin Infestation",
+      "scryfall_id": "b51438f5-c4d4-434a-b7ea-dee0b60303e4"
+    },
+    {
+      "id": "4367df38-188e-4693-a476-3e2345657d7e",
+      "set_code": "AER",
+      "collector_number": "84",
+      "name": "Hungry Flames",
+      "scryfall_id": "4ca23676-f36f-4266-ba4f-5e9ebf3adb57"
+    },
+    {
+      "id": "e9ace36f-4682-4df4-951c-b32e646d5218",
+      "set_code": "AER",
+      "collector_number": "85",
+      "name": "Indomitable Creativity",
+      "scryfall_id": "edd00e45-2ae1-4cd0-92a1-155c95f8dc72"
+    },
+    {
+      "id": "020706c7-2d95-4c6e-8be3-7d9d35ebe0fa",
+      "set_code": "AER",
+      "collector_number": "86",
+      "name": "Invigorated Rampage",
+      "scryfall_id": "2c1d1727-99d4-4aee-b6f5-8399ac1d0184"
+    },
+    {
+      "id": "aca521db-ace4-4246-94a6-5c0a28e49a8c",
+      "set_code": "AER",
+      "collector_number": "87",
+      "name": "Kari Zev, Skyship Raider",
+      "scryfall_id": "72495879-39ce-449d-ad2f-ef32ea46f3aa"
+    },
+    {
+      "id": "aa86da46-63ab-44a6-9b94-ecb0cfd6936b",
+      "set_code": "AER",
+      "collector_number": "88",
+      "name": "Kari Zev's Expertise",
+      "scryfall_id": "ab5c7400-6307-4c51-88b8-9c0232110714"
+    },
+    {
+      "id": "cc34e0ae-b81c-45e6-a813-8c8ad29b7824",
+      "set_code": "AER",
+      "collector_number": "89",
+      "name": "Lathnu Sailback",
+      "scryfall_id": "33998799-f31b-4522-93b2-0c34c570ebf7"
+    },
+    {
+      "id": "adf5363d-9a91-40c3-9e49-cf080dff77a0",
+      "set_code": "AER",
+      "collector_number": "90",
+      "name": "Lightning Runner",
+      "scryfall_id": "e5d9c7eb-dca4-4471-a91f-a5aad3a69c2f"
+    },
+    {
+      "id": "8625eefb-4f50-4675-bbd7-bdd10c45ae1d",
+      "set_code": "AER",
+      "collector_number": "91",
+      "name": "Pia's Revolution",
+      "scryfall_id": "51da6ff6-4d81-488e-83ff-8758f6c7bb9f"
+    },
+    {
+      "id": "b8fab561-073f-4bda-848e-5597f62f9fde",
+      "set_code": "AER",
+      "collector_number": "92",
+      "name": "Precise Strike",
+      "scryfall_id": "3cd2e7ab-b63e-48e8-a32a-6ff8673241d9"
+    },
+    {
+      "id": "96b9f692-0e64-4e6f-9336-77a6339950de",
+      "set_code": "AER",
+      "collector_number": "93",
+      "name": "Quicksmith Rebel",
+      "scryfall_id": "2d5f9755-b137-439c-9b54-1ad71ec1f9ec"
+    },
+    {
+      "id": "8274a408-b57c-47f4-aa1c-29f6c0d1f039",
+      "set_code": "AER",
+      "collector_number": "94",
+      "name": "Ravenous Intruder",
+      "scryfall_id": "cd793778-f099-4b8e-af19-fc0ec4292824"
+    },
+    {
+      "id": "4f57a7dc-aa01-4ba9-93e6-6095384b2655",
+      "set_code": "AER",
+      "collector_number": "95",
+      "name": "Reckless Racer",
+      "scryfall_id": "21c0afd6-1242-42bf-a13f-9f218c9d9dfc"
+    },
+    {
+      "id": "624a52cf-33d7-4306-ba8a-f67cd1197639",
+      "set_code": "AER",
+      "collector_number": "96",
+      "name": "Release the Gremlins",
+      "scryfall_id": "d4ba75be-2428-45aa-bf02-75c379a5dfa2"
+    },
+    {
+      "id": "3156b795-04e4-4acf-9e45-50b634b651a4",
+      "set_code": "AER",
+      "collector_number": "97",
+      "name": "Scrapper Champion",
+      "scryfall_id": "117ef25c-e9cf-4801-a753-2c329c2a8bdb"
+    },
+    {
+      "id": "751ab35b-58a5-4fbe-8125-ded360a78941",
+      "set_code": "AER",
+      "collector_number": "98",
+      "name": "Shock",
+      "scryfall_id": "00365412-41db-427c-9109-8f69c17c326d"
+    },
+    {
+      "id": "05bae22d-9e4f-4a9e-8b27-c47f23d30024",
+      "set_code": "AER",
+      "collector_number": "99",
+      "name": "Siege Modification",
+      "scryfall_id": "e1a4e33f-53f0-4919-98a1-c832dcd32efb"
+    },
+    {
+      "id": "3c9c7ea4-3cdd-45e0-aff5-d5f128f9f744",
+      "set_code": "AER",
+      "collector_number": "100",
+      "name": "Sweatworks Brawler",
+      "scryfall_id": "b477d12a-9ba5-4302-a3f0-af0afb5d87f4"
+    },
+    {
+      "id": "87d73a99-21b4-411a-b19e-6b4510f04d01",
+      "set_code": "AER",
+      "collector_number": "101",
+      "name": "Wrangle",
+      "scryfall_id": "5ea93a49-5a7c-4d15-8548-a57c9460e0f0"
+    },
+    {
+      "id": "084f495a-882b-48bf-85e8-9ff3c7224ed0",
+      "set_code": "AER",
+      "collector_number": "101\u2020",
+      "name": "Wrangle",
+      "scryfall_id": "ac4ba0db-4276-45aa-91ed-52f6ffbc6ad3"
+    },
+    {
+      "id": "5a3b3342-0db0-4b7d-a534-0a6779e65922",
+      "set_code": "AER",
+      "collector_number": "102",
+      "name": "Aether Herder",
+      "scryfall_id": "e8744a31-451b-4349-8f62-e2392a72a154"
+    },
+    {
+      "id": "9f17f54e-1011-481d-9136-7ff8e0c1def9",
+      "set_code": "AER",
+      "collector_number": "103",
+      "name": "Aetherstream Leopard",
+      "scryfall_id": "6f3a727a-5eca-44de-aa8f-0d2573db83eb"
+    },
+    {
+      "id": "9fbd3406-1ba1-4545-a603-d2c51c02e73f",
+      "set_code": "AER",
+      "collector_number": "104",
+      "name": "Aetherwind Basker",
+      "scryfall_id": "fa04d5fa-6ba2-4833-8ea0-1941a03bd3e9"
+    },
+    {
+      "id": "d21b708f-2230-47cb-9dc7-5a5001fefa70",
+      "set_code": "AER",
+      "collector_number": "105",
+      "name": "Aid from the Cowl",
+      "scryfall_id": "565cb7fc-cf90-4020-84fe-05ec7b18709d"
+    },
+    {
+      "id": "70c49ba6-3c15-4db7-a2f6-6e831a7c97d7",
+      "set_code": "AER",
+      "collector_number": "106",
+      "name": "Druid of the Cowl",
+      "scryfall_id": "a683f79b-0330-4fac-8279-6c0d888414b8"
+    },
+    {
+      "id": "fc85e9d5-e552-4f68-920a-848442c69498",
+      "set_code": "AER",
+      "collector_number": "107",
+      "name": "Greenbelt Rampager",
+      "scryfall_id": "f3f06124-bcc4-48c0-a7a6-a461c7485ecd"
+    },
+    {
+      "id": "bc39c2e8-937e-4611-b88f-93828c15f12e",
+      "set_code": "AER",
+      "collector_number": "108",
+      "name": "Greenwheel Liberator",
+      "scryfall_id": "1ad9bf0f-4271-497f-8d67-3c7bf09342dc"
+    },
+    {
+      "id": "76073e38-075c-407c-a0b7-e94a32ac0c0d",
+      "set_code": "AER",
+      "collector_number": "109",
+      "name": "Heroic Intervention",
+      "scryfall_id": "8f5a620c-fde7-4b72-bf8a-efc4f14560c5"
+    },
+    {
+      "id": "deff2a8d-a04a-4c46-a96f-165d9c3fdec1",
+      "set_code": "AER",
+      "collector_number": "110",
+      "name": "Hidden Herbalists",
+      "scryfall_id": "9ec8db01-415e-42a1-8eb2-57280d58b38e"
+    },
+    {
+      "id": "8fde061c-ed33-4f39-a018-fe21b01f83e3",
+      "set_code": "AER",
+      "collector_number": "111",
+      "name": "Highspire Infusion",
+      "scryfall_id": "08325c39-0eeb-4bd0-9adc-2892c1c6637e"
+    },
+    {
+      "id": "8e6434f7-6e7b-4935-beb0-38ef33706d47",
+      "set_code": "AER",
+      "collector_number": "112",
+      "name": "Lifecraft Awakening",
+      "scryfall_id": "63bc60c8-f0a3-4bbf-b570-7d98d0a3e2b0"
+    },
+    {
+      "id": "edab41d5-a3fc-4dc8-bc91-acec7c8d7f20",
+      "set_code": "AER",
+      "collector_number": "113",
+      "name": "Lifecraft Cavalry",
+      "scryfall_id": "b2a92a03-4e1d-4b79-ad75-a29db2ea5495"
+    },
+    {
+      "id": "347ba8db-bfea-42a8-9e98-c2a8720ca4a2",
+      "set_code": "AER",
+      "collector_number": "114",
+      "name": "Lifecrafter's Gift",
+      "scryfall_id": "6759f13b-e755-495d-87df-a685455cdf33"
+    },
+    {
+      "id": "19e6f6b4-91c7-4a24-9242-43f0d1808a0d",
+      "set_code": "AER",
+      "collector_number": "115",
+      "name": "Maulfist Revolutionary",
+      "scryfall_id": "a83dcdba-419b-41e1-8c9d-8bca6fe2752b"
+    },
+    {
+      "id": "ee6822b5-c0ea-4cb6-8247-d4a0d7b54ed5",
+      "set_code": "AER",
+      "collector_number": "116",
+      "name": "Monstrous Onslaught",
+      "scryfall_id": "2aebf95d-a231-402a-8888-9c50889a9556"
+    },
+    {
+      "id": "6897fa07-30ec-4293-8d71-af9ebc242ecb",
+      "set_code": "AER",
+      "collector_number": "117",
+      "name": "Narnam Renegade",
+      "scryfall_id": "041cc6b1-61c8-4c34-86fc-d647ce306f59"
+    },
+    {
+      "id": "19919ad6-2629-4096-9f49-990eb1fbed15",
+      "set_code": "AER",
+      "collector_number": "118",
+      "name": "Natural Obsolescence",
+      "scryfall_id": "ff693e03-4cc6-4903-8fc4-388d23c2f92f"
+    },
+    {
+      "id": "314b0b3c-2ebc-43e2-a228-728242120f3d",
+      "set_code": "AER",
+      "collector_number": "119",
+      "name": "Peema Aether-Seer",
+      "scryfall_id": "fe1bc709-2157-4711-a027-c0ff00ff2728"
+    },
+    {
+      "id": "e214d726-589a-4047-992b-96dfb90415e7",
+      "set_code": "AER",
+      "collector_number": "120",
+      "name": "Prey Upon",
+      "scryfall_id": "166f0a2d-d660-4ea2-8b2f-143dc1fc0a8e"
+    },
+    {
+      "id": "83eb7c26-4920-4b8d-8592-17b3509fb18e",
+      "set_code": "AER",
+      "collector_number": "121",
+      "name": "Ridgescale Tusker",
+      "scryfall_id": "84b689cc-35ef-4a23-bb1e-4d81b9fb8455"
+    },
+    {
+      "id": "20101a8e-e459-4427-9a18-3d7457f4f1c4",
+      "set_code": "AER",
+      "collector_number": "122",
+      "name": "Rishkar, Peema Renegade",
+      "scryfall_id": "7cff0dc6-5455-4dea-940b-dff7fe88dc5d"
+    },
+    {
+      "id": "b3224153-ac6e-479d-b399-cc46b3d1c6b0",
+      "set_code": "AER",
+      "collector_number": "123",
+      "name": "Rishkar's Expertise",
+      "scryfall_id": "5d58ba68-05c1-4cd8-a93d-321cd1739ccb"
+    },
+    {
+      "id": "e7661346-1151-4854-a52d-aec7301e8d8d",
+      "set_code": "AER",
+      "collector_number": "124",
+      "name": "Scrounging Bandar",
+      "scryfall_id": "761a11a7-175d-440d-b09d-918572c8e5d3"
+    },
+    {
+      "id": "51fb803f-4391-4475-a7c0-4ddd8d3f3b25",
+      "set_code": "AER",
+      "collector_number": "125",
+      "name": "Silkweaver Elite",
+      "scryfall_id": "d10938c8-6fc4-495f-912a-1d3f12278f78"
+    },
+    {
+      "id": "d41b0637-af6b-4d97-bc80-53a345b0c842",
+      "set_code": "AER",
+      "collector_number": "126",
+      "name": "Unbridled Growth",
+      "scryfall_id": "393fc419-a6ce-447d-9994-744cf41f9a27"
+    },
+    {
+      "id": "31814f74-183f-4ef1-aefa-3ceca49bf0ca",
+      "set_code": "AER",
+      "collector_number": "127",
+      "name": "Ajani Unyielding",
+      "scryfall_id": "23b82ee9-2ac6-4b81-8c64-dd4f47c2d8cb"
+    },
+    {
+      "id": "558efed5-2446-48c2-a3fb-798395c58755",
+      "set_code": "AER",
+      "collector_number": "128",
+      "name": "Dark Intimations",
+      "scryfall_id": "dd8f103c-a688-4f22-ae59-2bce1db9d44a"
+    },
+    {
+      "id": "5ae1bc92-3840-4ec2-8888-76945b2c355d",
+      "set_code": "AER",
+      "collector_number": "129",
+      "name": "Hidden Stockpile",
+      "scryfall_id": "8d2176a5-66f8-4a21-bbe2-969c82ca36bd"
+    },
+    {
+      "id": "4358182f-a426-4cab-b1df-21931ddc8771",
+      "set_code": "AER",
+      "collector_number": "130",
+      "name": "Maverick Thopterist",
+      "scryfall_id": "cad17d67-538e-4c60-a582-a394032a5112"
+    },
+    {
+      "id": "3c3f190d-de54-4527-9c9f-dcb4b7f6ad16",
+      "set_code": "AER",
+      "collector_number": "131",
+      "name": "Oath of Ajani",
+      "scryfall_id": "968c7d5a-b037-4ff7-b6d2-df00adf5691b"
+    },
+    {
+      "id": "9b4dae22-a4da-4f19-87f2-0c90b9d10702",
+      "set_code": "AER",
+      "collector_number": "132",
+      "name": "Outland Boar",
+      "scryfall_id": "135912b3-978b-4a9b-8758-7b138b190232"
+    },
+    {
+      "id": "97a11c2d-af2d-4ffd-97ca-7c4483541d5d",
+      "set_code": "AER",
+      "collector_number": "133",
+      "name": "Renegade Rallier",
+      "scryfall_id": "90bad312-80e3-45b0-9556-60ce06808a47"
+    },
+    {
+      "id": "5de5e27a-72d7-4d16-8fcf-7f3ef74c683d",
+      "set_code": "AER",
+      "collector_number": "134",
+      "name": "Renegade Wheelsmith",
+      "scryfall_id": "6956a341-10fd-48af-b382-88c2b2934a3e"
+    },
+    {
+      "id": "58f4f724-e001-4d77-9715-0bd46311dd13",
+      "set_code": "AER",
+      "collector_number": "135",
+      "name": "Rogue Refiner",
+      "scryfall_id": "618652b4-7ce9-4994-9d16-68d2cc8644ef"
+    },
+    {
+      "id": "7eca8387-9e2b-4367-b6eb-47deb35cff00",
+      "set_code": "AER",
+      "collector_number": "136",
+      "name": "Spire Patrol",
+      "scryfall_id": "1daaf494-70af-4a8d-836f-f6a9d6c1f080"
+    },
+    {
+      "id": "6c284dad-fe1e-4969-8ea5-27a2b4406f27",
+      "set_code": "AER",
+      "collector_number": "137",
+      "name": "Tezzeret the Schemer",
+      "scryfall_id": "58265203-bc16-41d2-875c-2ff3b4870824"
+    },
+    {
+      "id": "0cd38828-1910-4ebb-9700-859583cc8068",
+      "set_code": "AER",
+      "collector_number": "138",
+      "name": "Tezzeret's Touch",
+      "scryfall_id": "3c2e917f-734e-4b8b-abc6-ea33c0fc722e"
+    },
+    {
+      "id": "d1e7a16f-0798-4b12-be0b-7534e5ad6e72",
+      "set_code": "AER",
+      "collector_number": "139",
+      "name": "Weldfast Engineer",
+      "scryfall_id": "51464df6-557f-47e5-838e-2a30145511f0"
+    },
+    {
+      "id": "3c888c18-05b2-45db-8f45-f3553431c1a1",
+      "set_code": "AER",
+      "collector_number": "140",
+      "name": "Winding Constrictor",
+      "scryfall_id": "107c8aa8-c8f8-4cbf-821b-bd2cb33354f0"
+    },
+    {
+      "id": "b0b3d1b6-1922-4903-a8b2-eb2913774180",
+      "set_code": "AER",
+      "collector_number": "141",
+      "name": "Aegis Automaton",
+      "scryfall_id": "e5f9fa2d-4bf4-4fcb-9b76-fd4a9ff5a58c"
+    },
+    {
+      "id": "c0ead038-72d7-4e8f-bd6f-b7eb1687c6e7",
+      "set_code": "AER",
+      "collector_number": "142",
+      "name": "Aethersphere Harvester",
+      "scryfall_id": "4160bb5f-4b49-4535-94f5-776d7abd1d1a"
+    },
+    {
+      "id": "80b26b08-115b-4730-8948-e135343c11a1",
+      "set_code": "AER",
+      "collector_number": "143",
+      "name": "Augmenting Automaton",
+      "scryfall_id": "7d017798-8278-4f9c-a691-912935c10c20"
+    },
+    {
+      "id": "8991ab7b-e82a-4e4b-933f-155b95ef9f78",
+      "set_code": "AER",
+      "collector_number": "144",
+      "name": "Barricade Breaker",
+      "scryfall_id": "7cc81a94-955d-4734-b056-9b9a86cae60b"
+    },
+    {
+      "id": "f5986ceb-9900-4704-98a7-64221ee820ab",
+      "set_code": "AER",
+      "collector_number": "145",
+      "name": "Cogwork Assembler",
+      "scryfall_id": "6dddacdd-bbc4-4f9b-be1c-5f2c64be3cbc"
+    },
+    {
+      "id": "f696632b-fa98-46f0-93ed-39bb647d4fae",
+      "set_code": "AER",
+      "collector_number": "146",
+      "name": "Consulate Dreadnought",
+      "scryfall_id": "11eff338-1940-4684-94c7-ef90e56dea99"
+    },
+    {
+      "id": "ff2d7701-ac0d-438a-9dad-be1bf42e80f7",
+      "set_code": "AER",
+      "collector_number": "147",
+      "name": "Consulate Turret",
+      "scryfall_id": "e0c55b5b-58fd-4340-b089-8e271633e8dd"
+    },
+    {
+      "id": "6658cf89-ce92-48b0-8b4d-e85819798c04",
+      "set_code": "AER",
+      "collector_number": "148",
+      "name": "Crackdown Construct",
+      "scryfall_id": "993bc69a-b615-48c5-af81-252a73384e8c"
+    },
+    {
+      "id": "cbe033ad-06fa-465c-b604-2efa9c7858f5",
+      "set_code": "AER",
+      "collector_number": "149",
+      "name": "Daredevil Dragster",
+      "scryfall_id": "19bbbc98-0806-4226-8fd1-16b812334cee"
+    },
+    {
+      "id": "8b726cc2-3ac9-400d-902f-5340ecde129e",
+      "set_code": "AER",
+      "collector_number": "150",
+      "name": "Filigree Crawler",
+      "scryfall_id": "8d8e817c-079e-4e7c-a8ca-54634f30bf36"
+    },
+    {
+      "id": "9edd03ac-4233-4190-a2a1-bdf7246ad9ac",
+      "set_code": "AER",
+      "collector_number": "151",
+      "name": "Foundry Assembler",
+      "scryfall_id": "e83a2862-a2d7-4d87-a4b8-def9f441f5fa"
+    },
+    {
+      "id": "4bc51620-1620-446b-af13-0454a08a05d8",
+      "set_code": "AER",
+      "collector_number": "152",
+      "name": "Gonti's Aether Heart",
+      "scryfall_id": "9e4fc5ed-e90d-4965-985a-ed126a713506"
+    },
+    {
+      "id": "27af6b12-8ca8-4412-936f-f0dec750a24e",
+      "set_code": "AER",
+      "collector_number": "153",
+      "name": "Heart of Kiran",
+      "scryfall_id": "5e847c44-1849-4251-9075-88ed5c7792a6"
+    },
+    {
+      "id": "420ceb4c-a1f5-44ea-8691-5e84adcb73b2",
+      "set_code": "AER",
+      "collector_number": "154",
+      "name": "Hope of Ghirapur",
+      "scryfall_id": "6f4bcadd-7eff-4294-94d5-52482a734d5b"
+    },
+    {
+      "id": "9906b392-f107-4a31-9186-9f9bb2e40820",
+      "set_code": "AER",
+      "collector_number": "155",
+      "name": "Implement of Combustion",
+      "scryfall_id": "15b1c8da-604a-42f0-8658-82580700dd31"
+    },
+    {
+      "id": "16658938-285b-4304-8edc-d9726123d92f",
+      "set_code": "AER",
+      "collector_number": "156",
+      "name": "Implement of Examination",
+      "scryfall_id": "a791aa71-00db-422d-a78a-53b121c24db5"
+    },
+    {
+      "id": "ce9454ed-ee6d-49b2-b0a5-867b67f7b229",
+      "set_code": "AER",
+      "collector_number": "157",
+      "name": "Implement of Ferocity",
+      "scryfall_id": "bcdee084-0d1a-486a-8361-680d394a5e23"
+    },
+    {
+      "id": "2dd06faa-3502-4633-9c1a-4a6206280f5d",
+      "set_code": "AER",
+      "collector_number": "158",
+      "name": "Implement of Improvement",
+      "scryfall_id": "2cb8eb0c-d7fa-4229-ae65-1890c77b2c7c"
+    },
+    {
+      "id": "81e7992c-cd56-4fd3-86e9-0230debcc225",
+      "set_code": "AER",
+      "collector_number": "159",
+      "name": "Implement of Malice",
+      "scryfall_id": "2e45ca82-e387-4df0-890d-d53a7d0dadf7"
+    },
+    {
+      "id": "014ea150-5657-43ed-b091-d47cb32a1453",
+      "set_code": "AER",
+      "collector_number": "160",
+      "name": "Inspiring Statuary",
+      "scryfall_id": "40e2564f-0066-41e0-a767-13ef33a17024"
+    },
+    {
+      "id": "717d1096-29cc-42e2-b196-59fd431b75fe",
+      "set_code": "AER",
+      "collector_number": "161",
+      "name": "Irontread Crusher",
+      "scryfall_id": "81873223-29c7-466b-b922-6717ec84afff"
+    },
+    {
+      "id": "18b910d5-7d7e-4ac8-bfd6-7cecf3e15946",
+      "set_code": "AER",
+      "collector_number": "162",
+      "name": "Lifecrafter's Bestiary",
+      "scryfall_id": "7439a855-4041-4d14-8edf-6741a734e55d"
+    },
+    {
+      "id": "ed48c9aa-aa14-42af-85dd-aa857230044d",
+      "set_code": "AER",
+      "collector_number": "163",
+      "name": "Merchant's Dockhand",
+      "scryfall_id": "955b4bc9-1ded-4f23-b415-ab968c681eb7"
+    },
+    {
+      "id": "cd87aa10-4902-4fbb-be80-26ffaba5ee75",
+      "set_code": "AER",
+      "collector_number": "164",
+      "name": "Metallic Mimic",
+      "scryfall_id": "1aa4eba9-9e91-4beb-9296-a18baa73a318"
+    },
+    {
+      "id": "d0216e27-257a-4c81-a66e-9885e2aed7de",
+      "set_code": "AER",
+      "collector_number": "165",
+      "name": "Mobile Garrison",
+      "scryfall_id": "da443378-f5cb-4240-9524-2c40ec17c933"
+    },
+    {
+      "id": "2dc3e1df-b3dd-41fa-9fd3-5bd7f6022991",
+      "set_code": "AER",
+      "collector_number": "166",
+      "name": "Night Market Guard",
+      "scryfall_id": "8ae03e5c-9655-425c-90ef-b70a0e66868d"
+    },
+    {
+      "id": "af43b24c-bde8-4ab1-bec7-7711949072b0",
+      "set_code": "AER",
+      "collector_number": "167",
+      "name": "Ornithopter",
+      "scryfall_id": "ddb96645-44d2-426c-90cb-3186297a8728"
+    },
+    {
+      "id": "e756a30d-31c8-4b6b-bbde-419a2e1b826c",
+      "set_code": "AER",
+      "collector_number": "168",
+      "name": "Pacification Array",
+      "scryfall_id": "8bed742a-a12a-4728-a771-07e3d1417419"
+    },
+    {
+      "id": "dea170a6-07ec-4ed7-880e-822b8746bd0a",
+      "set_code": "AER",
+      "collector_number": "169",
+      "name": "Paradox Engine",
+      "scryfall_id": "fd8ccd81-9e11-47fa-8e16-064c52c24506"
+    },
+    {
+      "id": "71a9fe7d-dd9a-4e69-be61-64a70d5f5d29",
+      "set_code": "AER",
+      "collector_number": "170",
+      "name": "Peacewalker Colossus",
+      "scryfall_id": "1599b545-6b8e-4350-980a-59349374400d"
+    },
+    {
+      "id": "9d204571-361f-4d13-a4e9-7f120207cf5b",
+      "set_code": "AER",
+      "collector_number": "171",
+      "name": "Planar Bridge",
+      "scryfall_id": "991397cf-5c7d-4e8a-8f46-8e2e0ed29eff"
+    },
+    {
+      "id": "aeaba279-02b3-4dc9-8dd1-a1789508b1d6",
+      "set_code": "AER",
+      "collector_number": "172",
+      "name": "Prizefighter Construct",
+      "scryfall_id": "8e389c92-b54b-46b3-a7ab-b8a5a2a7d380"
+    },
+    {
+      "id": "cc271a80-7fd8-4019-a8d1-5f78d548b820",
+      "set_code": "AER",
+      "collector_number": "173",
+      "name": "Renegade Map",
+      "scryfall_id": "ac063445-d0e2-4015-96dc-97098433f30a"
+    },
+    {
+      "id": "f4e19248-55ea-412e-9a4a-aa5d4a8baca8",
+      "set_code": "AER",
+      "collector_number": "174",
+      "name": "Reservoir Walker",
+      "scryfall_id": "8afe3be3-b0bc-4617-b4de-f60d14f1b91d"
+    },
+    {
+      "id": "cefd7237-b2bb-430a-bbab-85ce1bcb8304",
+      "set_code": "AER",
+      "collector_number": "175",
+      "name": "Scrap Trawler",
+      "scryfall_id": "68abc75f-596f-4169-96fc-ada941ef47ed"
+    },
+    {
+      "id": "f7198c66-1625-4a74-81cf-feb72a765656",
+      "set_code": "AER",
+      "collector_number": "176",
+      "name": "Servo Schematic",
+      "scryfall_id": "af2299e0-d31f-4ec4-9497-16e494ee21e6"
+    },
+    {
+      "id": "458fe921-d25f-4a46-b2d9-960f169e0bb6",
+      "set_code": "AER",
+      "collector_number": "177",
+      "name": "Treasure Keeper",
+      "scryfall_id": "9c5d73d2-60cc-4b64-8274-4ba1bb98b6fa"
+    },
+    {
+      "id": "c15e658c-4bab-440c-a1ca-1bbf15b242f7",
+      "set_code": "AER",
+      "collector_number": "178",
+      "name": "Universal Solvent",
+      "scryfall_id": "2f1b66b2-12b2-497b-a328-b43630c79e73"
+    },
+    {
+      "id": "aa2df7ee-159f-4d2f-8c92-6095a7e3d9e1",
+      "set_code": "AER",
+      "collector_number": "179",
+      "name": "Untethered Express",
+      "scryfall_id": "dba729d8-fd5e-4183-806a-0997f443a58f"
+    },
+    {
+      "id": "5d69d843-fe3a-458a-b5f5-a423c5c9777d",
+      "set_code": "AER",
+      "collector_number": "180",
+      "name": "Verdant Automaton",
+      "scryfall_id": "52c66c5a-0b1b-4936-9e07-2d169f16c1a6"
+    },
+    {
+      "id": "1a9f662a-b032-4ada-9a14-234366b00925",
+      "set_code": "AER",
+      "collector_number": "181",
+      "name": "Walking Ballista",
+      "scryfall_id": "329a8738-3e17-403a-857a-0ba529ce8cd1"
+    },
+    {
+      "id": "b4e451a5-2a81-4855-a0ad-31429aaffd80",
+      "set_code": "AER",
+      "collector_number": "182",
+      "name": "Watchful Automaton",
+      "scryfall_id": "138b5fde-417d-4860-aca9-eae7f78b5768"
+    },
+    {
+      "id": "70b48372-5092-4495-89db-52fd7fce5173",
+      "set_code": "AER",
+      "collector_number": "183",
+      "name": "Welder Automaton",
+      "scryfall_id": "88b5bae4-be97-4c10-b222-e1e317a8ffbc"
+    },
+    {
+      "id": "f440a3eb-2597-40ea-ba36-7e136a908c9b",
+      "set_code": "AER",
+      "collector_number": "184",
+      "name": "Spire of Industry",
+      "scryfall_id": "8331724d-6fab-454a-b06c-b06e499fa552"
+    },
+    {
+      "id": "d591a792-5ff4-49c5-971c-2717889261f1",
+      "set_code": "AER",
+      "collector_number": "185",
+      "name": "Ajani, Valiant Protector",
+      "scryfall_id": "791fdd9a-0ab6-4db9-84f9-859d2d862518"
+    },
+    {
+      "id": "a1422fe1-5813-4e96-8566-2d52f2e51e7a",
+      "set_code": "AER",
+      "collector_number": "186",
+      "name": "Inspiring Roar",
+      "scryfall_id": "4ef9708e-bfe4-4d24-8304-1618daa1c3ee"
+    },
+    {
+      "id": "18f45eae-7dc2-4c7b-a972-529235b937c3",
+      "set_code": "AER",
+      "collector_number": "187",
+      "name": "Ajani's Comrade",
+      "scryfall_id": "5bebef1c-2f03-4e0a-b3ba-861546ebf8a6"
+    },
+    {
+      "id": "4e054bff-2e12-42f2-a5af-a4eb49a4faf0",
+      "set_code": "AER",
+      "collector_number": "188",
+      "name": "Ajani's Aid",
+      "scryfall_id": "7026c374-0776-403b-86fd-5092677fd5c9"
+    },
+    {
+      "id": "ec66991d-6f59-4cc7-a883-33235f65aa53",
+      "set_code": "AER",
+      "collector_number": "189",
+      "name": "Tranquil Expanse",
+      "scryfall_id": "2ea97c40-310e-4774-ae56-d4c0500a6189"
+    },
+    {
+      "id": "3032b45a-9763-455b-bf77-323bde3a6261",
+      "set_code": "AER",
+      "collector_number": "190",
+      "name": "Tezzeret, Master of Metal",
+      "scryfall_id": "d7c6614c-cc2b-4e5b-9c0d-ce8e4b2d8ea7"
+    },
+    {
+      "id": "1fc5536d-7366-4d32-98d5-67953c1a68b8",
+      "set_code": "AER",
+      "collector_number": "191",
+      "name": "Tezzeret's Betrayal",
+      "scryfall_id": "9d71efa6-5de8-476f-86ce-0790956e574f"
+    },
+    {
+      "id": "576c048f-8115-4f04-83fa-358f29b2870d",
+      "set_code": "AER",
+      "collector_number": "192",
+      "name": "Pendulum of Patterns",
+      "scryfall_id": "d19751aa-823e-4a0f-a004-dee333b34327"
+    },
+    {
+      "id": "5447382b-a731-4d57-8467-9886179e9e5b",
+      "set_code": "AER",
+      "collector_number": "193",
+      "name": "Tezzeret's Simulacrum",
+      "scryfall_id": "7eacfeec-a341-45bc-bf95-e3df0094505a"
+    },
+    {
+      "id": "f457e1a6-ebf8-42c4-9868-49f2588a6be0",
+      "set_code": "AER",
+      "collector_number": "194",
+      "name": "Submerged Boneyard",
+      "scryfall_id": "09dd7aab-c0ac-4566-bf99-c49931eeea2a"
+    }
+  ]
+}

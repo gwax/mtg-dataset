@@ -1,0 +1,652 @@
+{
+  "id": "f8269b46-34e0-4e3c-82db-1cdcc467030b",
+  "code": "ARN",
+  "name": "Arabian Nights",
+  "scryfall_id": "856f63eb-e056-43e5-8a56-7a58e1608940",
+  "cards": [
+    {
+      "id": "fb22e5c7-9807-408c-a940-2b1daf62b534",
+      "set_code": "ARN",
+      "collector_number": "1",
+      "name": "Abu Ja'far",
+      "scryfall_id": "0e9ad288-d164-44a6-96ec-4185a1587f1a"
+    },
+    {
+      "id": "19b1a4cf-a6c4-4c85-8fb3-cdc0ef5c4024",
+      "set_code": "ARN",
+      "collector_number": "2",
+      "name": "Army of Allah",
+      "scryfall_id": "3d170015-b125-49a6-a15e-8fd116bbcb14"
+    },
+    {
+      "id": "91bfa9e5-6b8b-4d7a-9892-1391cb9eb418",
+      "set_code": "ARN",
+      "collector_number": "2\u2020",
+      "name": "Army of Allah",
+      "scryfall_id": "9899352a-a4c9-47bf-b9cb-0c34060ae1c4"
+    },
+    {
+      "id": "cff317de-6dd7-445a-8f92-80b94b7ddea5",
+      "set_code": "ARN",
+      "collector_number": "3",
+      "name": "Camel",
+      "scryfall_id": "e0078aa8-bfb8-43b0-a6b7-1991596c21e1"
+    },
+    {
+      "id": "4dfacfec-b510-47d8-baa0-0c830167f076",
+      "set_code": "ARN",
+      "collector_number": "4",
+      "name": "Eye for an Eye",
+      "scryfall_id": "2933ca2a-097b-44f4-ae56-ad524d26fd06"
+    },
+    {
+      "id": "598ad741-f11a-4942-bee2-fa184b430d7c",
+      "set_code": "ARN",
+      "collector_number": "5",
+      "name": "Jihad",
+      "scryfall_id": "b6c7705a-2987-4ef1-92b1-2c55d989ec6f"
+    },
+    {
+      "id": "5200bbab-7ae3-446d-9a76-d1e0604109ce",
+      "set_code": "ARN",
+      "collector_number": "6",
+      "name": "King Suleiman",
+      "scryfall_id": "4d3dce0f-2168-4f63-b2f9-156a11beeea7"
+    },
+    {
+      "id": "006d4a1c-2fe6-4b28-9109-bafccd8ea586",
+      "set_code": "ARN",
+      "collector_number": "7",
+      "name": "Moorish Cavalry",
+      "scryfall_id": "f86f0781-7614-4779-a58d-f13ce96bdf33"
+    },
+    {
+      "id": "97db9389-308a-4417-bdd5-1ce4bc31966e",
+      "set_code": "ARN",
+      "collector_number": "7\u2020",
+      "name": "Moorish Cavalry",
+      "scryfall_id": "113a6b31-3748-48c1-a915-ab0b613eabb3"
+    },
+    {
+      "id": "e6db23e4-1205-44e0-ad06-e5009d00f090",
+      "set_code": "ARN",
+      "collector_number": "8",
+      "name": "Piety",
+      "scryfall_id": "f649c571-d7ec-4ebc-9e18-b0657cab495b"
+    },
+    {
+      "id": "8f7ae01d-b527-4edb-b44b-caf822a7b72b",
+      "set_code": "ARN",
+      "collector_number": "8\u2020",
+      "name": "Piety",
+      "scryfall_id": "8a5a1a13-dfc8-49b7-9b17-3f0c5ca1b8be"
+    },
+    {
+      "id": "f3ea5e27-76a3-4af2-ade5-1692ebd65825",
+      "set_code": "ARN",
+      "collector_number": "9",
+      "name": "Repentant Blacksmith",
+      "scryfall_id": "61fc30b6-1355-425b-a86f-18f59f83141c"
+    },
+    {
+      "id": "82d36a18-cee8-42d2-96d8-2c011ae48545",
+      "set_code": "ARN",
+      "collector_number": "10",
+      "name": "Shahrazad",
+      "scryfall_id": "0014def3-4063-4929-ac51-76aef1bb2a68"
+    },
+    {
+      "id": "2feee4c7-d213-43a4-b7ab-1205c305615a",
+      "set_code": "ARN",
+      "collector_number": "11",
+      "name": "War Elephant",
+      "scryfall_id": "7416c366-95cc-4799-b6c6-34d8fad8c202"
+    },
+    {
+      "id": "f1181c63-1761-4786-9c7b-dc3d6fccc138",
+      "set_code": "ARN",
+      "collector_number": "11\u2020",
+      "name": "War Elephant",
+      "scryfall_id": "cd87344d-9113-4fec-9a93-38bc1abe2af5"
+    },
+    {
+      "id": "8efcb34e-3812-4ae9-b2f5-cc70b56bc790",
+      "set_code": "ARN",
+      "collector_number": "12",
+      "name": "Dand\u00e2n",
+      "scryfall_id": "414d3cae-b8cf-4d53-bd6b-1aa83a828ba9"
+    },
+    {
+      "id": "fd1d40b2-976c-4ada-962b-b56a0c6e8124",
+      "set_code": "ARN",
+      "collector_number": "13",
+      "name": "Fishliver Oil",
+      "scryfall_id": "deb6ed87-aa07-4b5e-ac40-1e16dc2a817a"
+    },
+    {
+      "id": "a9578921-f5fd-49bc-826d-dcad846d039d",
+      "set_code": "ARN",
+      "collector_number": "13\u2020",
+      "name": "Fishliver Oil",
+      "scryfall_id": "c066c452-1d87-4946-8d3b-6cc160a82282"
+    },
+    {
+      "id": "6754a23c-34bd-416e-9663-7d77c8ff8e8e",
+      "set_code": "ARN",
+      "collector_number": "14",
+      "name": "Flying Men",
+      "scryfall_id": "25ab9a2b-e248-4ae2-aac3-b49fdb3e260a"
+    },
+    {
+      "id": "a4c97e13-e456-4529-96f2-94dee2e3f4ce",
+      "set_code": "ARN",
+      "collector_number": "15",
+      "name": "Giant Tortoise",
+      "scryfall_id": "096f7ac8-c639-4347-9767-7305eaf490ba"
+    },
+    {
+      "id": "6105074a-debe-4e7a-94a6-9c01ea6c1be8",
+      "set_code": "ARN",
+      "collector_number": "15\u2020",
+      "name": "Giant Tortoise",
+      "scryfall_id": "170fa026-c17b-4731-b520-455c39ccbe6d"
+    },
+    {
+      "id": "293c5313-fb26-4f7e-81ca-8c6622efd952",
+      "set_code": "ARN",
+      "collector_number": "16",
+      "name": "Island Fish Jasconius",
+      "scryfall_id": "8537cb0f-4821-417b-80cc-ea57d51ee9b8"
+    },
+    {
+      "id": "e962025a-ffbd-4d65-a64d-d8264ee5988e",
+      "set_code": "ARN",
+      "collector_number": "17",
+      "name": "Merchant Ship",
+      "scryfall_id": "2b827094-fb2c-46db-b898-02e0c308601f"
+    },
+    {
+      "id": "1ac73d76-7d10-435d-b4f8-e7b7a715b66c",
+      "set_code": "ARN",
+      "collector_number": "18",
+      "name": "Old Man of the Sea",
+      "scryfall_id": "d10f8a05-78b0-42a7-adcd-83f6bafe5417"
+    },
+    {
+      "id": "9af6e28e-8f75-42e8-a27e-c7ddd9053d7a",
+      "set_code": "ARN",
+      "collector_number": "19",
+      "name": "Serendib Djinn",
+      "scryfall_id": "0458b733-d689-4cb5-8970-3b675c67fc4d"
+    },
+    {
+      "id": "abd718b8-d5dc-488f-a199-6dd1087a09af",
+      "set_code": "ARN",
+      "collector_number": "20",
+      "name": "Serendib Efreet",
+      "scryfall_id": "cf56e862-3169-4f63-acd0-731080fa32f2"
+    },
+    {
+      "id": "55834700-57d3-4d55-8e86-b7f792b08c26",
+      "set_code": "ARN",
+      "collector_number": "21",
+      "name": "Sindbad",
+      "scryfall_id": "7b112a10-ac40-4353-bbdd-e5efd4546330"
+    },
+    {
+      "id": "1ac3182b-8d36-4dcf-927b-a9b056ae1ada",
+      "set_code": "ARN",
+      "collector_number": "22",
+      "name": "Unstable Mutation",
+      "scryfall_id": "a79e9236-a39e-471a-b18a-2c2ba16e7774"
+    },
+    {
+      "id": "2e2e9bf9-198b-451b-946b-f80bef22bf1a",
+      "set_code": "ARN",
+      "collector_number": "23",
+      "name": "Cuombajj Witches",
+      "scryfall_id": "7995c3f9-a147-43c9-9f82-470924818a4c"
+    },
+    {
+      "id": "e214729b-9bb2-4142-b102-80b43de59e78",
+      "set_code": "ARN",
+      "collector_number": "24",
+      "name": "El-Hajj\u00e2j",
+      "scryfall_id": "c4b610d3-2005-4347-bcda-c30b5b7972e5"
+    },
+    {
+      "id": "6377907b-9cb3-4796-8edf-21b1025a519f",
+      "set_code": "ARN",
+      "collector_number": "25",
+      "name": "Erg Raiders",
+      "scryfall_id": "35c73a97-531d-4dd5-8236-39b89c183c38"
+    },
+    {
+      "id": "01e60a60-506b-4c7b-b693-838bf2ad4565",
+      "set_code": "ARN",
+      "collector_number": "25\u2020",
+      "name": "Erg Raiders",
+      "scryfall_id": "2717b2e2-bea8-4ba8-9ad1-abb60abf6e4c"
+    },
+    {
+      "id": "bdac1fca-21c2-41ff-9528-17a3dd7b5df9",
+      "set_code": "ARN",
+      "collector_number": "26",
+      "name": "Guardian Beast",
+      "scryfall_id": "9941f83b-2903-4eab-ac6d-5313e3978fa3"
+    },
+    {
+      "id": "b7ab1484-34f8-410e-b45e-7b943188bf57",
+      "set_code": "ARN",
+      "collector_number": "27",
+      "name": "Hasran Ogress",
+      "scryfall_id": "9f310cf5-0985-4826-9779-19a713089d6d"
+    },
+    {
+      "id": "249a1f2a-3399-406a-a70b-b767336dce02",
+      "set_code": "ARN",
+      "collector_number": "27\u2020",
+      "name": "Hasran Ogress",
+      "scryfall_id": "d8fcc83f-c67f-46a2-bb0e-dafbf0a2bfc0"
+    },
+    {
+      "id": "462659fe-14a6-4952-97fc-87c4016458ae",
+      "set_code": "ARN",
+      "collector_number": "28",
+      "name": "Jun\u00fan Efreet",
+      "scryfall_id": "5f46783a-b91e-4829-a173-5515b09ca615"
+    },
+    {
+      "id": "216983c8-0227-4ada-bbb0-61c6cecc8191",
+      "set_code": "ARN",
+      "collector_number": "29",
+      "name": "Juz\u00e1m Djinn",
+      "scryfall_id": "31bf3f14-b5df-498b-a1bb-965885c82401"
+    },
+    {
+      "id": "0cf21242-9b7d-418b-b92d-956850306485",
+      "set_code": "ARN",
+      "collector_number": "30",
+      "name": "Khab\u00e1l Ghoul",
+      "scryfall_id": "18607bf6-ce11-41cb-b001-0c9538406ba0"
+    },
+    {
+      "id": "78ae4957-6759-4204-8709-a4ac68ac63ce",
+      "set_code": "ARN",
+      "collector_number": "31",
+      "name": "Oubliette",
+      "scryfall_id": "30d1450f-2909-410e-9920-731278fa74de"
+    },
+    {
+      "id": "c3caab12-023b-46df-ace3-407de981cabf",
+      "set_code": "ARN",
+      "collector_number": "31\u2020",
+      "name": "Oubliette",
+      "scryfall_id": "58d74d1d-3f68-4cab-903e-e146a33258f3"
+    },
+    {
+      "id": "88e4a96a-94a4-4cc5-93c7-67f00fe2c45d",
+      "set_code": "ARN",
+      "collector_number": "32",
+      "name": "Sorceress Queen",
+      "scryfall_id": "94742003-f0f1-4483-b1a0-e7163995db1b"
+    },
+    {
+      "id": "5d7f6916-df63-4665-bc57-cfeadc6836e6",
+      "set_code": "ARN",
+      "collector_number": "33",
+      "name": "Stone-Throwing Devils",
+      "scryfall_id": "d1c387dd-1347-4443-91ce-b71f7ccdceba"
+    },
+    {
+      "id": "8436b000-9976-4960-8658-cebaaa7e7aed",
+      "set_code": "ARN",
+      "collector_number": "33\u2020",
+      "name": "Stone-Throwing Devils",
+      "scryfall_id": "cb0b28ac-144e-43c5-84f3-d4a2a229f49b"
+    },
+    {
+      "id": "bbd5debe-1d17-432c-b130-fd253b2008d3",
+      "set_code": "ARN",
+      "collector_number": "34",
+      "name": "Aladdin",
+      "scryfall_id": "db52bad2-a3ec-4f6f-9418-12e8c40703f6"
+    },
+    {
+      "id": "f280ef8f-ae18-47e0-abf7-470f24e82653",
+      "set_code": "ARN",
+      "collector_number": "35",
+      "name": "Ali Baba",
+      "scryfall_id": "29cd7064-3703-43e0-8702-d1ba13703fd8"
+    },
+    {
+      "id": "fb2ac7fe-6a21-4c72-853c-9ba1bd20cb43",
+      "set_code": "ARN",
+      "collector_number": "36",
+      "name": "Ali from Cairo",
+      "scryfall_id": "42027613-d261-4ce2-8ba1-7a2480c660f8"
+    },
+    {
+      "id": "9552e80f-5800-4ac8-9c07-764aa7916149",
+      "set_code": "ARN",
+      "collector_number": "37",
+      "name": "Bird Maiden",
+      "scryfall_id": "5c1ba0b9-db01-447f-90cc-a2fc2c24146e"
+    },
+    {
+      "id": "afb1d1ef-9ad7-4a84-9f00-18c94b258357",
+      "set_code": "ARN",
+      "collector_number": "37\u2020",
+      "name": "Bird Maiden",
+      "scryfall_id": "709532d8-cd3e-4844-b580-e6925ce837ff"
+    },
+    {
+      "id": "2ab4b677-b909-4f35-a0ae-baefc6597959",
+      "set_code": "ARN",
+      "collector_number": "38",
+      "name": "Desert Nomads",
+      "scryfall_id": "e46d0c10-ec09-48ba-9e93-1392dca8111a"
+    },
+    {
+      "id": "d3762070-e4e5-401d-a384-72f68469769b",
+      "set_code": "ARN",
+      "collector_number": "39",
+      "name": "Hurr Jackal",
+      "scryfall_id": "f4aadda8-8577-480d-8186-532d2b173c15"
+    },
+    {
+      "id": "66b2279e-b4de-4c15-b5a9-ee652accc758",
+      "set_code": "ARN",
+      "collector_number": "40",
+      "name": "Kird Ape",
+      "scryfall_id": "ebe8845e-df1c-481c-949c-aab84af99a05"
+    },
+    {
+      "id": "f143e809-7cb4-4ddd-95d1-8f068958e09e",
+      "set_code": "ARN",
+      "collector_number": "41",
+      "name": "Magnetic Mountain",
+      "scryfall_id": "95fde48b-e40a-4183-b324-1ec276dde015"
+    },
+    {
+      "id": "84b2ce39-2b2d-4775-b470-0bbe66c0f2cd",
+      "set_code": "ARN",
+      "collector_number": "42",
+      "name": "Mijae Djinn",
+      "scryfall_id": "d3ddbe51-cd1a-4b2c-849a-7c82d622122a"
+    },
+    {
+      "id": "36a8bc93-5e9b-4f69-8eab-9410089f1518",
+      "set_code": "ARN",
+      "collector_number": "43",
+      "name": "Rukh Egg",
+      "scryfall_id": "b28f9e63-e5e4-44b5-a17e-8301ff17c623"
+    },
+    {
+      "id": "1948924f-203b-483c-a511-62c36fe3e0e3",
+      "set_code": "ARN",
+      "collector_number": "43\u2020",
+      "name": "Rukh Egg",
+      "scryfall_id": "9c4defc2-b1a2-4ae2-bda0-24ecd4ff8181"
+    },
+    {
+      "id": "71f1e315-bb70-4026-82e2-2609be00c73c",
+      "set_code": "ARN",
+      "collector_number": "44",
+      "name": "Ydwen Efreet",
+      "scryfall_id": "efdba2a9-d171-45ed-8dd4-9d0046128f68"
+    },
+    {
+      "id": "3ea88a04-21f8-45fd-aa26-edc2925a34ac",
+      "set_code": "ARN",
+      "collector_number": "45",
+      "name": "Cyclone",
+      "scryfall_id": "f11684d6-5b74-47a7-a2d0-256c9e437aa6"
+    },
+    {
+      "id": "4adc9276-ff33-4a01-ad54-430a515001ec",
+      "set_code": "ARN",
+      "collector_number": "46",
+      "name": "Desert Twister",
+      "scryfall_id": "0d77c149-cca2-45c7-bc83-5ba1872ad5e0"
+    },
+    {
+      "id": "23a17a71-b047-4cea-a38c-0189b8adffd2",
+      "set_code": "ARN",
+      "collector_number": "47",
+      "name": "Drop of Honey",
+      "scryfall_id": "26e090d4-e7fe-403c-9aca-05c1b45ed238"
+    },
+    {
+      "id": "2f215b4e-8fb2-4084-8a42-77df4cae1f9a",
+      "set_code": "ARN",
+      "collector_number": "48",
+      "name": "Erhnam Djinn",
+      "scryfall_id": "42bc0c3f-0a52-4bdc-83da-6484bf3102f3"
+    },
+    {
+      "id": "571224dd-93e3-4402-aee1-5c8dba44e970",
+      "set_code": "ARN",
+      "collector_number": "49",
+      "name": "Ghazb\u00e1n Ogre",
+      "scryfall_id": "f9d613d5-36a2-4633-b5af-64511bb29cc2"
+    },
+    {
+      "id": "3951a3f7-c275-4e54-bfd5-332e752a5444",
+      "set_code": "ARN",
+      "collector_number": "50",
+      "name": "Ifh-B\u00edff Efreet",
+      "scryfall_id": "c0b10fb7-8667-42bf-aeb6-35767a82917b"
+    },
+    {
+      "id": "e57cd842-5a13-4add-809c-eaf0e1de3c8b",
+      "set_code": "ARN",
+      "collector_number": "51",
+      "name": "Metamorphosis",
+      "scryfall_id": "fbc6cfc3-b232-40bf-bc0c-4618f6f5c9a5"
+    },
+    {
+      "id": "eb3476bb-47a4-4945-a2ab-95a5cf4665ac",
+      "set_code": "ARN",
+      "collector_number": "52",
+      "name": "Nafs Asp",
+      "scryfall_id": "965f722c-2b18-4c22-8c30-12552def5940"
+    },
+    {
+      "id": "6b217dde-bea8-4d9c-80a8-76dba59763dd",
+      "set_code": "ARN",
+      "collector_number": "52\u2020",
+      "name": "Nafs Asp",
+      "scryfall_id": "3ecc8d7c-c64f-4ada-b389-756728401b64"
+    },
+    {
+      "id": "f40c75d3-66b3-42e6-883a-b83e2b0544f7",
+      "set_code": "ARN",
+      "collector_number": "53",
+      "name": "Sandstorm",
+      "scryfall_id": "73cba9cd-73d9-442e-bd99-9cba9f398b64"
+    },
+    {
+      "id": "f9195a4b-9ff8-41e8-9aed-ecd33ca3e283",
+      "set_code": "ARN",
+      "collector_number": "54",
+      "name": "Singing Tree",
+      "scryfall_id": "3003bf1e-8085-45d8-882b-c449109e7631"
+    },
+    {
+      "id": "1e5a5b3f-ac6f-40b9-8706-e06a5ebe9abf",
+      "set_code": "ARN",
+      "collector_number": "55",
+      "name": "Wyluli Wolf",
+      "scryfall_id": "15ccebe1-ef08-4805-a65f-a1c57abed9f2"
+    },
+    {
+      "id": "6f5c6060-ba18-4103-88e7-19bb0d92db80",
+      "set_code": "ARN",
+      "collector_number": "55\u2020",
+      "name": "Wyluli Wolf",
+      "scryfall_id": "1cc1188c-4331-41dc-a577-bd4bedd7ca76"
+    },
+    {
+      "id": "8dd353a0-19a0-4364-b5fa-4e795d2772a9",
+      "set_code": "ARN",
+      "collector_number": "56",
+      "name": "Aladdin's Lamp",
+      "scryfall_id": "8fecc5d2-5298-4d47-b085-f160603f220e"
+    },
+    {
+      "id": "3022c1d3-15e7-4312-a296-d95018fc4bef",
+      "set_code": "ARN",
+      "collector_number": "57",
+      "name": "Aladdin's Ring",
+      "scryfall_id": "bb2b74a2-cb74-4b54-b9c6-78c63f14cf5b"
+    },
+    {
+      "id": "acd59fe9-ceba-4277-b849-c462c2ea2a63",
+      "set_code": "ARN",
+      "collector_number": "58",
+      "name": "Bottle of Suleiman",
+      "scryfall_id": "c474cd6b-5610-49eb-ac98-918d900efe8b"
+    },
+    {
+      "id": "5a698023-8250-4aea-b331-7da6f61d3158",
+      "set_code": "ARN",
+      "collector_number": "59",
+      "name": "Brass Man",
+      "scryfall_id": "1a364362-e42b-415c-9d95-b6ec7139f5e7"
+    },
+    {
+      "id": "5c080389-9ec7-4e72-b332-dcf95b731cd7",
+      "set_code": "ARN",
+      "collector_number": "60",
+      "name": "City in a Bottle",
+      "scryfall_id": "9598b346-a47d-4c4c-9571-156824e86b9c"
+    },
+    {
+      "id": "966232a1-f543-45ef-9762-48b81662742f",
+      "set_code": "ARN",
+      "collector_number": "61",
+      "name": "Dancing Scimitar",
+      "scryfall_id": "1eb2e494-1414-4d1f-91d2-7cb20acdb128"
+    },
+    {
+      "id": "1544c7df-77f3-43e7-bc93-9b4fb15f3f3f",
+      "set_code": "ARN",
+      "collector_number": "62",
+      "name": "Ebony Horse",
+      "scryfall_id": "9ae81ec7-2b7d-4301-8114-032be5e6b663"
+    },
+    {
+      "id": "89c086fa-ad9f-402e-85a7-9ffdf11f184d",
+      "set_code": "ARN",
+      "collector_number": "63",
+      "name": "Flying Carpet",
+      "scryfall_id": "4b71ff49-ee0a-4065-9131-380468d62a30"
+    },
+    {
+      "id": "f790fc08-3466-4c40-9e4c-a166f6391095",
+      "set_code": "ARN",
+      "collector_number": "64",
+      "name": "Jandor's Ring",
+      "scryfall_id": "71504078-a16f-4dc4-9626-0ecc42b1e93b"
+    },
+    {
+      "id": "aa1611c3-90dd-43cb-a882-7a25c6846427",
+      "set_code": "ARN",
+      "collector_number": "65",
+      "name": "Jandor's Saddlebags",
+      "scryfall_id": "bc4f4b92-7d4e-4b03-8cb4-e6b356c338b4"
+    },
+    {
+      "id": "0f072d59-e712-40d2-8169-11c7484e7076",
+      "set_code": "ARN",
+      "collector_number": "66",
+      "name": "Jeweled Bird",
+      "scryfall_id": "bfffb65d-851d-4dc9-9233-d53abf955dcd"
+    },
+    {
+      "id": "ecd0c07c-727c-4dbb-9ebb-6a310c3ade9a",
+      "set_code": "ARN",
+      "collector_number": "67",
+      "name": "Pyramids",
+      "scryfall_id": "d2e9decf-47b7-44e0-b380-8055b6011021"
+    },
+    {
+      "id": "72ea5fe9-2e60-45b4-bf55-64bab82b19be",
+      "set_code": "ARN",
+      "collector_number": "68",
+      "name": "Ring of Ma'r\u00fbf",
+      "scryfall_id": "fcc1004f-7cee-420a-9f0e-2986ed3ab852"
+    },
+    {
+      "id": "ed8937c6-612b-49ad-a02a-f2d064af37c6",
+      "set_code": "ARN",
+      "collector_number": "69",
+      "name": "Sandals of Abdallah",
+      "scryfall_id": "8f99a520-b8a9-40b0-9854-48aac297c5ee"
+    },
+    {
+      "id": "0432b411-684d-4d2c-9082-d73b3faef98f",
+      "set_code": "ARN",
+      "collector_number": "70",
+      "name": "Bazaar of Baghdad",
+      "scryfall_id": "ff37b863-f8c4-4584-8cc2-ac0e096e583f"
+    },
+    {
+      "id": "e35d1ada-32ef-4598-b258-8f4cff9cbcd4",
+      "set_code": "ARN",
+      "collector_number": "71",
+      "name": "City of Brass",
+      "scryfall_id": "f4e32327-380d-471e-813b-4c27477787ce"
+    },
+    {
+      "id": "d3c7ace3-f183-4fba-87ba-503fcc547fac",
+      "set_code": "ARN",
+      "collector_number": "72",
+      "name": "Desert",
+      "scryfall_id": "201155ea-f474-4e13-acda-cb071a6ca977"
+    },
+    {
+      "id": "d7f7a109-e4ee-42b5-8ba5-23a4f2289b10",
+      "set_code": "ARN",
+      "collector_number": "73",
+      "name": "Diamond Valley",
+      "scryfall_id": "e85f6f21-15a0-4a36-be95-5a0299cd01a5"
+    },
+    {
+      "id": "bccaa3fd-de9c-4448-bf23-944ea260aecd",
+      "set_code": "ARN",
+      "collector_number": "74",
+      "name": "Elephant Graveyard",
+      "scryfall_id": "18348df2-9037-4db4-bddb-76dc933229bf"
+    },
+    {
+      "id": "2398fd24-c0d6-47db-94f3-1e9619cb7b0c",
+      "set_code": "ARN",
+      "collector_number": "75",
+      "name": "Island of Wak-Wak",
+      "scryfall_id": "f09cbd18-79f1-49a0-a3bd-b380ff5ecf03"
+    },
+    {
+      "id": "c068e061-ced6-4ab8-b717-505ce7a1f9a5",
+      "set_code": "ARN",
+      "collector_number": "76",
+      "name": "Library of Alexandria",
+      "scryfall_id": "ee266113-34ce-4189-84e7-ee2c86a2722c"
+    },
+    {
+      "id": "c60c9fc3-cccf-428d-a31a-853c59a6cd0c",
+      "set_code": "ARN",
+      "collector_number": "77",
+      "name": "Mountain",
+      "scryfall_id": "c321d0e1-ff30-4424-979b-25e1a33e45d5"
+    },
+    {
+      "id": "4c0c79c4-87b4-4b4a-8d37-be6849acc06c",
+      "set_code": "ARN",
+      "collector_number": "78",
+      "name": "Oasis",
+      "scryfall_id": "6f38565e-88b9-433d-b0e9-a3b9734f183f"
+    }
+  ]
+}

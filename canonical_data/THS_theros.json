@@ -1,0 +1,1751 @@
+{
+  "id": "78c053a4-e31a-4311-98b2-504cfa0b625e",
+  "code": "THS",
+  "name": "Theros",
+  "scryfall_id": "69093d6f-e25a-41a4-8cf5-688d7f11c0fb",
+  "cards": [
+    {
+      "id": "e447ca04-624b-4fde-a3cd-49bf02d224db",
+      "set_code": "THS",
+      "collector_number": "1",
+      "name": "Battlewise Valor",
+      "scryfall_id": "7d967a4c-2323-4361-a907-5ca9140d8793"
+    },
+    {
+      "id": "0b9013a7-4d8d-4a0c-8737-50128dec23f6",
+      "set_code": "THS",
+      "collector_number": "2",
+      "name": "Cavalry Pegasus",
+      "scryfall_id": "55ecd213-2e03-40a8-9323-7b9e6e521a9a"
+    },
+    {
+      "id": "b53810f7-24a9-4346-a1b1-125e9a773101",
+      "set_code": "THS",
+      "collector_number": "3",
+      "name": "Celestial Archon",
+      "scryfall_id": "9fa9a809-eda4-406a-8bce-d2a1c5f06388"
+    },
+    {
+      "id": "1c98d593-e397-453a-bec9-73dbc371d3cc",
+      "set_code": "THS",
+      "collector_number": "4",
+      "name": "Chained to the Rocks",
+      "scryfall_id": "a5af083f-5820-4185-ac04-4c4368f7703c"
+    },
+    {
+      "id": "b162ccdd-58b5-4eb9-8b15-9d5b4f42b627",
+      "set_code": "THS",
+      "collector_number": "5",
+      "name": "Chosen by Heliod",
+      "scryfall_id": "d8ead499-920c-465a-a23d-f08710d7e9bc"
+    },
+    {
+      "id": "decb6668-1723-4fc4-9b0b-4fa703ec4bdb",
+      "set_code": "THS",
+      "collector_number": "6",
+      "name": "Dauntless Onslaught",
+      "scryfall_id": "e652229d-81fe-4261-bebc-9e405bb2d991"
+    },
+    {
+      "id": "e1aba8c9-dce8-4ea1-97c9-d4d92841aed3",
+      "set_code": "THS",
+      "collector_number": "7",
+      "name": "Decorated Griffin",
+      "scryfall_id": "7bc2f3a0-444d-4cad-970f-6c4a63b02cce"
+    },
+    {
+      "id": "430cb3d2-3799-47aa-9139-9d538c49b706",
+      "set_code": "THS",
+      "collector_number": "8",
+      "name": "Divine Verdict",
+      "scryfall_id": "79f46ac0-9e2f-4f9f-beee-0a7914475ac1"
+    },
+    {
+      "id": "880ccc2a-96be-4329-9ec5-ab2b1edcdaa2",
+      "set_code": "THS",
+      "collector_number": "9",
+      "name": "Elspeth, Sun's Champion",
+      "scryfall_id": "fd5b1633-c41d-42b1-af1b-4a872077ffbd"
+    },
+    {
+      "id": "31f0a480-9cbd-42ac-ac22-b0305f61f039",
+      "set_code": "THS",
+      "collector_number": "10",
+      "name": "Ephara's Warden",
+      "scryfall_id": "71f7f788-2795-46a7-82ae-270f1e9415ca"
+    },
+    {
+      "id": "03df9809-f118-48f1-bcc0-1860d0057aac",
+      "set_code": "THS",
+      "collector_number": "11",
+      "name": "Evangel of Heliod",
+      "scryfall_id": "bb914a85-3755-4663-8309-6f6d0319262e"
+    },
+    {
+      "id": "69aad370-7f43-48e8-a7e1-cb656c732d7c",
+      "set_code": "THS",
+      "collector_number": "12",
+      "name": "Fabled Hero",
+      "scryfall_id": "642d9a5c-5697-4747-adce-5a71bcf1c086"
+    },
+    {
+      "id": "068b9644-9ff7-429c-9747-3d2f32d7bc7c",
+      "set_code": "THS",
+      "collector_number": "13",
+      "name": "Favored Hoplite",
+      "scryfall_id": "251015ed-9408-4941-894a-158551ed2613"
+    },
+    {
+      "id": "2cda3c03-a183-49e2-be4b-1ce35d24eee5",
+      "set_code": "THS",
+      "collector_number": "14",
+      "name": "Gift of Immortality",
+      "scryfall_id": "2336faaa-fc6d-4fbb-bdd4-969eae565c72"
+    },
+    {
+      "id": "380a72ba-9eff-4155-b895-5a55acb46226",
+      "set_code": "THS",
+      "collector_number": "15",
+      "name": "Glare of Heresy",
+      "scryfall_id": "8ed3d16f-f0c6-4080-8913-758208b08234"
+    },
+    {
+      "id": "b0b4182a-b0d7-4811-9963-49d0967f76fb",
+      "set_code": "THS",
+      "collector_number": "16",
+      "name": "Gods Willing",
+      "scryfall_id": "abafabb3-b2e7-4d78-b4b7-d8f701d3ee8b"
+    },
+    {
+      "id": "7ada1965-3deb-4673-881a-7f2166a75f16",
+      "set_code": "THS",
+      "collector_number": "17",
+      "name": "Heliod, God of the Sun",
+      "scryfall_id": "e90d01c9-e76e-42ff-b0fa-8b6786242aae"
+    },
+    {
+      "id": "5e0b6e9e-dde2-4e91-add6-b6c319b6f7a3",
+      "set_code": "THS",
+      "collector_number": "18",
+      "name": "Heliod's Emissary",
+      "scryfall_id": "49663acb-582e-495a-b45e-5fc5f4949f22"
+    },
+    {
+      "id": "fad85636-53ae-4aa2-b115-33dc0ceb6da4",
+      "set_code": "THS",
+      "collector_number": "19",
+      "name": "Hopeful Eidolon",
+      "scryfall_id": "4c69995b-ef31-4635-8d5a-b31f73993364"
+    },
+    {
+      "id": "c467a8c5-48c3-43e5-9e7c-d8b00d20c6fa",
+      "set_code": "THS",
+      "collector_number": "20",
+      "name": "Hundred-Handed One",
+      "scryfall_id": "817b8dae-6248-41a4-80a7-7e8102479de4"
+    },
+    {
+      "id": "508e8ea8-96ca-486b-bc76-a4cbd1fddd28",
+      "set_code": "THS",
+      "collector_number": "21",
+      "name": "Lagonna-Band Elder",
+      "scryfall_id": "68b9df54-e78e-4a86-a8b1-b735ec08a812"
+    },
+    {
+      "id": "11131fef-fb91-4956-adba-7e9630ccf62d",
+      "set_code": "THS",
+      "collector_number": "22",
+      "name": "Last Breath",
+      "scryfall_id": "1857fc37-1e7e-4b93-9fa9-ec139f16b7fa"
+    },
+    {
+      "id": "febbfc5b-11f2-4277-b3d1-251de5e4992f",
+      "set_code": "THS",
+      "collector_number": "23",
+      "name": "Leonin Snarecaster",
+      "scryfall_id": "ade9b739-122c-4659-b1b2-ea0510d96dbc"
+    },
+    {
+      "id": "0e601db5-d2fa-4190-897d-4d7c94f766f9",
+      "set_code": "THS",
+      "collector_number": "24",
+      "name": "Observant Alseid",
+      "scryfall_id": "e1410d10-476a-4ed2-ae44-75383ed0e359"
+    },
+    {
+      "id": "483279d0-0d03-4ad8-9ecf-cdfcc99cbbed",
+      "set_code": "THS",
+      "collector_number": "25",
+      "name": "Ordeal of Heliod",
+      "scryfall_id": "77e85180-f3c9-4b03-9c25-223599b937ad"
+    },
+    {
+      "id": "02521a7f-8089-49fd-b82d-dbd3d85869a8",
+      "set_code": "THS",
+      "collector_number": "26",
+      "name": "Phalanx Leader",
+      "scryfall_id": "0c6c2458-edb7-4822-866b-ca1b2ea7a8e8"
+    },
+    {
+      "id": "6b55ed3c-ceef-44fe-b336-c28048804294",
+      "set_code": "THS",
+      "collector_number": "27",
+      "name": "Ray of Dissolution",
+      "scryfall_id": "b55c31d1-6b05-4ea1-a444-51ad57ebcfa0"
+    },
+    {
+      "id": "67478fce-dcc5-441c-a8c5-34e925531d4a",
+      "set_code": "THS",
+      "collector_number": "28",
+      "name": "Scholar of Athreos",
+      "scryfall_id": "95a36e06-39f3-47d0-b6a9-43728afceb4a"
+    },
+    {
+      "id": "615255fa-e94e-47a3-bd8d-41416e13bd66",
+      "set_code": "THS",
+      "collector_number": "29",
+      "name": "Setessan Battle Priest",
+      "scryfall_id": "9c9cfa33-dcec-4b34-9218-c08ad932d27b"
+    },
+    {
+      "id": "9a1f16c2-1a08-45c8-9f38-e99e04671758",
+      "set_code": "THS",
+      "collector_number": "30",
+      "name": "Setessan Griffin",
+      "scryfall_id": "35d2ae77-b16c-4a01-84ce-5c78be5a54d8"
+    },
+    {
+      "id": "499855e1-eb90-4a32-bfd6-8637ac56200e",
+      "set_code": "THS",
+      "collector_number": "31",
+      "name": "Silent Artisan",
+      "scryfall_id": "dce5647d-1546-4eff-a2a2-9e9ef26db533"
+    },
+    {
+      "id": "eea6d9ab-4a52-40d7-ad96-604598fa5618",
+      "set_code": "THS",
+      "collector_number": "32",
+      "name": "Soldier of the Pantheon",
+      "scryfall_id": "5cfc0f46-4df4-4ae3-bfe6-391916eb590f"
+    },
+    {
+      "id": "ae26a534-72fa-42c1-899d-950fcfe07781",
+      "set_code": "THS",
+      "collector_number": "33",
+      "name": "Spear of Heliod",
+      "scryfall_id": "34ef01da-d311-4d4f-9f7b-328e7bb17db4"
+    },
+    {
+      "id": "df95abb3-03bd-4408-a264-c999345bd6ac",
+      "set_code": "THS",
+      "collector_number": "34",
+      "name": "Traveling Philosopher",
+      "scryfall_id": "edad0276-45d1-45e5-a6b1-1cd2a99b4f2c"
+    },
+    {
+      "id": "73fa50fe-fa90-48cc-82bf-a8937f677514",
+      "set_code": "THS",
+      "collector_number": "35",
+      "name": "Vanquish the Foul",
+      "scryfall_id": "8fdcec06-e33c-4737-b81e-b156d6e3fd77"
+    },
+    {
+      "id": "337660c5-611c-4488-8380-3064211d9ee1",
+      "set_code": "THS",
+      "collector_number": "36",
+      "name": "Wingsteed Rider",
+      "scryfall_id": "e04751f2-b571-49fa-94b6-ec589d314ee6"
+    },
+    {
+      "id": "79bdbc1c-4ca7-47a5-96ab-ed00a5acf8ef",
+      "set_code": "THS",
+      "collector_number": "37",
+      "name": "Yoked Ox",
+      "scryfall_id": "12fc09d4-e6ce-428b-818b-b465093af88e"
+    },
+    {
+      "id": "e051354e-27a1-4f0e-bee6-0aa56996f5fa",
+      "set_code": "THS",
+      "collector_number": "38",
+      "name": "Annul",
+      "scryfall_id": "5e71b6ad-4b81-4277-8512-0a3f2266cd23"
+    },
+    {
+      "id": "7ff2108b-234b-42df-a0dd-f5b36f8b9522",
+      "set_code": "THS",
+      "collector_number": "39",
+      "name": "Aqueous Form",
+      "scryfall_id": "ba104245-0483-407f-971b-ad6d8efd9733"
+    },
+    {
+      "id": "72f8a0db-41f0-447c-98f0-47bbd29e219e",
+      "set_code": "THS",
+      "collector_number": "40",
+      "name": "Artisan of Forms",
+      "scryfall_id": "a7f10198-1eef-4577-b375-b900b15060e1"
+    },
+    {
+      "id": "67a549f8-646f-4cfa-acf7-88fc93086f2d",
+      "set_code": "THS",
+      "collector_number": "41",
+      "name": "Benthic Giant",
+      "scryfall_id": "295f9eb0-5a75-4f86-aca9-3f76b0213c41"
+    },
+    {
+      "id": "356f1af0-ce8e-4ce2-a762-2214f47b2dba",
+      "set_code": "THS",
+      "collector_number": "42",
+      "name": "Bident of Thassa",
+      "scryfall_id": "85e45d14-a501-40b9-af0a-720ecd20dad7"
+    },
+    {
+      "id": "f784ca9e-64e1-4842-83dc-6f0bc6888b18",
+      "set_code": "THS",
+      "collector_number": "43",
+      "name": "Breaching Hippocamp",
+      "scryfall_id": "8841c01e-015e-4541-942a-f8859dd03fea"
+    },
+    {
+      "id": "907f9a48-991c-4019-9748-4584e15482ee",
+      "set_code": "THS",
+      "collector_number": "44",
+      "name": "Coastline Chimera",
+      "scryfall_id": "01320a31-25fa-4324-8225-d150c6aa58a1"
+    },
+    {
+      "id": "74297251-13d9-4eb3-bef4-11ccda310603",
+      "set_code": "THS",
+      "collector_number": "45",
+      "name": "Crackling Triton",
+      "scryfall_id": "8d6bb19c-3610-4609-b23c-21d4d80e4582"
+    },
+    {
+      "id": "1b2de276-cbf2-4ee1-bfb6-6b769a787bdb",
+      "set_code": "THS",
+      "collector_number": "46",
+      "name": "Curse of the Swine",
+      "scryfall_id": "78831fc6-ea90-4546-b46a-9c192dbefc65"
+    },
+    {
+      "id": "d901f9bb-2f56-43cd-90b1-830da73e443c",
+      "set_code": "THS",
+      "collector_number": "47",
+      "name": "Dissolve",
+      "scryfall_id": "992e8119-f933-4e54-bb04-e1cc78f7e87b"
+    },
+    {
+      "id": "521c300d-ac27-4ae2-9cff-6b959959783b",
+      "set_code": "THS",
+      "collector_number": "48",
+      "name": "Fate Foretold",
+      "scryfall_id": "90d3ef99-6c86-4d70-a9a4-9c3cd4eb9538"
+    },
+    {
+      "id": "c422814f-1822-4e43-a09a-a29718a4b1fd",
+      "set_code": "THS",
+      "collector_number": "49",
+      "name": "Gainsay",
+      "scryfall_id": "e658939a-fa5a-4497-b35c-b6fbfa3f6882"
+    },
+    {
+      "id": "9f8b30de-a34e-473a-8494-1142e4075456",
+      "set_code": "THS",
+      "collector_number": "50",
+      "name": "Griptide",
+      "scryfall_id": "9fe8228b-ff9c-4a2a-a0e3-12f6d388a3c2"
+    },
+    {
+      "id": "10129362-6404-4368-86df-5e79a2d1223c",
+      "set_code": "THS",
+      "collector_number": "51",
+      "name": "Horizon Scholar",
+      "scryfall_id": "abbbb721-0c80-4cc2-b036-e629c0c95956"
+    },
+    {
+      "id": "9f9de058-f73e-4c4c-aea6-94fd002579d5",
+      "set_code": "THS",
+      "collector_number": "52",
+      "name": "Lost in a Labyrinth",
+      "scryfall_id": "09aa7744-680f-4c2a-8fa0-9cb0c176ae8f"
+    },
+    {
+      "id": "09387ad4-5d31-42aa-928c-b29b07aaa6eb",
+      "set_code": "THS",
+      "collector_number": "53",
+      "name": "Master of Waves",
+      "scryfall_id": "19242db3-660d-4d66-800c-d6cee636bcaf"
+    },
+    {
+      "id": "00441e10-c779-4daf-b27f-d657856c03fd",
+      "set_code": "THS",
+      "collector_number": "54",
+      "name": "Meletis Charlatan",
+      "scryfall_id": "bf22da0c-5bf5-4c81-9422-671ce17c8ffa"
+    },
+    {
+      "id": "b8cb433e-56b1-4c47-a59e-65d829c6599f",
+      "set_code": "THS",
+      "collector_number": "55",
+      "name": "Mnemonic Wall",
+      "scryfall_id": "415a5946-6f9a-433f-9f1c-b99144daa170"
+    },
+    {
+      "id": "fa205cd8-1be5-46de-a9e5-53fc37451ce9",
+      "set_code": "THS",
+      "collector_number": "56",
+      "name": "Nimbus Naiad",
+      "scryfall_id": "19e9c9a2-4c5b-4518-a127-e4ffb23437d6"
+    },
+    {
+      "id": "f407b044-c3a4-4cda-a1a6-c9f4e671bccb",
+      "set_code": "THS",
+      "collector_number": "57",
+      "name": "Omenspeaker",
+      "scryfall_id": "f347eb88-7d1d-4ed5-b841-2bf81f00d5f0"
+    },
+    {
+      "id": "8327e83f-f3e5-4492-8fd8-40803fcfa419",
+      "set_code": "THS",
+      "collector_number": "58",
+      "name": "Ordeal of Thassa",
+      "scryfall_id": "fa764244-c5d5-4f27-9c56-866566a1404a"
+    },
+    {
+      "id": "c40408a5-0394-496c-a453-337431fd4323",
+      "set_code": "THS",
+      "collector_number": "59",
+      "name": "Prescient Chimera",
+      "scryfall_id": "f9342aba-e3aa-4210-ad72-e609c7c027b8"
+    },
+    {
+      "id": "e1de9630-8025-4d79-b3c4-4b4080e6feed",
+      "set_code": "THS",
+      "collector_number": "60",
+      "name": "Prognostic Sphinx",
+      "scryfall_id": "9f0a27a6-54b8-4615-89b3-591a4e3ef626"
+    },
+    {
+      "id": "3da496d6-41ce-4cb9-bbb2-0accc0656ac8",
+      "set_code": "THS",
+      "collector_number": "61",
+      "name": "Sea God's Revenge",
+      "scryfall_id": "5acdf4e4-5933-43dc-bf8b-25f89415db5b"
+    },
+    {
+      "id": "d75b1b66-2dcb-438a-90cd-738e5b5c6c1b",
+      "set_code": "THS",
+      "collector_number": "62",
+      "name": "Sealock Monster",
+      "scryfall_id": "3f942075-b285-495c-941e-6f1da48d7948"
+    },
+    {
+      "id": "bfaa8362-013b-475d-b867-8ccef81f69d2",
+      "set_code": "THS",
+      "collector_number": "63",
+      "name": "Shipbreaker Kraken",
+      "scryfall_id": "4585565b-c743-4264-a647-4480ff5a3bbf"
+    },
+    {
+      "id": "c678636d-694f-415c-a670-f4bb5415ba26",
+      "set_code": "THS",
+      "collector_number": "64",
+      "name": "Stymied Hopes",
+      "scryfall_id": "5702b757-5be5-4a48-bc73-a87ec4f3193b"
+    },
+    {
+      "id": "d38f0487-4555-4e92-96fe-84f6e56bd0ad",
+      "set_code": "THS",
+      "collector_number": "65",
+      "name": "Swan Song",
+      "scryfall_id": "efd26041-059b-4a1e-9ce8-c3cfd69a3721"
+    },
+    {
+      "id": "77f87cc1-2e16-4458-9407-0f3c174f96b4",
+      "set_code": "THS",
+      "collector_number": "66",
+      "name": "Thassa, God of the Sea",
+      "scryfall_id": "d6876c7a-8bbe-484e-b733-70229fa336cd"
+    },
+    {
+      "id": "9da64b1a-e39e-464c-8e0c-ee95bc888993",
+      "set_code": "THS",
+      "collector_number": "67",
+      "name": "Thassa's Bounty",
+      "scryfall_id": "3ac987ac-3f81-4704-b42c-651f44670641"
+    },
+    {
+      "id": "cb2bcfd8-02dd-4b70-8aa6-212dfc58d5cd",
+      "set_code": "THS",
+      "collector_number": "68",
+      "name": "Thassa's Emissary",
+      "scryfall_id": "f52b325b-3ea9-4a99-ae99-9d158560e45b"
+    },
+    {
+      "id": "e7bb5450-a373-40a6-bfb7-d8908c046523",
+      "set_code": "THS",
+      "collector_number": "69",
+      "name": "Triton Fortune Hunter",
+      "scryfall_id": "1173ff96-998c-4fe7-9b28-602d990e0339"
+    },
+    {
+      "id": "7225325d-53c7-4fe2-9d1e-925411dee9d9",
+      "set_code": "THS",
+      "collector_number": "70",
+      "name": "Triton Shorethief",
+      "scryfall_id": "d8f0fe22-dc89-4ad8-b5f6-6d91b61f1385"
+    },
+    {
+      "id": "ececf40a-642d-4ce0-ae62-823520b3466a",
+      "set_code": "THS",
+      "collector_number": "71",
+      "name": "Triton Tactics",
+      "scryfall_id": "ef2609e3-ec28-4a41-884e-3d10be5e31b4"
+    },
+    {
+      "id": "e8a997dc-cb14-4f0c-a38b-e29108109f72",
+      "set_code": "THS",
+      "collector_number": "72",
+      "name": "Vaporkin",
+      "scryfall_id": "09b661a5-359b-4f21-b1b6-aa0988810b4d"
+    },
+    {
+      "id": "66f6049c-3ea0-4543-b489-45deadd3477e",
+      "set_code": "THS",
+      "collector_number": "73",
+      "name": "Voyage's End",
+      "scryfall_id": "3992ae67-ad0b-40be-a97d-d7fb36754918"
+    },
+    {
+      "id": "1c98dc80-e2da-4015-b12f-9b75c231437c",
+      "set_code": "THS",
+      "collector_number": "74",
+      "name": "Wavecrash Triton",
+      "scryfall_id": "7336ca1e-13ef-4e49-a526-3f285bc339bb"
+    },
+    {
+      "id": "2c7ef61c-43b2-402a-9b00-b81a53eddc76",
+      "set_code": "THS",
+      "collector_number": "75",
+      "name": "Abhorrent Overlord",
+      "scryfall_id": "4415d050-7a76-4f8b-bf78-e33dd21fe4f1"
+    },
+    {
+      "id": "ce46b9bb-8a5a-4b01-8653-310fad400148",
+      "set_code": "THS",
+      "collector_number": "76",
+      "name": "Agent of the Fates",
+      "scryfall_id": "ecd59977-8788-417d-ba50-e21b8a636bd3"
+    },
+    {
+      "id": "994738ed-4bc4-4fd8-bdcf-b975ea6cb0ff",
+      "set_code": "THS",
+      "collector_number": "77",
+      "name": "Asphodel Wanderer",
+      "scryfall_id": "675112db-c477-43f4-b755-54162445fb49"
+    },
+    {
+      "id": "d85e491d-6ca0-4477-9c73-3c0952a968e7",
+      "set_code": "THS",
+      "collector_number": "78",
+      "name": "Baleful Eidolon",
+      "scryfall_id": "853a89c6-63f9-4b12-8a5b-2c382e22b226"
+    },
+    {
+      "id": "8b832c70-79d2-44ad-8815-4009694926f6",
+      "set_code": "THS",
+      "collector_number": "79",
+      "name": "Blood-Toll Harpy",
+      "scryfall_id": "d334fc9b-c1f4-411e-8619-a92f1cc4e7db"
+    },
+    {
+      "id": "e704a514-276e-4eae-a267-5f53d092f65d",
+      "set_code": "THS",
+      "collector_number": "80",
+      "name": "Boon of Erebos",
+      "scryfall_id": "4371083b-c300-4464-a7ea-6168db4e345c"
+    },
+    {
+      "id": "f57c4c4c-eaed-4133-9894-2ad3d8c65405",
+      "set_code": "THS",
+      "collector_number": "81",
+      "name": "Cavern Lampad",
+      "scryfall_id": "e340de29-026f-4c76-8cb5-1abfcecbb3b1"
+    },
+    {
+      "id": "91deae88-8970-4bc7-bf2d-f850f858d080",
+      "set_code": "THS",
+      "collector_number": "82",
+      "name": "Cutthroat Maneuver",
+      "scryfall_id": "62497880-64dc-4911-8513-f95b73086136"
+    },
+    {
+      "id": "7a20cdc3-a414-46a6-b5a9-af78cd4d1150",
+      "set_code": "THS",
+      "collector_number": "83",
+      "name": "Dark Betrayal",
+      "scryfall_id": "56adf4ea-1b1c-4737-8574-1848ca47d4f3"
+    },
+    {
+      "id": "7835b772-6f3d-485e-90d3-631ad3ab2ff5",
+      "set_code": "THS",
+      "collector_number": "84",
+      "name": "Disciple of Phenax",
+      "scryfall_id": "81c1137c-1cbd-4918-9d1c-a9d2bd88562e"
+    },
+    {
+      "id": "1a62bb0f-b7fb-477f-a86e-80ab40ccdadc",
+      "set_code": "THS",
+      "collector_number": "85",
+      "name": "Erebos, God of the Dead",
+      "scryfall_id": "d0787e1f-0b75-44ab-a8fd-90358906a787"
+    },
+    {
+      "id": "46a5d4fe-ef4c-4555-91ae-06bfe74c7fbf",
+      "set_code": "THS",
+      "collector_number": "86",
+      "name": "Erebos's Emissary",
+      "scryfall_id": "5aa96f63-d5c3-47d3-a54d-a67883406fc5"
+    },
+    {
+      "id": "5a6efc20-9238-407a-9bd6-014197d3935c",
+      "set_code": "THS",
+      "collector_number": "87",
+      "name": "Felhide Minotaur",
+      "scryfall_id": "b4e424de-81be-4f90-a7a2-4102c8ba8989"
+    },
+    {
+      "id": "4ad8148c-7b11-42cd-9017-26fe0446296b",
+      "set_code": "THS",
+      "collector_number": "88",
+      "name": "Fleshmad Steed",
+      "scryfall_id": "378c5ba0-bf4f-43d5-b371-0991db5a2e32"
+    },
+    {
+      "id": "751de851-14df-45bf-84bf-5bd4f37f33fc",
+      "set_code": "THS",
+      "collector_number": "89",
+      "name": "Gray Merchant of Asphodel",
+      "scryfall_id": "b06078ce-f534-4e16-9a70-d51620a33eb2"
+    },
+    {
+      "id": "b570147a-837d-4b96-9568-6726c0524cde",
+      "set_code": "THS",
+      "collector_number": "90",
+      "name": "Hero's Downfall",
+      "scryfall_id": "596822f6-dbd4-4cc8-aa50-9331ff42544e"
+    },
+    {
+      "id": "fb6f999f-dd0a-4bb0-8779-1e8295bc7f62",
+      "set_code": "THS",
+      "collector_number": "91",
+      "name": "Hythonia the Cruel",
+      "scryfall_id": "a9fbc814-4281-4ac6-a844-68bcd848f229"
+    },
+    {
+      "id": "a7c980c2-cb1c-45eb-af49-f126d9dcafbd",
+      "set_code": "THS",
+      "collector_number": "92",
+      "name": "Insatiable Harpy",
+      "scryfall_id": "1439ed8d-ae11-4159-9420-5d98c6cc93b3"
+    },
+    {
+      "id": "370d18c1-f3d7-4eed-9684-cd236d438f82",
+      "set_code": "THS",
+      "collector_number": "93",
+      "name": "Keepsake Gorgon",
+      "scryfall_id": "ac988f7b-9a10-4b48-8215-50376dc8678c"
+    },
+    {
+      "id": "c244ccb1-9188-4c4b-93fb-8eea8fd6273d",
+      "set_code": "THS",
+      "collector_number": "94",
+      "name": "Lash of the Whip",
+      "scryfall_id": "ba32cf1f-375c-4cc5-9963-c4f9510e3b39"
+    },
+    {
+      "id": "e3e2b6e2-ef63-4fe7-9b68-4672c0499868",
+      "set_code": "THS",
+      "collector_number": "95",
+      "name": "Loathsome Catoblepas",
+      "scryfall_id": "4a8cff2f-ba52-4d22-83e8-13c56368f1df"
+    },
+    {
+      "id": "ad828b0a-60f5-4e73-9b0a-22f015e1735d",
+      "set_code": "THS",
+      "collector_number": "96",
+      "name": "March of the Returned",
+      "scryfall_id": "983f7521-16e3-4057-a482-7d86392daa57"
+    },
+    {
+      "id": "5411019a-6bea-4a55-bec3-c8417c2f5f6b",
+      "set_code": "THS",
+      "collector_number": "97",
+      "name": "Mogis's Marauder",
+      "scryfall_id": "9dfd36c5-a484-4973-873c-b6a433da8e7a"
+    },
+    {
+      "id": "235f0402-b3e4-41af-943b-0eec7cf62301",
+      "set_code": "THS",
+      "collector_number": "98",
+      "name": "Nighthowler",
+      "scryfall_id": "2527a490-6c56-41ba-949c-c78905a128ba"
+    },
+    {
+      "id": "f2d01b22-e320-401b-9f86-31d784d9c39a",
+      "set_code": "THS",
+      "collector_number": "99",
+      "name": "Ordeal of Erebos",
+      "scryfall_id": "9e02ddba-fdc1-4d7b-89eb-00a0417f8963"
+    },
+    {
+      "id": "60c9f8f2-e902-4b80-acec-2360488358d9",
+      "set_code": "THS",
+      "collector_number": "100",
+      "name": "Pharika's Cure",
+      "scryfall_id": "c0efc963-5848-44eb-a654-c08b5bd4501d"
+    },
+    {
+      "id": "e6fcb928-a7aa-4d1c-b271-f98f9f32971e",
+      "set_code": "THS",
+      "collector_number": "101",
+      "name": "Read the Bones",
+      "scryfall_id": "dbbdbf1a-2d15-4291-aa19-614f854d8cb3"
+    },
+    {
+      "id": "19826f76-b6c0-4e3c-b114-33e8868dbe1a",
+      "set_code": "THS",
+      "collector_number": "102",
+      "name": "Rescue from the Underworld",
+      "scryfall_id": "2e46aa9c-7a29-4eb4-bc44-a201c22824d2"
+    },
+    {
+      "id": "1069ffef-da2a-4581-908b-df100ec9fbf6",
+      "set_code": "THS",
+      "collector_number": "103",
+      "name": "Returned Centaur",
+      "scryfall_id": "1067cf71-a270-4b1b-aa06-0ec0e732ed16"
+    },
+    {
+      "id": "3a307320-e996-48e5-bad4-2204233febb1",
+      "set_code": "THS",
+      "collector_number": "104",
+      "name": "Returned Phalanx",
+      "scryfall_id": "93613e23-b363-4bcb-8f63-8f1d25f7f174"
+    },
+    {
+      "id": "99716157-5a61-4112-8ca3-143a13975ca4",
+      "set_code": "THS",
+      "collector_number": "105",
+      "name": "Scourgemark",
+      "scryfall_id": "ed36a150-a686-4fa6-8364-8be262ad7d98"
+    },
+    {
+      "id": "bd2c5fd4-547e-401d-bfa5-462008f56901",
+      "set_code": "THS",
+      "collector_number": "106",
+      "name": "Sip of Hemlock",
+      "scryfall_id": "22051427-9b2a-4571-8c9f-ee84d8d0e4d1"
+    },
+    {
+      "id": "55561b6d-59e7-4a22-89ae-ee143a736ba0",
+      "set_code": "THS",
+      "collector_number": "107",
+      "name": "Thoughtseize",
+      "scryfall_id": "65b7275a-5305-42e6-b5c3-8b88568b4e28"
+    },
+    {
+      "id": "a62071f9-1f92-44c0-9d2c-1ad20fb45641",
+      "set_code": "THS",
+      "collector_number": "108",
+      "name": "Tormented Hero",
+      "scryfall_id": "c101cf1b-cedf-4b74-9e3c-35f9a8695a8f"
+    },
+    {
+      "id": "38e0ebd7-dcf4-4da1-8924-e67d450e7d04",
+      "set_code": "THS",
+      "collector_number": "109",
+      "name": "Viper's Kiss",
+      "scryfall_id": "0906ebfc-4756-4caf-83ff-859e181f3bef"
+    },
+    {
+      "id": "a901ff74-8d40-4c9d-b159-eb1acadd1725",
+      "set_code": "THS",
+      "collector_number": "110",
+      "name": "Whip of Erebos",
+      "scryfall_id": "9e5ec47c-47a2-4eda-b81a-4a07f04e5989"
+    },
+    {
+      "id": "8a6b8e99-9a03-4126-9f31-8b889cc9a777",
+      "set_code": "THS",
+      "collector_number": "111",
+      "name": "Akroan Crusader",
+      "scryfall_id": "a47c50d9-11ec-486b-a5ce-5a6b70858f30"
+    },
+    {
+      "id": "f9d77698-efd4-43f2-bc07-315602191e24",
+      "set_code": "THS",
+      "collector_number": "112",
+      "name": "Anger of the Gods",
+      "scryfall_id": "90795891-5e67-47c0-8d52-a5e5c5a9ef81"
+    },
+    {
+      "id": "0d9fa4de-e9a8-4201-bf32-43ff3509c20a",
+      "set_code": "THS",
+      "collector_number": "113",
+      "name": "Arena Athlete",
+      "scryfall_id": "e201d9e6-d611-4dc4-b665-9062b449f859"
+    },
+    {
+      "id": "459fb67c-8770-468a-9430-33087bbda155",
+      "set_code": "THS",
+      "collector_number": "114",
+      "name": "Borderland Minotaur",
+      "scryfall_id": "9c7f6eb2-feae-4dc9-a009-0ad60f89a592"
+    },
+    {
+      "id": "9f0418fb-d10c-4e4b-a97f-fc439a6c6328",
+      "set_code": "THS",
+      "collector_number": "115",
+      "name": "Boulderfall",
+      "scryfall_id": "66470bac-cce0-4e79-82f9-9fb77aa950eb"
+    },
+    {
+      "id": "1f443479-29cf-47eb-bb99-e155f426bd31",
+      "set_code": "THS",
+      "collector_number": "116",
+      "name": "Coordinated Assault",
+      "scryfall_id": "6c29f484-5f4b-4d29-846f-192425ab7fe3"
+    },
+    {
+      "id": "6f5ba1c6-0398-4bfd-8bda-04ffdd8f6cfd",
+      "set_code": "THS",
+      "collector_number": "117",
+      "name": "Deathbellow Raider",
+      "scryfall_id": "b29fc64e-297e-4e10-8f4e-289dc1c3ebfd"
+    },
+    {
+      "id": "f6396b00-26e3-4bd1-9833-473562770058",
+      "set_code": "THS",
+      "collector_number": "118",
+      "name": "Demolish",
+      "scryfall_id": "4a2446dd-d70f-4fdd-87d0-d402ba35d044"
+    },
+    {
+      "id": "c03bafda-e504-428b-9b32-219f6d15e46a",
+      "set_code": "THS",
+      "collector_number": "119",
+      "name": "Dragon Mantle",
+      "scryfall_id": "d97b1080-9001-4751-b2f5-7f56d9f58dff"
+    },
+    {
+      "id": "10d1108e-e09b-40eb-9510-65b36eaf6daf",
+      "set_code": "THS",
+      "collector_number": "120",
+      "name": "Ember Swallower",
+      "scryfall_id": "e2715851-9def-42a0-bed4-0923e599e19a"
+    },
+    {
+      "id": "d6d728fa-1edf-4aeb-961e-aa1ae7089af7",
+      "set_code": "THS",
+      "collector_number": "121",
+      "name": "Fanatic of Mogis",
+      "scryfall_id": "581eaadb-442b-40c9-b8f9-9e19d5eba824"
+    },
+    {
+      "id": "31717414-d9fe-495c-92b7-384639dc428f",
+      "set_code": "THS",
+      "collector_number": "122",
+      "name": "Firedrinker Satyr",
+      "scryfall_id": "683eaf5a-2f43-477f-b212-70ca5fe04f13"
+    },
+    {
+      "id": "9df73140-2a10-4e70-8c3d-340891b9bfa2",
+      "set_code": "THS",
+      "collector_number": "123",
+      "name": "Flamespeaker Adept",
+      "scryfall_id": "b84b90b6-71e2-429e-9853-50bcbd6538db"
+    },
+    {
+      "id": "133c2e0e-0afb-430f-9a16-907ce192b660",
+      "set_code": "THS",
+      "collector_number": "124",
+      "name": "Hammer of Purphoros",
+      "scryfall_id": "3f867f61-676e-40b3-8e22-e60d0606c733"
+    },
+    {
+      "id": "278fe5c6-c787-45a3-a404-20fa76dbb56a",
+      "set_code": "THS",
+      "collector_number": "125",
+      "name": "Ill-Tempered Cyclops",
+      "scryfall_id": "d1f7f757-31ac-43e6-8be0-c5948d478d2f"
+    },
+    {
+      "id": "72781d5a-1320-4b97-b3df-0ed05587640d",
+      "set_code": "THS",
+      "collector_number": "126",
+      "name": "Labyrinth Champion",
+      "scryfall_id": "3f86d035-a86d-4c2a-a19d-3b90e0f9ff0f"
+    },
+    {
+      "id": "8bd91ea2-484b-41b3-a5f8-24713f1f82ec",
+      "set_code": "THS",
+      "collector_number": "127",
+      "name": "Lightning Strike",
+      "scryfall_id": "bbb03f2e-2b92-4aa1-afae-301ed5d151d3"
+    },
+    {
+      "id": "3dee682b-d041-4ed6-988e-b5ee5ae2be8c",
+      "set_code": "THS",
+      "collector_number": "128",
+      "name": "Magma Jet",
+      "scryfall_id": "8b0686b0-27a2-46bc-bc04-717f368d9a78"
+    },
+    {
+      "id": "e4e2b06f-a2c3-4151-b0d5-df8b55a50dff",
+      "set_code": "THS",
+      "collector_number": "129",
+      "name": "Messenger's Speed",
+      "scryfall_id": "93d7f033-217f-4fb3-a57b-e32291257ec8"
+    },
+    {
+      "id": "3f6e226a-1112-4cb8-84a5-c293fcfe161b",
+      "set_code": "THS",
+      "collector_number": "130",
+      "name": "Minotaur Skullcleaver",
+      "scryfall_id": "6854c913-d4bd-42f7-901c-f3c25be5c4b2"
+    },
+    {
+      "id": "835f680a-1c98-4d84-829e-bf1d790b3a54",
+      "set_code": "THS",
+      "collector_number": "131",
+      "name": "Ordeal of Purphoros",
+      "scryfall_id": "efb74ccc-5ae5-4437-a0b4-c621ab4c2257"
+    },
+    {
+      "id": "891987c6-c72c-429d-b8f2-6f70b6eedf66",
+      "set_code": "THS",
+      "collector_number": "132",
+      "name": "Peak Eruption",
+      "scryfall_id": "ed0a00f7-aee0-4ab2-bab6-bc0949176a7a"
+    },
+    {
+      "id": "1bc439bb-f28a-4c62-b278-b10dbcddfb74",
+      "set_code": "THS",
+      "collector_number": "133",
+      "name": "Portent of Betrayal",
+      "scryfall_id": "9fcdf4df-1900-427b-998f-957754ce1b75"
+    },
+    {
+      "id": "cefa0afb-0b23-487e-851a-bcf87956ec4f",
+      "set_code": "THS",
+      "collector_number": "134",
+      "name": "Priest of Iroas",
+      "scryfall_id": "013ec9f5-8bf3-4067-a942-d535d011af82"
+    },
+    {
+      "id": "5cdc7aa8-2868-44b3-80b1-0b76838a633e",
+      "set_code": "THS",
+      "collector_number": "135",
+      "name": "Purphoros, God of the Forge",
+      "scryfall_id": "7bf6baf2-d20b-467d-8929-abefcf7dfa99"
+    },
+    {
+      "id": "cb369ca5-62fb-4521-b93f-3a0107dd1f42",
+      "set_code": "THS",
+      "collector_number": "136",
+      "name": "Purphoros's Emissary",
+      "scryfall_id": "4d4ddc30-844c-4860-b394-d3c807c31162"
+    },
+    {
+      "id": "89699ecc-9677-4f6c-8baa-d60360940a0e",
+      "set_code": "THS",
+      "collector_number": "137",
+      "name": "Rage of Purphoros",
+      "scryfall_id": "1e249f31-cc67-4d0c-9db5-962d10cf74ca"
+    },
+    {
+      "id": "2adf2a7a-e271-4d3e-a0cc-fe36a0cc3be0",
+      "set_code": "THS",
+      "collector_number": "138",
+      "name": "Rageblood Shaman",
+      "scryfall_id": "ffaa31fd-5ba5-49d4-90b6-fafb9f1a8b3a"
+    },
+    {
+      "id": "29374cd6-6f46-46a8-a9ca-9178eed0d263",
+      "set_code": "THS",
+      "collector_number": "139",
+      "name": "Satyr Rambler",
+      "scryfall_id": "fabccddd-c0ea-45a5-bebc-d8f858242a2a"
+    },
+    {
+      "id": "d4035d6f-4d80-4634-a24e-da0e6877f52e",
+      "set_code": "THS",
+      "collector_number": "140",
+      "name": "Spark Jolt",
+      "scryfall_id": "6ee479c2-a115-450b-bc2e-b03d23b82f2d"
+    },
+    {
+      "id": "6c7a1650-8005-4cc0-937d-9b5a7de48b43",
+      "set_code": "THS",
+      "collector_number": "141",
+      "name": "Spearpoint Oread",
+      "scryfall_id": "22d9d241-74b8-4b40-b4b7-b8584012d482"
+    },
+    {
+      "id": "77540a7b-8c07-4b39-aaab-b636ba82a907",
+      "set_code": "THS",
+      "collector_number": "142",
+      "name": "Stoneshock Giant",
+      "scryfall_id": "3d890801-5ffa-48af-959f-72e5f371fc61"
+    },
+    {
+      "id": "4655ffcc-f289-4364-8600-111aae6e084f",
+      "set_code": "THS",
+      "collector_number": "143",
+      "name": "Stormbreath Dragon",
+      "scryfall_id": "471979de-f569-444a-8651-12d7e726949a"
+    },
+    {
+      "id": "f6a0d6fd-f83d-4215-8a7d-09bb4c62cc0f",
+      "set_code": "THS",
+      "collector_number": "144",
+      "name": "Titan of Eternal Fire",
+      "scryfall_id": "eeb8e4df-930c-4fb1-9258-184ff6c415d0"
+    },
+    {
+      "id": "f2897d7a-a08c-4bfb-9891-daf2b20354c1",
+      "set_code": "THS",
+      "collector_number": "145",
+      "name": "Titan's Strength",
+      "scryfall_id": "3db6ee53-c5e6-4344-9f35-084cd8cc9cd3"
+    },
+    {
+      "id": "3d2d2739-7a19-48a8-a800-996982429ad3",
+      "set_code": "THS",
+      "collector_number": "146",
+      "name": "Two-Headed Cerberus",
+      "scryfall_id": "f8d2f75c-ef2a-4d30-86d1-c47307fc47ac"
+    },
+    {
+      "id": "100d0cf5-88f4-40e1-b80b-edcca1e4453a",
+      "set_code": "THS",
+      "collector_number": "147",
+      "name": "Wild Celebrants",
+      "scryfall_id": "e7ab4e29-44c7-431a-ba11-b2f4f9c75ab1"
+    },
+    {
+      "id": "0eab676e-d4cd-4ff6-ab25-f0360a51401d",
+      "set_code": "THS",
+      "collector_number": "148",
+      "name": "Agent of Horizons",
+      "scryfall_id": "cc08576f-1d48-4db4-9bb9-e039f75c98b8"
+    },
+    {
+      "id": "1875a65f-5b68-408d-b4f1-65d37dcf90ad",
+      "set_code": "THS",
+      "collector_number": "149",
+      "name": "Anthousa, Setessan Hero",
+      "scryfall_id": "ca89e4d4-185d-4a08-b7af-03f6eff38ba3"
+    },
+    {
+      "id": "280d2a57-43f3-43ec-bcc7-b0aa9bf715d3",
+      "set_code": "THS",
+      "collector_number": "150",
+      "name": "Arbor Colossus",
+      "scryfall_id": "dfbd7c65-ebe5-47a6-8d2f-9a8c63a30a7b"
+    },
+    {
+      "id": "514f1e6f-6219-40a1-9ba6-998f7a1b8fbd",
+      "set_code": "THS",
+      "collector_number": "151",
+      "name": "Artisan's Sorrow",
+      "scryfall_id": "b4f38f7e-2369-48c9-9121-4b13c29ea869"
+    },
+    {
+      "id": "f64d6e4b-149c-4057-8aa1-285057a18e18",
+      "set_code": "THS",
+      "collector_number": "152",
+      "name": "Boon Satyr",
+      "scryfall_id": "f50c12c4-5565-449a-b30e-7cd896da7735"
+    },
+    {
+      "id": "7512afbc-321e-4cdc-9e0a-6157e9af88cf",
+      "set_code": "THS",
+      "collector_number": "153",
+      "name": "Bow of Nylea",
+      "scryfall_id": "89a2c408-e953-4386-abaf-4af85aba9620"
+    },
+    {
+      "id": "0b09d90a-e720-4d4c-9b53-4a0c53c52404",
+      "set_code": "THS",
+      "collector_number": "154",
+      "name": "Centaur Battlemaster",
+      "scryfall_id": "2975a0b4-7436-4588-8f79-c001a291c459"
+    },
+    {
+      "id": "7cd609a8-3167-4bd5-80da-df1f2dacdbb8",
+      "set_code": "THS",
+      "collector_number": "155",
+      "name": "Commune with the Gods",
+      "scryfall_id": "e101ae5f-c3ea-4788-b27f-d9452234eaef"
+    },
+    {
+      "id": "45c569a4-e96d-4726-bc3d-d92cde6157c4",
+      "set_code": "THS",
+      "collector_number": "156",
+      "name": "Defend the Hearth",
+      "scryfall_id": "c3e4c4c3-db3c-49d4-8080-1c93470f8b4d"
+    },
+    {
+      "id": "7b1975b1-8a2a-4e76-838a-4185479025bb",
+      "set_code": "THS",
+      "collector_number": "157",
+      "name": "Fade into Antiquity",
+      "scryfall_id": "e43e46a6-f7de-482a-a386-73932d1d9002"
+    },
+    {
+      "id": "392909a8-e927-41dd-8662-2c0772522213",
+      "set_code": "THS",
+      "collector_number": "158",
+      "name": "Feral Invocation",
+      "scryfall_id": "5c1f15a2-0058-4188-9696-385fa6974bd4"
+    },
+    {
+      "id": "0f3f2972-e787-41f2-8572-23671e990ceb",
+      "set_code": "THS",
+      "collector_number": "159",
+      "name": "Hunt the Hunter",
+      "scryfall_id": "61d4899f-11a4-4a2c-a499-3a447b792f86"
+    },
+    {
+      "id": "55534656-e367-4fa6-8295-e8da33a7da8a",
+      "set_code": "THS",
+      "collector_number": "160",
+      "name": "Karametra's Acolyte",
+      "scryfall_id": "374a1b7c-ce11-4734-aff2-b0bd00857fad"
+    },
+    {
+      "id": "e4ed0108-6c09-416a-bc39-08ddb885d685",
+      "set_code": "THS",
+      "collector_number": "161",
+      "name": "Leafcrown Dryad",
+      "scryfall_id": "8202e426-ad91-4d2e-9373-7a829b58fff5"
+    },
+    {
+      "id": "4108cb55-b5df-4a77-b706-77f69e4ceaf3",
+      "set_code": "THS",
+      "collector_number": "162",
+      "name": "Mistcutter Hydra",
+      "scryfall_id": "3c844ed7-8ed2-4a39-9134-e14e476ab0c4"
+    },
+    {
+      "id": "3c02825c-c973-4e96-a58f-7b082d07fcc3",
+      "set_code": "THS",
+      "collector_number": "163",
+      "name": "Nemesis of Mortals",
+      "scryfall_id": "c4010889-1d7a-4db3-a27c-c39baa024765"
+    },
+    {
+      "id": "dd031c23-ea85-410d-9b2e-7140990d0e05",
+      "set_code": "THS",
+      "collector_number": "164",
+      "name": "Nessian Asp",
+      "scryfall_id": "2d922596-4c2d-47fd-8c28-0e62972effbf"
+    },
+    {
+      "id": "99de9259-b6f3-4dc6-a33f-a9aa17fc2305",
+      "set_code": "THS",
+      "collector_number": "165",
+      "name": "Nessian Courser",
+      "scryfall_id": "4697f3aa-abde-4379-af82-f30115f59be0"
+    },
+    {
+      "id": "518fe84d-610b-47ec-9814-65bd350b1cc2",
+      "set_code": "THS",
+      "collector_number": "166",
+      "name": "Nylea, God of the Hunt",
+      "scryfall_id": "f185a734-a32a-4244-88e8-dabafbfd064f"
+    },
+    {
+      "id": "49549523-ca5e-4ef6-9a4c-78e68e2c900f",
+      "set_code": "THS",
+      "collector_number": "167",
+      "name": "Nylea's Disciple",
+      "scryfall_id": "365d716a-1435-48ac-b85f-2cceca1056dd"
+    },
+    {
+      "id": "73b83613-b4e2-4ff8-bdcf-bdea5386050d",
+      "set_code": "THS",
+      "collector_number": "168",
+      "name": "Nylea's Emissary",
+      "scryfall_id": "2f133775-09b3-4df4-a97f-0df75809b724"
+    },
+    {
+      "id": "4dfca61d-182c-4ee1-a5d1-db90bc1795a5",
+      "set_code": "THS",
+      "collector_number": "169",
+      "name": "Nylea's Presence",
+      "scryfall_id": "e68f1fd4-1a2f-405b-a592-6c4af6214eae"
+    },
+    {
+      "id": "031c55a0-d5b1-4ad0-995d-8d88f24655ff",
+      "set_code": "THS",
+      "collector_number": "170",
+      "name": "Ordeal of Nylea",
+      "scryfall_id": "e5c48950-c246-47ad-94e1-bf42a62c2fe7"
+    },
+    {
+      "id": "8ecb4c17-a25b-48e6-9a30-163f798e8dfd",
+      "set_code": "THS",
+      "collector_number": "171",
+      "name": "Pheres-Band Centaurs",
+      "scryfall_id": "2168fcf4-cf87-4ab8-9710-6ec672750a9a"
+    },
+    {
+      "id": "dc5b79b8-d4c6-437b-9853-9436ba95e8b2",
+      "set_code": "THS",
+      "collector_number": "172",
+      "name": "Polukranos, World Eater",
+      "scryfall_id": "4979cc1b-9c1a-47e4-ae37-7c41798eb89a"
+    },
+    {
+      "id": "a2977766-ac04-45e1-a24e-b7fd28a02486",
+      "set_code": "THS",
+      "collector_number": "173",
+      "name": "Reverent Hunter",
+      "scryfall_id": "97b4e736-d19a-42ac-8bcb-b8e6b7b7b539"
+    },
+    {
+      "id": "d44068b8-773d-447b-b643-00f6ae8c7a54",
+      "set_code": "THS",
+      "collector_number": "174",
+      "name": "Satyr Hedonist",
+      "scryfall_id": "88c67e15-833c-406a-b75f-8de97fbacf5a"
+    },
+    {
+      "id": "6c841c90-a8a6-4b86-bb9d-b1c28ff92a6e",
+      "set_code": "THS",
+      "collector_number": "175",
+      "name": "Satyr Piper",
+      "scryfall_id": "e244c4d0-2c30-4a56-94bb-0fff9ffe4a6a"
+    },
+    {
+      "id": "0acf8665-3c04-44f8-a538-86fb21da09e0",
+      "set_code": "THS",
+      "collector_number": "176",
+      "name": "Savage Surge",
+      "scryfall_id": "5916d5e7-0825-4d72-82e4-1e4c86d1fafe"
+    },
+    {
+      "id": "dbc64f4b-1c09-4c2b-acfc-7d356992cdc0",
+      "set_code": "THS",
+      "collector_number": "177",
+      "name": "Sedge Scorpion",
+      "scryfall_id": "66733fcb-fddc-4c15-bc51-c2cd42ac5a70"
+    },
+    {
+      "id": "9ca9b827-5346-4726-8022-5174a60d80a9",
+      "set_code": "THS",
+      "collector_number": "178",
+      "name": "Shredding Winds",
+      "scryfall_id": "33f36143-85b6-412c-8c79-053728b45c25"
+    },
+    {
+      "id": "10632b3a-6459-4384-905c-3586bb102af7",
+      "set_code": "THS",
+      "collector_number": "179",
+      "name": "Staunch-Hearted Warrior",
+      "scryfall_id": "3485eb83-f83c-4776-b164-abd72f3c9547"
+    },
+    {
+      "id": "4d6dfbe8-6458-40ce-beb1-141c7fe0b657",
+      "set_code": "THS",
+      "collector_number": "180",
+      "name": "Sylvan Caryatid",
+      "scryfall_id": "d40b65c1-b24d-492d-81b9-d8474ebdc08c"
+    },
+    {
+      "id": "e5995265-d1f0-4060-8d6d-7f4ec87141bd",
+      "set_code": "THS",
+      "collector_number": "181",
+      "name": "Time to Feed",
+      "scryfall_id": "799d08a6-d978-4731-98ad-38acd57f3196"
+    },
+    {
+      "id": "6e9f6759-42f5-422d-bc9d-61bdf9cce9d6",
+      "set_code": "THS",
+      "collector_number": "182",
+      "name": "Voyaging Satyr",
+      "scryfall_id": "155ae6c0-5085-45f1-ba9f-508d501fee2c"
+    },
+    {
+      "id": "e039a34d-20e9-484b-ab31-d288ffaae45d",
+      "set_code": "THS",
+      "collector_number": "183",
+      "name": "Vulpine Goliath",
+      "scryfall_id": "cdacb147-35ce-4751-961e-576b5f958048"
+    },
+    {
+      "id": "9dd5838c-f232-4fb0-8ceb-d98118625ee4",
+      "set_code": "THS",
+      "collector_number": "184",
+      "name": "Warriors' Lesson",
+      "scryfall_id": "63f7e81a-6f9e-4cad-a911-fba7a431cd55"
+    },
+    {
+      "id": "be30f832-98c6-4bf3-87c4-0fb92bac30f6",
+      "set_code": "THS",
+      "collector_number": "185",
+      "name": "Akroan Hoplite",
+      "scryfall_id": "695ccac5-c87e-49af-9131-8f1730e84bc0"
+    },
+    {
+      "id": "a6b6297f-b7ca-4590-a6f6-4a41442d3be8",
+      "set_code": "THS",
+      "collector_number": "186",
+      "name": "Anax and Cymede",
+      "scryfall_id": "63cb977e-bd42-43b1-83d1-124e7a413aca"
+    },
+    {
+      "id": "142cf133-01db-4ef8-8855-0cdd3dfa971d",
+      "set_code": "THS",
+      "collector_number": "187",
+      "name": "Ashen Rider",
+      "scryfall_id": "602e43b1-1b1c-4eb1-be0a-61b673646c6f"
+    },
+    {
+      "id": "a9a2c024-3e4b-4314-84d7-b8c4d7e35ded",
+      "set_code": "THS",
+      "collector_number": "188",
+      "name": "Ashiok, Nightmare Weaver",
+      "scryfall_id": "599c3c9f-dfb7-4357-9d9c-9a1a4616b103"
+    },
+    {
+      "id": "4b7b4fe6-0ba3-4900-9a74-9e88419d0523",
+      "set_code": "THS",
+      "collector_number": "189",
+      "name": "Battlewise Hoplite",
+      "scryfall_id": "4c929a57-2c23-4bbf-b265-666630a4fde8"
+    },
+    {
+      "id": "262ef80b-e2a8-4af1-9067-e86f016d9f41",
+      "set_code": "THS",
+      "collector_number": "190",
+      "name": "Chronicler of Heroes",
+      "scryfall_id": "de1cbee6-61f4-40f0-86fe-93831a0b87d8"
+    },
+    {
+      "id": "54799b21-61c1-46a9-962c-37a056c4e45d",
+      "set_code": "THS",
+      "collector_number": "191",
+      "name": "Daxos of Meletis",
+      "scryfall_id": "6bb68644-e99d-4ecb-a804-8d4ad1c3325d"
+    },
+    {
+      "id": "c5e25967-26c0-4622-af7f-6956df164efb",
+      "set_code": "THS",
+      "collector_number": "192",
+      "name": "Destructive Revelry",
+      "scryfall_id": "798af7cb-645f-4526-8a19-6e4595b93964"
+    },
+    {
+      "id": "c4dd4edb-cab2-4f8a-9c26-112a12adfeee",
+      "set_code": "THS",
+      "collector_number": "193",
+      "name": "Fleecemane Lion",
+      "scryfall_id": "622d6c46-82bb-4a97-abe6-b388def44bda"
+    },
+    {
+      "id": "709cc712-d873-46c5-a96f-9f5577be0630",
+      "set_code": "THS",
+      "collector_number": "194",
+      "name": "Horizon Chimera",
+      "scryfall_id": "73b0e296-d556-4e76-bb2e-5a640e070bb5"
+    },
+    {
+      "id": "0128daff-e744-41b0-8e09-a47df02e09db",
+      "set_code": "THS",
+      "collector_number": "195",
+      "name": "Kragma Warcaller",
+      "scryfall_id": "78791fc6-054f-45eb-b8b0-28f2512d72b6"
+    },
+    {
+      "id": "73b6538e-655f-4ac3-adf6-6d1ef7cb1e2f",
+      "set_code": "THS",
+      "collector_number": "196",
+      "name": "Medomai the Ageless",
+      "scryfall_id": "b5f4b3cf-2c78-42c9-9873-3758c7f7bb7d"
+    },
+    {
+      "id": "d68cfcc0-c4b3-4b30-abf9-b6eb8fdb450c",
+      "set_code": "THS",
+      "collector_number": "197",
+      "name": "Pharika's Mender",
+      "scryfall_id": "f3dcd1ce-717c-431a-9895-f7701d276743"
+    },
+    {
+      "id": "fc1e4e4c-37f7-4b0d-9765-37247867ccd9",
+      "set_code": "THS",
+      "collector_number": "198",
+      "name": "Polis Crusher",
+      "scryfall_id": "80874006-d057-49b8-981c-1d685ad1474b"
+    },
+    {
+      "id": "fbb4719a-1a21-4364-930d-a413f9cdd66a",
+      "set_code": "THS",
+      "collector_number": "199",
+      "name": "Prophet of Kruphix",
+      "scryfall_id": "45de923f-fdab-460c-96f4-f62aefa9ad73"
+    },
+    {
+      "id": "4e500836-648c-4e72-8916-4ddff0b53da4",
+      "set_code": "THS",
+      "collector_number": "200",
+      "name": "Psychic Intrusion",
+      "scryfall_id": "2b6e1d03-ad24-4bde-ab3c-28f94e776a4e"
+    },
+    {
+      "id": "56b5cd99-9192-4d58-b8e3-8d693b28e6c8",
+      "set_code": "THS",
+      "collector_number": "201",
+      "name": "Reaper of the Wilds",
+      "scryfall_id": "34d6c78f-b868-4171-b231-4dee45cfa6e0"
+    },
+    {
+      "id": "7af93033-7e68-4277-8eae-b5e6f2755ea2",
+      "set_code": "THS",
+      "collector_number": "202",
+      "name": "Sentry of the Underworld",
+      "scryfall_id": "018a9c98-1cb4-4c53-a765-c15808c4ab44"
+    },
+    {
+      "id": "e7723fdf-1bc4-4786-830b-038302c6530f",
+      "set_code": "THS",
+      "collector_number": "203",
+      "name": "Shipwreck Singer",
+      "scryfall_id": "13ad0c03-66d9-4fe3-bc0d-ca67d959c285"
+    },
+    {
+      "id": "bd1595fb-b5bb-4bef-add1-4f86175a6781",
+      "set_code": "THS",
+      "collector_number": "204",
+      "name": "Spellheart Chimera",
+      "scryfall_id": "0a19670c-5afa-4e22-b3ff-258faca19556"
+    },
+    {
+      "id": "47e98179-d62c-4e80-993c-e7caed73d1c7",
+      "set_code": "THS",
+      "collector_number": "205",
+      "name": "Steam Augury",
+      "scryfall_id": "6eb69801-b574-4b5f-82e7-8fd34cdadf74"
+    },
+    {
+      "id": "005ab976-e5fd-4fa2-8c35-f5328b6413ee",
+      "set_code": "THS",
+      "collector_number": "206",
+      "name": "Triad of Fates",
+      "scryfall_id": "588a8f90-4344-4882-9671-4c7295186a58"
+    },
+    {
+      "id": "61411198-bca1-463e-aa35-b5ec84d47770",
+      "set_code": "THS",
+      "collector_number": "207",
+      "name": "Tymaret, the Murder King",
+      "scryfall_id": "4c4ce848-a57d-4e88-8093-9fb1408523bc"
+    },
+    {
+      "id": "979a4abb-4264-49df-adc2-e31e24345fb9",
+      "set_code": "THS",
+      "collector_number": "208",
+      "name": "Underworld Cerberus",
+      "scryfall_id": "3a078c3d-88db-4459-9667-ce610ae2f660"
+    },
+    {
+      "id": "84ed5c1f-7990-4058-bb69-629dca5adcd1",
+      "set_code": "THS",
+      "collector_number": "209",
+      "name": "Xenagos, the Reveler",
+      "scryfall_id": "3aecfe99-9c4b-4087-84ee-fb208fd22820"
+    },
+    {
+      "id": "5654e05c-b43c-4dc0-8a10-836fef77a455",
+      "set_code": "THS",
+      "collector_number": "210",
+      "name": "Akroan Horse",
+      "scryfall_id": "ec95a60f-5164-47f9-9430-11b114c87815"
+    },
+    {
+      "id": "8353a1ec-5a02-4404-9382-f08b02c21d0b",
+      "set_code": "THS",
+      "collector_number": "211",
+      "name": "Anvilwrought Raptor",
+      "scryfall_id": "76330494-ce39-444e-b5da-8905bcccb8ad"
+    },
+    {
+      "id": "9815ea4b-42ff-4f48-a0eb-90121dd6607d",
+      "set_code": "THS",
+      "collector_number": "212",
+      "name": "Bronze Sable",
+      "scryfall_id": "ba7e563d-964c-4afd-9e21-9d400f8719d4"
+    },
+    {
+      "id": "d8345e6e-041c-4621-8cab-94c5c0d06ffb",
+      "set_code": "THS",
+      "collector_number": "213",
+      "name": "Burnished Hart",
+      "scryfall_id": "772cbcba-9efa-4894-9b57-e73fd296333d"
+    },
+    {
+      "id": "4567f086-7409-42fe-b215-b0783dbc63e5",
+      "set_code": "THS",
+      "collector_number": "214",
+      "name": "Colossus of Akros",
+      "scryfall_id": "3e394ffe-7460-4c59-a403-e9404b0d10c1"
+    },
+    {
+      "id": "bb6d8c23-e828-49e0-9410-83f10b206d6b",
+      "set_code": "THS",
+      "collector_number": "215",
+      "name": "Flamecast Wheel",
+      "scryfall_id": "5cfa31c9-5a11-4366-9063-056a659f3d0d"
+    },
+    {
+      "id": "5a7af50f-e272-4937-be84-b3c1028bb06e",
+      "set_code": "THS",
+      "collector_number": "216",
+      "name": "Fleetfeather Sandals",
+      "scryfall_id": "2222f499-09f9-45a6-8255-9de79df76f1c"
+    },
+    {
+      "id": "780b6795-644a-4fad-91bb-4f9b202e1040",
+      "set_code": "THS",
+      "collector_number": "217",
+      "name": "Guardians of Meletis",
+      "scryfall_id": "85284586-7a9d-4344-aebd-f0e072c1f266"
+    },
+    {
+      "id": "108915a1-72c5-4c45-a39e-cfa23693ce01",
+      "set_code": "THS",
+      "collector_number": "218",
+      "name": "Opaline Unicorn",
+      "scryfall_id": "cfba304c-9cb8-4d5c-b70d-b7f61a365977"
+    },
+    {
+      "id": "3bc20350-ef30-41d4-a922-b5012ea0b21d",
+      "set_code": "THS",
+      "collector_number": "219",
+      "name": "Prowler's Helm",
+      "scryfall_id": "c100a22c-bf34-42b7-9339-4733698c0935"
+    },
+    {
+      "id": "b9b61c8f-9312-4389-bed4-d4912fd6c550",
+      "set_code": "THS",
+      "collector_number": "220",
+      "name": "Pyxis of Pandemonium",
+      "scryfall_id": "dbc6a246-f32a-4dc0-9785-4038804f372f"
+    },
+    {
+      "id": "07741f90-e092-4638-a7e8-47a27a469761",
+      "set_code": "THS",
+      "collector_number": "221",
+      "name": "Traveler's Amulet",
+      "scryfall_id": "245a683f-280e-405c-aa2a-dfabb78dc34e"
+    },
+    {
+      "id": "bfd3c66d-30ec-4f3f-ba29-053e2ddd3914",
+      "set_code": "THS",
+      "collector_number": "222",
+      "name": "Witches' Eye",
+      "scryfall_id": "6d989daa-78eb-4120-81b5-7866a7b04590"
+    },
+    {
+      "id": "5bd78c40-743a-4718-b4e4-bc0fd01ee0a2",
+      "set_code": "THS",
+      "collector_number": "223",
+      "name": "Nykthos, Shrine to Nyx",
+      "scryfall_id": "834b27a0-dfd7-4f96-8cde-cacac4b24acc"
+    },
+    {
+      "id": "93b5f362-9949-4473-b6de-614edb205b6b",
+      "set_code": "THS",
+      "collector_number": "224",
+      "name": "Temple of Abandon",
+      "scryfall_id": "46febc5d-1625-4e48-bb3f-31ee06fc13dd"
+    },
+    {
+      "id": "4477a3c9-6ae7-4efa-b132-32e5be629128",
+      "set_code": "THS",
+      "collector_number": "225",
+      "name": "Temple of Deceit",
+      "scryfall_id": "686559d7-8ac1-496b-a5a6-1467bf8fc7c5"
+    },
+    {
+      "id": "6da6ed4d-3418-46ec-b127-a871cbf9791c",
+      "set_code": "THS",
+      "collector_number": "226",
+      "name": "Temple of Mystery",
+      "scryfall_id": "2f66945b-3e64-498a-9478-5f96a61d4ec7"
+    },
+    {
+      "id": "528fc2ef-df9c-4f88-b950-b09949fc48cc",
+      "set_code": "THS",
+      "collector_number": "227",
+      "name": "Temple of Silence",
+      "scryfall_id": "0f14b6b3-5f40-4328-a3be-28fe32dd7cb1"
+    },
+    {
+      "id": "f37c4cf7-5543-4eff-a905-e5afe25aff4f",
+      "set_code": "THS",
+      "collector_number": "228",
+      "name": "Temple of Triumph",
+      "scryfall_id": "4f53049c-2491-4d20-aa19-00eb5c55b438"
+    },
+    {
+      "id": "039d1ef7-5960-4463-a74d-4962cfb2485c",
+      "set_code": "THS",
+      "collector_number": "229",
+      "name": "Unknown Shores",
+      "scryfall_id": "fff118a5-765b-4ba1-8f12-ce6f24b2459b"
+    },
+    {
+      "id": "a37578fc-b0b6-4db7-ac21-5c3a06c22cf3",
+      "set_code": "THS",
+      "collector_number": "230",
+      "name": "Plains",
+      "scryfall_id": "18013a78-d156-42bf-89b7-72e7070872c0"
+    },
+    {
+      "id": "2dab8cdb-8896-4c9c-bd78-65d808cd1a2e",
+      "set_code": "THS",
+      "collector_number": "231",
+      "name": "Plains",
+      "scryfall_id": "e891d622-9369-4eeb-b7e2-183c60ec54d2"
+    },
+    {
+      "id": "f29c1f69-8a10-4e43-9ad6-bd2f09e210db",
+      "set_code": "THS",
+      "collector_number": "232",
+      "name": "Plains",
+      "scryfall_id": "2fa4b03f-60f1-441f-8066-8bc13d5637d1"
+    },
+    {
+      "id": "1119e5c4-bb25-4fce-baa8-1f9718bd9585",
+      "set_code": "THS",
+      "collector_number": "233",
+      "name": "Plains",
+      "scryfall_id": "f37db921-ab2a-46db-82c1-1f1abf7a3cf7"
+    },
+    {
+      "id": "bff4360a-67be-49a9-8161-8a41922efc98",
+      "set_code": "THS",
+      "collector_number": "234",
+      "name": "Island",
+      "scryfall_id": "d851b88b-6ce6-4889-83c2-e191307bcee6"
+    },
+    {
+      "id": "fd4b1563-996e-4bc4-836d-6ef59b38c63d",
+      "set_code": "THS",
+      "collector_number": "235",
+      "name": "Island",
+      "scryfall_id": "ac928336-f534-4682-a952-c536a1b14e1e"
+    },
+    {
+      "id": "51590b12-4944-4d0a-bd53-13fe9cb5ce7d",
+      "set_code": "THS",
+      "collector_number": "236",
+      "name": "Island",
+      "scryfall_id": "e9c266e3-d403-434a-b645-dcb9cf441680"
+    },
+    {
+      "id": "c7d57643-03cf-4891-bbba-fcf42ce3b761",
+      "set_code": "THS",
+      "collector_number": "237",
+      "name": "Island",
+      "scryfall_id": "51852e9d-9183-4f9a-a724-cb60cf677e38"
+    },
+    {
+      "id": "0a8c5312-14c0-4b2f-a123-af7980d2342d",
+      "set_code": "THS",
+      "collector_number": "238",
+      "name": "Swamp",
+      "scryfall_id": "8b153bb8-f9d9-44dc-ae19-d0eb2ea26ba1"
+    },
+    {
+      "id": "1770933c-961d-41aa-9339-a720e1682399",
+      "set_code": "THS",
+      "collector_number": "239",
+      "name": "Swamp",
+      "scryfall_id": "bfc9f472-c410-4595-b08d-87c115b9148d"
+    },
+    {
+      "id": "d7e99b39-3b1b-4f3b-b6e5-f591eda8ae51",
+      "set_code": "THS",
+      "collector_number": "240",
+      "name": "Swamp",
+      "scryfall_id": "e49a9a01-46fb-4e9d-8e7d-5f2c267ab1f9"
+    },
+    {
+      "id": "d3c53666-98a6-45e5-a018-edbde64eb03c",
+      "set_code": "THS",
+      "collector_number": "241",
+      "name": "Swamp",
+      "scryfall_id": "81047292-e537-47b5-acfa-ed839707109c"
+    },
+    {
+      "id": "3b6badaa-c888-4681-b891-9a9ded377a5e",
+      "set_code": "THS",
+      "collector_number": "242",
+      "name": "Mountain",
+      "scryfall_id": "e78801a7-af8c-4f1d-b29e-7a36676b6818"
+    },
+    {
+      "id": "80530d4a-5762-491b-8b19-fe758e9bd1e0",
+      "set_code": "THS",
+      "collector_number": "243",
+      "name": "Mountain",
+      "scryfall_id": "fc0a5a9c-e59a-4e33-b584-d6daa7f81547"
+    },
+    {
+      "id": "22c18d55-bb08-4494-bcbf-a591b7f1011a",
+      "set_code": "THS",
+      "collector_number": "244",
+      "name": "Mountain",
+      "scryfall_id": "3a7245d4-7a29-4423-8b44-5e9694e1d9a1"
+    },
+    {
+      "id": "85b6309c-3a45-40e1-ae7e-dddcfa4044f3",
+      "set_code": "THS",
+      "collector_number": "245",
+      "name": "Mountain",
+      "scryfall_id": "29557b92-fded-4aa8-8db7-99168c8e70d8"
+    },
+    {
+      "id": "3bbcd098-1237-4979-8f0f-c1cdaab2cf53",
+      "set_code": "THS",
+      "collector_number": "246",
+      "name": "Forest",
+      "scryfall_id": "ddfd1469-94b9-4964-ada6-4fb43b0b9282"
+    },
+    {
+      "id": "1c329403-f1d1-4676-81a7-c5731613ecbc",
+      "set_code": "THS",
+      "collector_number": "247",
+      "name": "Forest",
+      "scryfall_id": "b3a37f57-5d3e-488e-a909-f53bd4c2576b"
+    },
+    {
+      "id": "9458dcb7-af84-462f-9dba-a87a0216a050",
+      "set_code": "THS",
+      "collector_number": "248",
+      "name": "Forest",
+      "scryfall_id": "f13b34d7-e2a6-4cbc-9d5f-b6fe05a1c701"
+    },
+    {
+      "id": "0c29b1a0-fedb-4192-abd6-7272655c651c",
+      "set_code": "THS",
+      "collector_number": "249",
+      "name": "Forest",
+      "scryfall_id": "7a80d346-84e3-4eaf-9635-09da472475d8"
+    }
+  ]
+}
