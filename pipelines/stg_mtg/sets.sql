@@ -12,7 +12,7 @@ USING parquet
 AS
 SELECT
     COALESCE(rc.id, uuid()) AS id,
-    sf.code AS code,
+    UPPER(sf.code) AS code,
     sf.name AS name,
     sf.id AS scryfall_id
 FROM

@@ -46,7 +46,7 @@ def sink_sets(spark: SparkSession, sets_dir: pathlib.Path):
     """
     df = spark.sql(query)
     for row in df.toLocalIterator():
-        filename = f"{row.code.upper()}_{slugify(row.name)}.json"
+        filename = f"{row.code}_{slugify(row.name)}.json"
         row_dict = row.asDict()
 
         filepath = sets_dir / filename
