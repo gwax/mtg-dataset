@@ -6,14 +6,16 @@
  *  `tablename`: the name of the table to create
  *  `input_file`: the path to the jsonlines file to ingest
  */
+
 CREATE TEMPORARY VIEW input_data
 USING json
 OPTIONS (
     path "${input_file}"
 );
 
+DROP TABLE IF EXISTS ${dbname}.${tablename};
 CREATE TABLE ${dbname}.${tablename}
 USING parquet
 AS SELECT * FROM input_data;
 
-SELECT * FROM ${dbname}.${tablename} LIMIT 10;
+SELECT * FROM ${dbname}.${tablename} LIMIT 10

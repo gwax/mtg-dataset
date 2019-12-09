@@ -13,7 +13,7 @@ db = $(call dbpath,$(dbname))
 
 # Create transform tables
 transforms := $(patsubst %.sql,%,$(wildcard *.sql))
-$(db)/%: %.sql | $(db)
+$(db)/%: %.sql $(warehouse_dir)/src_mtg | $(db)
 	$(spark_sql) \
 		--define dbname="$(dbname)" \
 		--define tablename="$(notdir $@)" \

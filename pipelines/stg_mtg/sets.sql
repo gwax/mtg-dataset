@@ -5,6 +5,8 @@
  *  `dbname`: database to create the table under
  *  `tablename`: the name of the sets table to create
  */
+
+DROP TABLE IF EXISTS ${dbname}.${tablename};
 CREATE TABLE ${dbname}.${tablename}
 USING parquet
 AS
@@ -18,4 +20,4 @@ FROM
     FULL OUTER JOIN src_mtg.raw_scryfall_sets AS sf
         ON rc.scryfall_id = sf.id;
 
-SELECT * FROM ${dbname}.${tablename} LIMIT 10;
+SELECT * FROM ${dbname}.${tablename} LIMIT 10
