@@ -14,7 +14,6 @@ $(re_build_dir) $(jsonl_dir):
 	mkdir -p $@
 
 # Hash input data every time and only run downstream if changed to avoid downstream cycles
-FORCE:
 $(re_build_dir)/%.md5: $(canonical_json)/% FORCE | $(re_build_dir)
 	find $< -type f -print0 | \
 		sort -z | \
@@ -46,3 +45,7 @@ clean:
 all: sets cards
 .PHONY: all
 .DEFAULT_GOAL = all
+
+# Meta targets
+FORCE:
+.PHONY: FORCE

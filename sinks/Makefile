@@ -1,35 +1,52 @@
 include ../config.mk
 
+# Options
+.SECONDEXPANSION:
+
 # Input paths
+input_tables = $(warehouse_dir)/stg_mtg
 sets_table_dir = $(warehouse_dir)/stg_mtg/sets
 cards_table_dir = $(warehouse_dir)/stg_mtg/cards
 
 # Output paths
-canonical_json_dir = $(root_dir)/canonical_json
-sunk_data_dir = $(root_dir)/sunk_data
+canonical_data_dir = $(root_dir)/canonical_json
+sunk_data_dir = $(build_dir)/sunk_data
+
+$(sunk_data_dir):
+	mkdir -p $@
+
+# Sinks
+sinks := $(patsubst sink_%.py,%,$(wildcard sink_*.py))
+$(sunk_data_dir)/%: sink_%.py $(input_tables) | $(sunk_data_dir)
+	-rm -r $@
+	$(spark_submit) $< $@
 
 # Canonical json
-$(canonical_json_dir): json_split.py $(sets_table_dir) $(cards_table_dir)
-	-rm -r $@
-	$(spark_submit) $< $@
+canonical_sink = json_split
+$(sunk_data_dir)/canonical.txt: FORCE | $(sunk_data_dir)
+	if [ "$$(cat $@ 2>/dev/null)" != "$(canonical_sink)" ]; then \
+		echo "$(canonical_sink)" > $@; \
+	fi
 
-# Sunk data
-sets_nested_dir = $(sunk_data_dir)/json_sets
-$(sets_nested_dir): json_nested.py $(sets_table_dir) $(cards_table_dir)
+$(canonical_data_dir): $(sunk_data_dir)/$(canonical_sink) $(sunk_data_dir)/canonical.txt
 	-rm -r $@
-	$(spark_submit) $< $@
+	cp -r $< $@
 
 # Readable named targets
-canonical_json: $(canonical_json_dir)
-.PHONY: canonical_json
+$(sinks): $$(sunk_data_dir)/$$@
+.PHONY: $(sinks)
 
-json_nested: $(sets_nested_dir)
-.PHONY: json_nested
+canonical_data: $(canonical_data_dir)
+.PHONY: canonical_data
 
 clean:
 	-rm -r $(sunk_data_dir)
 .PHONY: clean
 
-all: canonical_json json_nested
+all: $(sinks) canonical_data
 .PHONY: all
 .DEFAULT_GOAL = all
+
+# Meta targets
+FORCE:
+.PHONY: FORCE
