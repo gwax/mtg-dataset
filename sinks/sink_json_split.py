@@ -53,7 +53,8 @@ def sink_sets(spark: SparkSession, sets_dir: pathlib.Path):
         if filepath.exists():
             raise Exception(f"Cannot write duplicate {filepath}")
         with filepath.open("wt") as row_file:
-            json.dump(row_dict, row_file, indent=4, sort_keys=True)
+            json.dump(row_dict, row_file, indent=2, sort_keys=True)
+            row_file.write("\n")
 
 
 def sink_cards(spark: SparkSession, cards_dir: pathlib.Path):

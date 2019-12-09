@@ -4,7 +4,7 @@ import argparse
 import json
 import pathlib
 import string
-from typing import Tuple, Any, Dict
+from typing import Tuple
 
 from pyspark.sql import SparkSession
 from pyspark.sql.types import Row
@@ -66,6 +66,7 @@ def sink(spark: SparkSession, outdir: pathlib.Path) -> None:
 
         with filepath.open("wt") as set_file:
             json.dump(row_dict, set_file, indent=2)
+            set_file.write("\n")
 
 
 def get_args() -> argparse.Namespace:
