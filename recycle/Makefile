@@ -4,7 +4,7 @@ include ../config.mk
 .SECONDEXPANSION:
 
 # Input paths
-canonical_json = $(root_dir)/canonical_json
+canonical_data = $(root_dir)/canonical_data
 
 # Output paths
 re_build_dir = $(build_dir)/recycle
@@ -14,8 +14,9 @@ $(re_build_dir) $(jsonl_dir):
 	mkdir -p $@
 
 # Hash input data every time and only run downstream if changed to avoid downstream cycles
-$(re_build_dir)/%.md5: $(canonical_json)/% FORCE | $(re_build_dir)
-	find $< -type f -print0 | \
+canonical_md5 = $(re_build_dir)/canonical_data.md5
+$(canonical_md5): FORCE | $(re_build_dir)
+	find $(canonical_data) -type f -print0 | \
 		sort -z | \
 		xargs -0 md5sum | \
 		md5sum \
@@ -25,24 +26,29 @@ $(re_build_dir)/%.md5: $(canonical_json)/% FORCE | $(re_build_dir)
 	fi
 	rm $@.new
 
-# Recycle json to jsonlines
-$(jsonl_dir)/%.jsonlines: $(re_build_dir)/%.md5 | $(jsonl_dir)
-	find $(patsubst $(jsonl_dir)/%.jsonlines,$(canonical_json)/%,$@) \
-		-name '*.json' -type f -print0 | \
+# Recycle canonical json to jsonlines
+# Queries
+cards_jq = '.cards[]'
+sets_jq = 'del(.cards)'
+# Rules
+query_types = cards sets
+jsonlines_files := $(foreach type,$(query_types),$(jsonl_dir)/$(type).jsonlines)
+$(jsonlines_files): $(canonical_md5) | $(jsonl_dir)
+	find $(canonical_data) -name '*.json' -type f -print0 | \
 		sort -z | \
-		xargs -0 jq '.' -c \
+		xargs -0 jq $($(patsubst $(jsonl_dir)/%.jsonlines,%,$@)_jq) -c \
 		> $@
 
 # Readable named targets
-sets cards: $(re_build_dir)/$$@.md5 $(jsonl_dir)/$$@.jsonlines
-.PHONY: sets cards
+$(query_types): $(jsonl_dir)/$$@.jsonlines
+.PHONY: $(query_types)
 
 clean:
 	-rm -r $(re_build_dir)
 	-rmdir $(build_dir)
 .PHONY: clean
 
-all: sets cards
+all: $(query_types)
 .PHONY: all
 .DEFAULT_GOAL = all
 
