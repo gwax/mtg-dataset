@@ -2,6 +2,7 @@
 
 # Paths
 common_dir := $(abspath $(dir $(lastword $(MAKEFILE_LIST))))
+schema_dir = $(build_dir)/schemas
 
 # Database table management
 create_db_sql = $(common_dir)/create_db.sql

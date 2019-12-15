@@ -21,3 +21,6 @@ indent_style = tab
 [*.ipynb]
 indent_size = 1
 insert_final_newline = false
+
+[canonical_schemas/*.txt]
+indent_size = 1

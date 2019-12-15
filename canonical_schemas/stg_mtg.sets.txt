@@ -1,0 +1,5 @@
+root
+ |-- id: string (nullable = true)
+ |-- code: string (nullable = true)
+ |-- name: string (nullable = true)
+ |-- scryfall_id: string (nullable = true)

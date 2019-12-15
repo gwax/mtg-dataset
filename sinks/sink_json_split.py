@@ -28,13 +28,6 @@ def pad_collector_number(collector_number: str) -> str:
     return padded.replace("*", "★")
 
 
-def get_args() -> argparse.Namespace:
-    """Get cli arguments."""
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("outdir", help="output directory for json files.")
-    return parser.parse_args()
-
-
 def sink_sets(spark: SparkSession, sets_dir: pathlib.Path) -> None:
     """Sink set data to individual json files."""
     sets_dir.mkdir(parents=True, exist_ok=True)
@@ -80,6 +73,13 @@ def sink_cards(spark: SparkSession, cards_dir: pathlib.Path) -> None:
             raise Exception(f"Cannot write duplicate {filepath}")
         with filepath.open("wt") as row_file:
             json.dump(row_dict, row_file, indent=4, sort_keys=True)
+
+
+def get_args() -> argparse.Namespace:
+    """Get cli arguments."""
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("outdir", help="output directory for json files.")
+    return parser.parse_args()
 
 
 def main() -> None:

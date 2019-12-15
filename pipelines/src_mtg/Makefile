@@ -21,11 +21,11 @@ raw_scryfall_cards_JSONL = $(build_dir)/scryfall/jsonl/cards.jsonlines
 raw_librarities_cards_JSONL = $(build_dir)/librarities/jsonl/cards.jsonlines
 # Raw table target
 $(db)/raw_%: $(raw_table_sql) $$($$(notdir $$@)_JSONL) | $(db)
-	$(spark_sql) \
-		--define dbname="$(dbname)" \
-		--define tablename="$(notdir $@)" \
-		--define input_file="$(word 2, $^)" \
-		-f $<
+	$(table_as_select) \
+		--db="$(dbname)" \
+		--name="$(notdir $@)" \
+		--sqlfile="$<" \
+		input_file="$(word 2, $^)"
 
 # Readable named targets
 raw_tables = \

@@ -13,6 +13,7 @@ cards_table_dir = $(warehouse_dir)/stg_mtg/cards
 
 # Output paths
 canonical_data_dir = $(root_dir)/canonical_data
+canonical_schema_dir = $(root_dir)/canonical_schemas
 sunk_data_dir = $(build_dir)/sunk_data
 
 $(sunk_data_dir):
@@ -34,6 +35,10 @@ $(canonical_data_dir): $(sunk_data_dir)/$(canonical_sink) $(sunk_data_dir)/canon
 	-rm -r $@
 	cp -r $< $@
 
+$(canonical_schema_dir): $(sunk_data_dir)/table_schemas
+	-rm -r $@
+	cp -r $< $@
+
 # Readable named targets
 $(sinks): $$(sunk_data_dir)/$$@
 .PHONY: $(sinks)
@@ -41,11 +46,14 @@ $(sinks): $$(sunk_data_dir)/$$@
 canonical_data: $(canonical_data_dir)
 .PHONY: canonical_data
 
+canonical_schemas: $(canonical_schema_dir)
+.PHONY: canonical_schemas
+
 clean:
 	-rm -r $(sunk_data_dir)
 .PHONY: clean
 
-all: $(sinks) canonical_data
+all: $(sinks) canonical_data canonical_schemas
 .PHONY: all
 .DEFAULT_GOAL = all
 

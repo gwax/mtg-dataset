@@ -18,9 +18,9 @@ schema_dir = $(build_dir)/schemas
 transforms := $(patsubst %.sql,%,$(wildcard *.sql))
 $(db)/%: %.sql $(warehouse_dir)/src_mtg | $(db)
 	$(table_as_select) \
-		--db=$(dbname) \
-		--schema-dir=$(schema_dir) \
-		--sqlfile=$<
+		--db="$(dbname)" \
+		--name="$(notdir $@)" \
+		--sqlfile="$<"
 
 # Readable named targets
 $(transforms): $$(db)/$$@

@@ -1,0 +1,11 @@
+root
+ |-- ARTIST: string (nullable = true)
+ |-- CARDNAME: string (nullable = true)
+ |-- DATE: string (nullable = true)
+ |-- INFO: string (nullable = true)
+ |-- NUM: string (nullable = true)
+ |-- SET: string (nullable = true)
+ |-- SOURCE: string (nullable = true)
+ |-- release_date: string (nullable = true)
+ |-- set_category: string (nullable = true)
+ |-- set_name: string (nullable = true)

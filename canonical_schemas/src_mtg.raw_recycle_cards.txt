@@ -1,0 +1,6 @@
+root
+ |-- collector_number: string (nullable = true)
+ |-- id: string (nullable = true)
+ |-- name: string (nullable = true)
+ |-- scryfall_id: string (nullable = true)
+ |-- set_code: string (nullable = true)
