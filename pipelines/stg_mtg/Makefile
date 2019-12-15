@@ -11,13 +11,16 @@ dbname := $(notdir $(CURDIR))
 $(eval $(call MANAGEDB_template,$(dbname)))
 db = $(call dbpath,$(dbname))
 
+# Output paths
+schema_dir = $(build_dir)/schemas
+
 # Create transform tables
 transforms := $(patsubst %.sql,%,$(wildcard *.sql))
 $(db)/%: %.sql $(warehouse_dir)/src_mtg | $(db)
-	$(spark_sql) \
-		--define dbname="$(dbname)" \
-		--define tablename="$(notdir $@)" \
-		-f $<
+	$(table_as_select) \
+		--db=$(dbname) \
+		--schema-dir=$(schema_dir) \
+		--sqlfile=$<
 
 # Readable named targets
 $(transforms): $$(db)/$$@

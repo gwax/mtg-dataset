@@ -26,3 +26,6 @@ drop_$(1): $$(drop_db_sql)
 		-f $$<
 .PHONY: drop_$(1)
 endef
+
+# Table as select helper program
+table_as_select = $(spark_submit) $(common_dir)/table_as_select.py
