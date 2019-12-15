@@ -1,10 +1,10 @@
 /**
- * Create the cards table.
- *
- * Variables:
- *  `dbname`: database to create the table under
- *  `tablename`: the name of the table to create
- */
+* Create the cards table.
+*
+* Variables:
+*  `dbname`: database to create the table under
+*  `tablename`: the name of the table to create
+**/
 
 DROP TABLE IF EXISTS ${dbname}.${tablename};
 CREATE TABLE ${dbname}.${tablename}

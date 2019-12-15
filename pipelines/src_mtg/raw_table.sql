@@ -1,11 +1,11 @@
 /**
- * Create a raw table from an input jsonlines file.
- *
- * Variables:
- *  `dbname`: database to create the table under
- *  `tablename`: the name of the table to create
- *  `input_file`: the path to the jsonlines file to ingest
- */
+* Create a raw table from an input jsonlines file.
+*
+* Variables:
+*  `dbname`: database to create the table under
+*  `tablename`: the name of the table to create
+*  `input_file`: the path to the jsonlines file to ingest
+**/
 
 CREATE TEMPORARY VIEW input_data
 USING json

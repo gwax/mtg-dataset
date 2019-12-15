@@ -1,8 +1,12 @@
 """Scraper for magic librarities english card information."""
 
 import datetime as dt
-from scrapy.spiders import CrawlSpider, Rule
+from typing import Any, Dict, Generator, Optional
+
+from parsel.selector import Selector
+from scrapy.http import TextResponse
 from scrapy.linkextractors import LinkExtractor
+from scrapy.spiders import CrawlSpider, Rule
 
 DATE_FORMATS = [
     # (length, format)
@@ -12,7 +16,7 @@ DATE_FORMATS = [
 ]
 
 
-def parse_card_date(datestr):
+def parse_card_date(datestr: str) -> Optional[dt.date]:
     """Attempt multiple date formats to convert from DATE to date()."""
     for length, date_format in DATE_FORMATS:
         try:
@@ -23,7 +27,7 @@ def parse_card_date(datestr):
 
 
 class MagicLibraritiesSpider(CrawlSpider):
-    """Scrapy spider for extacting cards from Magic Librarities."""
+    """Scrapy spider for extracting cards from Magic Librarities."""
 
     name = "librarities"
     allowed_domains = ["magiclibrarities.net"]
@@ -36,7 +40,7 @@ class MagicLibraritiesSpider(CrawlSpider):
     ]
 
     @staticmethod
-    def parse_set(response):
+    def parse_set(response: TextResponse) -> Generator[Dict[str, Any], None, None]:
         """Parse a set page into individual cards."""
         set_name = response.xpath('//span[@class="t12g"]/text()').get()
         set_tables = response.xpath('//tr[@class="tabeg"]/..')
@@ -53,14 +57,15 @@ class MagicLibraritiesSpider(CrawlSpider):
                 card = dict(zip(column_names, cells))
                 if not card.get("CARDNAME"):
                     continue
+                release_date = parse_card_date(card.get("DATE", ""))
                 card["set_name"] = set_name
                 card["set_category"] = set_category
-                card["release_date"] = parse_card_date(card.get("DATE", ""))
+                card["release_date"] = "" if release_date is None else str(release_date)
                 yield card
 
 
-def get_cell_text(cell):
-    """Extract text elements from a cell, strip whitespace, and join by linebreak."""
-    vals = (text.get().strip() for text in cell.xpath('.//text()'))
+def get_cell_text(cell: Selector) -> str:
+    """Extract text elements from a cell, strip whitespace, and join by line break."""
+    vals = (text.get().strip() for text in cell.xpath(".//text()"))
     vals = (v for v in vals if v)
-    return '\n'.join(vals)
+    return "\n".join(vals)
